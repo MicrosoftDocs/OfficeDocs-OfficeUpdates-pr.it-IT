@@ -29,240 +29,240 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ## <a name="version-1511-december-11"></a>Versione 1511: 11 dicembre
 *Versione 1511 (Build 6366.2036)*
 
-### <a name="excel-feature-updates"></a>Excel: Aggiornamenti alle funzionalità
+### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
 -   **Modelli di Business Intelligence:** Tre nuovi modelli che sfruttano di business intelligence (BI) funzionalità di Excel: [Sui concetti di calendario](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [Analisi Stock](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d) [Cassa personali](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi dove trascinare il quadratino di riempimento di una cella formattata con un numero come una data estesa a causa di Excel per arresto anomalo del sistema.
--   Risolvere problemi in cui la creazione di una tabella pivot o grafico pivot da una connessione dati e inseriti in un nuovo foglio causa Excel arresto anomalo del sistema.
--   Risolvere problemi di cui i pulsanti di filtro per un grafico pivot non sono visibili quando è presente alcun filtro in campi della tabella pivot sottostanti.
--   Risolvere problemi di cui il modello di dati è perso durante la chiusura di Excel prima del salvataggio quando è presente una cartella di lavoro personale macro nascosta.
--   Risolvere problemi di cui la modifica di un foglio di lavoro con un grafico treemap in una versione precedente di Excel 2016 che è stata creata in fa sì che il grafico treemap la perdita dei dati.
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale, quando si trascina il quadratino di riempimento di una cella formattata con data estesa, Excel si arresta in modo anomalo.
+-   Consente di risolvere un problema a causa del quale, quando si crea una tabella o un grafico pivot da una connessione dati e la si inserisce in un nuovo foglio, Excel si blocca in modo anomalo.
+-   Consente di risolvere un problema a causa del quale i pulsanti di filtro di un grafico pivot non vengono visualizzati nei campi della tabella pivot sottostante.
+-   Consente di risolvere un problema a causa del quale viene perduto il modello di dati se si chiude Excel prima di salvare. Questa situazione si verifica in presenza di una cartella macro personale nascosta.
+-   Consente di risolvere un problema a causa del quale vengono perduti i dati di un grafico ad albero, quando quest'ultimo è presente in un foglio di lavoro che viene modificato in una versione precedente a Excel 2016.
 
 ### <a name="onenote-feature-updates"></a>OneNote: Aggiornamenti delle funzionalità
--   **Video online Inserisci:** Inserimento di video su YouTube, OfficeMix o Vimeo in una pagina. [Ulteriori informazioni](https://support.office.com/article/0a862f29-665c-43a5-9dd8-68009423cf7c)
+-   **Inserimento di video online:** incorporare video di YouTube, Vimeo o OfficeMix in una pagina. [Ulteriori informazioni](https://support.office.com/article/0a862f29-665c-43a5-9dd8-68009423cf7c)
 
-### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti Non correlati alla sicurezza
--   Risolvere i problemi con Office 365 Business, in cui si tenta di utilizzare OneNote con SharePoint risultati in un messaggio di errore che indica agli utenti che dispongono di eseguire l'aggiornamento a una versione diversa di Office.
+### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema con Office 365 Business, in seguito al quale, quando si tenta di utilizzare OneNote con SharePoint, viene visualizzato un messaggio di errore che indica agli utenti che devono eseguire l'aggiornamento a una versione diversa di Office.
 
-### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti alle funzionalità
--   **Persiano:** Aggiungere un calendario principale o alternativo persiano.
+### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
+-   **Calendario persiano:** aggiungere il calendario persiano come calendario principale o alternativo.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi dove trascinare la barra di scorrimento nell'elenco dei messaggi, nell'elenco passare alla fine dell'elenco.
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale, quando si trascina la barra di scorrimento in un elenco di messaggi, viene visualizzata la fine di tale elenco.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti alle funzionalità
--   **Modificare transizione:** Creare agevole transizioni tra le diapositive e portare in primo piano del movimento, presentazioni e trasferire in modo più efficiente le informazioni e concetti. [Ulteriori informazioni](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
--   **PowerPoint Designer:** Un nuovo servizio che consente di richiedere il contenuto e generare automaticamente un'ampia gamma di idee che è possibile scegliere tra per rendere le diapositive migliori. [Ulteriori informazioni](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
+-   **Transizione morphing:** consente di creare transizioni continue tra diapositive e di inserire movimenti nelle presentazioni, al fine di enfatizzare concetti e informazioni. [Ulteriori informazioni](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
+-   **PowerPoint Designer:** un nuovo servizio che consente di generare varie idee a partire da un contenuto. Tali idee possono essere usate per migliorare l'aspetto delle diapositive. [Ulteriori informazioni](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
     Questo servizio richiede la connessione a Internet. Per disabilitare questa funzionalità, [utilizzare i file di modelli amministrativi di criteri di gruppo più recenti](https://www.microsoft.com/download/details.aspx?id=49030) e attivare l'impostazione di opzioni di progettazione di PowerPoint. È possibile trovare questa impostazione in configurazione utente\\modelli amministrativi\\Microsoft Office 2016\\strumenti | Opzioni | Generale | Opzioni dei servizi... \\Designer di PowerPoint.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi in SmartArt con animazioni non viene visualizzata nella sequenza prevista nella visualizzazione presentazione con visualizzazione relatore.
--   Risolvere problemi dove numero spostamento chiave non funziona nella visualizzazione presentazione.
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
+-   Consente di risolvere un problema a causa del quale le animazioni degli elementi SmartArt non vengono visualizzate nella sequenza prevista in modalità Presentazione con visualizzazione Relatore.
+-   Consente di risolvere un problema a causa del quale lo spostamento tramite tasto numerico non funziona in visualizzazione Presentazione.
 
-### <a name="visio-non-security-updates"></a>Visio: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi dove vengono visualizzate approssimazione file AutoCAD visualizzati in Visio.
+### <a name="visio-non-security-updates"></a>Visio: Aggiornamenti non relativi alla sicurezza
+-   Consente di risolvere un problema a causa del quale i file AutoCAD visualizzati in Visio appaiono sfocati.
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi di cui non è possibile salvare documenti in una raccolta documenti che dispone di una colonna necessaria.
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale non è possibile salvare i documenti in una raccolta che dispone di una colonna obbligatoria.
 
-### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: gli aggiornamenti delle funzionalità
--   **Inviare come opzioni**: inviare un documento come allegato o come PDF dal riquadro condivisione in Word o PowerPoint.
+### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: Aggiornamenti delle funzionalità
+-   **Opzioni Invia come**: consente di inviare un documento come allegato o come file PDF dal riquadro di condivisione di Word o PowerPoint.
 -   **Inserisci immagine API**: inserire immagini in Word, Excel o PowerPoint utilizzando il [metodo document.setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) nella libreria office.js comune. L'API JavaScript Word fornisce i metodi specifici dell'host denominati insertInlinePictureFromBase64() per impostare le immagini in linea nel [corpo](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [paragrafo](https://msdn.microsoft.com/library/office/mt598682.aspx)e gli oggetti Range.
 
-### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi di cui le informazioni di data ultima modifica che viene visualizzato quando si esegue un Apri o Salva con nome parte decimale verrà troncate.
--   Risolvere problemi cui fare doppio clic su nel riquadro di testo degli elementi grafici SmartArt fa sì che l'app per arresto anomalo del sistema.
--   Risolvere problemi dove rimane video da riprodurre durante l'installazione su uno schermo nero al termine e fino alla chiusura della finestra di dialogo "Installazione è stata completata".
--   Risolvere problemi in mousing tramite la notifica "Visualizzazione protetta" in un documento protetto provoca la notifica essere nascosto da un pulsante di scorrimento molto ampia.
--   Risolvere problemi di cui viene troncata la notifica che è stata pianificata l'aggiornamento per Office in kazaco e ungherese.
--   Risolvere problemi dove anticipatamente i collegamenti della barra delle applicazioni non vengono rimossi per tutti gli utenti durante un aggiornamento manuale.
--   Risolvere problemi di cui gli errori generati da azioni correlate alla gestione delle licenze durante un aggiornamento automatico lascia l'utente senza un'installazione di Office.
--   Risolvere problemi di cui l'aggiornamento a Office 2016 in un computer Windows 7 OEM cui si è verificato il Kit di preinstallazione Office eseguito nella modalità di controllo determina l'errore 0x80070005 durante l'attivazione.
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
+-   Consente di risolvere un problema a causa del quale vengono troncate le informazioni sulla data di modifica visualizzate durante le operazione Apri o Salva con nome.
+-   Consente di risolvere un problema a causa del quale l'app si arresta in modo anomalo quando si fa doppio clic nel riquadro Testo per gli elementi grafici SmartArt.
+-   Consente di risolvere un problema a causa del quale la schermata di un video in riproduzione durante l'installazione diventa nera finché non viene chiusa la finestra di dialogo "Installazione completata".
+-   Consente di risolvere un problema a causa del quale, quando si passa con il mouse sulla notifica "Visualizzazione protetta" all'interno di un documento protetto, la notifica viene oscurata da un pulsante di scorrimento molto esteso.
+-   Consente di risolvere un problema a causa del quale la notifica relativa a un aggiornamento di Office pianificato viene visualizzata come troncata in lingua kazaca e ungherese.
+-   Consente di risolvere un problema a causa del quale i collegamenti aggiunti alla barra delle applicazioni non vengono rimossi per tutti gli utenti durante un aggiornamento manuale.
+-   Consente di risolvere un problema causato da errori di licenza durante la procedura di aggiornamento automatico, che non consentono all'utente di installare Office.
+-   Consente di risolvere l'errore 0x80070005 durante l'attivazione dell'aggiornamento a Office 2016 su un computer Windows 7 OEM dotato del kit di preinstallazione di Office eseguito in modalità di controllo.
 
 
 ## <a name="version-1509-december-8"></a>Versione 1509: 8 dicembre
 *Versione 1509 (Build 6001.1043)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi dove XPS o immagini create utilizzando il client desktop di Windows vengono visualizzati come una X rossa nei client desktop non Windows, perché tali client non supportano XPS nativa rendering.
+### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale XPS o la stampa creata utilizzando il client desktop di Windows viene visualizzata come un simbolo X rosso nei client desktop differenti da Windows. Ciò si verifica poiché i client non supportano il rendering XPS nativo.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti Non correlati alla sicurezza
--   Risolvere un problema in cui viene creato un segnalibro che si espande su più paragrafi, ma quando si riceve il messaggio di posta elettronica, il primo paragrafo del segnalibro è selezionato quando si utilizza Vai a.
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale un segnalibro creato dall'utente si espande su più paragrafi. Tuttavia, quando si riceve il messaggio di posta elettronica, soltanto il primo paragrafo viene incluso nel segnalibro, quando si seleziona Vai a.
 
-### <a name="skype-for-business-security-updates"></a>Skype per le aziende: aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): aggiornamento di sicurezza per il componente Microsoft grafica risolvere l'esecuzione di codice (3104503)
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): Aggiornamento della sicurezza di Microsoft Graphics Component per risolvere l'esecuzione di codice in modalità remota (3104503)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype per le aziende: aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi di cui non riescono sessioni di condivisione applicazioni, in particolare durante i periodi di traffico bursty.
--   Risolvere un problema che causa Skype for Business per arresto anomalo se è la prima app da avviare dopo l'installazione di Office 2016.
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale non è possibile eseguire la condivisione app, soprattutto durante i periodi con maggiore traffico.
+-   Consente di risolvere un problema a causa del quale Skype for Business si arresta, nel caso in cui viene avviato come prima app in seguito all'installazione di Office 2016.
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 131](https://go.microsoft.com/fwlink/?LinkId=699410): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3116111)
+### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3116111)
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi in un trattino unificatore viene illustrato come un quadrato quando si utilizza alcuni tipi di carattere.
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale un trattino d'unione viene visualizzato come un quadrato quando si utilizza lo stesso tipo di carattere.
 
-### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti Non correlati alla sicurezza
--   Modificare il trasporto predefinito per il download degli aggiornamenti in background dalla cache/bit per HTTP.
--   Risolvere problemi di cui gli errori generati da azioni correlate alla gestione delle licenze durante un aggiornamento automatico lascia l'utente senza un'installazione di Office.
--   Risolvere problemi di cui l'aggiornamento a Office 2016 in un computer Windows 7 OEM cui si è verificato il Kit di preinstallazione Office eseguito nella modalità di controllo determina l'errore 0x80070005 durante l'attivazione.
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
+-   Consente di modificare il metodo di trasporto predefinito per scaricare gli aggiornamenti in background da cache/BITS a HTTP.
+-   Consente di risolvere un problema causato da errori di licenza durante la procedura di aggiornamento automatico, che non consentono all'utente di installare Office.
+-   Consente di risolvere l'errore 0x80070005 durante l'attivazione dell'aggiornamento a Office 2016 su un computer Windows 7 OEM dotato del kit di preinstallazione di Office eseguito in modalità di controllo.
 
 
 
 ## <a name="version-1509-november-10"></a>Versione 1509: Novembre 10
 *Versione 1509 (Build 6001.1038)*
 
-### <a name="access-security-updates"></a>Access: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
+### <a name="access-security-updates"></a>Access: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="excel-security-updates"></a>Excel: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
+### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi di cui la registrazione di una macro per la creazione di una query restituisce un errore di compilazione.
--   Risolvere problemi di cui, dopo l'eliminazione di una colonna nell'Editor di Query, una colonna vuota viene visualizzato alla fine della tabella dopo l'aggiornamento della query.
--   Risolvere problemi di cui si verifica un errore imprevisto quando si sceglie la scheda di grafici sparkline inclusi nell'analisi rapida di una tabella query.
--   Risolvere problemi di cui, dopo aver eseguire una Taglia e Incolla in una tabella query, non è possibile aggiornare la query utilizzando il riquadro delle query di cartella di lavoro.
--   Correzione un problema quando si aggiorna una query, lo stato attivo viene spostato alla finestra della tabella query associata.
--   Rimuovere un riferimento alla Query Power dal messaggio di errore sulle versioni supportate di OData.
--   Risolvere problemi dove funzionalità Power Query vengono visualizzati come disponibile, ma non funziona quando il prodotto non è stato attivato.
--   Aggiornare l'URL per Dotlesscss nel File \> Account \> su Excel.
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale la registrazione di una macro per la creazione di una query genera un errore di compilazione.
+-   Risolvere un problema per il quale, dopo l'eliminazione di una colonna nell'Editor di query, una colonna vuota viene visualizzata alla fine della tabella dopo l'aggiornamento della query.
+-   Risolvere un problema per il quale si verifica un errore quando si sceglie la scheda Grafici sparkline in Analisi rapida di una tabella Query.
+-   Risolvere un problema per il quale, dopo aver eseguito un operazione di copia e incolla in una tabella Query, non è possibile aggiornare la query utilizzando il riquadro Query della cartella di lavoro.
+-   Risolvere un problema per il quale, quando si aggiorna una query, l'elemento attivo viene spostato nel foglio della relativa tabella Query associata.
+-   Consente di rimuovere riferimenti a Power Query dal messaggio di errore relativo alle versioni OData supportate.
+-   Consente di risolvere un problema a causa del quale le funzionalità di Power Query vengono visualizzate come disponibili, ma non funzionano, quando il prodotto non è stato attivato.
+-   Aggiornare l'URL di Dotlesscss in File \> Account \> Informazioni su Excel.
 
-### <a name="onenote-security-updates"></a>OneNote: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
+### <a name="onenote-security-updates"></a>OneNote: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi dove si incolla testo in Outlook non viene visualizzato il testo completo se la quantità del testo incollato è maggiore rispetto all'altezza della finestra.
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema in seguito al quale quando si incolla testo in Outlook, non viene visualizzato il testo completo se la quantità di testo incollata è superiore alla grandezza della finestra.
 
-### <a name="powerpoint-security-updates"></a>PowerPoint: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
+### <a name="powerpoint-security-updates"></a>PowerPoint: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="project-security-updates"></a>Project: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
+### <a name="project-security-updates"></a>Project: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="publisher-security-updates"></a>Publisher: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
+### <a name="publisher-security-updates"></a>Publisher: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="skype-for-business-security-updates"></a>Skype per le aziende: aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
--   Microsoft Security bollettini [MS15 123](https://technet.microsoft.com/library/security/ms15-123): aggiornamento di sicurezza per Skype per le aziende e Microsoft Lync risolvere divulgazione di informazioni (3105872)
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
+-   Bollettino Microsoft sulla sicurezza [MS15-123](https://technet.microsoft.com/library/security/ms15-123): Aggiornamento della sicurezza per Skype for Business e Microsoft Lync per risolvere la divulgazione di informazioni (3105872)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype per le aziende: aggiornamenti Non correlati alla sicurezza
--   Risolvere un problema di rumore audio nei dispositivi con due microfoni di input.
--   Risolvere problemi e dove gli utenti non possono partecipare alle riunioni dopo il ripristino di un computer portatile dalla modalità di sospensione e prima Skype client ha eseguito l'accesso back.
--   Aggiungere il supporto per i messaggi contestuali garantiscono la consapevolezza delle funzionalità per gli utenti.
--   Aggiornare il testo nella finestra di dialogo per indirizzare gli utenti nel percorso corretto nell'interfaccia utente di modificare le impostazioni di accedere all'Audio della riunione.
--   Risolvere i problemi con le notifiche che gli utenti vedere quando verificano entrambe le situazioni di inviare e ricevano problemi di rete.
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema relativo ai disturbi audio nei dispositivi con due microfoni input.
+-   Risolvere un problema per il quale gli utenti non possono partecipare a una riunione dopo il ripristino di un computer portatile dalla modalità sospensione e prima che il client Skype abbia effettuato di nuovo l'accesso.
+-   Aggiungere il supporto per i messaggi contestuali per garantire la conoscenza delle caratteristiche agli utenti.
+-   Aggiornare il testo nella finestra di dialogo Partecipa all'audio della riunione per indirizzare gli utenti al percorso corretto dell'interfaccia utente per modificare le impostazioni.
+-   Risolvere un problema relativo alle notifiche che gli utenti visualizzano quando si verificano problemi di rete durante l'invio e la ricezione.
 
-### <a name="visio-security-updates"></a>Visio: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
+### <a name="visio-security-updates"></a>Visio: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
+### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi dove la numerazione non corrisponde ad tra la visualizzazione di Word e la stampa quando un documento che è impostato su "Riavvia la numerazione di ogni pagina" piè di pagina viene stampato in background.
--   Risolvere i problemi a cui la creazione condivisa in tempo reale non funziona con i file archiviati in OneDrive, tra cui l'utente non verrà visualizzato agli altri utenti come la modifica in tempo reale e non sono disponibili informazioni sulla presenza.
--   Risolvere problemi in Word si blocca durante la creazione condivisa in tempo reale in un documento aperto da SharePoint o OneDrive.
--   Correzione del problema di formattazione che fa sì che le tabelle eseguire il rendering in modo non corretto quando messo a HTML messaggi di posta elettronica in Outlook e la finestra viene ridimensionata.
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema in cui la numerazione delle note a piè di pagina non corrisponde tra la visualizzazione in Word e la stampa quando si stampa in background un documento le cui note a piè di pagina sono impostate su "Riavvia la numerazione a ogni pagina".
+-   Risolvere un problema per il quale la creazione condivisa in tempo reale non funziona con i file archiviati in OneDrive, anche quando l'utente non è visibile agli altri utenti mentre apporta modifiche in tempo reale e quando non sono disponibili informazioni sulla presenza.
+-   Risolvere un problema per il quale Word si arresta in modo anomalo durante la creazione condivisa in tempo reale di un documento aperto da SharePoint o OneDrive.
+-   Risolvere un problema di formattazione che causa il rendering non corretto delle tabelle, quando queste vengono inserite in messaggi di posta elettronici HTML in Outlook e la finestra viene ridimensionata.
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 116](https://technet.microsoft.com/library/security/ms15-116): aggiornamento di sicurezza per Microsoft Office risolvere l'esecuzione di codice (3104540)
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi di cui viene ripetutamente chiesto di accesso di durante il tentativo di aprire i file da SharePoint Online.
--   Risolvere problemi dove anticipatamente i collegamenti della barra delle applicazioni non vengono rimossi per tutti gli utenti durante un aggiornamento manuale.
--   Aggiungere la possibilità per il processo di aggiornamento manuale a portata di clic rilevare quando Outlook è connesso a Exchange Server 2007 o se è installato Business Contact Manager per avvisare gli utenti dei possibili problemi con l'aggiornamento.
--   Verificare le conversazioni per terminare i processi più visibili durante una disinstallazione o l'aggiornamento, poiché queste finestre di dialogo può ottenere nascosta da parte dell'utente dietro App open o altri dell'interfaccia utente.
--   Risolvere problemi di cui un utente non ottenere effettuato l'accesso a un'applicazione di Office automaticamente quando si utilizza un computer in cui viene identificato come viene aggiunto a un dominio e un dominio cloud.
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
+-   Consente di risolvere un problema per il quale all'utente viene richiesto più volte di effettuare l'accesso quando tenta di aprire i file da SharePoint Online.
+-   Risolvere un problema per il quale i collegamenti aggiunti alla barra delle applicazioni non vengono rimossi per tutti gli utenti durante un aggiornamento manuale.
+-   Aggiungere la possibilità per il processo di aggiornamento manuale di A portata di clic di rilevare se Outlook è connesso a Exchange Server 2007 o se Business Contact Manager è installato per avvisare gli utenti di possibili problemi durante l'aggiornamento.
+-   Rendere le finestre di dialogo per terminare i processi più visibili durante una disinstallazione o un aggiornamento, poiché tali finestre possono rimanere nascoste dietro app aperte o altri elementi dell'interfaccia utente.
+-   Consente di risolvere un problema a causa del quale un utente non riesce a eseguire automaticamente l'accesso a un'app di Office quando si utilizza un computer identificato come facente parte di un dominio e di un dominio cloud.
 
 
 
 ## <a name="version-1509-october-21"></a>Versione 1509: 21 ottobre
 *Versione 1509 (Build 6001.1034)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti Non correlati alla sicurezza
--   Risolvere un problema che causa OneNote in modo anomalo quando viene selezionato lo stesso colore per un bordo doppio nella selezione colori.
+### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema che blocca OneNote quando viene selezionato per due volte lo stesso colore per un bordo.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti Non correlati alla sicurezza
--   Risolvere i problemi da un software screen reader solo legge il primo paragrafo di una firma di posta elettronica multi-paragrafo quando si modifica la firma di posta elettronica.
--   Risolvere problemi in cui non è il cursore nella posizione corretta quando si scrive o risposta a un messaggio di posta elettronica.
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale, quando si modifica la firma dei messaggi di posta elettronica, un lettore dello schermo riconosce soltanto il primo paragrafo della firma, anche se comprende più paragrafi.
+-   Consente di risolvere un problema a causa del quale il cursore non si trova in posizione corretta quando si scrive o si risponde a un messaggio di posta elettronica.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype per le aziende: aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi where in condizioni di memoria insufficiente, tenta di visualizzare un desktop condiviso o app comporta la disconnessione e tentativi ripetuti di tornare a partecipare e visualizzare il desktop condiviso o app automaticamente.
--   Risolvere problemi dove, come aumentare del numero di partecipanti, l'esperienza desktop condiviso Ottiene peggio.
--   Risolvere i problemi, quando viene configurata l'autenticazione a più fattori, in cui vengono ricevute istruzioni ripetute per l'autenticazione di telefono nel corso della giornata.
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale, in presenza di memoria insufficiente, il tentativo di visualizzare un'app o un desktop condiviso comporta la disconnessione e l'esecuzione di nuovi tentativi per tornare automaticamente a visualizzare l'app o il desktop condiviso.
+-   Consente di risolvere un problema a causa del quale all'aumentare del numero di partecipanti, diminuisce la qualità della condivisione del desktop.
+-   Consente di risolvere un problema a causa del quale, durante una giornata si ricevono più richieste di autenticazione per il telefono. Questa situazione si verifica in presenza di autenticazione a più fattori.
 
-### <a name="visio-non-security-updates"></a>Visio: Aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi in un oggetto di Word inserito per essere visualizzata come icona è vuoto dopo chiudere e riaprire Visio.
+### <a name="visio-non-security-updates"></a>Visio: Aggiornamenti non relativi alla sicurezza
+-   Consente di risolvere un problema a causa del quale un oggetto Word inserito affinché possa essere visualizzato come icona appare invece vuoto quando viene chiuso e riaperto in Visio.
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti Non correlati alla sicurezza
--   Risolvere i problemi a cui non è disponibile la creazione condivisa e documento può ottenere bloccato quando il documento in SharePoint Server 2013.
--   Risolvere problemi noti docx documenti dove tabella corrisponde visibile anche se il contenuto della tabella è applicato a esso uno stile che include l'opzione nascosto.
--   Risolvere problemi di cui non è possibile salvare i documenti con collegamenti ipertestuali relativi dopo l'esecuzione di una correzione automatica.
--   Risolvere problemi in righe spostarsi durante la modifica di un paragrafo in un documento con rientri mirror.
--   Risolvere problemi di cui la visualizzazione delle linee è coerente durante la modifica quando il posizionamento subpixel è disabilitato.
--   Risolvere problemi dove facendo clic su una finestra popup commento con più commenti in cui la prima occorrenza è contrassegnata come fine causa l'interruzione.
--   Risolvere i problemi con l'interruzione di riga non corretto.
--   Risolvere problemi di cui eseguire una macro che utilizza la funzione TransformDocument in un documento con una casella di testo in un'intestazione o un piè di pagina causa l'interruzione.
--   Risolvere un problema di documenti con estensione docm dove la rimozione di tutti i controlli ActiveX causa errori quando il documento è aperto.
--   Risolvere problemi dove ContentControlOnExit, evento non viene attivato quando si fa clic in un'intestazione.
--   Risolvere problemi di cui tenere traccia delle modifiche Mostra eliminazioni per i revisori con lo stesso nome.
--   Correzione del salvataggio di un problema con la creazione condivisa in tempo reale di documenti configurata per rimuovere informazioni personali dove visualizzano le modifiche come revisioni documento ogni volta.
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema a causa del quale la creazione condivisa non è disponibile e il documento non può essere bloccato quando si lavora in SharePoint Server 2013.
+-   Consente di risolvere un problema dei documenti in formato docx a causa del quale una tabella viene visualizzata anche se il suo contenuto include l'opzione Nascosto.
+-   Consente di risolvere un problema a causa del quale i documenti con collegamenti ipertestuali relativi non possono essere salvati in seguito a una correzione automatica.
+-   Consente di risolvere un problema a causa del quale le righe si spostano durante la modifica del paragrafo di un documento con rientri speculari.
+-   Consente di risolvere un problema a causa del quale la visualizzazione delle righe non è uniforme durante la modifica. Questa situazione si verifica quando il posizionamento dei subpixel è disattivato.
+-   Consente di risolvere un problema a causa del quale l'applicazione si arresta in modo anomalo, se si fa clic su una finestra popup di commento con più commenti e solo il primo è contrassegnato come Completato.
+-   Consente di risolvere un problema relativo a un'interruzione di riga errata.
+-   Consente di risolvere un problema a causa del quale l'applicazione si arresta in modo anomalo, quando si esegue una macro che utilizza la funzione TransformDocument in un documento che include una casella di testo nell'intestazione o nel piè di pagina.
+-   Consente di risolvere un problema relativo ai documenti con formato docm a causa del quale viene visualizzato un errore quando si rimuovono tutti i controlli ActiveX mentre il documento è aperto.
+-   Consente di risolvere un problema a causa del quale l'evento ContentControlOnExit non viene attivato quando si fa clic nell'intestazione.
+-   Consente di risolvere un problema a causa del quale in Revisioni vengono riportate modifiche apportate da revisori con lo stesso nome.
+-   Consente di risolvere un problema relativo alla creazione condivisa in tempo reale di documenti configurati affinché vengano rimosse le informazioni personali. Tale problema comporta che le modifiche vengano visualizzate come revisioni in seguito a ogni salvataggio.
 
-### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti Non correlati alla sicurezza
--   Risolvere problemi in alla prima apertura di un'applicazione di Office dopo l'aggiornamento a 2016 comporta l'applicazione si trova in modalità con funzionalità ridotte e richiede l'app essere riavviato per ottenere funzionalità complete.
--   Risolvere i problemi che eseguono Office con cui condivisi attivazione computer abilitato in un computer che eseguono Servizi Desktop remoto risultati un errore durante l'apertura di un'applicazione, che indica all'utente che è necessario utilizzare un'edizione di Office.
--   Risolvere problemi dove installazione ottiene bloccato circa il 90% completamento.
--   Risolvere problemi di cui i nomi dei prodotti vengono localizzate quando vengono non devono essere.
--   Risolvere problemi dove la descrizione comando sia un suggerimento per indicare "IO" non corrispondono e sono in conflitto con altri suggerimenti sulla barra multifunzione nelle diverse versioni localizzate.
--   Risolvere problemi in Windows viene visualizzata Outlook come una nuova applicazione dopo un aggiornamento da Office 2013 a Office 2016.
--   Risolvere problemi di cui l'aggiornamento a Office 2016 da Office 2013 versione 15.0.4615.1002 (maggio 2014) restituisce un errore 0x80041015.
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
+-   Consente di risolvere un problema a causa del quale, la prima volta che si apre un'app di Office dopo l'aggiornamento alla versione 2016, le sue funzionalità sono ridotte ed è necessario riavviarla per ripristinare la piena funzionalità.
+-   Consente di risolvere un problema a causa del quale l'esecuzione di Office su con attivazione della condivisione computer su un dispositivo che esegue Servizi desktop remoto genera un errore quando si avvia l'app. Tale errore indica all'utente che è necessario utilizzare una versione multilicenza di Office.
+-   Consente di risolvere un problema a causa del quale l'installazione si blocca intorno al 90%.
+-   Consente di risolvere un problema a causa del quale i nomi di prodotto vengono tradotti anche se non dovrebbero.
+-   Consente di risolvere un errore a causa del quale il suggerimento tasto di scelta e la descrizione comando per "Aiutami" non corrispondono e sono in conflitto con altri suggerimenti tasto di scelta di numerose versioni localizzate.
+-   Consente di risolvere un problema a causa del quale Outlook viene visualizzato in Windows come nuova app in seguito all'aggiornamento da Office 2013 a Office 2016.
+-   Consente di risolvere un problema a causa del quale l'aggiornamento dalla versione 15.0.4615.1002 (maggio 2014) di Office 2013 a Office 2016 genera l'errore 0x80041015.
 
 
 
 ## <a name="version-1509-october-5"></a>Versione 1509: Ottobre 5
 *Versione 1509 (Build 4229.1029)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti Non correlati alla sicurezza
--   Risolvere i problemi con Office 365 Business, in cui si tenta di utilizzare OneNote con SharePoint risultati in un messaggio di errore che indica agli utenti che dispongono di eseguire l'aggiornamento a una versione diversa di Office.
--   Risolvere i problemi per 3 Surface Pro in anteprima di registrazione video non viene cosa viene registrato.
+### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
+-   Consente di risolvere un problema con Office 365 Business, per il quale, quando si tenta di utilizzare OneNote con SharePoint, viene visualizzato un messaggio di errore che indica agli utenti che devono eseguire l'aggiornamento a una versione diversa di Office.
+-   Risolvere un problema per Surface Pro 3 per il quale l'anteprima della registrazione dei video non mostra cosa viene registrato.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype per le aziende: aggiornamenti Non correlati alla sicurezza
--   Modificare ciò che un visualizzatore viene visualizzato quando il condivisore blocca la schermata di RDP. Visualizzatore viene ora visualizzato una notifica, anziché l'immagine di pausa RDP.
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
+-   Modificare quanto viene visualizzato in un visualizzatore quando il condivisore blocca lo schermo in RDP. Il visualizzatore visualizza una notifica invece del fermo immagine di RDP.
 
-### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti Non correlati alla sicurezza
--   Risolvere un problema a portata di clic in cui il servizio di Office 2013 Click-to-Run non è stato ripristinato l'aggiornamento automatico di Office 2016 non viene eseguita a causa di un annullamento errore o di un utente.
--   Risolvere i problemi un Click-to-Run quando un errore durante l'aggiornamento automatico di Office 2016 comporta un aggiornamento non riuscito e non è in grado di utilizzare o disinstallare le applicazioni di Office 2013.
--   Correzione del problema di Click-to-Run dove ritentando per l'aggiornamento automatico di Office 2016 dopo il riavvio durante un precedente provare ad aggiornare comporta un errore durante l'aggiornamento e l'impossibilità di arresto.
--   Risolvere un problema a portata di clic in cui l'attività di flusso durante l'installazione non è in grado di ripristinare correttamente se riavvio del computer.
--   Risolvere un problema a portata di clic dove il riavvio durante un aggiornamento manuale di Office 2016 lascia attività in uno stato "esecuzione".
--   Risolvere un problema a portata di clic in avvio di un'applicazione appena installata nel corso di installazione di elaborazione i risultati in una finestra di dialogo "Connessione Internet perdita" visualizzate.
--   Risolvere un problema a portata di clic in finestre app durante l'installazione non sono attivo e non avviare l'applicazione quando gli utenti si fa clic su sezioni app.
--   Risolvere un problema a portata di clic in aggiornamento automatico di un'installazione di sr-latn-cr per Office 2016 non converte il linguaggio client a sr-latn-rs.
--   Risolvere un problema a portata di clic dove aggiornamento automatico si verifica un errore durante la preparazione dell'aggiornamento quando sono presenti più SKU di Office installate nel computer.
--   Risolvere un problema a portata di clic dove vengono visualizzate le finestre di dialogo di errore se viene avviato un aggiornamento manuale durante l'esecuzione di un aggiornamento automatico.
--   Aggiornare i riferimenti a "Aggiuntivi" nell'interfaccia utente di cui non è corretto maiuscole e minuscole del termine del prodotto.
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
+-   Risolvere un problema di A portata di clic, in cui il servizio di Office 2013 A portata di clic non viene ripristinato se non viene completato l'aggiornamento automatico a Office 2016 a causa di un errore o dell'annullamento da parte dell'utente.
+-   Risolvere i problemi di A portata di clic in cui un errore durante l'aggiornamento automatico a Office 2016 causa un aggiornamento non riuscito e non consente di utilizzare o disinstallare le app di Office 2013.
+-   Risolvere un problema di A portata di clic per il quale un nuovo tentativo di aggiornamento automatico a Office 2016 dopo il riavvio durante un precedente tentativo di aggiornamento comporta un errore dell'aggiornamento e l'impossibilità di arresto.
+-   Risolvere un problema di A portata di clic, in cui l'attività di flusso durante l'installazione non è in grado di essere ripristinata correttamente se il computer viene riavviato.
+-   Risolvere un problema di A portata di clic, in cui il riavvio durante un aggiornamento manuale a Office 2016 lascia alcune attività "in esecuzione".
+-   Risolvere un problema di A portata per il quale l'avvio di un'app appena installata durante un processo di installazione causa la visualizzazione di una finestra di dialogo "Connessione Internet interrotta".
+-   Risolvere un problema di A portata di clic, in cui i riquadri dell'app visualizzati durante l'installazione non sono attivi e non avviano l'app quando l'utente fa clic sul riquadro dell'app.
+-   Risolvere un problema di A portata di clic per il quale un aggiornamento automatico di un'installazione sr-latn-cr a Office 2016 non converte il linguaggio client a sr-latn-rs.
+-   Risolvere un problema di A portata di clic per il quale l'aggiornamento automatico ha esito negativo durante la preparazione dell'aggiornamento quando sono presenti più SKU di Office installate nel computer.
+-   Risolvere un problema di A portata di clic per il quale vengono visualizzate le finestre di dialogo se viene avviato un aggiornamento manuale durante l'esecuzione di un aggiornamento automatico.
+-   Aggiornare i riferimenti a "Componenti aggiuntivi" nell'interfaccia utente del prodotto in cui le maiuscole/minuscole del termine non sono corrette.
 
 
 
 ## <a name="version-1509-september-22"></a>Versione 1509: Settembre 22
 *Versione 1509 (Build 4229.1024)*
 
-Questa è la versione iniziale per il canale. Questa versione fornisce la disponibilità delle applicazioni Office 2016 prima.
+Questa è la versione iniziale di questo canale. Questa versione fornisce la prima disponibilità delle applicazioni di Office 2016.
 
-### <a name="excel-security-updates"></a>Excel: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 099](https://technet.microsoft.com/library/security/ms15-099): vulnerabilità in Microsoft Office possono consentire l'esecuzione di codice (3089664)
--   Microsoft Security bollettini [MS15 110](https://technet.microsoft.com/library/security/ms15-110): aggiornamenti di sicurezza di Microsoft Office risolvere Remote codice esecuzione (3096440)
+### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3089664)
+-   Bollettino Microsoft sulla sicurezza [MS15-110](https://technet.microsoft.com/library/security/ms15-110): Aggiornamenti sulla sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3096440)
 
-### <a name="visio-security-updates"></a>Visio: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 081](https://technet.microsoft.com/library/security/ms15-081): vulnerabilità in Microsoft Office possono consentire l'esecuzione di codice (3080790)
+### <a name="visio-security-updates"></a>Visio: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3080790)
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 081](https://technet.microsoft.com/library/security/ms15-081): vulnerabilità in Microsoft Office possono consentire l'esecuzione di codice (3080790)
+### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3080790)
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
--   Microsoft Security bollettini [MS15 081](https://technet.microsoft.com/library/security/ms15-081): vulnerabilità in Microsoft Office possono consentire l'esecuzione di codice (3080790)
--   Microsoft Security bollettini [MS15 099](https://technet.microsoft.com/library/security/ms15-099): vulnerabilità in Microsoft Office possono consentire l'esecuzione di codice (3089664)
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+-   Bollettino Microsoft sulla sicurezza [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3080790)
+-   Bollettino Microsoft sulla sicurezza [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3089664)

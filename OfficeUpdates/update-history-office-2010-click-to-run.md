@@ -25,7 +25,7 @@ I seguenti prodotti Office 2010 vengono mantenuti aggiornati automaticamente tra
     
 - Office Home and Student 2010
     
-- Avvio di Office 2010
+- Office Starter 2010
     
 Se si utilizza uno di questi prodotti e si desidera verificare che si è aggiornato, verificare il numero di versione di Office e aggiornare manualmente Office se necessario.
   
