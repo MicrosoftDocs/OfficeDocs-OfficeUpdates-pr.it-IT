@@ -5,18 +5,18 @@
 
 ## [Note sulla versione](release-notes-office365-proplus.md)
 
-### Mensile canale
+### Canale mensile
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### Canale semi-annuale
+### Canale semestrale
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### Canale semi-annuale (specifiche)
+### Canale semestrale (assegnato)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
