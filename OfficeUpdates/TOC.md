@@ -30,6 +30,7 @@
 # Office (versione completa)
 ## [Aggiornamenti di Office (MSI)](office-updates-msi.md)
 ## [Aggiornamenti di Outlook (MSI)](outlook-updates-msi.md)
+## [Skype per gli aggiornamenti di Business](https://technet.microsoft.com/office/dn788954.aspx)
 ## [File con estensione msp Office 2016](msp-files-office-2016.md)
 ## [File msp di Office 2013](msp-files-office-2013.md)
 ## [Aggiornamenti di Office 2013](update-history-office-2013.md)
@@ -39,6 +40,7 @@
 ## [Aggiornamenti di Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 ## [Aggiornamenti di Project Server](project-server-updates.md)
 ## [Aggiornamenti di SharePoint](sharepoint-updates.md)
+## [Skype per gli aggiornamenti Business Server](https://technet.microsoft.com/office/dn788954.aspx)
 
 # Collegamenti correlati
 ## [Versioni di Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
