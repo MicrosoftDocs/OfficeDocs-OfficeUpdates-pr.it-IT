@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2013 che utilizzano A portata di clic.
-ms.openlocfilehash: 90565118b040da6550afd630fe2a8fbcac454b26
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: b38c1bc88df6cef66c9ebdd14c9baed626914cde
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556138"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709667"
 ---
 # <a name="update-history-for-office-2013"></a>Cronologia degli aggiornamenti per Office 2013
 
@@ -46,7 +46,7 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
   
 |**Anno di pubblicazione**|**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|:-----|
-|2018   |8 maggio   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/it-IT/help/4133083)  |
+|2018 |8 maggio   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/it-IT/help/4133083)  |
 ||10 aprile   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/it-IT/help/4098622)  |
 ||13 marzo   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/it-IT/help/4090988)  |
 ||13 febbraio   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
