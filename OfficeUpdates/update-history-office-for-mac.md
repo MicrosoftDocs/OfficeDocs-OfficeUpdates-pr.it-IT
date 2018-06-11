@@ -3,7 +3,7 @@ title: Cronologia degli aggiornamenti per Office per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/7/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Vengono fornite ai professionisti IT le informazioni sugli aggiornamenti più recenti per Office per Mac, compresi i collegamenti per scaricare i pacchetti e una cronologia degli aggiornamenti
-ms.openlocfilehash: 626a55680adf26f76dadd8263fcc881a09afb171
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 03b7c1e67fcb1161301f50d594896233b1cab123
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556140"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709687"
 ---
 # <a name="update-history-for-office-for-mac"></a>Cronologia degli aggiornamenti per Office per Mac
 
@@ -56,7 +56,7 @@ La tabella seguente fornisce informazioni sui pacchetti più recenti, compreso u
 |**Programma**|**Versione**|**Pacchetto**|**Hash SHA1**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.0.0 (18051301)  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 92EE28D28D1C08620F370C7652ECC0C247885ACF  <br/> | Il pacchetto di aggiornamento è a 64 bit. <br/><br/>[Cronologia delle versioni per MAU](release-history-microsoft-autoupdate.md) |
-|Skype for Business  <br/> |16.17.0.65  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |91A11AC7EF3FBCF9B30B7A9C69C60470ABD43502  <br/> |La versione più recente è stata rilasciata l'8 maggio 2018. <br/><br/>[Aggiornamenti più recenti](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|Skype for Business  <br/> |16.18.0.51  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 945EBE1021ED27391D20354A3FA66FA1872E1BAA <br/> |La versione più recente è stata rilasciata il 7 giugno 2018. <br/><br/>[Aggiornamenti più recenti](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |Desktop remoto | 10.1.8 (180504) | [Download](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Il pacchetto di installazione è a 64 bit. <br/> <br/>[Novità](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Portale aziendale di Intune |1.5 (52.1805002.000) [180509] | [Download](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Novità di Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
 |Plug-in del browser Safari per Microsoft SharePoint in locale per Office 2016 per Mac  <br/> |15.32.0 (170309)  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Il pacchetto di installazione è a 64 bit.  <br/> |
