@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/18/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 7e4a881b7981ecd23d9771a5d1f375f4cf07eba7
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556153"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886632"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 
@@ -24,6 +24,32 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
+
+## <a name="version-1803-june-12"></a>Versione 1803: 12 giugno
+*Versione 1803 (Build 9126.2227)*
+
+### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8246): vulnerabilità della divulgazione delle informazioni di Microsoft Excel
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8248): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
+
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+-   Consente di correggere un problema a causa del quale a volte un'operazione di raggruppamento (o di annullamento del raggruppamento) in una tabella pivot di Excel potrebbe provocare un arresto anomalo.
+
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8244): vulnerabilità relativa all'elevazione di privilegi in Microsoft Outlook
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+-   Consente di correggere un problema a causa del quale potrebbe verificarsi un arresto anomalo durante la modifica della proprietà Shape.Visible.
+-   Consente di correggere un problema a causa del quale le modifiche nei documenti creati in modalità condivisa non si uniscono.
+-   Consente di correggere un problema a causa del quale non sarebbe possibile la creazione condivisa di documenti contenenti controlli ActiveX.
+
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
+-   Consente di correggere un problema a causa del quale in Visualizzazione cronologia, nella finestra di dialogo Aggiungi attività esistenti alla sequenza temporale, verrebbero visualizzate solo le attività della prima attività di riepilogo.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+-   Consente di correggere un problema a causa del quale, quando vengono distribuiti gli aggiornamenti con System Center Configuration Manager a un client che esegue applicazioni di Office, l'aggiornamento non viene applicato dopo il riavvio del dispositivo.
+
+
 
 ## <a name="version-1803-may-18"></a>Versione 1803: 18 maggio
 *Versione 1803 (Build 9126.2210)*

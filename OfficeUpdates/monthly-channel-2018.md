@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 3d0b5b16501bfb7816d9df8ffe79ca8926d75adb
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556148"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886962"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -25,11 +25,37 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 
+## <a name="version-1805-june-13"></a>Versione 1805: 13 giugno
+*Versione 1805 (Build 9330.2124)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+ - Consente di correggere un problema a causa del quale un'applicazione che chiama la MAPI API potrebbe provocare un arresto anomalo.
+
+
+
+## <a name="version-1805-june-12"></a>Versione 1805: 12 giugno
+*Versione 1805 (Build 9330.2118)*
+
+### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8246): vulnerabilità della divulgazione delle informazioni di Microsoft Excel
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8248): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
+
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8244): vulnerabilità relativa all'elevazione di privilegi in Microsoft Outlook
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+
+- Consente di correggere un problema a causa del quale un'applicazione che chiama la MAPI API potrebbe provocare un arresto anomalo.
+
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
+
+- Consente di correggere un problema a causa del quale non è possibile salvare un sottoprogetto mentre si lavora su di esso attraverso il contesto di un progetto principale.
+
 ## <a name="version-1805-may-24"></a>Versione 1805: 24 maggio
 *Versione 1805 (Build 9330.2087)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
- - Risolvere un problema a causa del quale Outlook si arresta in modo anomalo quando si usa il componente aggiuntivo iCloud.
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+ - Consente di correggere un problema a causa del quale Outlook si arresta in modo anomalo quando si usa il componente aggiuntivo iCloud.
  
 
 

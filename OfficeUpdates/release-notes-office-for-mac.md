@@ -3,7 +3,7 @@ title: Note sulla versione per Office per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 46548cbd64aaf43db8dd0f6070a3f8a2eb69df0a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556157"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886952"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -32,7 +32,32 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 > - I collegamenti per il download sono disponibili solo per le versioni più recenti.
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
+## <a name="june-2018-release"></a>Rilascio di giugno 2018
+
+**Data di rilascio:** 13 giugno 2018 
+
+*Versione 16.14.1 (Build 18061302)*
+
+Questa versione corregge un problema con i pacchetti di aggiornamento per le singole applicazioni.
+
+Di seguito sono riportati i collegamenti per il download dei pacchetti di aggiornamento: [Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) e [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg).
+
+<br/><br/>
+
+ **Data di rilascio:** 12 giugno 2018 
   
+ *Versione 16.14.0 (Build 18061000)* 
+  
+Questa versione fornisce gli aggiornamenti seguenti.
+  
+|**Applicazione**|**Aggiornamenti delle funzionalità**|**Collegamento per il download del pacchetto di aggiornamento**|
+|:-----|:-----|:-----|
+|Word  <br/> |**Strumenti di apprendimento per migliorare la leggibilità:** non far stancare gli occhi è importante. È possibile regolare la spaziatura del testo, la larghezza delle colonne e il colore delle pagine, nonché ascoltare come Word legge ad alta voce il documento, evidenziando il testo durante la lettura. [Ulteriori informazioni](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
+|Excel  <br/> |**Compilare i dati in un attimo:** Anteprima suggerimenti consente di compilare i dati automaticamente. [Ulteriori informazioni](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **Superare la barriera linguistica:** è possibile tradurre parole o frasi in un'altra lingua con Microsoft Translator. [Ulteriori informazioni](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
+|PowerPoint  <br/> |**Superare la barriera linguistica:** è possibile tradurre parole o frasi in un'altra lingua con Microsoft Translator. [Ulteriori informazioni](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**Collegamenti ipertestuali a colori:** i collegamenti ipertestuali non sono più solamente blu. Ora è possibile scegliere il colore del carattere. [Ulteriori informazioni](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
+|Outlook  <br/> |**Creare una firma unica:** è possibile scegliere stile dei caratteri, colori, immagini, collegamenti e molto altro. [Ulteriori informazioni](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **Creare e collaborare in gruppo:** è possibile creare un gruppo di Office 365 in Outlook, aggiungendo e rimuovendo membri in qualsiasi momento. Collaborare su Mac è ancora più semplice. [Ulteriori informazioni](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
+|Microsoft AutoUpdate 4.0  <br/> ||[Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+
 ## <a name="may-2018-release"></a>Rilascio di maggio 2018
 
 **Data di rilascio:** 24 maggio 2018
@@ -94,10 +119,8 @@ Questa versione fornisce gli aggiornamenti seguenti.
   
  *Versione 16.11.1 (Build 18031900)* 
   
-Questa versione risolve un problema a causa del quale Word, Excel e PowerPoint a volte smettono di rispondere in fase di avvio.
-  
-Di seguito sono riportati i collegamenti per il download dei pacchetti di aggiornamento: [Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.11.18031900_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.11.18031900_Updater.pkg) e [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.11.18031900_Updater.pkg).
- 
+Questa versione corregge un problema a causa del quale Word, Excel e PowerPoint a volte non rispondono in fase di avvio.
+   
 <br/><br/>
  
  **Data di rilascio:** 13 marzo 2018 
@@ -106,15 +129,14 @@ Di seguito sono riportati i collegamenti per il download dei pacchetti di aggior
   
 Questa versione fornisce gli aggiornamenti seguenti.
   
-|**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|**Aggiornamenti non della sicurezza**|**Collegamento per il download del pacchetto di aggiornamento**|
+|**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|**Aggiornamenti non della sicurezza**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**Più operazioni disponibili con la modalità focus:** la modalità focus ora si apre al livello dello zoom impostato e mostra il numero di pagina mentre si scorre tra le pagine.  <br/> ||||
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-0907): superamento delle funzionalità di sicurezza di Microsoft Office Excel  <br/> |||
 |PowerPoint  <br/> |**Tipi di carattere incorporati:** i tipi di carattere incorporati fanno in modo che la presentazione abbia lo stesso aspetto su tutti i computer affinché le altre persone visualizzino i contenuti come desiderato.  <br/> ||||
-|Outlook  <br/> |**Tabelle:** inserire tabelle nei messaggi e negli eventi del calendario, oltre a strutturare i contenuti. Non è più necessario copiare e incollare da altre app di Office. [Ulteriori informazioni](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **Visualizzazione di due fusi orari contemporaneamente:** se si desidera sapere che ore sono in un'altra parte del mondo, ora è possibile aggiungere un secondo fuso orario in Outlook .  <br/><br/> **Pianificazione tra fusi orari diversi:** se si è in viaggio in zone con fusi orari diversi, è possibile creare un evento con fusi orari di inizio e di fine diversi: Outlook si occuperà della relativa conversione.   <br/><br/> **Modifica delle dimensioni del testo:** aumentare o ridurre le dimensioni del testo nella barra laterale, nell'elenco di messaggi e nel riquadro di lettura. [Ulteriori informazioni](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||Consente di risolvere un problema a causa del quale, se il fuso orario predefinito del computer in uso segue l'ora legale (DST) ed è selezionata la Visualizzazione per settimana, potrebbe risultare che tutti gli eventi siano stati spostati di un'ora sulla griglia del calendario nella settimana di inizio dell'orario DST.  <br/> |[Pacchetto di aggiornamento per Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.11.18031100_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[Pacchetto di aggiornamento per OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.11.18031100_Updater.pkg) <br/> |
-|Famiglia di prodotti Office  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-0919): vulnerabilità della divulgazione delle informazioni di Microsoft Office  <br/> ||Non applicabile  <br/> |
-|Microsoft AutoUpdate 3.17  <br/> ||||[Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.17.18031100_Updater.pkg) <br/> |
+|Outlook  <br/> |**Tabelle:** inserire tabelle nei messaggi e negli eventi del calendario, oltre a strutturare i contenuti. Non è più necessario copiare e incollare da altre app di Office. [Ulteriori informazioni](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **Visualizzazione di due fusi orari contemporaneamente:** se si desidera sapere che ore sono in un'altra parte del mondo, ora è possibile aggiungere un secondo fuso orario in Outlook .  <br/><br/> **Pianificazione tra fusi orari diversi:** se si è in viaggio in zone con fusi orari diversi, è possibile creare un evento con fusi orari di inizio e di fine diversi: Outlook si occuperà della relativa conversione.   <br/><br/> **Modifica delle dimensioni del testo:** aumentare o ridurre le dimensioni del testo nella barra laterale, nell'elenco di messaggi e nel riquadro di lettura. [Ulteriori informazioni](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||Consente di risolvere un problema a causa del quale, se il fuso orario predefinito del computer in uso segue l'ora legale (DST) ed è selezionata la Visualizzazione per settimana, potrebbe risultare che tutti gli eventi siano stati spostati di un'ora sulla griglia del calendario nella settimana di inizio dell'orario DST.  <br/> |
+|Famiglia di prodotti Office  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-0919): vulnerabilità della divulgazione delle informazioni di Microsoft Office  <br/> |
+
    
 ## <a name="february-2018-release"></a>Rilascio di febbraio 2018
 

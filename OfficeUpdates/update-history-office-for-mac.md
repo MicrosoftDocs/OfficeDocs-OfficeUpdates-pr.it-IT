@@ -3,7 +3,7 @@ title: Cronologia degli aggiornamenti per Office per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/7/2018
+ms.date: 6/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Vengono fornite ai professionisti IT le informazioni sugli aggiornamenti più recenti per Office per Mac, compresi i collegamenti per scaricare i pacchetti e una cronologia degli aggiornamenti
-ms.openlocfilehash: 03b7c1e67fcb1161301f50d594896233b1cab123
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
+ms.openlocfilehash: 7571580a400af9de8c64fc30dfaf5ca6d1d0d2d7
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709687"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19926662"
 ---
 # <a name="update-history-for-office-for-mac"></a>Cronologia degli aggiornamenti per Office per Mac
 
@@ -27,7 +27,7 @@ La tabella seguente riepiloga le informazioni sulla versione più recente di Off
 
 |**Versione corrente**|**Data di rilascio**|**Link per il download**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|:-----|
-16.13.1 (18052304)  <br/> |24 maggio 2018  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Note sulla versione](release-notes-office-for-mac.md#may-2018-release) <br/> |
+16.14.1 (18061302)  <br/> |12 giugno 2018  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Note sulla versione](release-notes-office-for-mac.md#june-2018-release) <br/> |
   
 > [!NOTE]
 > - Queste informazioni si applicano anche a Office 2016 per Mac, che è la versione con licenza perpetua di Office per Mac ed è disponibile come acquisto di una copia unica presso un punto vendita o tramite un contratto multilicenza.
@@ -41,12 +41,12 @@ La tabella seguente elenca i pacchetti più recenti per Office per Mac e per le 
   
 |**Applicazione**|**Versione**|**Link di download**|**Hash SHA1 per pacchetto di installazione**|
 |:-----|:-----|:-----|:-----|
-|Famiglia di prodotti Office (tutte le applicazioni)  <br/> |16.13.1 (18052304)  <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |E6644919D67E187EB96857ED021A424311005D3A  <br/> |
-|Word  <br/> |16.13.1 (18052304)  <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.13.18052304_Updater.pkg) <br/> |7052116D95C370436B9E2FD0A24DCE48C88F8D89  <br/> |
-|Excel  <br/> |16.13.1 (18052304)   <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.13.18052304_Updater.pkg) <br/> |97CE87F55C54E02F3E7384A131EF31CB0163FB04  <br/> |
-|PowerPoint  <br/> |16.13.1 (18052304)   <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.13.18052304_Updater.pkg) <br/> |F6966632E47859748A5C58175B54D5C56DD610BC <br/> |
-|Outlook  <br/> |16.13.1 (18052304)   <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.13.18052304_Updater.pkg) <br/> |9329E67D32B556C703E4A63ECFC3F258699D164F  <br/> |
-|OneNote  <br/> |16.13.1 (18052304)   <br/> |[Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.13.18052304_Updater.pkg) <br/> |Non applicabile  <br/> |
+|Famiglia di prodotti Office (tutte le applicazioni)  <br/> |16.14.1 (18061302)  <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |722526ddb34d5b701e85ba2b618a47010bb02deb  <br/> |
+|Word  <br/> |16.14.1 (18061302)  <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg) <br/> |10A8BE9376F20218250B711EDD91138B53A81DED  <br/> |
+|Excel  <br/> |16.14.1 (18061302)   <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg) <br/> |4D22478AD94A2EEE3DA56BE9BF54F3D4787F4EAC  <br/> |
+|PowerPoint  <br/> |16.14.1 (18061302)   <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg) <br/> |4CA0EBC84164A0DB10A0998ABF5A482801A5477A <br/> |
+|Outlook  <br/> |16.14.1 (18061302)   <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) <br/> |EDF9001236590047D1A59746E77B683977E98D6F  <br/> |
+|OneNote  <br/> |16.14.1 (18061302)   <br/> |[Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg) <br/> |Non applicabile  <br/> |
    
 
 ## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Aggiornamenti più recenti per altre applicazioni Mac da Microsoft
@@ -55,7 +55,7 @@ La tabella seguente fornisce informazioni sui pacchetti più recenti, compreso u
   
 |**Programma**|**Versione**|**Pacchetto**|**Hash SHA1**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft AutoUpdate (MAU)  <br/> |4.0.0 (18051301)  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 92EE28D28D1C08620F370C7652ECC0C247885ACF  <br/> | Il pacchetto di aggiornamento è a 64 bit. <br/><br/>[Cronologia delle versioni per MAU](release-history-microsoft-autoupdate.md) |
+|Microsoft AutoUpdate (MAU)  <br/> |4.0.0 (18061000)  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | AEDD824E3764D31167B038D965E3928461140879  <br/> | Il pacchetto di aggiornamento è a 64 bit. <br/><br/>[Cronologia delle versioni per MAU](release-history-microsoft-autoupdate.md) |
 |Skype for Business  <br/> |16.18.0.51  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 945EBE1021ED27391D20354A3FA66FA1872E1BAA <br/> |La versione più recente è stata rilasciata il 7 giugno 2018. <br/><br/>[Aggiornamenti più recenti](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |Desktop remoto | 10.1.8 (180504) | [Download](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Il pacchetto di installazione è a 64 bit. <br/> <br/>[Novità](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Portale aziendale di Intune |1.5 (52.1805002.000) [180509] | [Download](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Novità di Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
@@ -71,12 +71,14 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni e link
   
 |**Data di rilascio**|**Versione**|**Ulteriori informazioni**|**Pacchetto di installazione**|**Pacchetti di aggiornamento**|
 |:-----|:-----|:-----|:-----|:-----|
+|13 giugno 2018  <br/> |16.14.1 (18061302)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#june-2018-release) <br/> |[Famiglia di prodotti Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.14.18061302_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg) <br/> |
+|12 giugno 2018  <br/> |16.14.0 (18061000)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#june-2018-release) <br/> |[Famiglia di prodotti Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.14.18061000_Installer.pkg) <br/> | |
 |24 maggio 2018  <br/> |16.13.1 (18052304)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#may-2018-release) <br/> |[Famiglia di prodotti Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.13.18052304_Installer.pkg) <br/> |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.13.18052304_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.13.18052304_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.13.18052304_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.13.18052304_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.13.18052304_Updater.pkg) <br/> |
 |23 maggio 2018  <br/> |16.13.1 (18052203)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#may-2018-release) <br/> |||
 |15 maggio 2018  <br/> |16.13.0 (18051301)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#may-2018-release) <br/> |||
 |11 aprile 2018  <br/> |16.12.0 (18041000)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#april-2018-release) <br/> |[Famiglia di prodotti Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.12.18041000_Installer.pkg) <br/> |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.12.18041000_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.12.18041000_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.12.18041000_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.12.18041000_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.12.18041000_Updater.pkg) <br/> |
-|19 marzo 2018  <br/> |16.11.1 (18031900)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#march-2018-release) <br/> ||[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.11.18031900_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.11.18031900_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.11.18031900_Updater.pkg) <br/> |
-|13 marzo 2018  <br/> |16.11.0 (18031100)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#march-2018-release) <br/> |[Famiglia di prodotti Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.11.18031100_Installer.pkg) <br/> |[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.11.18031100_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.11.18031100_Updater.pkg) <br/> |
+|19 marzo 2018  <br/> |16.11.1 (18031900)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#march-2018-release) <br/> ||<br/> |
+|13 marzo 2018  <br/> |16.11.0 (18031100)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#march-2018-release) <br/> | <br/> |
 |13 febbraio 2018  <br/> |16.10.0 (18021001)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#february-2018-release) <br/> |||
 |26 gennaio 2018  <br/> |16.9.1 (18012504)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#january-2018-release) <br/> |||
 |18 gennaio 2018  <br/> |16.9.0 (18011602)  <br/> |[Note sulla versione](release-notes-office-for-mac.md#january-2018-release) <br/> |||

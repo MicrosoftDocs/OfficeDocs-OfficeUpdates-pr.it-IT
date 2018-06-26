@@ -3,19 +3,19 @@ title: Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco delle versioni più recenti per Office 365 ProPlus per ciascun canale di aggiornamenti e collegamenti alle note sulle versioni e alla cronologia degli aggiornamenti
-ms.openlocfilehash: 500d9c49e38386fcee2cc6d98c078bf9179d33df
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: c6b083be87893863971fbc9bb677dbd96889d9e2
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556145"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886732"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
 
@@ -26,10 +26,10 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
   
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**La versione corrente è supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile  <br/> |1805  <br/> |[9330.2087](monthly-channel-2018.md#version-1805-may-24)  <br/> | 24 maggio 2018  <br/> |Viene rilasciata la versione 1806 <br/>|
-|Semestrale (mirato)  <br/> |1803  <br/> |[9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18)  <br/> | 18 maggio 2018  <br/> |11 settembre 2018 <br/>|
-|Semestrale <br/> |1708  <br/> | [8431.2250](semi-annual-channel-2018.md#version-1708-may-8) <br/> |8 maggio 2018  <br/> |12 marzo 2019 <br/>|
-|Posticipato <br/> |1705  <br/> |[8201.2278](semi-annual-channel-2018.md#version-1705-may-8)  <br/> | 8 maggio 2018  <br/> |10 luglio 2018 <br/>|
+|Mensile  <br/> |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13)  <br/> | 13 giugno 2018  <br/> |Viene rilasciata la versione 1806 <br/>|
+|Semestrale (mirato)  <br/> |1803  <br/> |[9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12)  <br/> | 12 giugno 2018  <br/> |11 settembre 2018 <br/>|
+|Semestrale <br/> |1708  <br/> | [8431.2270](semi-annual-channel-2018.md#version-1708-june-12) <br/> |12 giugno 2018  <br/> |12 marzo 2019 <br/>|
+|Posticipato <br/> |1705  <br/> |[8201.2294](semi-annual-channel-2018.md#version-1705-june-12)  <br/> | 12 giugno 2018  <br/> |10 luglio 2018 <br/>|
 
 Per informazioni sulle dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Office 365 ProPlus, vedere [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 

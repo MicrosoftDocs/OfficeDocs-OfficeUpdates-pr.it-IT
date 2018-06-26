@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2018
-ms.openlocfilehash: eb057983e92975a4fa19d9dc5abae683c0564d20
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 8a5d598823ad277ad5f2cdd5f13368f338f4b3d6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556150"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886662"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2018
 
@@ -25,6 +25,35 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - Prima di gennaio 2018, il Canale semestrale era denominato Deferred Channel.
+
+
+## <a name="version-1708-june-12"></a>Versione 1708: 12 giugno
+*Versione 1708 (Build 8431.2270)*
+
+### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8246): vulnerabilità della divulgazione delle informazioni di Microsoft Excel
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8248): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
+
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8244): vulnerabilità relativa all'elevazione di privilegi in Microsoft Outlook
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+-   Consente di correggere un problema che impedisce agli utenti di Windows 7 SP1 di aggiungere membri ai gruppi moderni.
+
+
+
+## <a name="version-1705-june-12"></a>Versione 1705: 12 giugno
+*Versione 1705 (Build 8201.2294)*
+
+*Si tratta della versione di Deferred Channel che è disponibile da settembre 2017. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a luglio 2018. Tuttavia, ora è disponibile una nuova versione del canale semestrale, versione 1708 (Build 8431.2270), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza.*
+
+### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8246): vulnerabilità della divulgazione delle informazioni di Microsoft Excel
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8248): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
+
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8244): vulnerabilità relativa all'elevazione di privilegi in Microsoft Outlook
+
 
 
 ## <a name="version-1708-may-8"></a>Versione 1708: 8 maggio
