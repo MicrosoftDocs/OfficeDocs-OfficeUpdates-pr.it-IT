@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886962"
+ms.locfileid: "20036305"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -24,6 +24,36 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
+
+
+
+## <a name="version-1806-june-25"></a>Versione 1806: 25 giugno
+*Versione 1806 (Build 10228.20080)*
+
+### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
+ - **Cella e barra della formula per apportare modifiche migliorate:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato anche migliorato il supporto di emoji e caratteri complessi.
+ - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
+ - **Impostazione predefinita di Ricorrenza:** nella finestra di dialogo Ricorrenza appuntamento (in "Intervallo di ricorrenza"), "Termina entro" è l'impostazione predefinita (anziché "Nessuna data di fine") ed è la prima impostazione elencata; viene impostata una data di fine predefinita.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
+ - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **Indicare le diapositive con una penna:** utilizzare la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Ulteriori informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
+ - **Organizzazione dei percorsi di salvataggio recenti:** Project mantiene un elenco in esecuzione dei progetti salvati. Quando si decide di salvare un progetto, scegliere uno dei percorsi di salvataggio recenti e proseguire con il lavoro.
+
+### <a name="project-non-security-updates"></a>Project: Aggiornamenti non relativi alla sicurezza
+ - Consente di risolvere un problema per il quale risultava impossibile effettuare il salvataggio di sottoprogetti da progetti principali.
+
+### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
+ - **Più stencil, più icone, più scelta:** Microsoft ha aggiunto 26 stencil, tra cui Analisi, Arti, Celebrazione, Smile, Percorso, Medicina, Natura; Persone, Sport, Meteo, Stagioni e altro.
+
+### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
+ - **Support SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+
 
 ## <a name="version-1805-june-13"></a>Versione 1805: 13 giugno
 *Versione 1805 (Build 9330.2124)*
