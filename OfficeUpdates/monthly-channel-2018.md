@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
+ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036305"
+ms.lasthandoff: 06/29/2018
+ms.locfileid: "20157864"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -24,8 +24,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
-
-
+ 
 
 ## <a name="version-1806-june-25"></a>Versione 1806: 25 giugno
 *Versione 1806 (Build 10228.20080)*
@@ -36,15 +35,19 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
  - **Impostazione predefinita di Ricorrenza:** nella finestra di dialogo Ricorrenza appuntamento (in "Intervallo di ricorrenza"), "Termina entro" è l'impostazione predefinita (anziché "Nessuna data di fine") ed è la prima impostazione elencata; viene impostata una data di fine predefinita.
+ - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
  - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **Indicare le diapositive con una penna:** utilizzare la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Ulteriori informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
+
 ### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
  - **Organizzazione dei percorsi di salvataggio recenti:** Project mantiene un elenco in esecuzione dei progetti salvati. Quando si decide di salvare un progetto, scegliere uno dei percorsi di salvataggio recenti e proseguire con il lavoro.
+ - **Un nuovo metodo per gestire gli sprint:** adottare un approccio diretto nell'utilizzo delle bacheche attività. Accedendo a Gestisci sprint, è possibile aggiungere e rimuovere gli sprint mentre si sta lavorando a un progetto.
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non relativi alla sicurezza
+
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
  - Consente di risolvere un problema per il quale risultava impossibile effettuare il salvataggio di sottoprogetti da progetti principali.
 
 ### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
@@ -108,9 +111,10 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
  - **Chat con i coautori durante la modifica:** collaborare in modo più efficiente chattando con i coautori senza dover uscire da PowerPoint. [Ulteriori informazioni](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
- - **Digitazione senza mani:** usare i comandi vocali per creare presentazioni con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **Digitazione senza mani:** utilizzare i comandi vocali per creare presentazioni con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **Microsoft Forms:** inserire un test o un sondaggio in una diapositiva. Office raccoglie e archivia le risposte. [Ulteriori informazioni](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
  - Risolvere un problema a causa del quale Project potrebbe arrestarsi in modo anomalo la prima volta che si salva un progetto in Project Web App.
 
 
