@@ -3,7 +3,7 @@ title: Note sulla versione per Office per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 6721d811de54c821b581e3b7d2a67b4cab9ff3b3
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886952"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246276"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -31,6 +31,25 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 > - Queste note sulla versione si applicano anche a Office 2016 per Mac, che è la versione con licenza perpetua di Office per Mac ed è disponibile come acquisto di una copia unica da un punto vendita o tramite un contratto multilicenza. Tuttavia, alcune funzionalità elencate nelle note sulla versione sono disponibili solo se si dispone di una sottoscrizione a Office 365.
 > - I collegamenti per il download sono disponibili solo per le versioni più recenti.
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
+
+## <a name="july-2018-release"></a>Rilascio di luglio 2018
+
+ **Data di rilascio:** 10 luglio 2018 
+  
+ *Versione 16.15.0 (Build 18070902)* 
+  
+Questa versione fornisce gli aggiornamenti seguenti.
+  
+|**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|**Collegamento per il download del pacchetto di aggiornamento**|
+|:-----|:-----|:-----|
+|Word  <br/> |**Correzione dei problemi di accessibilità con un clic:** Verifica accessibilità è più efficiente che mai, grazie al supporto aggiornato per gli standard internazionali e agli utili consigli per rendere i documenti più accessibili. [Ulteriori informazioni](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Pacchetto di aggiornamento per Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Excel  <br/> |||[Pacchetto di aggiornamento per Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**Arricchire il proprio pitch con un video:** è possibile rendere più interessanti le proprie diapositive con un video di YouTube, visualizzandolo senza dover uscire dall'applicazione. [Ulteriori informazioni](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Pacchetto di aggiornamento per PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Pacchetto di aggiornamento per Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|Microsoft AutoUpdate 4.1  <br/> |Aggiornamento ad Aria SDK 8.4. Consente la correzione del problema riguardante la perdita di memoria.<br/><br/>Modifiche apportate a Registrazione app, che ora supporta Office 2019 Preview.||[Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
+|Famiglia di prodotti Office  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office  <br/> ||
+
+
 
 ## <a name="june-2018-release"></a>Rilascio di giugno 2018
 
@@ -56,7 +75,7 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |Excel  <br/> |**Compilare i dati in un attimo:** Anteprima suggerimenti consente di compilare i dati automaticamente. [Ulteriori informazioni](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **Superare la barriera linguistica:** è possibile tradurre parole o frasi in un'altra lingua con Microsoft Translator. [Ulteriori informazioni](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
 |PowerPoint  <br/> |**Superare la barriera linguistica:** è possibile tradurre parole o frasi in un'altra lingua con Microsoft Translator. [Ulteriori informazioni](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**Collegamenti ipertestuali a colori:** i collegamenti ipertestuali non sono più solamente blu. Ora è possibile scegliere il colore del carattere. [Ulteriori informazioni](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
 |Outlook  <br/> |**Creare una firma unica:** è possibile scegliere stile dei caratteri, colori, immagini, collegamenti e molto altro. [Ulteriori informazioni](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **Creare e collaborare in gruppo:** è possibile creare un gruppo di Office 365 in Outlook, aggiungendo e rimuovendo membri in qualsiasi momento. Collaborare su Mac è ancora più semplice. [Ulteriori informazioni](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
-|Microsoft AutoUpdate 4.0  <br/> ||[Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+|Microsoft AutoUpdate 4.0  <br/> ||[Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18061000_Updater.pkg) <br/> |  
 
 ## <a name="may-2018-release"></a>Rilascio di maggio 2018
 
@@ -105,12 +124,12 @@ Questa versione fornisce gli aggiornamenti seguenti.
   
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|**Aggiornamenti non della sicurezza**|**Collegamento per il download del pacchetto di aggiornamento**|
 |:-----|:-----|:-----|:-----|:-----|
-|Word  <br/> |**Collaborazione e condivisione migliori:** i documenti di OneDrive sincronizzati in locale si aprono direttamente dal cloud, consentendone il salvataggio automatico e la condivisione, oltre ad agevolare la collaborazione tra gli utenti interessati.  <br/> <br/> **Aggiunta di un impatto visivo:** inserire e modificare Scalable Vector Graphics (SVG) nei documenti per aggiungere elementi visivi e fornire immagini di qualità elevata. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |||[Pacchetto di aggiornamento per Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.12.18041000_Updater.pkg) <br/> |
-|Excel  <br/> |**Collaborazione e condivisione migliori:** le cartelle di lavoro di OneDrive sincronizzate in locale si aprono direttamente dal cloud, consentendone il salvataggio automatico e la condivisione, oltre ad agevolare la collaborazione tra gli utenti interessati.  <br/> <br/> **Aggiunta di un impatto visivo:** inserire e modificare Scalable Vector Graphics (SVG) nelle cartelle di lavoro per aggiungere elementi visivi e fornire immagini di qualità elevata. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-1029): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel  <br/> ||[Pacchetto di aggiornamento per Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.12.18041000_Updater.pkg) <br/> |
-|PowerPoint  <br/> |**Collaborazione e condivisione migliori:** le presentazioni di OneDrive sincronizzate in locale si aprono direttamente dal cloud, consentendone il salvataggio automatico e la condivisione, oltre ad agevolare la collaborazione tra gli utenti interessati.   <br/><br/> **Aggiunta di un impatto visivo:** inserire e modificare Scalable Vector Graphics (SVG) nelle presentazioni per aggiungere elementi visivi e fornire immagini di qualità elevata. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |||[Pacchetto di aggiornamento per PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.12.18041000_Updater.pkg) <br/> |
-|Outlook  <br/> |**Aggiunta di un impatto visivo:** inserire e modificare Scalable Vector Graphics (SVG) nelle e-mail per aggiungere elementi visivi e fornire immagini di qualità elevata. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**Calendario più interattivo:** fare clic su qualsiasi riunione o evento nel calendario per visualizzarne tutti i dettagli associati. Controllare chi è invitato, modificare la risposta da inviare o partecipare alla riunione: tutto in un'unica posizione.  <br/> <br/> **Analisi semplificata dei risultati della ricerca:** in Outlook, i termini della ricerca vengono evidenziati nell'elenco di voci o nel riquadro di anteprima.  <br/> <br/> **Numeri settimana:** i numeri settimana sono ora visualizzati nella vista Mese di calendario e nel mini calendario nella barra laterale. Per abilitare questa funzione, selezionare "Mostra numeri settimana" in Outlook \> Preferenze \> Calendario \> Opzioni calendario.  <br/> <br/> **Pianificazione delle riunioni su Skype:** ora i delegati possono pianificare le riunioni di Skype for Business Online per conto dell'entità di sicurezza tramite gli indirizzi e-mail dell'entità di sicurezza.  *(Solo per Skype for Business Online. Questa funzione verrà abilitata per Skype for Business Server 2015 in un aggiornamento server futuro).*  <br/> ||Gestione degli errori migliorata quando si modificano e si eliminano le regole del server. Le regole del server con errori ora sono evidenziate quando vengono visualizzate per la prima volta nell'elenco di regole.  <br/> |[Pacchetto di aggiornamento per Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.12.18041000_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[Pacchetto di aggiornamento per OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.12.18041000_Updater.pkg) <br/> |
-|Microsoft AutoUpdate 3.18  <br/> |Supporto per lo strumento da riga di comando msupdate. [Ulteriori informazioni](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> |||[Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.18.18041000_Updater.pkg) <br/> |
+|Word  <br/> |**Collaborazione e condivisione migliori:** i documenti di OneDrive sincronizzati in locale si aprono direttamente dal cloud, consentendone il salvataggio automatico e la condivisione, oltre ad agevolare la collaborazione tra gli utenti interessati.  <br/> <br/> **Aggiunta di un impatto visivo:** inserire e modificare Scalable Vector Graphics (SVG) nei documenti per aggiungere elementi visivi e fornire immagini di qualità elevata. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
+|Excel  <br/> |**Collaborazione e condivisione migliori:** le cartelle di lavoro di OneDrive sincronizzate in locale si aprono direttamente dal cloud, consentendone il salvataggio automatico e la condivisione, oltre ad agevolare la collaborazione tra gli utenti interessati.  <br/> <br/> **Aggiunta di un impatto visivo:** inserire e modificare Scalable Vector Graphics (SVG) nelle cartelle di lavoro per aggiungere elementi visivi e fornire immagini di qualità elevata. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-1029): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel  <br/> ||||
+|PowerPoint  <br/> |**Collaborazione e condivisione migliori:** le presentazioni di OneDrive sincronizzate in locale si aprono direttamente dal cloud, consentendone il salvataggio automatico e la condivisione, oltre ad agevolare la collaborazione tra gli utenti interessati.   <br/><br/> **Aggiunta di un impatto visivo:** inserire e modificare Scalable Vector Graphics (SVG) nelle presentazioni per aggiungere elementi visivi e fornire immagini di qualità elevata. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
+|Outlook  <br/> |**Aggiunta di un impatto visivo:** inserire e modificare Scalable Vector Graphics (SVG) nelle e-mail per aggiungere elementi visivi e fornire immagini di qualità elevata. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**Calendario più interattivo:** fare clic su qualsiasi riunione o evento nel calendario per visualizzarne tutti i dettagli associati. Controllare chi è invitato, modificare la risposta da inviare o partecipare alla riunione: tutto in un'unica posizione.  <br/> <br/> **Analisi semplificata dei risultati della ricerca:** in Outlook, i termini della ricerca vengono evidenziati nell'elenco di voci o nel riquadro di anteprima.  <br/> <br/> **Numeri settimana:** i numeri settimana sono ora visualizzati nella vista Mese di calendario e nel mini calendario nella barra laterale. Per abilitare questa funzione, selezionare "Mostra numeri settimana" in Outlook \> Preferenze \> Calendario \> Opzioni calendario.  <br/> <br/> **Pianificazione delle riunioni su Skype:** ora i delegati possono pianificare le riunioni di Skype for Business Online per conto dell'entità di sicurezza tramite gli indirizzi e-mail dell'entità di sicurezza.  *(Solo per Skype for Business Online. Questa funzione verrà abilitata per Skype for Business Server 2015 in un aggiornamento server futuro).*  <br/> ||Gestione degli errori migliorata quando si modificano e si eliminano le regole del server. Le regole del server con errori ora sono evidenziate quando vengono visualizzate per la prima volta nell'elenco di regole.  <br/> ||
+|OneNote  <br/> ||||
+|Microsoft AutoUpdate 3.18  <br/> |Supporto per lo strumento da riga di comando msupdate. [Ulteriori informazioni](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> ||||
    
 ## <a name="march-2018-release"></a>Rilascio di marzo 2018
 

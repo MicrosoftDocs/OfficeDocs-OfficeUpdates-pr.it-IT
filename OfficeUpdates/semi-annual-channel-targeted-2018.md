@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2018
-ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b5b3cf82f2f59378f1309e7cd91540ad0689db47
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886632"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246386"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 
@@ -24,6 +24,36 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
+
+## <a name="version-1803-july-10"></a>Versione 1803: 10 luglio
+*Versione 1803 (Build 9126.2259)*
+
+### <a name="access-security-updates"></a>Access: Aggiornamenti della sicurezza
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
+
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8310): vulnerabilità relativa alla manomissione di Microsoft Office
+
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
+
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+-   Consente di correggere un problema a causa del quale viene visualizzato l'anno errato quando si utilizza il calendario giapponese nel formato cella data.
+-   Quando si importano i dati nel modello di dati di Excel, i valori zero negativo in ingresso danno origine a un errore. La correzione consente ora di importare tali valori come zero.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+-   Consente di risolvere un problema a causa del quale il rendering delle tabelle non è eseguito correttamente con i bordi spessi.
+
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
+-   Consente di correggere un problema a causa del quale, se un'attività è divisa con una risorsa costo, quest'ultima non viene aggiornata correttamente e il costo viene perso.
+-   Consente di correggere un problema a causa del quale in Visualizzazione cronologia, nella finestra di dialogo Aggiungi attività esistenti alla sequenza temporale, verrebbero visualizzate solo le attività della prima attività di riepilogo.
+-   Consente di risolvere un problema a causa del quale il salvataggio nel formato XML potrebbe non riuscire per i progetti principali di Project Online o Project Server.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+-   Consente di correggere un bug a causa del quale l'installazione degli aggiornamenti ha richiesto un lungo periodo di tempo in determinati scenari. 
+-   Consente di correggere un problema a causa del quale i test SVG non sono eseguiti correttamente.
+-   Consente di correggere un problema a causa del quale, quando vengono distribuiti gli aggiornamenti con System Center Configuration Manager a un client che esegue applicazioni di Office, l'aggiornamento non viene applicato dopo il riavvio del dispositivo.
+
 
 ## <a name="version-1803-june-12"></a>Versione 1803: 12 giugno
 *Versione 1803 (Build 9126.2227)*
