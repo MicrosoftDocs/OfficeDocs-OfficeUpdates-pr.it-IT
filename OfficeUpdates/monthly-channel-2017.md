@@ -3,27 +3,27 @@ title: Note sulla versione per le versioni del canale mensile 2017
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/12/2017
+ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Sono disponibili per i professionisti IT note sulla versione per canale mensile di versioni di Office 365 ProPlus 2017
-ms.openlocfilehash: 325036f301534ae903ec3e3693c31fac5356e30c
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556159"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334446"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Note sulla versione per le versioni del canale mensile 2017
 
 Queste note sulla versione vengono fornite informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e non correlati alla sicurezza gli aggiornamenti inclusi negli aggiornamenti di canale mensile per Office 365 ProPlus nelle 2017.
  
 > [!NOTE]
-> - Di seguito inoltre fornisce informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza per Visio Pro per Office 365 e il Client Desktop Project Online.
-> - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornito con alcuni piani di Office 365, ad esempio Business Premium.
+> - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
+> - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - Mensile canale è stato denominato canale corrente prima 2017 settembre.
 
 ## <a name="version-1711-december-12"></a>Versione 1711: 12 dicembre
@@ -68,8 +68,8 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema in cui i dati di LinkedIn non vengono visualizzati nella scheda contatto Skype for Business.
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
--   **Conteggio dei caratteri:** Mostra il conteggio dei caratteri sulla barra di stato durante la digitazione. È possibile abilitarla dal menu Personalizza barra di stato.
--   **Accedere rapidamente ai siti e gruppi:** Utilizzare il menu File per utilizzare i documenti archiviati nei siti e gruppi più usati.
+-   **Conteggio dei caratteri:** mostra il conteggio dei caratteri sulla barra di stato durante la digitazione. È possibile abilitarla dal menu Personalizza barra di stato.
+-   **Accedere rapidamente ai siti e gruppi:** utilizzare il menu File per utilizzare i documenti archiviati nei siti e gruppi più usati.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
 -   L'opzione Aggiorna adesso è nascosta da File \> Account \> Opzioni di aggiornamento quando un oggetto COM di Office è abilitato in modo che gli aggiornamenti del client Office 365 vengono gestiti da System Center Configuration Manager.
@@ -100,7 +100,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale, quando si utilizza Monitoraggio eventi accessibile (AccEvent.exe), Outlook si arresta in modo anomalo durante il passaggio da una cartella all'altra.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
--   Correzione un problema in cui i riferimenti a Flash Player basato YouTube incorporare risultati codici in aperta una finestra nuova per riprodurre il video. Old incorporare codici sono ora aggiornati a video di YouTube basato su riferimenti HTML5 in modo da riprodurle correttamente sul posto.
+-   Consente di risolvere un problema in cui i riferimenti a Flash Player basati sui codici di incorporamento di YouTube causano l&apos;apertura di una nuova finestra per la riproduzione del video. I vecchi codici di incorporamento sono ora aggiornati al riferimento HTML5 basato sui video di YouTube affinché vengano riprodotti correttamente.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema con l'ingrandimento e il ridimensionamento nei componenti aggiuntivi per Office nell'ambiente DPI dinamico.
@@ -113,7 +113,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 *Versione 1710 (Build 8625.2127)*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): le funzionalità di sicurezza di Microsoft Excel ignorano la vulnerabilità
+-   [CVE-2017-11877:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) le funzionalità di sicurezza di Microsoft Excel ignorano la vulnerabilità
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): vulnerabilità di danneggiamento della memoria di Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilità di danneggiamento della memoria di Microsoft Office
 
@@ -132,16 +132,16 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 *Versione 1710 (Build 8625.2121)*
 
 ### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
--   **Matita digitale:** Scrivere o prendere appunti usando il nuovo tratto della matita. È sufficiente inclinare la penna digitale per fare le ombre.
--   **Impostazione delle funzionalità LinkedIn:** Andare a File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle proprie applicazioni Office. [Altre informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Matita digitale:** scrivere o prendere appunti usando il nuovo tratto della matita. È sufficiente inclinare la penna digitale per fare le ombre.
+-   **Impostazione delle funzionalità LinkedIn:** andare a File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle proprie applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
--   **Impostazione delle funzionalità LinkedIn:** Andare a File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle proprie applicazioni Office. [Altre informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Impostazione delle funzionalità LinkedIn:** andare a File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle proprie applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
--   **Matita digitale:** Scrivere o prendere appunti usando il nuovo tratto della matita. È sufficiente inclinare la penna digitale per fare le ombre.
+-   **Matita digitale:** scrivere o prendere appunti usando il nuovo tratto della matita. È sufficiente inclinare la penna digitale per fare le ombre.
 -   **Pubblicare in Microsoft Stream:** Condividere una presentazione come un video in modo più sicuro all'interno dell'organizzazione tramite Microsoft Stream. [Ulteriori informazioni](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
--   **Impostazione delle funzionalità LinkedIn:** Andare a File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle proprie applicazioni Office. [Altre informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Impostazione delle funzionalità LinkedIn:** andare a File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle proprie applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
 -   **Vista della lavagna delle attività:** ordinare le attività nelle schede nella vista della lavagna delle attività. Ordinare nuovamente e spostare le schede tra le colonne della lavagna, così come avviene per i progetti Agile.
@@ -168,9 +168,9 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
 -   **Microsoft Translator:** tradurre parole, frasi oppure il documento intero in un'altra lingua utilizzando Microsoft Translator direttamente in Word. [Ulteriori informazioni](https://support.office.com/article/24a987b3-03a1-4c17-8c1b-54495fca6b17)
--   **Matita digitale:** Scrivere o prendere appunti usando il nuovo tratto della matita. È sufficiente inclinare la penna digitale per fare le ombre.
+-   **Matita digitale:** scrivere o prendere appunti usando il nuovo tratto della matita. È sufficiente inclinare la penna digitale per fare le ombre.
 -   **Scrivere il miglio CV con l'aiuto di LinkedIn:** Con Assistente curriculum, è possibile visualizzare le esperienze di lavoro, le competenze suggerite e altro per una data posizione. [Altre informazioni](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a)
--   **Impostazione delle funzionalità LinkedIn:** Andare a File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle proprie applicazioni Office. [Altre informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Impostazione delle funzionalità LinkedIn:** andare a File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle proprie applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 
 
@@ -183,10 +183,10 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale la descrizione comando non si allinea correttamente quando si trascinano elementi oppure si trascina il riempimento.
 -   Consente di risolvere un errore che si verifica quando si salva una cartella di lavoro utilizzando File \> Salva con nome e causa del quale il nome del file viene visualizzato vuoto oppure troncato nella finestra di dialogo di salvataggio del file.
--   Risolvere problemi dove, quando si salva un file sottoposti a sincronizzazione, Office avrà esito negativo scrivere su disco, ma mantiene Office caricamento del file in OneDrive. Con questa correzione utente verrà ora visualizzato un messaggio di errore e il caricamento non procedere.
+-   Consente di risolvere un problema che si verifica durante il salvataggio di un file di supporto di sincronizzazione. In questo caso, Office non riesce a scrivere sul disco, ma continua a caricare il file su OneDrive. Grazie a questa correzione, l&apos;utente è ora in grado di visualizzare un messaggio di errore e il caricamento si arresta.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
--   Risolvere problemi dove, quando si salva un file sottoposti a sincronizzazione, Office avrà esito negativo scrivere su disco, ma mantiene Office caricamento del file in OneDrive. Con questa correzione utente verrà ora visualizzato un messaggio di errore e il caricamento non procedere.
+-   Consente di risolvere un problema che si verifica durante il salvataggio di un file di supporto di sincronizzazione. In questo caso, Office non riesce a scrivere sul disco, ma continua a caricare il file su OneDrive. Grazie a questa correzione, l&apos;utente è ora in grado di visualizzare un messaggio di errore e il caricamento si arresta.
 
 ### <a name="publisher-non-security-updates"></a>Publisher: Aggiornamenti non della sicurezza
 -   Consente di correggere un errore che si verifica quando si applica un filtro ai campi dell'origine dati che contengono valori null (vuoti). A causa del problema, non si riesce ad applicare il filtro quando si esegue la procedura guidata Stampa unione.
@@ -194,7 +194,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale Word si arresta in modo anomalo quando un utente prova a salvare con il nome un documento esistente su OneDrive for Business e in seguito si annulla il salvataggio oppure si prova a unire le modifiche esistenti.
 -   Consente di correggere un errore che si verifica quando si applica un filtro ai campi dell'origine dati che contengono valori null (vuoti). A causa del problema, non si riesce ad applicare il filtro quando si esegue la procedura guidata Stampa unione.
--   Risolvere problemi dove, quando si salva un file sottoposti a sincronizzazione, Office avrà esito negativo scrivere su disco, ma mantiene Office caricamento del file in OneDrive. Con questa correzione utente verrà ora visualizzato un messaggio di errore e il caricamento non procedere.
+-   Consente di risolvere un problema che si verifica durante il salvataggio di un file di supporto di sincronizzazione. In questo caso, Office non riesce a scrivere sul disco, ma continua a caricare il file su OneDrive. Grazie a questa correzione, l&apos;utente è ora in grado di visualizzare un messaggio di errore e il caricamento si arresta.
 
 
 
@@ -218,7 +218,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Collaborare su disegni:** Lavorare con altri utenti mediante la condivisione dei disegni in OneDrive per Business o SharePoint Online. È possibile che lavorano nel disegno, aggiungere commenti e vedere attività di file. [Ulteriori informazioni](https://support.office.com/article/413c0b5a-0d52-4ace-af85-8b9bf115bbbf)
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
--   **Pannello proprietà SharePoint:** Visualizzazione e modifica di SharePoint document library i valori delle colonne all'interno di un documento. Un pulsante della barra multifunzione della scheda Visualizza consente di accedere facilmente al pannello e gli amministratori di SharePoint possono utilizzare un'impostazione di raccolta documenti per aprire automaticamente il Pannello proprietà.
+-   **Riquadro proprietà di SharePoint:** visualizzare e modificare i valori della colonna relativa alla raccolta documenti di SharePoint all'interno di un documento. Un pulsante della barra multifunzione sulla scheda Visualizza fornisce un rapido accesso al pannello; gli amministratori di SharePoint possono utilizzare un'impostazione della raccolta documenti per aprire automaticamente il pannello delle proprietà.
 
 ### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale l'annullamento della protezione IRM da un documento non rimuove effettivamente la protezione.
@@ -244,7 +244,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 *Versione 1708 (Build 8431.2094)*
 
 ### <a name="access-non-security-updates"></a>Access: Aggiornamenti non della sicurezza
--   Consente di risolvere in cui una query non viene eseguita se la query presenta un join con una chiave primaria di una tabella collegata Microsoft Dynamics.
+-   Consente di risolvere un problema in cui una query non viene eseguita se la query presenta un join con una chiave primaria di una tabella collegata Microsoft Dynamics.
 -   Consente di risolvere un problema per cui le posizioni decimali non vengono visualizzate per valori di valuta in una tabella Microsoft Dynamics.
 
 ### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
@@ -282,16 +282,16 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 *Versione 1708 (Build 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access: Aggiornamenti delle funzionalità
--   **Connettore Dynamics:** consente di importare i dati oppure collegare i dati archiviati in Microsoft Dynamics. [Ulteriori informazioni](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Connettore Salesforce:** Importare i dati oppure collegare i dati archiviati in Salesforce. [Ulteriori informazioni](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Dynamics Connector:** consente di importare i dati oppure collegare i dati archiviati in Microsoft Dynamics. [Ulteriori informazioni](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
+-   **Connettore Salesforce:** importare i dati oppure collegare i dati archiviati in Salesforce. [Ulteriori informazioni](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
 -   **Modelli 3D:** Utilizzare 3D per aumentare l'impatto visual e creativa delle cartelle di lavoro.  Inserimento di un modello 3D semplice, quindi è possibile ruotare a 360 gradi. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuovi effetti di input penna:** Esprimere le proprie idee con un tocco in più usando penne metalliche ed effetti di input penna come Arcobaleno, Galassia, Lava, Oceano, Oro, Argento e altro ancora.
 -   **Miglioramenti di "Aggiungi colonna da esempi":** Supporta più trasformazioni di Data/ora, Matematica e Colonna indice.
--   **Miglioramenti alle prestazioni:** Excel consente di aprire cartelle di lavoro complesse in modo da elaborare formule con intervalli estesi, filtrare un gran numero di righe o copiare e incollare più velocemente.
--   **Condivisione di file dell'interfaccia utente:** Per OneDrive for Business o SharePoint file, fare clic sul pulsante condivisione nell'angolo superiore destro della barra multifunzione o al File \> condivisione viene avviata una finestra di dialogo Condividi migliorata e semplificata. Per i file di nuovi o salvate in locale, l'interfaccia utente consente agli utenti di caricare facilmente i relativi file di OneDrive per avviare la collaborazione.
--   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l’attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, EXE, VBS e JS.
+-   **Miglioramenti alle prestazioni:** Excel consente di aprire cartelle di lavoro complesse in modo da elaborare formule con intervalli estesi, filtrare un gran numero di righe o copiare e incollare più velocemente. 
+-   **UI per la condivisione di file:** nel caso dei file di OneDrive for Business o SharePoint, fare clic sul pulsante Condividi nell'angolo superiore destro oppure andare a File \> Condividi per avviare una finestra di dialogo Condividi semplificata e migliorata. Per i file nuovi o salvati in locale, l'interfaccia utente permette agli utenti di caricare in un attimo i file su OneDrive e avviare la collaborazione.
+-   **Bloccare estensioni pericolose:** Estensioni che sono considerate ad alto rischio e incorporate come oggetti package OLE, sono bloccate per impostazione predefinita, da attivare. Ad esempio, .exe,. vbs e js. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale le schede vengono ignorate durante il copia e incolla di testo delimitato da tabulazione da Word, impedendo quindi di incollare tale testo nelle colonne
@@ -304,9 +304,9 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
 -   **Modelli 3D:** Utilizzare il formato 3D per aumentare l'impatto visivo e creativo delle presentazioni. Creare modelli 3D nelle presentazioni con transizioni come Morphing per generare animazioni cinematografiche tra le diapositive. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **Nuovi effetti di input penna:** Esprimere le proprie idee con un tocco in più usando penne metalliche ed effetti di input penna come Arcobaleno, Galassia, Lava, Oceano, Oro, Argento e altro ancora.
--   **Condivisione di file dell'interfaccia utente:** Per OneDrive for Business o SharePoint file, fare clic sul pulsante condivisione nell'angolo superiore destro della barra multifunzione o al File \> condivisione viene avviata una finestra di dialogo Condividi migliorata e semplificata. Per i file di nuovi o salvate in locale, l'interfaccia utente consente agli utenti di caricare facilmente i relativi file di OneDrive per avviare la collaborazione.
--   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l’attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, EXE, VBS e JS.
+-   **Nuovi effetti di input penna:** esprimere le proprie idee con un tocco in più usando penne metalliche ed effetti di input penna come Arcobaleno, Galassia, Lava, Oceano, Oro, Argento e altro ancora.
+-   **UI per la condivisione di file:** nel caso dei file di OneDrive for Business o SharePoint, fare clic sul pulsante Condividi nell'angolo superiore destro oppure andare a File \> Condividi per avviare una finestra di dialogo Condividi semplificata e migliorata. Per i file nuovi o salvati in locale, l'interfaccia utente permette agli utenti di caricare in un attimo i file su OneDrive e avviare la collaborazione.
+-   **Bloccare estensioni pericolose:** Estensioni che sono considerate ad alto rischio e incorporate come oggetti package OLE, sono bloccate per impostazione predefinita, da attivare. Ad esempio, .exe,. vbs e js. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
 -   **Gestire un'attività nella visualizzazione pianificazione:** Collega attività del progetto alla pianificazione e creare un piano per tale. Suddividere le attività in sottoattività, aggiungere un team, assegnare le attività e gestione del lavoro in una scheda attività
@@ -320,7 +320,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale il campo di stato non sempre viene calcolato correttamente per le attività di riepilogo.
 
 ### <a name="publisher-feature-updates"></a>Publisher: Aggiornamenti delle funzionalità
--   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l’attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, EXE, VBS e JS.
+-   **Bloccare estensioni pericolose:** Estensioni che sono considerate ad alto rischio e incorporate come oggetti package OLE, sono bloccate per impostazione predefinita, da attivare. Ad esempio, .exe,. vbs e js. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di aggiungere una finestra di dialogo che spiega perché un utente non è in grado di accedere a una riunione quando determinate porte sono bloccate o gli IP non sono consentiti.
@@ -334,13 +334,13 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale la notifica di condivisione in una chat viene ignorata prima che la condivisione venga interrotta.
 
 ### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
--   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l’attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, EXE, VBS e JS.
+-   **Bloccare estensioni pericolose:** Estensioni che sono considerate ad alto rischio e incorporate come oggetti package OLE, sono bloccate per impostazione predefinita, da attivare. Ad esempio, .exe,. vbs e js. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
 -   **Modelli 3D:** Utilizzare il formato 3D per aumentare l'impatto visivo e creativo delle cartelle di lavoro.  Inserire facilmente un modello 3D affinché sia possibile ruotarlo di 360 gradi. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **Nuovi effetti di input penna:** Esprimere le proprie idee con un tocco in più usando penne metalliche ed effetti di input penna come Arcobaleno, Galassia, Lava, Oceano, Oro, Argento e altro ancora.
--   **Condivisione di file dell'interfaccia utente:** Per OneDrive for Business o SharePoint file, fare clic sul pulsante condivisione nell'angolo superiore destro della barra multifunzione o al File \> condivisione viene avviata una finestra di dialogo Condividi migliorata e semplificata. Per i file di nuovi o salvate in locale, l'interfaccia utente consente agli utenti di caricare facilmente i relativi file di OneDrive per avviare la collaborazione.
--   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l’attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, EXE, VBS e JS.
+-   **Nuovi effetti di input penna:** esprimere le proprie idee con un tocco in più usando penne metalliche ed effetti di input penna come Arcobaleno, Galassia, Lava, Oceano, Oro, Argento e altro ancora.
+-   **UI per la condivisione di file:** nel caso dei file di OneDrive for Business o SharePoint, fare clic sul pulsante Condividi nell'angolo superiore destro oppure andare a File \> Condividi per avviare una finestra di dialogo Condividi semplificata e migliorata. Per i file nuovi o salvati in locale, l'interfaccia utente permette agli utenti di caricare in un attimo i file su OneDrive e avviare la collaborazione.
+-   **Bloccare estensioni pericolose:** Estensioni che sono considerate ad alto rischio e incorporate come oggetti package OLE, sono bloccate per impostazione predefinita, da attivare. Ad esempio, .exe,. vbs e js. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema che impedisce alla finestra di dialogo Novità di essere visualizzata.
@@ -535,7 +535,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 *Versione 1706 (Build 8229.2073)*
 
 ### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
--   **Personalizzazione delle penne:** Scegliere un set personale di penne ed evidenziatori per l’input penna. Il set personalizzato è disponibile in tutti i PC Windows.
+-   **Personalizzazione della penna:** scegliere un set personale di penne ed evidenziatori per l'input penna. Il set personalizzato è disponibile in tutti i PC Windows.
 -   **Inserimento di immagini online:** La nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
 -   **Connettore Azure Data Lake Store:** Gli utenti possono ora importare dati da Azure Data Lake Store.
 -   **Miglioramenti di "Aggiungi colonna da esempi":** Supporta suggerimenti, ulteriori operazioni su data/ora e trasformazioni aggiuntive.
@@ -544,7 +544,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Configurazione di nuovi account:** Impostare nuovi account con una nuova procedura guidata che richiede meno passaggi manuali.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
--   **Personalizzazione delle penne:** Scegliere un set personale di penne ed evidenziatori per l’input penna. Il set personalizzato è disponibile in tutti i PC Windows.
+-   **Personalizzazione della penna:** scegliere un set personale di penne ed evidenziatori per l'input penna. Il set personalizzato è disponibile in tutti i PC Windows.
 -   **Inserimento di immagini online:** La nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
 
 ### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
@@ -563,8 +563,8 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Aggiungere una nuova chiave del Registro di sistema DWORD per correggere un problema in cui, quando un utente accede al cliente su una rete esterna eseguendo LyncAutoD, il client reimposta la chiave del Registro di sistema OAuthUsed su false. Per risolvere il problema, impostare il valore su 1 per EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket in HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>.
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
--   **Personalizzazione delle penne:** Scegliere un set personale di penne ed evidenziatori per l’input penna. Il set personalizzato è disponibile in tutti i PC Windows.
--   **Inserimento di immagini online:** La nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
+-   **Personalizzazione della penna:** scegliere un set personale di penne ed evidenziatori per l'input penna. Il set personalizzato è disponibile in tutti i PC Windows.
+-   **Inserimento di immagini online:** la nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
 
 
 
@@ -613,10 +613,10 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Supporto per Windows Information Protection (WIP):** Outlook è ora un'app con riconoscimento e distingue tra dati aziendali e personali. In questo modo, riesce a determinare in modo corretto quali sono quelli da proteggere, sulla base dei criteri configurati. [Ulteriori informazioni](https://aka.ms/wiptechnet)
--   **Finestra di dialogo Connetti per i collegamenti:** Quando si collega un collegamento utilizzo di File basato sul collegamento nella barra multifunzione, è possibile selezionare se si desidera aggiungere come collegamento o come allegato. Se non si desidera visualizzare ogni volta che questa finestra di dialogo, passare al File \> opzioni \> generali e specificare la modalità di collegamenti da collegare in "Opzioni allegati".
+-   **Finestra di dialogo Allega per link:** quando si allega un link tramite l'opzione Allega file sulla barra multifunzione, è possibile selezionare se aggiungerlo come link o come allegato. Se non si desidera visualizzare sempre questa finestra di dialogo, andare a File \> Opzioni \> Generale e specificare in che modo allegare i link in "Opzioni allegato".
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
--   **Sottotitoli codificati per i video:** Aggiungere sottotitoli codificati a un video per renderlo più accessibile. [Ulteriori informazioni](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **Sottotitoli codificati per i video:** aggiungere sottotitoli codificati a un video per renderlo più accessibile. [Ulteriori informazioni](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Miglioramenti per la progettazione:** La finestra di progettazione suggerisce ora idee di progettazione per i grafici aggiunti alle diapositive.
 -   **Supporto per Windows Information Protection (WIP):**   PowerPoint è ora un'app con riconoscimento e distingue tra dati aziendali e personali. In questo modo, riesce a determinare in modo corretto quali sono quelli da proteggere, sulla base dei criteri configurati.  [Ulteriori informazioni](https://aka.ms/wiptechnet)
 
@@ -678,9 +678,9 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Posta in arrivo evidenziata:** La cartella Posta in arrivo è suddivisa in due schede: Evidenziata e Altro. I messaggi vengono ordinati in base al contenuto del messaggio e in base a con quali utenti si interagisce maggiormente. [Ulteriori informazioni](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
 -   **Accedere rapidamente ai gruppi più utilizzati:** I gruppi con i quali è più probabile che si interagirà ora vengono visualizzati nella parte superiore dell'elenco in Gruppi nel riquadro delle cartelle.
 -   **Inserire collegamenti recenti:** È possibile allegare i collegamenti ipertestuali ai file o siti Web basati sul cloud recenti e creare nomi visualizzati significativi per gli utenti che utilizzano utilità per la lettura dello schermo. [Ulteriori informazioni](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **Messaggi pronti per interventi:** Gli sviluppatori possono creare messaggi rendono più semplice per gli utenti abbiano il diritto di azioni semplici o veloce da Outlook senza dover passare a un sito web esterno o separare app [ulteriori informazioni](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
+-   **Messaggi operativi:** gli sviluppatori possono creare messaggi per facilitare gli utenti a effettuare azioni rapide o semplici direttamente da Outlook, senza dover passare a un sito Web esterno o a un'app separata. [Ulteriori informazioni](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 -   **Supporto di allegati in locale:** I file di SharePoint Server in locale vengono visualizzati come file recenti in Messaggio \> Allega file, OneDrive for Business in locale e i siti del team di SharePoint sono visualizzati in Allega file \> Esplora percorsi Web e i file locali possono essere caricati nei siti di OneDrive for Business in locale.
--   **Classificazioni aziendali per i gruppi:**  È possibile assegnare un livello di classificazione business definito dall'amministratore tenant, ad esempio riservato, quando si crea o modifica di un gruppo e la classificazione viene visualizzata nell'intestazione di gruppo.
+-   **Classificazioni aziendali per gruppi:** quando si crea o modifica un gruppo, è possibile assegnare un livello di classificazione commerciale definito dall'amministratore tenant, come ad esempio Riservato, classificazione che viene poi visualizzata nell'intestazione del gruppo.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
 -   **Narrazione di una registrazione:** Includere video di se stessi durante il commento quando si effettua la registrazione di una presentazione. Le registrazioni possono includere animazioni, input penna, audio e video.
@@ -750,7 +750,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Attività di un file condiviso:** selezionare il pulsante Attività nell'angolo superiore destro del file per visualizzare quando un file condiviso in OneDrive for Business o SharePoint è stato condiviso, modificato, rinominato o ripristinato.
 -   **Miglioramenti di visualizzazione e trasformazione:** rilevamento automatico del carattere di delimitazione durante la separazione di colonne mediante l'editor di query; selezionare quale file di esempio utilizzare con Combina binari e specificare la raccolta di pacchetti cui connettersi quando si utilizza il connettore per DB2.
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
--   **Collegamenti sicuri:** Quando un utente fa clic su un collegamento, Office 365 avanzate Threat Protection (degli strumenti di analisi) controlla se il collegamento per verificare se è dannoso. Se il collegamento viene ritenuto dannoso, l'utente viene reindirizzato a una pagina avviso anziché l'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **Collegamenti sicuri:** quando un utente fa clic su un collegamento, Office 365 Advanced Threat Protection (ATP) esamina il collegamento per verificare se è dannoso. Se il collegamento è ritenuto dannoso, l'utente viene reindirizzato a una pagina di avviso anziché all'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale le nuove funzioni introdotto dopo la pubblicazione di Office 2016 (ad esempio, TEXTJOIN, CONCAT, IFS, MAXIFS e MINIFS) sono mancanti.
@@ -767,7 +767,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Attività di un file condiviso:** selezionare il pulsante Attività nell'angolo superiore destro del file per visualizzare quando un file condiviso in OneDrive for Business o SharePoint è stato condiviso, modificato, rinominato o ripristinato.
 -   **Creazione di testo alternativo:** un servizio basato su cloud genera automaticamente testo alternativo per le immagini di una presentazione.
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
--   **Collegamenti sicuri:** Quando un utente fa clic su un collegamento, Office 365 avanzate Threat Protection (degli strumenti di analisi) controlla se il collegamento per verificare se è dannoso. Se il collegamento viene ritenuto dannoso, l'utente viene reindirizzato a una pagina avviso anziché l'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **Collegamenti sicuri:** quando un utente fa clic su un collegamento, Office 365 Advanced Threat Protection (ATP) esamina il collegamento per verificare se è dannoso. Se il collegamento è ritenuto dannoso, l'utente viene reindirizzato a una pagina di avviso anziché all'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Aggiornamenti delle funzionalità
 -   **Opzione di reimpostazione della password:** un collegamento a un pulsante di ripristino viene visualizzato nella finestra di accesso quando un utente non riesce ad accedere almeno una volta.
@@ -783,12 +783,12 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
 -   **Creazione di diagrammi dai dati in Excel:** consente di creare automaticamente un diagramma di flusso di base o un diagramma di flusso interfunzionale partendo dai dati in Excel con i nuovi modelli di Visualizzatore dati. [Ulteriori informazioni](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
--   **Collegamenti sicuri:** Quando un utente fa clic su un collegamento, Office 365 avanzate Threat Protection (degli strumenti di analisi) controlla se il collegamento per verificare se è dannoso. Se il collegamento viene ritenuto dannoso, l'utente viene reindirizzato a una pagina avviso anziché l'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **Collegamenti sicuri:** quando un utente fa clic su un collegamento, Office 365 Advanced Threat Protection (ATP) esamina il collegamento per verificare se è dannoso. Se il collegamento è ritenuto dannoso, l'utente viene reindirizzato a una pagina di avviso anziché all'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
 -   **Attività di un file condiviso:** selezionare il pulsante Attività nell'angolo superiore destro del file per visualizzare quando un file condiviso in OneDrive for Business o SharePoint è stato condiviso, modificato, rinominato o ripristinato.
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
--   **Collegamenti sicuri:** Quando un utente fa clic su un collegamento, Office 365 avanzate Threat Protection (degli strumenti di analisi) controlla se il collegamento per verificare se è dannoso. Se il collegamento viene ritenuto dannoso, l'utente viene reindirizzato a una pagina avviso anziché l'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **Collegamenti sicuri:** quando un utente fa clic su un collegamento, Office 365 Advanced Threat Protection (ATP) esamina il collegamento per verificare se è dannoso. Se il collegamento è ritenuto dannoso, l'utente viene reindirizzato a una pagina di avviso anziché all'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Salvataggio di un documento come un PDF salva il documento in versione 1.7 PDF.
