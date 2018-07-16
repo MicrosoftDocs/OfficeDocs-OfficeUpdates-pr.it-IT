@@ -3,7 +3,7 @@ title: Aggiornamenti per SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Trovare e gestire gli aggiornamenti per SharePoint Server 2016, SharePoint 2013 e SharePoint 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
-ms.openlocfilehash: a303891074326674571a70bbf9ae990f6a065737
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 6f70fe8bf721d034fc5b6573ca6f5be7965bb223
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886852"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246326"
 ---
 # <a name="sharepoint-updates"></a>Aggiornamenti per SharePoint
 
@@ -33,6 +33,7 @@ Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedere la 
 
 |**Nome pacchetto**|**Numero KB**|**Data di rilascio**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/it-IT/help/4022228)  <br/> |Luglio 2018  <br/> |
 |SharePoint Server 2016  <br/> MUI/patch linguistica di SharePoint Server 2016  <br/> |[KB 4022173](https://support.microsoft.com/it-IT/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/it-IT/help/4022178) <br/> |Giugno 2018  <br/> |
 |SharePoint Server 2016  <br/> MUI/patch linguistica di SharePoint Server 2016  <br/> |[KB 4018381](https://support.microsoft.com/it-IT/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/it-IT/help/4018386) <br/> |Maggio 2018  <br/> |
 |SharePoint Server 2016  <br/> MUI/patch linguistica di SharePoint Server 2016  <br/> |[KB 4018336](https://support.microsoft.com/it-IT/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/it-IT/help/4018340) <br/> |Aprile 2018  <br/> |
@@ -75,6 +76,7 @@ Per gli aggiornamenti cumulativi vengono forniti i seguenti pacchetti:
     
 |**Nome pacchetto**|**Numero KB**|**Data di rilascio**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/it-IT/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/it-IT/help/4022241) <br/> |Luglio 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/it-IT/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/it-IT/help/4022187) <br/> |Giugno 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018394](https://support.microsoft.com/it-IT/help/4018394) <br/> [KB 4018397](https://support.microsoft.com/it-IT/help/4018397) <br/> |Maggio 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018345](https://support.microsoft.com/it-IT/help/4018345) <br/> [KB 4018348](https://support.microsoft.com/it-IT/help/4018348) <br/> |Aprile 2018  <br/> |
