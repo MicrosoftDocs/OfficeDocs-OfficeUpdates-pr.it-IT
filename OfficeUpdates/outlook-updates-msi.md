@@ -3,19 +3,19 @@ title: Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows In
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Outlook 2016, Outlook 2013, e Outlook 2010
-ms.openlocfilehash: e2befc11978970e4d9fd113ae248cc53f9090781
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b57eb5dacff2e6934724fa6a05c0c76bae7fc894
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886682"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246246"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows Installer (MSI)
 
@@ -44,13 +44,13 @@ La compatibilità di Outlook con Office 365 e con l'ambiente locale dipende dai 
 
 |**Service Pack (SP) più recente**|**Aggiornamento minimo richiesto**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Aggiornamento pubblico di giugno 2018 <br/>[KB4022160](https://support.microsoft.com/it-IT/help/4022160) <br/><br/> Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Aggiornamento pubblico di luglio 2018 <br/>[KB4022230](https://support.microsoft.com/it-IT/help/4022230) <br/><br/> Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Aggiornamenti di Outlook 2013
 
 |**Service Pack (SP) più recente**|**Aggiornamento minimo richiesto**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|SP 1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Aggiornamento pubblico di dicembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Aggiornamento pubblico di giugno 2018 <br/>[KB4022169](https://support.microsoft.com/it-IT/help/4022169) <br/><br/>  Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP 1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Aggiornamento pubblico di dicembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Aggiornamento pubblico di luglio 2018 <br/>[KB4022242](https://support.microsoft.com/it-IT/help/4022242) <br/><br/>  Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Aggiornamenti di Outlook 2010
 
