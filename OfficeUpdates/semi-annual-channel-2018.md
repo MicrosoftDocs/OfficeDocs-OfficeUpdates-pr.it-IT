@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 96cad4972abd4987d6d3f2bd3a9d8815951ed891
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.openlocfilehash: 558af54e5e7111d8c240fcf9fac2862cbf9294b1
+ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/13/2018
-ms.locfileid: "20334436"
+ms.lasthandoff: 07/17/2018
+ms.locfileid: "20397969"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2018
 
@@ -331,7 +331,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1708-july-10"></a>Versione 1708: 10 luglio
 *Versione 1708 (Build 8431.2280)*
 
-* Si tratta della versione estesa del Canale semestrale, disponibile da settembre 2017. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, versione 1803 (Build 16.0.9126.2259), contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza*
+* Si tratta della versione del Canale semestrale, disponibile da settembre 2017. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, versione 1803 (Build 16.0.9126.2259), contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza*
 
 ### <a name="access-security-updates"></a>Access: Aggiornamenti della sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
