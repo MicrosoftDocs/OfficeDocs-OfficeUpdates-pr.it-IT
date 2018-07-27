@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Outlook 2016, Outlook 2013, e Outlook 2010
-ms.openlocfilehash: b57eb5dacff2e6934724fa6a05c0c76bae7fc894
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: a18e16114ac0c8865fc2b238a7c737076f4fd7fd
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246246"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222780"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows Installer (MSI)
 
@@ -33,11 +33,11 @@ La compatibilità di Outlook con Office 365 e con l'ambiente locale dipende dai 
     
 - Per le distribuzioni locali di Exchange, seguire i requisiti di sistema per la propria versione di Outlook:
     
-  - [Requisiti di sistema di Exchange 2016](https://technet.microsoft.com/it-IT/library/aa996719.aspx)
+  - [Requisiti di sistema di Exchange 2016](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
     
   - [Requisiti di sistema di Exchange 2013](https://technet.microsoft.com/it-IT/library/aa996719%28v=exchg.150%29.aspx)
     
-  - [Requisiti di sistema di Exchange 2010](https://technet.microsoft.com/it-IT/library/aa996719%28v=exchg.141%29.aspx)
+  - [Requisiti di sistema di Exchange 2010](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Aggiornamenti di Outlook 2016
