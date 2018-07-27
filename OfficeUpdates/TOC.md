@@ -16,7 +16,7 @@
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### Canale semestrale (assegnato)
+### Canale semestrale (mirato)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
@@ -30,17 +30,17 @@
 # Office (versione completa)
 ## [Aggiornamenti di Office (MSI)](office-updates-msi.md)
 ## [Aggiornamenti di Outlook (MSI)](outlook-updates-msi.md)
-## [Skype per gli aggiornamenti di Business](https://technet.microsoft.com/office/dn788954.aspx)
+## [Skype per gli aggiornamenti di Business](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [File con estensione msp Office 2016](msp-files-office-2016.md)
 ## [File msp di Office 2013](msp-files-office-2013.md)
 ## [Aggiornamenti di Office 2013](update-history-office-2013.md)
 ## [Aggiornamenti di Office 2010](update-history-office-2010-click-to-run.md)
 
 # Prodotti Server di Office
-## [Aggiornamenti di Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
-## [Aggiornamenti di Project Server](project-server-updates.md)
-## [Aggiornamenti di SharePoint](sharepoint-updates.md)
-## [Skype per gli aggiornamenti Business Server](https://technet.microsoft.com/office/dn788954.aspx)
+## [Aggiornamenti per Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+## [Aggiornamenti per Project Server](project-server-updates.md)
+## [Aggiornamenti per SharePoint](sharepoint-updates.md)
+## [Skype per gli aggiornamenti Business Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # Collegamenti correlati
 ## [Versioni di Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
