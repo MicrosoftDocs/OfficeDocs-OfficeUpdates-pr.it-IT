@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/26/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246256"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222947"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -25,6 +25,26 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
  
+## <a name="version-1807-july-25"></a>Versione 1807: 25 luglio
+*Versione 1807 (Build 10325.20082)*
+
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+- **Avvisi relativi ai componenti aggiuntivi di Outlook:** occasionalmente un componente aggiuntivo COM di Outlook può incontrare problemi che rallentano il resto di Outlook. Questi problemi potrebbero essere dovuti alla latenza di eventi quali il passaggio tra cartelle di Outlook, l'arrivo di nuove e-mail, l'apertura di elementi del Calendario e così via. Quando si verificano tali problemi, Outlook visualizza un avviso nella barra di notifica.
+- **Partecipare alle riunioni di Teams dalla finestra di dialogo Promemoria di Outlook:** quando Outlook ricorda agli utenti una riunione imminente, mostra il pulsante Partecipa a riunione online se la riunione imminente è una riunione online di Teams. L'esperienza è analoga alla partecipazione a una riunione di Skype for Business dalla finestra di dialogo Promemoria di Outlook.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+ - **Collegamenti ipertestuali a colori:** i collegamenti ipertestuali non sono più solamente blu. Ora è possibile scegliere il colore del carattere. [Ulteriori informazioni](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+
+### <a name="visio-feature-updates"></a>Visio: aggiornamenti delle funzionalità
+ - **Creare un documento Word fuori dalle forme di Visio:** aggiungere automaticamente il contenuto del diagramma, incluse forme e metadati, a un documento di Word. Personalizzare quindi il documento per creare linee guida di processo e manuali operativi. [Ulteriori informazioni](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
+ - **Revisioni con IRM:** è ora possibile utilizzare la funzionalità Revisioni in Word nei documenti protetti da IRM in cui l'utente non è proprietario.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+ - È stato risolto un problema che impediva ad alcuni utenti di aprire e-mail e documenti protetti da IRM condivisi con tali utenti da persone in altre organizzazioni.
+
+
 ## <a name="version-1806-july-10"></a>Versione 1806: 10 luglio
 *Versione 1806 (Build 10228.20104)*
 
