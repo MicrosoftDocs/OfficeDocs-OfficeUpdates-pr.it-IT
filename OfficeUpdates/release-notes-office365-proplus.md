@@ -3,19 +3,19 @@ title: Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/12/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco delle versioni più recenti per Office 365 ProPlus per ciascun canale di aggiornamenti e collegamenti alle note sulle versioni e alla cronologia degli aggiornamenti
-ms.openlocfilehash: 8845e3ba3eef05514b23e90ded0711749938f8c0
-ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
+ms.openlocfilehash: f407b9554688387f4ba085b66d7df6ae28e4dc95
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2018
-ms.locfileid: "20397959"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772473"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
 
@@ -26,7 +26,7 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
   
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione corrente fino a**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 10 luglio 2018  <br/> |Viene rilasciata la versione 1807 <br/>|
+|Mensile  <br/> |1807  <br/> |[10325.20082](monthly-channel-2018.md#version-1807-july-25)  <br/> | 25 luglio 2018  <br/> |Viene rilasciata la versione 1808 <br/>|
 |Semestrale (mirato)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 10 luglio 2018  <br/> |11 settembre 2018 <br/>|
 |Semestrale <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |10 luglio 2018  <br/> |8 gennaio 2019 <br/>|
 |Semestrale <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 10 luglio 2018  <br/> |12 marzo 2019 <br/>|
@@ -67,3 +67,5 @@ Per informazioni sugli aggiornamenti a Office per Mac, che è incluso in qualsia
 - [Panoramica del Centro messaggi di Office 365](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Informazioni sulla versione di Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Guida di Microsoft Security Update](https://portal.msrc.microsoft.com/)
+
+NOTA: se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft] (https://answers.microsoft.com/) o nella [community IT] (https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico] (https://support.microsoft.com/contactus).
