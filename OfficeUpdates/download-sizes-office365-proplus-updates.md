@@ -3,19 +3,19 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 595887039a9e93f1796c539fd7fcd235fda25056
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 8ef3c924269c690e50766dc90caaa46a967879ba
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246286"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772493"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -36,6 +36,17 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tenere presente che la dimensione del file di download sarà superiore.
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB. 
 
+  ## <a name="july-25-2018"></a>25 luglio 2018
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1807 (Build 10325.20082).
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1806 (Build 10228.20314)  <br/> |17 luglio 2018  <br/> |176  <br/> |
+|Versione 1805 (Build 10228.20104)  <br/> |10 luglio 2018  <br/> |176  <br/> |
+
  ## <a name="july-10-2018"></a>10 luglio 2018
 
 ### <a name="monthly-channel"></a>Canale mensile
@@ -52,12 +63,12 @@ La versione più recente è la numero 1806 (build 10228.20104).
    
 ### <a name="semi-annual-channel"></a>Canale semestrale
 
-La versione più recente è la numero 1708 (build 9126.2259).
+La versione più recente è la numero 1803 (Build 9126.2259).
   
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
+|Versione 1708 (Build 8431.2270)  <br/> |12 giugno 2018  <br/> |280  <br/> |
 |Versione 1708 (Build 8431.2250)  <br/> |8 maggio 2018  <br/> |280  <br/> |
-|Versione 1708 (build 8431.2242)  <br/> |10 aprile 2018  <br/> |280  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
 
@@ -375,3 +386,4 @@ La versione più recente è la numero 1801 (Build 9001.2138).
 - [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](update-history-office365-proplus-by-date.md)
 - [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine di versione)](update-history-office365-proplus-by-version.md)
 
+NOTA: se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft] (https://answers.microsoft.com/) o nella [community IT] (https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico] (https://support.microsoft.com/contactus).
