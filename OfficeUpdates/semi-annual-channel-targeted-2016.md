@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Consente ai professionisti IT note sulla versione per le versioni del canale e annuale (personalizzati) per Office 365 ProPlus in 2016
 ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556163"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Note sulla versione per le versioni in 2016 semi-annuale canale (personalizzati)
@@ -22,8 +22,8 @@ ms.locfileid: "19556163"
 Queste note sulla versione vengono fornite informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e non correlati alla sicurezza gli aggiornamenti inclusi negli aggiornamenti semi-annuale canale (personalizzati) per Office 365 ProPlus nelle 2016.
  
 > [!NOTE]
-> - Di seguito inoltre fornisce informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza per Visio Pro per Office 365 e il Client Desktop Project Online.
-> - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornito con alcuni piani di Office 365, ad esempio Business Premium.
+> - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
+> - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - Canale semi-annuale (personalizzati) è stato denominato prima versione del canale rinviata prima 2017 settembre.
 
 ## <a name="version-1609-december-13"></a>Versione 1609: 13 dicembre
@@ -444,7 +444,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Creazione semplificata profilo:** Un'interfaccia utente semplificata per configurare altri profili di Outlook per le cassette postali di Office 365, se l'accesso è stato eseguito con un account di Office 365
 
-    Nota: Questa funzionalità è corso di implementazione in un determinato periodo di tempo per i sottoscrittori, in modo che non vengano visualizzati questa caratteristica immediatamente. L'intervallo di tempo di ricezione di questa funzionalità dipende anche la modalità di aggiornamento di Office nell'organizzazione.
+    Nota: Questa funzionalità viene distribuita gradualmente agli abbonati. Per questo motivo, è possibile che non venga visualizzata immediatamente. La tempistica di ricezione della funzionalità dipende anche dalla modalità di aggiornamento di Office scelta dalla propria organizzazione.
 
 -   **Elenco degli allegati delle conversazioni:** Tutti gli allegati di una conversazione all'interno di un gruppo di Office 365 sono disponibili da un elenco a discesa presente nell'angolo superiore a destra del riquadro di lettura.
 
@@ -512,7 +512,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: Aggiornamenti delle funzionalità
 -   **Impostazione modello dei criteri per i diritti AD RMS:** Consente di verificare che l'impostazione di "Concedi proprietario, autore, controllo completo destro con nessuna scadenza" assolte se applicata a nuovi documenti di Word, Excel e PowerPoint, soprattutto se l'impostazione è disabilitata. Se l'impostazione è disattivata, viene visualizzato un avviso indicante che l'applicazione del modello potrebbe limitare l'accesso al documento.
 
-    Nota: Non modificherà documenti esistenti è protetti con il modello con questa impostazione configurata. Il proprietario abbiano ancora il controllo completo e Nessuna scadenza dei documenti.
+    Nota: I documenti esistenti già protetti con un modello con questa impostazione configurata rimarranno invariati. Il proprietario avrà ancora controllo completo e non ci sarà nessuna scadenza per tali documenti.
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Aggiornamento della sicurezza per Microsoft Office (3155544)
@@ -729,7 +729,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale gli elementi del menu a discesa Da non vengono evidenziati completamente in modalità a contrasto elevato.
 -   Consente di risolvere un problema a causa del quale viene selezionato solo il primo allegato quando si usa MAIUSC + clic per selezionare più allegati.
 -   Consente di risolvere un problema a causa del quale, se configurati per l'utilizzo di POP3, tutti i messaggi di posta sul server vengono eliminati dalla Posta in arrivo dopo il download di tali messaggi in Outlook. [Ulteriori informazioni sul problema](https://support.microsoft.com/kb/3145116)
--   Risolvere problemi cui, se configurata per l'utilizzo di POP3, i messaggi di posta elettronica vengono scaricati più volte, causando voci duplicate. [Ulteriori informazioni su questo problema](https://support.microsoft.com/kb/3145116)
+-   Risolvere problemi cui, se configurata per l'utilizzo di POP3, i messaggi di posta elettronica vengono scaricati più volte, causando voci duplicate. [Ulteriori informazioni sul problema](https://support.microsoft.com/kb/3145116)
 -   Consente di risolvere un problema a causa del quale gli utenti non sono in grado di accedere alle cartelle pubbliche ospitate su Exchange Server 2010.
 -   Consente di risolvere un problema in cui le dimensioni di visualizzazione delle immagini sono errate quando si invia la posta tra un dispositivo con valori dpi alti e un monitor dpi normale.
 -   Consente di risolvere un problema a causa del quale, quando si trascina la barra di scorrimento in un elenco di messaggi, viene visualizzata la fine di tale elenco.
@@ -743,7 +743,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Transizione morphing:** consente di creare transizioni continue tra diapositive e di inserire movimenti nelle presentazioni, al fine di enfatizzare concetti e informazioni. [Ulteriori informazioni](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** un nuovo servizio che consente di generare varie idee a partire da un contenuto. Tali idee possono essere usate per migliorare l'aspetto delle diapositive. [Ulteriori informazioni](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Questo servizio richiede la connessione a Internet. Per disabilitare questa funzionalità, [utilizzare i file di modelli amministrativi di criteri di gruppo più recenti](https://www.microsoft.com/download/details.aspx?id=49030) e attivare l'impostazione di opzioni di progettazione di PowerPoint. È possibile trovare questa impostazione in configurazione utente\\modelli amministrativi\\Microsoft Office 2016\\strumenti | Opzioni | Generale | Opzioni dei servizi... \\Designer di PowerPoint.
+    Questo servizio richiede una connessione Internet. Per disabilitare questa funzionalità, [utilizzare i file di modelli amministrativi di criteri di gruppo più recenti](https://www.microsoft.com/download/details.aspx?id=49030) e attivare l'impostazione di opzioni di progettazione di PowerPoint. È possibile trovare questa impostazione dei criteri in Configurazione utente\\Modelli amministrativi\\Microsoft Office 2016\\Strumenti | Opzioni | Generale | Opzioni servizi...\\PowerPoint Designer.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
@@ -834,7 +834,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Ordinare funzionalità nel File \> Open:** ordinamento in base al nome o Data ultima modificata nel File \> aperti in tutte le app ad eccezione di Outlook. Per Word, Excel e PowerPoint, l'ordinamento è disponibile anche nel File \> Salva con nome.
 -   **Funzionalità di ricerca delle cartelle in File \> Salva con nome:** consente di utilizzare la navigazione completa delle cartelle in File \> Salva con nome in Word, Excel e PowerPoint per le cartelle di OneDrive, OneDrive for Business e questo PC.
 -   **Opzioni Invia come:** consente di inviare un documento come allegato o come file PDF dal riquadro di condivisione di Word o PowerPoint.
--   **Inserisci immagine API:**  Inserire immagini in Word, Excel o PowerPoint utilizzando il [metodo document.setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) nella libreria office.js comune. L'API JavaScript Word fornisce i metodi specifici dell'host denominati insertInlinePictureFromBase64() per impostare le immagini in linea nel [corpo](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [paragrafo](https://msdn.microsoft.com/library/office/mt598682.aspx)e gli oggetti Range.
+-   **Inserisci immagine API:**  Inserire immagini in Word, Excel o PowerPoint utilizzando il [metodo document.setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) nella libreria office.js comune. L'API JavaScript di Word fornisce un metodo specifico dell'host denominato insertInlinePictureFromBase64() al fine di impostare immagini in linea negli oggetti di [corpo](https://msdn.microsoft.com/library/office/mt598674.aspx),[contentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [paragrafo](https://msdn.microsoft.com/library/office/mt598682.aspx)e intervallo .
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3080790)

@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Sono disponibili per i professionisti IT note sulla versione per canale mensile di versioni di Office 365 ProPlus 2016
 ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556154"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Note sulla versione per le versioni del canale mensile 2016
@@ -22,8 +22,8 @@ ms.locfileid: "19556154"
 Queste note sulla versione vengono fornite informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e non correlati alla sicurezza gli aggiornamenti inclusi negli aggiornamenti di canale mensile per Office 365 ProPlus nelle 2016.
  
 > [!NOTE]
-> - Di seguito inoltre fornisce informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza per Visio Pro per Office 365 e il Client Desktop Project Online.
-> - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornito con alcuni piani di Office 365, ad esempio Business Premium.
+> - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
+> - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - Mensile canale è stato denominato canale corrente prima 2017 settembre.
 
 ## <a name="version-1611-december-13"></a>Versione 1611: 13 dicembre
@@ -643,7 +643,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Creazione semplificata profilo:** Un'interfaccia utente semplificata per configurare altri profili di Outlook per le cassette postali di Office 365, se l'accesso è stato eseguito con un account di Office 365
 
-    Nota: Questa funzionalità è corso di implementazione in un determinato periodo di tempo per i sottoscrittori, in modo che non vengano visualizzati questa caratteristica immediatamente. L'intervallo di tempo di ricezione di questa funzionalità dipende anche la modalità di aggiornamento di Office nell'organizzazione.
+    Nota: Questa funzionalità viene distribuita gradualmente agli abbonati. Per questo motivo, è possibile che non venga visualizzata immediatamente. La tempistica di ricezione della funzionalità dipende anche dalla modalità di aggiornamento di Office scelta dalla propria organizzazione.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema in cui caratteri simbolo estesi vengono modificati in "1" quando si invia un messaggio di posta elettronica in formato RTF.
@@ -671,7 +671,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Funzionalità di collaborazione raggruppate sulla barra multifunzione:** Funzionalità relative a condivisione, chat, commenti, attività del documento e autore delle modifiche apportate al documento sono raggruppate sulla barra multifunzione in Word e PowerPoint. [Ulteriori informazioni](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **Impostazione modello dei criteri per i diritti AD RMS:** Consente di verificare che l'impostazione di "Concedi proprietario, autore, controllo completo destro con nessuna scadenza" assolte se applicata a nuovi documenti di Word, Excel e PowerPoint, soprattutto se l'impostazione è disabilitata. Se l'impostazione è disattivata, viene visualizzato un avviso indicante che l'applicazione del modello potrebbe limitare l'accesso al documento.
 
-    Nota: Non modificherà documenti esistenti è protetti con il modello con questa impostazione configurata. Il proprietario abbiano ancora il controllo completo e Nessuna scadenza dei documenti.
+    Nota: I documenti esistenti già protetti con un modello con questa impostazione configurata rimarranno invariati. Il proprietario avrà ancora controllo completo e non ci sarà nessuna scadenza per tali documenti.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale alcune informazioni sulla licenza e sull'installazione di Office 2013 vengono eliminate prima di un aggiornamento avviato da Microsoft dalla versione Office 2013 del client di Office 365, ad esempio, Office 365 ProPlus alla versione 2016 di Office.
@@ -839,7 +839,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale, se configurati per l'utilizzo di POP3, tutti i messaggi di posta sul server vengono eliminati dalla Posta in arrivo dopo il download di tali messaggi in Outlook. [Ulteriori informazioni sul problema](https://support.microsoft.com/kb/3145116)
--   Risolvere problemi cui, se configurata per l'utilizzo di POP3, i messaggi di posta elettronica vengono scaricati più volte, causando voci duplicate. [Ulteriori informazioni su questo problema](https://support.microsoft.com/kb/3145116)
+-   Risolvere problemi cui, se configurata per l'utilizzo di POP3, i messaggi di posta elettronica vengono scaricati più volte, causando voci duplicate. [Ulteriori informazioni sul problema](https://support.microsoft.com/kb/3145116)
 
 
 

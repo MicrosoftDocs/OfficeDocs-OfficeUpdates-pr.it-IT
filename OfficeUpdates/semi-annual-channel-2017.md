@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Sono disponibili per i professionisti IT note sulla versione per canale e annuale di versioni di Office 365 ProPlus 2017
 ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556171"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Note sulla versione per le versioni del canale semi-annuale 2017
 
 Queste note sulla versione vengono fornite informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e non correlati alla sicurezza gli aggiornamenti inclusi negli aggiornamenti di canale semi-annuale per Office 365 ProPlus nelle 2017. 
 > [!NOTE]
-> - Di seguito inoltre fornisce informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza per Visio Pro per Office 365 e il Client Desktop Project Online.
-> - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornito con alcuni piani di Office 365, ad esempio Business Premium.
-> - Semi-annuale canale è stato denominato canale rinviata prima 2018 gennaio.
+> - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
+> - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
+> - Prima di gennaio 2018, il Canale semestrale era denominato Deferred Channel.
 
 
 ## <a name="version-1705-december-12"></a>Versione 1705: 12 dicembre
@@ -62,7 +62,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 *Versione 1705 (Build 8201.2207)*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): le funzionalità di sicurezza di Microsoft Excel ignorano la vulnerabilità
+-   [CVE-2017-11877:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) le funzionalità di sicurezza di Microsoft Excel ignorano la vulnerabilità
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): vulnerabilità di danneggiamento della memoria di Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilità di danneggiamento della memoria di Microsoft Office
 
@@ -75,12 +75,12 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 ## <a name="version-1701-november-14"></a>Versione 1701: Novembre 14
-*Versione 1701 (Build 7766.2122)*
+* Versione 1701 (Build 7766.2122)*
 
 *Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 giugno. Continuerà a essere supportato e ricevere gli aggiornamenti di sicurezza finché 2018 gennaio. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1705 (Build 8201.2207), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): le funzionalità di sicurezza di Microsoft Excel ignorano la vulnerabilità
+-   [CVE-2017-11877:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) le funzionalità di sicurezza di Microsoft Excel ignorano la vulnerabilità
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): vulnerabilità di danneggiamento della memoria di Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilità di danneggiamento della memoria di Microsoft Office
 
@@ -114,7 +114,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 ## <a name="version-1701-october-10"></a>Versione 1701: 10 ottobre
-*Versione 1701 (Build 7766.2119)*
+* Versione 1701 (Build 7766.2119)*
 
 *Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 giugno. Continuerà a essere supportato e ricevere gli aggiornamenti di sicurezza finché 2018 gennaio. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1705 (Build 8201.2200), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
 
@@ -394,7 +394,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 ## <a name="version-1701-september-12"></a>Versione 1701: Settembre 12
-*Versione 1701 (Build 7766.2116)*
+* Versione 1701 (Build 7766.2116)*
 
 *Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 giugno. Continuerà a essere supportato e ricevere gli aggiornamenti di sicurezza finché 2018 gennaio. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1705 (Build 8201.2193), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
 
@@ -466,7 +466,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 ## <a name="version-1701-june-13"></a>Versione 1701: 13 giugno
-*Versione 1701 (Build 7766.2092)*
+* Versione 1701 (Build 7766.2092)*
 
 ### <a name="access-non-security-updates"></a>Access: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale i riquadri a comparsa del menu non possono essere ignorati.

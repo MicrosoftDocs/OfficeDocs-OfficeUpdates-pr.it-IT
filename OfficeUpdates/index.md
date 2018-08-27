@@ -12,10 +12,10 @@ localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Sono disponibili per i professionisti IT collegamenti per Office versione contenuto per Office 365 ProPlus, Office per Mac, perpetua Office e Office Server prodotti
 ms.openlocfilehash: f2bd4b536cc1e7a6aa92cc5733695f7a42505874
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/26/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "21223384"
 ---
 # <a name="office-updates"></a>Aggiornamenti di Office
@@ -94,7 +94,7 @@ Ottenere informazioni sulle funzionalità, aggiornamenti di sicurezza e aggiorna
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Altre risorse su Office</h3>
+                        <h3>Altre risorse Office</h3>
                             <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Novità di Office 365</a></p>
                             <p><a href="https://products.office.com/business/office-365-roadmap">Roadmap di Office 365</a></p>
                             <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Rimanere informati sulle modifiche di Office 365</a></p>
