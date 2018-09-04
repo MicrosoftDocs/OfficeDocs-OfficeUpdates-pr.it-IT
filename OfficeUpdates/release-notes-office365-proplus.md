@@ -3,33 +3,33 @@ title: Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/2/18
+ms.date: 8/14/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco delle versioni più recenti per Office 365 ProPlus per ciascun canale di aggiornamenti e collegamenti alle note sulle versioni e alla cronologia degli aggiornamenti
-ms.openlocfilehash: f407b9554688387f4ba085b66d7df6ae28e4dc95
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: b583775238a3ce42debbc35daaf56964532ae276
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772473"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520578"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
 
-Office 365 ProPlus viene aggiornato regolarmente con nuove funzionalità, aggiornamenti della sicurezza e di altro tipo. Questi aggiornamenti vengono rilasciati tramite i [canali di aggiornamento](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus). A ciascun rilascio in ogni canale di aggiornamento è assegnato un numero di versione e di build. 
+Office 365 ProPlus viene aggiornato regolarmente con nuove funzionalità, aggiornamenti della sicurezza e di altro tipo. Questi aggiornamenti vengono rilasciati tramite i [canali di aggiornamento](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). A ciascun rilascio in ogni canale di aggiornamento è assegnato un numero di versione e di build. 
 
 Nella tabella seguente viene elencata la versione supportata e il numero di build più recente per ogni canale di aggiornamento. Il numero di build reindirizza direttamente alle note sulle versioni di tale rilascio. 
 
   
-|**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione corrente fino a**|
+|**Canale**|**Versione**|**Build**|**Data di uscita**|**Versione supportata fino a**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile  <br/> |1807  <br/> |[10325.20082](monthly-channel-2018.md#version-1807-july-25)  <br/> | 25 luglio 2018  <br/> |Viene rilasciata la versione 1808 <br/>|
-|Semestrale (mirato)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 10 luglio 2018  <br/> |11 settembre 2018 <br/>|
-|Semestrale <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |10 luglio 2018  <br/> |8 gennaio 2019 <br/>|
-|Semestrale <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 10 luglio 2018  <br/> |12 marzo 2019 <br/>|
+|Mensile  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 14 agosto 2018  <br/> | Viene rilasciata la versione 1808 <br/>|
+|Semestrale (mirato)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 14 agosto 2018  <br/> | 11 settembre 2018 <br/>|
+|Semestrale <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 14 agosto 2018  <br/> | 10 settembre 2019 <br/>|
+|Semestrale <br/> |1708  <br/> |[8431.2299](semi-annual-channel-2018.md#version-1708-august-14)  <br/> | 14 agosto 2018  <br/> | 12 marzo 2019 <br/>|
 
 Per informazioni sulle dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Office 365 ProPlus, vedere [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
@@ -60,7 +60,7 @@ Per informazioni sugli aggiornamenti a Office per Mac, che è incluso in qualsia
 
 ## <a name="related-topics"></a>Argomenti correlati
 
-- [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Distribuzione di Office](https://docs.microsoft.com/deployoffice/)
 - [Novità di Office 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Roadmap di Office 365](https://products.office.com/business/office-365-roadmap)
@@ -68,4 +68,5 @@ Per informazioni sugli aggiornamenti a Office per Mac, che è incluso in qualsia
 - [Informazioni sulla versione di Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Guida di Microsoft Security Update](https://portal.msrc.microsoft.com/)
 
-NOTA: se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft] (https://answers.microsoft.com/) o nella [community IT] (https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico] (https://support.microsoft.com/contactus).
+> [!NOTE]
+> Se hai bisogno di  assistenza per un problema con l'utilizzo di Office, è consigliabile registrare la domanda nel [forum di Microsoft Answers](https://answers.microsoft.com/) o nella [Community Tech](https://techcommunity.microsoft.com/) oppure contattare [il supporto](https://support.microsoft.com/contactus).
