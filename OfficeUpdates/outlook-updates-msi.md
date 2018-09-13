@@ -3,19 +3,19 @@ title: Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows In
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Outlook 2016, Outlook 2013, e Outlook 2010
-ms.openlocfilehash: 5f11b7c8fa3c653c414720582c75cbaf733e1e12
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 2e8c901b34b9a3e432efcbe91100210914af8227
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520498"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954772"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows Installer (MSI)
 
@@ -44,7 +44,7 @@ La compatibilità di Outlook con Office 365 e con l'ambiente locale dipende dai 
 
 |**Service Pack (SP) più recente**|**Aggiornamento minimo richiesto**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Agosto 2018 aggiornamento pubblico <br/>[KB4032235](https://support.microsoft.com/en-us/help/4032235) <br/><br/> Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Settembre 2018 aggiornamento pubblico <br/>[KB4092462](https://support.microsoft.com/en-us/help/4092462) <br/><br/> Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Aggiornamenti di Outlook 2013
 
