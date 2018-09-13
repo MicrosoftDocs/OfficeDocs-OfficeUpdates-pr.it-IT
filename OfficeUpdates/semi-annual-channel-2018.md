@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2018
-ms.openlocfilehash: f7d33739981dcbe14a9a940ea09c93ba9e9a46fc
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f1f0e3b40a49db9d2c3b66c7d07fab2fb864902b
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520658"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952446"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2018
 
@@ -26,41 +26,71 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - Prima di gennaio 2018, il Canale semestrale era denominato Deferred Channel.
 
+## <a name="version-1803-september-11"></a>Versione 1803: Settembre 11
+*Versione 1803 (Build 9126.2282)*
+
+### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331):  vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilità relativa alla divulgazione delle informazioni di Microsoft Excel
+
+### <a name="word-security-updates"></a>Word: aggiornamenti di sicurezza
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): vulnerabilità relativa all'esecuzione di codice remoto in Word PDF
+
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilità relativa all'esecuzione di codice remoto Win32K grafica
+
+
+## <a name="version-1708-september-11"></a>Versione 1708: Settembre 11
+*Versione 1708 (Build 8431.2309)*
+
+*Si tratta della versione del Canale semestrale, disponibile da gennaio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1803 (Build 16.0.9126.2282), contenente nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non relativi alla sicurezza.*
+
+### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331):  vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilità relativa alla divulgazione delle informazioni di Microsoft Excel
+
+### <a name="word-security-updates"></a>Word: aggiornamenti di sicurezza
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): vulnerabilità relativa all'esecuzione di codice remoto in Word PDF
+
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilità relativa all'esecuzione di codice remoto Win32K grafica
+
+
 ## <a name="version-1803-august-14"></a>Versione 1803: Agosto 14
 *Versione 1803 (Build 9126.2275)*
 
-### <a name="access-security-updates"></a>Access: Aggiornamenti di sicurezza
+### <a name="access-security-updates"></a>Access: Aggiornamenti della sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: Aggiornamenti di sicurezza
+### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilità della divulgazione delle informazioni di Microsoft Excel 
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti di sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
 -   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): aggiornamento difesa in profondità di Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti di sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): vulnerabilità della divulgazione delle informazioni di Microsoft Office 
 
 
 ## <a name="version-1708-august-14"></a>Versione 1708: agosto 14
 *Versione 1708 (Build 8431.2299)*
 
-*Si tratta della versione del Canale semestrale, disponibile da gennaio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti di sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, versione 1803 (Build 16.0.9126.2275), contenente nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non relativi alla sicurezza.*
+*Si tratta della versione del Canale semestrale, disponibile da gennaio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti di sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1803 (Build 16.0.9126.2275), contenente nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non relativi alla sicurezza.*
 
-### <a name="access-security-updates"></a>Access: Aggiornamenti di sicurezza
+### <a name="access-security-updates"></a>Access: aggiornamenti di sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: Aggiornamenti di sicurezza
+### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilità della divulgazione delle informazioni di Microsoft Excel 
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti di sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
 -   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): aggiornamento difesa in profondità di Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti di sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): vulnerabilità della divulgazione delle informazioni di Microsoft Office 
 
 
@@ -369,9 +399,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1708-july-10"></a>Versione 1708: 10 luglio
 *Versione 1708 (Build 8431.2280)*
 
-*Si tratta della versione del Canale semestrale, disponibile da gennaio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti di sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, versione 1803 (Build 16.0.9126.2259), contenente nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non relativi alla sicurezza.*
+*Si tratta della versione del Canale semestrale, disponibile da gennaio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti di sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1803 (Build 9126.2259), contenente nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non relativi alla sicurezza.*
 
-### <a name="access-security-updates"></a>Access: Aggiornamenti di sicurezza
+### <a name="access-security-updates"></a>Access: aggiornamenti di sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti di sicurezza
@@ -822,7 +852,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
--   [Avviso 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Aggiornamento difensivo di Microsoft Office
+-   [Avviso 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Aggiornamento difensivo Microsoft Office
 
 > [!NOTE]
 > Se hai bisogno di assistenza per un problema con l'utilizzo di Office, è consigliabile postare la domanda nel [forum di Microsoft Answers](https://answers.microsoft.com/) o nella [Community Tech](https://techcommunity.microsoft.com/) oppure contattare [il supporto](https://support.microsoft.com/contactus).
