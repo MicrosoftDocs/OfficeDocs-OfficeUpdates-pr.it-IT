@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/6/2018
+ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: 59b431cf0379a96d47a6b0d4e07b4b1e991441d2
-ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
+ms.openlocfilehash: 12cfa9021a7a5513c55ffec608daebda62cc1553
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23848374"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952406"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
@@ -32,8 +32,9 @@ La tabella seguente fornisce un elenco di numeri diversione e build per ciascun 
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|5 settembre   |[**Versione 1808 (Build 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
-|2018|14 agosto   |[Versione 1807 (Build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|**[Versione 1803 (Build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Versione 1803 (Build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Versione 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018|11 settembre   |[**Versione 1808 (Build 10730.20102)**](monthly-channel-2018.md#version-1808-september-11)|[**Versione 1808 (Build 10730.20102)**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |**[Versione 1803 (Build 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [**Versione 1708 (Build 8431.2309**)](semi-annual-channel-2018.md#version-1708-september-11)   |
+|2018|5 settembre   |[Versione 1808 (Build 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018|14 agosto   |[Versione 1807 (Build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[Versione 1803 (Build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[Versione 1803 (Build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [Versione 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||25 luglio   |[Versione 1807 (Build 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||17 luglio   |[Versione 1806 (Build 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
 ||10 luglio   |[Versione 1806 (Build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versione 1803 (Build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versione 1803 (Build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versione 1708 (Build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
