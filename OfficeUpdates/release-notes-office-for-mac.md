@@ -3,19 +3,19 @@ title: Note sulla versione per Office per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/12/2018
+ms.date: 9/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 5ec4d94714d59fe29735faa4c5f138b14d8f7304
-ms.sourcegitcommit: 5b6837d06af9089e443466b04c286f104411c6c9
+ms.openlocfilehash: 866eaf85ce6be9e85b035e515bf321802941e112
+ms.sourcegitcommit: c58f7bb10aa58c3eb9d9d498bc3c0f27b5d17752
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23959331"
+ms.lasthandoff: 09/14/2018
+ms.locfileid: "23976907"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -46,7 +46,7 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |Excel  <br/> |**Disegnare con penna:** utilizza il mouse o il touchpad e le penne nella scheda Disegno per scrivere, disegnare ed evidenziare. [Ulteriori informazioni](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Inserire modelli 3D per visualizzare tutti gli angoli:** inserisci facilmente un modello 3D e poi ruotalo a 360 gradi. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Le scelte rapide personalizzate sono tornate:** Ti abbiamo ascoltato! Su tua richiesta, abbiamo reintrodotto i tasti di scelta rapida. [Ulteriori informazioni](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilità relativa alla divulgazione delle informazioni di Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel <br/>  |[Pacchetto di aggiornamento per Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**Ottenere la loro attenzione con \@menzioni:** utilizza @mentions nei commenti per informare i colleghi che è necessario il loro contributo. [Ulteriori informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Disegnare con penna:** Utilizza il mouse o il touchpad e le penne nella scheda Disegno per scrivere, disegnare ed evidenziare. [Per saperne di più](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Inserire modelli 3D per visualizzare tutti gli angoli:** inserisci facilmente un modello 3D e poi ruotalo a 360 gradi. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Il tipo di carattere scelto è il tipo di carattere visualizzato:** incorpora caratteri personalizzati nei tuoi file affinché ovunque sessi vadano, i carattere li seguono. [Ulteriori informazioni](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Pacchetto di aggiornamento per PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Pacchetto di aggiornamento per Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.2  <br/> |||[Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.3  <br/> |||[Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
 |Famiglia di prodotti Office  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilità relativa all'esecuzione di codice remoto grafica in Microsoft Word <br/>||
 
 ## <a name="august-2018-release"></a>Versione di agosto 2018
