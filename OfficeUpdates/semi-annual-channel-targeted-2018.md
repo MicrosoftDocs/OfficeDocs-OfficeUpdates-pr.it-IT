@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/12/2018
+ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2018
-ms.openlocfilehash: bb6e9f8f4a2740f7ee98b178563afa03aad561e7
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 8d89c9f250fcec6994cbc2763a6a094ae1b58064
+ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952436"
+ms.lasthandoff: 09/17/2018
+ms.locfileid: "23991944"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 
@@ -31,18 +31,18 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
  - **Visualizzazione di dati con nuovi grafici**: scegliere tra 11 grafici e aggiungerne uno a maschere e report per visualizzare meglio i dati e prendere decisioni informate. [Ulteriori informazioni](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
  
- ### <a name="access-security-updates"></a>Access: Aggiornamenti di sicurezza
+ ### <a name="access-security-updates"></a>Access: Aggiornamenti della sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
 ### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
- - **Modifica collaborativa:** collaborare con altri utenti contemporaneamente all'interno della cartello di lavoro. [Altre informazioni](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
+ - **Modifica collaborativa:** collaborare con altri utenti contemporaneamente all'interno della cartello di lavoro. [Ulteriori informazioni](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **Il Salvataggio automatico per i file su cloud sarà abilitato per impostazione predefinita:** il Salvataggio automatico è abilitato per impostazione predefinita nella versione di settembre 2018 del canale semestrale (mirato). Questa modifica significa che gli utenti non devono preoccuparsi di perdere le modifiche nei documenti archiviati su OneDrive o SharePoint Online. Le modifiche verranno salvate automaticamente nel cloud gli utenti non dovranno più premere in modo esplicito Ctrl + S o il pulsante Salva. Tuttavia, sarà necessario comprendere questa modifica del comportamento in modo da non apportare modifiche accidentali ai documenti. Si noti che gli utenti possono disattivare il salvataggio automatico utilizzando l'apposito pulsante nella parte superiore dello schermo. È consigliabile informare gli utenti su questa modifica futura e fornire informazioni relative su come sfruttare al meglio questa nuova funzionalità in Office 365. [Ulteriori informazioni sul salvataggio automatico](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Ulteriori informazioni su ciò che gli amministratori IT dovrebbero conoscere sul salvataggio automatico](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Migliorata la modifica cella e barra della formula:** ora puoi utilizzare CTRL + A per selezionare il testo in una cella o barra della formula. È inoltre migliorato il supporto per emojis e altri caratteri complessi.[Ulteriori informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
-- **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Ulteriori informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Evitare modifiche indesiderate:** imposta le cartelle di lavoro per essere aperte su sola lettura per evitare modifiche involontarie. Passa a File > Info > Proteggi cartella di lavoro > Apri sempre in sola lettura
 
-### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
--   CVE-2018-8331: vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel[ ](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)
+### <a name="excel-security-updates"></a>Excel: Aggiornamenti di sicurezza
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 -   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilità relativa alla divulgazione delle informazioni di Microsoft Excel
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
@@ -65,25 +65,25 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   Consente di risolvere un problema a causa del quale un componente aggiuntivo Power View viene inavvertitamente disattivato per alcuni utenti.
 -   Consente di risolvere un problema a causa del quale i file temporanei creati tramite il ripristino automatico durante il recupero di un documento non vengono mai eliminati.
 -   Consente di risolvere un problema a causa del quale un tentativo di creare una nuova connessione a un file di testo in una cartella di lavoro protetta genera il messaggio di errore "La cartella di lavoro è protetta e non può essere modificata".
--   Consente di risolvere un problema in cui la stampa immediata di una cartella di lavoro di Excel allegata a un messaggio di posta elettronica di Outlook potrebbe non avvenire.
+-   Consente di risolvere un problema in cui la stampa immediata di una cartella di lavoro di Excel allegata a un messaggio di posta elettronica di Outlook potrebbe non funzionare.
 -   Consente di risolvere un problema per cui fare clic su un collegamento ipertestuale può causare un arresto anomalo di Excel.
--   Consente di risolvere un problema per cui l'utilizzo di funzioni cubo causa un arresto anomalo di Excel.
+-   Consente di risolvere un problema per cui l'utilizzo di funzioni cubo causano un arresto anomalo di Excel.
 
-### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
- - **Digitazione senza mani:** usare i comandi vocali per creare messaggi di posta elettronica con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+ - **Digitazione senza mani:** usa i comandi vocali per creare messaggi di posta elettronica con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **Impostazione predefinita di Ricorrenza:** nella finestra di dialogo Ricorrenza appuntamento (in "Intervallo di ricorrenza"), "Termina entro" è l'impostazione predefinita (anziché "Nessuna data di fine") ed è la prima impostazione elencata; viene impostata una data di fine predefinita.
- - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Ulteriori informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
  - **Gestione profili dalla Selezione profilo:** se utilizzi il controllo Selezione profilo all'avvio di Outlook, puoi ora apportare modifiche senza utilizzare il pannello di controllo. Creare ed eliminazre profili, modificare le impostazioni, tutto dalla Selezione profilo.
 - **Accessibilità integrata:** rendi accessibili a tutti i messaggi mediante l'aggiunta di un testo descrittivo alternativo alle immagini.
 - **Avvisi relativi ai componenti aggiuntivi di Outlook:** occasionalmente un componente aggiuntivo COM di Outlook può incontrare problemi che rallentano il resto di Outlook. Questi problemi potrebbero essere dovuti alla latenza di eventi quali il passaggio tra cartelle di Outlook, l'arrivo di nuove e-mail, l'apertura di elementi del Calendario e così via. Quando si verificano tali problemi, Outlook visualizza un avviso nella barra di notifica.
-- **Conoscere i partecipanti della riunione:** è ora possibile visualizzare le risposte di altri utenti a un invito a una riunione, anche se non si è l'organizzatore.
+- **Conoscere i partecipanti della riunione:** è ora possibile visualizzare le risposte di altri utenti a una convocazione riunione, anche se non si è l'organizzatore.
 - **Non perdere mai un promemoria:** configura i promemoria in modo che essi appaiano al di sopra delle finestre in uso. In caso contrario, Outlook lampeggerà nella barra delle applicazioni per ottenere la tua attenzione.[Ulteriori informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 - **Contrassegnare gli elementi eliminati come già letti:** è ora possibile impostare tutti i messaggi eliminati come già letti. Scegliere facendo clic su File \> Opzioni \> Posta \> Altro.
-- **Visualizzare tre fusi orari:** devi pianificare una riunione in diverse aree geografiche? Aggiungi al calendario diversi fusi orari per verificare la disponibilità di tutti gli utenti con facilità e seleziona un'ora che vada bene per tutti. [Altre informazioni](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
+- **Visualizzare tre fusi orari:** devi pianificare una riunione in diverse aree geografiche? Aggiungi al calendario diversi fusi orari per verificare la disponibilità di tutti gli utenti con facilità e seleziona un'ora che vada bene per tutti. [Ulteriori informazioni](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
 - **Miglioraamento esperienza utente per la creazione di un gruppo:** è stata migliorata l'esperienza utente nella creazione di un gruppo rendendo il suo aspetto più moderno e meno confusionario.[Ulteriori informazioni](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
-- **Avviso di copia per conoscenza nascosta (Ccn):** se scegli l'opzione Rispondi a tutti per un messaggio in cui si è inclusi in Ccn, viene visualizzato un avviso.
+- **Avviso di copia per conoscenza nascosta (Ccn):** se si sceglie l'opzione Rispondi a tutti per un messaggio in cui si è inclusi in Ccn, viene visualizzato un avviso.
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
+### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti di sicurezza
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): vulnerabilità relativa alla manomissione di Microsoft Office
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): vulnerabilità relativa all'elevazione di privilegi in Microsoft Outlook
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): le funzionalità di sicurezza di Microsoft Outlook ignorano la vulnerabilità
@@ -100,16 +100,16 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   Consente di risolvere un problema per cui alcuni utenti non ricevono funzionalità di supporto che sono state abilitate dall’amministratore tenant.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità 
-- **Digitazione senza mani:** utilizza i comandi vocali per creare presentazioni con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **Digitazione senza mani:** utilizzare i comandi vocali per creare presentazioni con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
 - **Il Salvataggio automatico per i file su cloud sarà abilitato per impostazione predefinita:** il Salvataggio automatico è abilitato per impostazione predefinita nella versione di settembre 2018 del canale semestrale (mirato). Questa modifica significa che gli utenti non devono preoccuparsi di perdere le modifiche nei documenti archiviati su OneDrive o SharePoint Online. Le modifiche verranno salvate automaticamente nel cloud gli utenti non dovranno più premere in modo esplicito Ctrl + S o il pulsante Salva. Tuttavia, sarà necessario comprendere questa modifica del comportamento in modo da non apportare modifiche accidentali ai documenti. Si noti che gli utenti possono disattivare il salvataggio automatico utilizzando l'apposito pulsante nella parte superiore dello schermo. È consigliabile informare gli utenti su questa modifica futura e fornire informazioni relative su come sfruttare al meglio questa nuova funzionalità in Office 365. [Ulteriori informazioni sul salvataggio automatico](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Ulteriori informazioni su ciò che gli amministratori IT dovrebbero conoscere sul salvataggio automatico](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Migliorata la modifica cella e barra della formula:** ora puoi utilizzare CTRL + A per selezionare il testo in una cella o barra della formula. È inoltre migliorato il supporto per emojis e altri caratteri complessi.[Ulteriori informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Convertire l'input penna:** è possibile creare disegni e note a mano libera e convertirli in testo leggibile e forme nitide per creare una presentazione professionale. [Altre informazioni](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
-- **Indicare le diapositive con una penna:** utilizza la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Ulteriori informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Indicare le diapositive con una penna:** utilizzare la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Ulteriori informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Evitare modifiche indesiderate:** imposta le cartelle di lavoro per essere aperte su sola lettura per evitare modifiche involontarie. Passa a File > Info > Proteggi cartella di lavoro > Apri sempre in sola lettura
-- **Pubblicare in Microsoft Stream:** condividi una presentazione come video in modo più sicuro all'interno dell'organizzazione tramite Microsoft Stream. [Ulteriori informazioni](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
-- **Microsoft Forms:** inserisci un test o un sondaggio in una diapositiva. Office raccoglie e archivia le risposte. [Ulteriori informazioni](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
-- **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **Pubblicare in Microsoft Stream:** Condividere una presentazione come un video in modo più sicuro all'interno dell'organizzazione tramite Microsoft Stream. [Ulteriori informazioni](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
+- **Microsoft Forms:** inserire un test o un sondaggio in una diapositiva. Office raccoglie e archivia le risposte. [Ulteriori informazioni](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Ulteriori informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale il rendering delle tabelle non è eseguito correttamente con i bordi spessi.
@@ -123,7 +123,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   Consente di risolvere un problema a causa del quale la creazione condivisa da parte di più utenti sulla stessa presentazione comporta una duplicazione errata degli schemi diapositiva.
 -   Consente di risolvere un problema a causa del quale l'apertura di un file salvato su OneDrive comporta l'arresto anomalo di PowerPoint all'uscita dalla Visualizzazione protetta.
 
-### <a name="project-feature-updates"></a>Project: aggiornamenti delle funzionalità 
+### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità 
 - **Gestione sprint:**  aggiungi, aggiorna o elimina rapidamente sprint in agile.
 - **Filtro della scheda attività:** è possibile ottimizzare le schede attività, filtrando per risorse principali o attività di riepilogo.
 - **Impostare la percentuale di completamento da una scheda attività:** è possibile scegliere una percentuale di completamento per ogni colonna e quindi aggiornare il completamento dell'attività con trascinamento della selezione.
@@ -147,12 +147,12 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Sincronizzare il diagramma di origine:** Quando si modifica un diagramma visualizzatore dati in Visio, è possibile aggiornare i dati di origine di Excel collegati con il contenuto del diagramma più recente.
 - **Modello di controllo del Visualizzatore di dati:** mporta il contenuto da Excel e crea diagrammi di controllo per le transazioni finanziarie, la gestione dell'inventario e altro ancora.
 - **Diagrammi di base:** i modelli di organigramma, brainstorming e SDL hanno nuovi diagrammi di base per iniziare rapidamente.
- - **Creare un documento di Word dalle forme di Visio** Aggiungi automaticamente contenuto al diagramma, comprese le forme e i metadati di un documento di Word. Quindi personalizza il documento per creare linee guida per il processo e manuali operativi. [Altre informazioni](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Creare un documento di Word dalle forme di Visio** Aggiungi automaticamente contenuto al diagramma, comprese le forme e i metadati di un documento di Word. Quindi personalizza il documento per creare linee guida per il processo e manuali operativi. [Ulteriori informazioni](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
-### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 - **Digitazione senza mani:** usare i comandi vocali per creare documenti con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
 - **Il Salvataggio automatico per i file su cloud sarà abilitato per impostazione predefinita:** il Salvataggio automatico è abilitato per impostazione predefinita nella versione di settembre 2018 del canale semestrale (mirato). Questa modifica significa che gli utenti non devono preoccuparsi di perdere le modifiche nei documenti archiviati su OneDrive o SharePoint Online. Le modifiche verranno salvate automaticamente nel cloud gli utenti non dovranno più premere in modo esplicito Ctrl + S o il pulsante Salva. Tuttavia, sarà necessario comprendere questa modifica del comportamento in modo da non apportare modifiche accidentali ai documenti. Si noti che gli utenti possono disattivare il salvataggio automatico utilizzando l'apposito pulsante nella parte superiore dello schermo. È consigliabile informare gli utenti su questa modifica futura e fornire informazioni relative su come sfruttare al meglio questa nuova funzionalità in Office 365. [Ulteriori informazioni sul salvataggio automatico](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Ulteriori informazioni su ciò che gli amministratori IT dovrebbero conoscere sul salvataggio automatico]
-- **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Ulteriori informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
@@ -173,6 +173,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): vulnerabilità della divulgazione delle informazioni di Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
+-   **L'attivazione dei controlli di Flash, Silverlight e Shockwave è bloccata in Office per motivi di sicurezza:** per motivi di sicurezza i nuovi build di Microsoft Office per Office 365 su Windows bloccano i controlli dell'attivazione di Flash, Silverlight e Shockwave. Ulteriori informazioni [qui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) e [qui](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
 -  Risolto un problema che causava un'eccessiva durata dell'installazione di aggiornamenti in determinati scenari.
@@ -185,12 +186,12 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="access-security-updates"></a>Access: Aggiornamenti della sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
+### <a name="excel-security-updates"></a>Excel: Aggiornamenti di sicurezza
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilità della divulgazione delle informazioni di Microsoft Excel 
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
+### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti di sicurezza
 -   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): aggiornamento difesa in profondità di Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti di sicurezza
@@ -199,7 +200,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1803-july-10"></a>Versione 1803: 10 luglio
 *Versione 1803 (Build 9126.2259)*
 
-### <a name="access-security-updates"></a>Access: Aggiornamenti di sicurezza
+### <a name="access-security-updates"></a>Access: Aggiornamenti della sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti di sicurezza
