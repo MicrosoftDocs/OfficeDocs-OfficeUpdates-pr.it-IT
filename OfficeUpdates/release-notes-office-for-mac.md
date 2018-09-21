@@ -3,19 +3,19 @@ title: Note sulla versione per Office per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/13/2018
+ms.date: 9/20/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 866eaf85ce6be9e85b035e515bf321802941e112
-ms.sourcegitcommit: c58f7bb10aa58c3eb9d9d498bc3c0f27b5d17752
+ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
+ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2018
-ms.locfileid: "23976907"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "24056145"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -27,7 +27,7 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 > [!NOTE]
 > - Per un elenco di tutte le versioni di Office per Mac e ulteriori collegamenti per il download, vedere [Cronologia degli aggiornamenti di Office per Mac](update-history-office-for-mac.md). 
 > - Se si è un partecipante al programma Office Insider, vedere [Note sulla versione per le build Insider Fast di Office 2016 per Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
-> - Queste note sulla versione si applicano anche a Office 2016 per Mac, che è la versione con licenza perpetua di Office per Mac ed è disponibile come acquisto di una copia unica da un punto vendita o tramite un contratto multilicenza. Tuttavia, alcune funzionalità elencate nelle note sulla versione sono disponibili solo se si dispone di una sottoscrizione a Office 365.
+> - Queste informazioni non sono più applicabili per Office 2016 per Mac, che è la versione con licenza perpetua di Office per Mac ed è disponibile come acquisto di una copia unica presso un punto vendita o tramite un contratto multilicenza.  Le versioni precedenti fino a e inclusa la 16.16 possono essere attivate con una licenza volume di Office per Mac 2016. Tuttavia, a partire dalla 16.17 la licenza volume 2016 non è più compatibile.
 > - I collegamenti per il download sono disponibili solo per le versioni più recenti.
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
