@@ -23,8 +23,9 @@
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Office per Mac
-## [Cronologia degli aggiornamenti](update-history-office-for-mac.md)
-## [Note sulla versione](release-notes-office-for-mac.md)
+## [Aggiornare la cronologia (Office 365, 2019)](update-history-office-for-mac.md)
+## [Note sulla versione (Office 365, 2019)](release-notes-office-for-mac.md)
+## [Note sulla versione (2016)](release-notes-office-2016-mac.md)
 ## [Cronologia delle versioni MAU](release-history-microsoft-autoupdate.md)
 
 # Office (versione completa)
