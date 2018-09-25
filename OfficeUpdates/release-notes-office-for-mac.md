@@ -3,19 +3,19 @@ title: Note sulla versione per Office per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 8db9d034e7a95d69e9d0eca05731e57e217f6bcc
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056145"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004453"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -23,11 +23,13 @@ ms.locfileid: "24056145"
 Office per Mac, che viene fornito con una sottoscrizione a Office 365, viene aggiornato regolarmente per offrire nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti di altro tipo.
   
 Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utilizzare Microsoft AutoUpdate, avviare un'applicazione Office, come Word, quindi scegliere **Guida** > **Verifica aggiornamenti**. Se si è un amministratore e si desidera aggiornare i computer della propria organizzazione con gli strumenti di distribuzione software esistenti, è possibile scaricare e distribuire i pacchetti di aggiornamento per ciascuna applicazione.
+
   
 > [!NOTE]
 > - Per un elenco di tutte le versioni di Office per Mac e ulteriori collegamenti per il download, vedere [Cronologia degli aggiornamenti di Office per Mac](update-history-office-for-mac.md). 
 > - Se si è un partecipante al programma Office Insider, vedere [Note sulla versione per le build Insider Fast di Office 2016 per Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
-> - Queste informazioni non sono più applicabili per Office 2016 per Mac, che è la versione con licenza perpetua di Office per Mac ed è disponibile come acquisto di una copia unica presso un punto vendita o tramite un contratto multilicenza.  Le versioni precedenti fino a e inclusa la 16.16 possono essere attivate con una licenza volume di Office per Mac 2016. Tuttavia, a partire dalla 16.17 la licenza volume 2016 non è più compatibile.
+> - A partire dalla versione 16.17 rilasciata a settembre 2018, queste note sulla versione si applicano anche a Office 2019 per Mac, che corrisponde a una versione di Office per Mac disponibile come licenza singola presso un rivenditore o tramite un contratto multilicenza. Tuttavia, alcune funzionalità elencate nelle note sulla versione sono disponibili solo se si dispone di una sottoscrizione a Office 365.
+> - Le note sulla versione per la 16.16 e versioni precedenti si applicano anche a Office 2016 per Mac, anche essa una versione di Office per Mac disponibile come licenza singola. Le versioni precedenti fino a e inclusa la 16.16 possono essere attivate con un contratto multilicenza di Office per Mac 2016. Non è possibile attivare la versione 16.17 o successiva con un contratto multilicenza di Office 2016 per Mac. 
 > - I collegamenti per il download sono disponibili solo per le versioni più recenti.
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
@@ -60,7 +62,7 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|**Collegamento per il download del pacchetto di aggiornamento**|
 |:-----|:-----|:-----|
 |Word  <br/> |||[Pacchetto di aggiornamento per Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
-|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilità relativa alla divulgazione delle informazioni di Microsoft Excel  <br/>  |[Pacchetto di aggiornamento per Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
+|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilità relativa alla diffusione di informazioni di Microsoft Excel  <br/>  |[Pacchetto di aggiornamento per Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
 |PowerPoint  <br/> |||[Pacchetto di aggiornamento per PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Pacchetto di aggiornamento per Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412): Microsoft AutoUpdate elevazione della vulnenrabilità dei privilegi  <br/>|[Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 

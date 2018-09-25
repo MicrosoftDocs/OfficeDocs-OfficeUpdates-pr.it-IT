@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Office per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Vengono fornite ai professionisti IT le informazioni sugli aggiornamenti più recenti per Office per Mac, compresi i collegamenti per scaricare i pacchetti e una cronologia degli aggiornamenti
-ms.openlocfilehash: 3cfecfaadaa03e8f1177cbcdc8a578a0a6958015
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056135"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004443"
 ---
 # <a name="update-history-for-office-for-mac"></a>Cronologia degli aggiornamenti per Office per Mac
 
@@ -29,7 +29,8 @@ La tabella seguente riepiloga le informazioni sulla versione più recente di Off
 16.17 (18090901)  <br/> |11 settembre 2018  <br/> |[Scarica](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Note sulla versione](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - Queste informazioni non sono più applicabili per Office 2016 per Mac, che è la versione con licenza perpetua di Office per Mac ed è disponibile come acquisto di una copia unica presso un punto vendita o tramite un contratto multilicenza.  Le versioni precedenti fino a e inclusa la 16.16 possono essere attivati con una licenza volume di Office per Mac 2016. Tuttavia, a partire dalla 16.17 la licenza volume 2016 non è più compatibile.
+> - A partire dalla versione 16.17 rilasciata a settembre 2018, queste informazioni si applicano anche a Office 2019 per Mac, che corrisponde a una versione di Office per Mac disponibile come licenza singola presso un rivenditore o tramite un contratto multilicenza.
+> - Le informazioni della cronologia di aggiornamento per la versine 16.16 e precedenti si applicano anche a Office 2016 per Mac, anche esso una versione di Office per Mac disponibile come licenza singola. Le versioni precedenti fino a e inclusa la 16.16 possono essere attivate con un contratto multilicenza di Office per Mac 2016. Non è possibile attivare la versione 16.17 o successiva con un contratto multilicenza di office 2016 per Mac.
 > - Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza inclusi in una determinata versione di Office per Mac, vedere [Note sulla versione di Office per Mac](release-notes-office-for-mac.md).
 > - Se si desidera accedere alle nuove versioni prima, iscriversi al programma [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
 
