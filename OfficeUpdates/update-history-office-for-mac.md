@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Office per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/24/2018
+ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Vengono fornite ai professionisti IT le informazioni sugli aggiornamenti più recenti per Office per Mac, compresi i collegamenti per scaricare i pacchetti e una cronologia degli aggiornamenti
-ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
-ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
+ms.openlocfilehash: b143ab1be848e0efe17709fcce92302e04855c2a
+ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "25004443"
+ms.lasthandoff: 09/27/2018
+ms.locfileid: "25341381"
 ---
 # <a name="update-history-for-office-for-mac"></a>Cronologia degli aggiornamenti per Office per Mac
 
@@ -24,22 +24,22 @@ Office per Mac, che viene fornito con una sottoscrizione a Office 365, viene agg
 
 La tabella seguente riepiloga le informazioni sulla versione più recente di Office per Mac.
 
-|**Versione corrente**|**Data di rilascio**|**Link per il download**|**Ulteriori informazioni**|
+|**Versione corrente**|**Data di rilascio**|**Collegamento per il download**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|:-----|
 16.17 (18090901)  <br/> |11 settembre 2018  <br/> |[Scarica](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Note sulla versione](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
 > - A partire dalla versione 16.17 rilasciata a settembre 2018, queste informazioni si applicano anche a Office 2019 per Mac, che corrisponde a una versione di Office per Mac disponibile come licenza singola presso un rivenditore o tramite un contratto multilicenza.
-> - Le informazioni della cronologia di aggiornamento per la versine 16.16 e precedenti si applicano anche a Office 2016 per Mac, anche esso una versione di Office per Mac disponibile come licenza singola. Le versioni precedenti fino a e inclusa la 16.16 possono essere attivate con un contratto multilicenza di Office per Mac 2016. Non è possibile attivare la versione 16.17 o successiva con un contratto multilicenza di office 2016 per Mac.
-> - Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza inclusi in una determinata versione di Office per Mac, vedere [Note sulla versione di Office per Mac](release-notes-office-for-mac.md).
-> - Se si desidera accedere alle nuove versioni prima, iscriversi al programma [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
+> - Le informazioni della cronologia di aggiornamento per la versione 16.16 e precedenti si applicano anche a Office 2016 per Mac, che è anche una versione di Office per Mac disponibile come licenza singola. Le versioni precedenti inclusa la 16.16 possono essere attivate con un contratto multilicenza di Office 2016 per Mac. Non è possibile attivare la versione 16.17 o successiva con un contratto multilicenza di Office 2016 per Mac. Per informazioni sulle versioni di Office 2016 per Mac rilasciate da settembre in poi, consulta le [Note sulla versione per Office 2016 per Mac](release-notes-office-2016-mac.md)
+> - Per informazioni sulle caratteristiche, sugli aggiornamenti di sicurezza e non relativi alla sicurezza inclusi in una determinata versione di Office per Mac, consulta [Note sulla versione di Office per Mac](release-notes-office-for-mac.md).
+> - Se vuoi accedere alle nuove versioni in anticipo, iscriviti al programma [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Pacchetti di aggiornamento più recenti per Office per Mac
 
 
-La tabella seguente elenca i pacchetti più recenti per Office per Mac e per le singole applicazioni, come Word ed Excel. Tutti i pacchetti sono solo in 64 bit. La data di build è indicata tra parentesi, in un formato AAMMGG, dopo il numero di versione. Il pacchetto di installazione viene usato se l'applicazione non è già installata, mentre il pacchetto di aggiornamento viene usato se l'applicazione è già installata.
+La tabella seguente elenca i pacchetti più recenti per Office per Mac e per le singole applicazioni, come Word ed Excel. Tutti i pacchetti sono solo a 64 bit. La data di build è indicata tra parentesi, in formato AAMMGG, dopo il numero di versione. Il pacchetto di installazione viene usato se l'applicazione non è già installata, mentre il pacchetto di aggiornamento viene usato se l'applicazione è già installata.
   
-|**Applicazione**|**Versione**|**Link di download**|**Hash SHA1 per pacchetto di installazione**|
+|**Applicazione**|**Versione**|**Collegamenti per il download**|**Hash SHA1 per pacchetto di installazione**|
 |:-----|:-----|:-----|:-----|
 |Famiglia di prodotti Office (tutte le applicazioni)  <br/> |16.17 (18090901)  <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |AA986C84B22B082E42D8A2C7C1176820336B19AB  <br/> |
 |Word  <br/> |16.17 (18090901)  <br/> |[Pacchetto di installazione](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Pacchetto di aggiornamento](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/> |34B945836A628A820D96995DB7FE056D20ECB000  <br/> |
@@ -51,12 +51,12 @@ La tabella seguente elenca i pacchetti più recenti per Office per Mac e per le 
 
 ## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Aggiornamenti più recenti per altre applicazioni Mac da Microsoft
 
-La tabella seguente fornisce informazioni sui pacchetti più recenti, compreso un link per il download, per altri programmi Mac da Microsoft che potrebbero interessare ai professionisti IT. La data di build è indicata tra parentesi, in un formato AAMMGG, dopo il numero di versione. 
+La tabella seguente fornisce informazioni sui pacchetti più recenti, compreso un collegamento per il download, per altri programmi Mac da Microsoft che potrebbero interessare ai professionisti IT. La data di build è indicata tra parentesi, in formato AAMMGG, dopo il numero di versione. 
   
 |**Programma**|**Versione**|**Pacchetto**|**Hash SHA1**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.3 (18090901)  <br/> |[Scarica](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | Il pacchetto di aggiornamento è a 64 bit. <br/><br/>[Cronologia delle versioni per MAU](release-history-microsoft-autoupdate.md) |
-|Skype for Business  <br/> |16.21.0.65  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 31235D956A16159A7552B5351A26704074A10722 <br/> |La versione più recente è stata rilasciata il 14 settembre 2018. <br/><br/>[Aggiornamenti più recenti](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|Skype for Business  <br/> |16.21.0.75  <br/> |[Scarica](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | A530ADCB7DEF1EFDB9590B159CDB27DE571D1269 <br/> |La versione più recente è stata rilasciata il 26 settembre 2018. <br/><br/>[Aggiornamenti più recenti](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |Desktop remoto | 10.2.1 (1143) | [Download](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Il pacchetto di installazione è a 64 bit. <br/> <br/>[Novità](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Portale aziendale di Intune |1.5 (52.1805002.000) [180509] | [Download](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Novità di Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
 |Plug-in del browser Safari per Microsoft SharePoint in locale per Office 2016 per Mac  <br/> |15.32.0 (170309)  <br/> |[Download](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Il pacchetto di installazione è a 64 bit.  <br/> |
@@ -64,7 +64,7 @@ La tabella seguente fornisce informazioni sui pacchetti più recenti, compreso u
 
 ## <a name="release-history-for-office-for-mac"></a>Cronologia delle versioni per Office per Mac
 
-La tabella seguente fornisce informazioni sulla cronologia delle versioni e link per il download per Office per Mac. La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima. La data di build è indicata tra parentesi, in un formato AAMMGG, dopo il numero di versione. Tutte le versioni rilasciate dopo il 22 agosto 2016 sono solo a 64 bit; tutte le versioni precedenti sono solo a 32 bit.
+La tabella seguente fornisce informazioni sulla cronologia delle versioni e collegamenti per il download per Office per Mac. La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima. La data di build è indicata tra parentesi, in formato AAMMGG, dopo il numero di versione. Tutte le versioni rilasciate dopo il 22 agosto 2016 sono solo a 64 bit; tutte le versioni precedenti sono solo a 32 bit.
 
 > [!NOTE]
 > I collegamenti per il download sono disponibili solo per le versioni più recenti.
