@@ -3,19 +3,19 @@ title: Note sulle versioni del Canale semestrale (mirato) rilasciate nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/26/2018
+ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni rilasciate del Canale semestrale (mirato) per Office 365 ProPlus nel 2018
-ms.openlocfilehash: c67197a9d1c431e33fe79ab608bdd097e311007f
-ms.sourcegitcommit: db43e848b1320ec6d5f32094facaf0b6994a1046
+ms.openlocfilehash: 7ec2469aa05f6885be6187cb3a733968c992a401
+ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "25092114"
+ms.lasthandoff: 09/27/2018
+ms.locfileid: "25341391"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Note sulle versioni del Canale semestrale (mirato) rilasciate nel 2018
 
@@ -70,7 +70,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   Consente di risolvere un problema per cui l'utilizzo di funzioni cubo causano un arresto anomalo di Excel.
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
- - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Ulteriori informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
  - **Gestione profili dalla Selezione profilo:** se utilizzi il controllo Selezione profilo all'avvio di Outlook, puoi ora apportare modifiche senza utilizzare il pannello di controllo. Creare ed eliminazre profili, modificare le impostazioni, tutto dalla Selezione profilo.
 - **Accessibilità integrata:** rendi accessibili a tutti i messaggi mediante l'aggiunta di un testo descrittivo alternativo alle immagini.
 - **Avvisi relativi ai componenti aggiuntivi di Outlook:** occasionalmente un componente aggiuntivo COM di Outlook può incontrare problemi che rallentano il resto di Outlook. Questi problemi potrebbero essere dovuti alla latenza di eventi quali il passaggio tra cartelle di Outlook, l'arrivo di nuove e-mail, l'apertura di elementi del Calendario e così via. Quando si verificano tali problemi, Outlook visualizza un avviso nella barra di notifica.
@@ -78,8 +78,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Non perdere mai un promemoria:** configura i promemoria in modo che essi appaiano al di sopra delle finestre in uso. In caso contrario, Outlook lampeggerà nella barra delle applicazioni per ottenere la tua attenzione.[Ulteriori informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 - **Contrassegnare gli elementi eliminati come già letti:** è ora possibile impostare tutti i messaggi eliminati come già letti. Scegli facendo clic su File \> Opzioni \> Posta \> Altro.
 - **Visualizzare tre fusi orari:** devi pianificare una riunione in diverse aree geografiche? Aggiungi al calendario diversi fusi orari per verificare la disponibilità di tutti gli utenti con facilità e seleziona un'ora che vada bene per tutti. [Ulteriori informazioni](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
-- **Miglioraamento esperienza utente per la creazione di un gruppo:** è stata migliorata l'esperienza utente nella creazione di un gruppo rendendo il suo aspetto più moderno e meno confusionario.[Ulteriori informazioni](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
-- **Avviso di copia per conoscenza nascosta (Ccn):** se scegli l'opzione Rispondi a tutti per un messaggio in cui si è inclusi in Ccn, viene visualizzato un avviso.
+- **Miglioramento esperienza utente per la creazione di un gruppo:** è stata migliorata l'esperienza utente nella creazione di un gruppo rendendo il suo aspetto più moderno e meno confusionario.[Ulteriori informazioni](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 
 ### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): vulnerabilità relativa alla manomissione di Microsoft Office
@@ -104,8 +103,6 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Indicare le diapositive con una penna:** utilizza la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Ulteriori informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Evitare modifiche indesiderate:** imposta le cartelle di lavoro per essere aperte su sola lettura per evitare modifiche involontarie. Vai su File > Info > Proteggi cartella di lavoro > Apri sempre in sola lettura
-- **Pubblicare in Microsoft Stream:** condividi una presentazione come video in modo più sicuro all'interno dell'organizzazione tramite Microsoft Stream. [Ulteriori informazioni](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
-- **Microsoft Forms:** inserisci un test o un sondaggio in una diapositiva. Office raccoglie e archivia le risposte. [Ulteriori informazioni](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
@@ -364,18 +361,18 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 -   **Microsoft Translator:** è possibile tradurre parole e frasi in un'altra lingua con Microsoft Translator nella scheda Revisione della barra multifunzione.
--   **Convertire le icone SVG in forme:** trasforma tutte le immagini SVG e le icone in forme di Office così puoi cambiarne colore, dimensioni o texture.
+-   **Convertire le icone SVG in forme:** trasformare tutte le immagini SVG e le icone in forme di Office così puoi cambiarne colore, dimensioni o texture.
 -   **Deselezionare le celle:** consente di selezionare le opzioni del foglio di lavoro e deselezionare le celle accidentalmente selezionate senza dover ricominciare da capo.
 -   **Accedere rapidamente ai siti e gruppi:** utilizza il menu File per utilizzare i documenti archiviati nei siti e gruppi più usati.
 -   **Matita digitale:** scrivi o prendi appunti usando il nuovo tratto della matita. È sufficiente inclinare la penna digitale per fare le ombre.
--   **Impostazione delle funzionalità LinkedIn:** vai su File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle tue applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Impostazione delle funzionalità di LinkedIn:** vai su File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle tue applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **Modelli 3D:** utilizza il formato 3D per aumentare l'impatto visivo e creativo delle cartelle di lavoro. Inserisci facilmente un modello 3D affinché sia possibile ruotarlo di 360 gradi. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuovi effetti di input penna:** esprimi le tue idee con un tocco in più usando penne metalliche ed effetti di input penna come Arcobaleno, Galassia, Lava, Oceano, Oro, Argento e altro ancora.
 -   **UI per la condivisione di file:** nel caso dei file di OneDrive for Business o SharePoint, fai clic sul pulsante Condividi nell'angolo superiore destro oppure vai su File \> Condividi per avviare una finestra di dialogo Condividi semplificata e migliorata. Per i file nuovi o salvati in locale, l'interfaccia utente permette agli utenti di caricare in un attimo i file su OneDrive e avviare la collaborazione.
--   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l'attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, EXE, VBS e JS. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l'attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, .exe, .vbs e .js. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Suoni utili per migliorare l'accessibilità:** attiva gli avvisi audio per ottenere assistenza durante il lavoro. Sono disponibili in File \> Opzioni \> Accessibilità. Non sono necessari componenti aggiuntivi. [Ulteriori informazioni](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Percorsi di file dall'account:** all'apertura o salvataggio di un file, l'elenco di posizioni è organizzato per l'account associato.
--   **Personalizzazione della penna:** scegli un set personale di penne ed evidenziatori per l'input penna. Il set personalizzato è disponibile in tutti i PC Windows.
+-   **Personalizzazione della penna:** sceglie un set personale di penne ed evidenziatori per l'input penna. Il set personalizzato è disponibile in tutti i PC Windows.
 
 ### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
 -   [CVE-2017-11877:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) le funzionalità di sicurezza di Microsoft Excel ignorano la vulnerabilità
@@ -404,14 +401,14 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 -   **Ordinare e-mail con facilità:** grazie ai tuoi commenti offriamo di nuovo la possibilità di ordinare l'elenco dei messaggi e il filtro Da leggere per gli utenti che non usano Posta in arrivo evidenziata.
 -   **Convertire le icone SVG in forme:** trasforma tutte le immagini SVG e le icone in forme di Office così puoi cambiarne colore, dimensioni o texture.
--   ** ** Miglioramenti per i gruppi di Office 365: Leggere e rispondere alle conversazioni di gruppo è più facile che mai, perché basta fare doppio clic su un messaggio di gruppo per aprirlo in una finestra separata.
--   **Impostazione delle funzionalità LinkedIn:** vai su File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle tue applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
--   **Modelli 3D:** utilizza il formato 3D per aumentare l'impatto visivo e creativo della posta elettronica.  Inserisci facilmente un modello 3D affinché sia possibile ruotarlo di 360 gradi. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
+-   **Miglioramenti per i gruppi di Office 365:** leggere e rispondere alle conversazioni di gruppo è più facile che mai, perché basta fare doppio clic su un messaggio di gruppo per aprirlo in una finestra separata.
+-   **Impostazione delle funzionalità di LinkedIn:** vai su File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle tue applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   ** Modelli 3D: utilizza il formato 3D per aumentare l'impatto visivo e creativo della posta elettronica.  Inserisci facilmente un modello 3D affinché sia possibile ruotarlo di 360 gradi. Ulteriori informazioni** [ ](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Scheda del profilo:** mostra i dettagli più importanti di utenti e gruppi su un computer desktop, sul Web o tramite un'app per dispositivi mobili.
 -   **Aggiungere un appuntamento a un calendario di gruppo:** ora è possibile comunicare a ogni membro del gruppo quando si sarà assenti senza inviare un invito a una riunione tramite posta elettronica.
 -   **Download degli allegati cloud:** quando si salvano oppure trascinano gli allegati di OneDrive nel computer, il file viene scaricato automaticamente.
 -   **Suoni utili per migliorare l'accessibilità:** attiva gli avvisi audio per ottenere assistenza durante il lavoro. Sono disponibili in File \> Opzioni \> Accessibilità. Non sono necessari componenti aggiuntivi. [Ulteriori informazioni](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
--   **Posta in arrivo evidenziata:** la cartella Posta in arrivo è suddivisa in due schede: Evidenziata e Altro. I messaggi vengono ordinati in base al contenuto del messaggio e in base a con quali utenti si interagisce maggiormente. [Ulteriori informazioni](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
+-   **Posta in arrivo evidenziata:** la cartella Posta in arrivo è suddivisa in due schede: Evidenziata e Altro. I messaggi vengono ordinati in base al contenuto del messaggio e in base agli utenti con il quale si interagisce maggiormente. [Ulteriori informazioni](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
 -   **Accedere rapidamente ai gruppi più utilizzati:** i gruppi con i quali è più probabile che si interagirà ora vengono visualizzati nella parte superiore dell'elenco in Gruppi nel riquadro delle cartelle.
 
 ### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
@@ -432,9 +429,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   **Roaming delle informazioni di verifica revisione:** lo stato dei messaggi già letti o da leggere letto per evidenziare diapositive condivise modificate da altri utenti è archiviato in un servizio roaming (anziché nel computer dell'utente), in modo che queste informazioni possano essere sincronizzate su più dispositivi o piattaforme.
 -   **Accedere rapidamente ai siti e gruppi:** utilizza il menu File per utilizzare i documenti archiviati nei siti e gruppi più usati.
 -   **Matita digitale:** scrivi o prendi appunti usando il nuovo tratto della matita. È sufficiente inclinare la penna digitale per fare le ombre.
--   **Impostazione delle funzionalità LinkedIn:** vai su File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle tue applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Impostazione delle funzionalità di LinkedIn:** vai su File \> Opzioni \> Generale per controllare se le funzionalità di LinkedIn sono visualizzate nelle tue applicazioni Office. [Ulteriori informazioni](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **Effettuare una presentazione utilizzando una penna digitale:** usa la penna per Surface oppure un'altra dotata di pulsante Bluetooth per passare da una diapositiva all'altra. È necessario disporre di Windows 10 Fall Creators Update. [Ulteriori informazioni](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
--   **Modelli 3D:** Utilizza il formato 3D per aumentare l'impatto visivo e creativo delle presentazioni. Crea modelli 3D nelle presentazioni con transizioni come Morphing per generare animazioni cinematografiche tra le diapositive. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
+-   **Modelli 3D:** utilizza il formato 3D per aumentare l'impatto visivo e creativo delle presentazioni. Crea modelli 3D nelle presentazioni con transizioni come Morphing per generare animazioni cinematografiche tra le diapositive. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuovi effetti di input penna:** esprimi le tue idee con un tocco in più usando penne metalliche ed effetti di input penna come Arcobaleno, Galassia, Lava, Oceano, Oro, Argento e altro ancora.
 -   **UI per la condivisione di file:** nel caso dei file di OneDrive for Business o SharePoint, fai clic sul pulsante Condividi nell'angolo superiore destro oppure vai su File \> Condividi per avviare una finestra di dialogo Condividi semplificata e migliorata. Per i file nuovi o salvati in locale, l'interfaccia utente permette agli utenti di caricare in un attimo i file su OneDrive e avviare la collaborazione.
 -   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l'attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, EXE, VBS e JS. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
@@ -444,7 +441,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   **Suoni utili per migliorare l'accessibilità:** attiva gli avvisi audio per ottenere assistenza durante il lavoro. Sono disponibili in File \> Opzioni \> Accessibilità. Non sono necessari componenti aggiuntivi. [Ulteriori informazioni](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Percorsi di file dall'account:** all'apertura o salvataggio di un file, l'elenco di posizioni è organizzato per l'account associato.
 -   **Personalizzazione della penna:** scegli un set personale di penne ed evidenziatori per l'input penna. Il set personalizzato è disponibile in tutti i PC Windows.
--   ** Miglioramenti per la progettazione: la finestra di progettazione suggerisce ora idee di progettazione per i grafici aggiunti alle diapositive.**
+-   **Miglioramenti per la progettazione:**  la finestra di progettazione suggerisce ora idee di progettazione per i grafici aggiunti alle diapositive.
 -   **Avvio rapido:** consente di compilare automaticamente una struttura per agevolare gli utenti nella ricerca di un oggetto di loro scelta. [Ulteriori informazioni](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224)
 -   **Righello digitale:** nei dispositivi con touchscreen, vai su Disegno \> Righello, quindi usa la penna o il dito per disegnare linee dritte o per allineare un insieme di oggetti. [Ulteriori informazioni](https://support.office.com/article/6222c9b4-2fdf-48f7-a3fd-1687fbe2bf84)
 
@@ -457,7 +454,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   Consente di risolvere un problema che si verifica durante il salvataggio di un file di supporto di sincronizzazione. In questo caso, Office non riesce a scrivere sul disco, ma continua a caricare il file su OneDrive. Grazie a questa correzione, l'utente è ora in grado di visualizzare un messaggio di errore e il caricamento si arresta.
 
 ### <a name="project-feature-updates"></a>Project: aggiornamenti delle funzionalità
--   **Vista della lavagna delle attività:** ordinare le attività nelle schede nella vista della lavagna delle attività. Ordinare nuovamente e spostare le schede tra le colonne della lavagna, così come avviene per i progetti Agile.
+-   **Vista della lavagna delle attività:** ordina le attività nelle schede nella vista della lavagna delle attività. Riordina e sposta le schede tra le colonne della lavagna, così come avviene per i progetti Agile.
 -   **Progetti Agile:** gestisci i progetti Agile utilizzando backlog, lavagne delle attività, sprint e molto altro ancora. Sono supportate sia la metodologia Scrum sia la metodologia Kanban. [Ulteriori informazioni](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 -   **Gestire un'attività in Planner:** collega un’attività progetto a Planner e crea una relativa pianificazione. Suddividi l'attività in sottoattività, aggiungi un team, assegna attività e gestisci il lavoro su una lavagna delle attività.
 
@@ -533,7 +530,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   **Creare un reticolo dell'applicazione per dispositivi mobili:** utilizza un modello per creare un reticolo dell'applicazione per dispositivi mobili. [Ulteriori informazioni](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 -   **Applicare elementi grafici dati ai diagrammi di Data Visualizer:** velocizza la creazione di un diagramma di Data Virtualizer applicando automaticamente dati di forma e di elementi grafici. [Ulteriori informazioni](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6?#apply_dg)
 -   **Collaborare ai disegni:** collabora con altri utenti condividendo i disegni su OneDrive for Business o SharePoint Online. È possibile visualizzare gli utenti che stanno attualmente lavorando ai disegni, aggiungere commenti e visualizzare l'attività del file. [Ulteriori informazioni](https://support.office.com/article/413c0b5a-0d52-4ace-af85-8b9bf115bbbf)
--   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l'attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, EXE, VBS e JS. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l'attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, .exe, .vbs e .js. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 -   **Convertire le icone SVG in forme:** trasforma tutte le immagini SVG e le icone in forme di Office così puoi cambiarne colore, dimensioni o texture.
@@ -546,15 +543,15 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   **Modelli 3D:** utilizza il formato 3D per aumentare l'impatto visivo e creativo delle cartelle di lavoro.  Inserisci facilmente un modello 3D affinché sia possibile ruotarlo di 360 gradi. [Ulteriori informazioni](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuovi effetti di input penna:** esprimi le tue idee con un tocco in più usando penne metalliche ed effetti di input penna come Arcobaleno, Galassia, Lava, Oceano, Oro, Argento e altro ancora.
 -   **UI per la condivisione di file:** nel caso dei file di OneDrive for Business o SharePoint, fai clic sul pulsante Condividi nell'angolo superiore destro oppure vai su File \> Condividi per avviare una finestra di dialogo Condividi semplificata e migliorata. Per i file nuovi o salvati in locale, l'interfaccia utente permette agli utenti di caricare in un attimo i file su OneDrive e avviare la collaborazione.
--   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l'attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, EXE, VBS e JS. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
--   **Modificare tramite strumenti di apprendimento:** gli strumenti di apprendimento sono ora disponibili nel layout Web di Word. Regola la spaziatura del testo e  visualizza le sillabe durante la modifica. In qualsiasi visualizzazione, le parole vengono evidenziate di pari passo alla lettura ad alta voce del documento. [Ulteriori informazioni](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+-   **Bloccare estensioni pericolose:** per impostazione predefinita, viene impedita l'attivazione delle estensioni considerate ad alto rischio e incorporate come oggetti di pacchetti OLE, bloccandole. Queste sono, ad esempio, .exe, .vbs e .js. [Ulteriori informazioni](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Modificare tramite strumenti di apprendimento:** gli strumenti di apprendimento sono ora disponibili nel layout Web di Word. Regola la spaziatura del testo e visualizza le sillabe durante la modifica. In qualsiasi visualizzazione, le parole vengono evidenziate di pari passo alla lettura ad alta voce del documento. [Ulteriori informazioni](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **Sintassi LaTex:** crea e modifica le equazioni matematiche tramite sintassi LaTeX.
 -   **Suoni utili per migliorare l'accessibilità:** attiva gli avvisi audio per ottenere assistenza durante il lavoro. Sono disponibili in File \> Opzioni \> Accessibilità. Non sono necessari componenti aggiuntivi. [Ulteriori informazioni](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Percorsi di file dall'account:** all'apertura o salvataggio di un file, l'elenco di posizioni è organizzato per l'account associato.
 -   **Personalizzazione della penna:** scegli un set personale di penne ed evidenziatori per l'input penna. Il set personalizzato è disponibile in tutti i PC Windows.
 -   Assistenza alla scrittura migliorata con il riquadro Editor: utilizza il riquadro Editor per consigli avanzati su ortografia, grammatica e stile di scrittura. È stato creato per essere accessibile con supporto migliorato per assistive technology.** **
 
-### <a name="word-security-updates"></a>Word: aggiornamenti di sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Word
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
 -   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Word
