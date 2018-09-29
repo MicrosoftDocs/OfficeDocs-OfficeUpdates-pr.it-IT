@@ -3,29 +3,29 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/21/2018
+ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
-description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: a24200136bb968725bb78cc6df179932c8b35eed
-ms.sourcegitcommit: df20f4e7260515436bf69201c1e5e8a60b9b92e2
+description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento
+ms.openlocfilehash: 0ea2d9e80271223dfe72bfa5871a1a25ba032939
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/21/2018
-ms.locfileid: "24960946"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25346992"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
-Nelle tabelle seguenti vengono riportate le dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Office 365 ProPlus. I dati della tabella sono ordinati in base alla data di rilascio. 
+Nelle tabelle seguenti vengono riportate le dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Office 365 ProPlus alla versione più recente. 
   
 Le informazioni vengono fornite in anticipo rispetto all'effettiva data di rilascio per consentire agli utenti aziendali di pianificare la larghezza di banda di rete che verrà usata per questi aggiornamenti di canale. Dal momento che vengono fornite in anticipo, queste informazioni potrebbero essere soggette a modifica fino all'effettiva data di rilascio.
   
 Il nostro obiettivo è quello di fornire informazioni sulla dimensione dell'aggiornamento con una settimana di anticipo rispetto alla data di rilascio, ma talvolta le informazioni potrebbero non essere disponibili con così tanto anticipo. Il rilascio degli aggiornamenti per il Canale semestrale e il Canale semestrale (mirato) è programmato per il secondo martedì di ogni mese. I rilasci per il Canale mensile non hanno una pianificazione prestabilita.
 
-Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza inclusi in una determinata versione, vedere [Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus](release-notes-office365-proplus.md).
+Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e non relativi alla sicurezza inclusi in una determinata versione, consulta [Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus](release-notes-office365-proplus.md).
 
   
 > [!NOTE]
@@ -33,8 +33,19 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Le dimensioni di download sono approssimative e potrebbero variare fino a 50 MB. 
 > - Le date di rilascio e i numeri di build (riportati in corsivo e racchiusi tra i segni "\< \>") sono soggetti a modifica. 
 > - Vengono elencate solo le versioni rilasciate negli ultimi quattro mesi.
-> - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tenere presente che la dimensione del file di download sarà superiore.
-> - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB. 
+> - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tieni presente che la dimensione del file di download sarà superiore.
+> - Se passi a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB. 
+
+  ## <a name="september-27-2018"></a>27 settembre 2018
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1809 (Build 10827.20138).
+  
+|**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1808 (Build 10730.20102)  <br/> |12 settembre 2018  <br/> |175  <br/> |
+|Versione 1808 (Build 10730.20088)  <br/> |5 settembre 2018  <br/> |170 <br/> |
 
   ## <a name="september-11-2018"></a>11 settembre 2018
 
@@ -130,7 +141,7 @@ La versione più recente è la numero 1806 (build 10228.20104).
 |**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1805 (build 10228.20080)  <br/> |25 giugno 2018  <br/> |79  <br/> |
-|Versione 1805 (build 9330.2124)  <br/> |13 giugno 2018  <br/> |149  <br/> |
+|Versione 1805 (Build 9330.2124)  <br/> |13 giugno 2018  <br/> |149  <br/> |
 |Versione 1805 (Build 9330.2118)  <br/> |12 giugno 2018  <br/> |401  <br/> |
 |Versione 1805 (Build 9330.2087)  <br/> |24 maggio 2018  <br/> |150  <br/> |
   
@@ -144,7 +155,7 @@ La versione più recente è la numero 1803 (Build 9126.2259).
    
 ### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
 
-La versione più recente è la numero 1803 (build 9126.2259).
+La versione più recente è la numero 1803 (Build 9126.2259).
   
 |**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
 |:-----|:-----|:-----|
@@ -160,7 +171,7 @@ La versione più recente è la numero 1806 (build 10228.20080).
   
 |**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
 |:-----|:-----|:-----|
-|Versione 1805 (build 9330.2124)  <br/> |13 giugno 2018  <br/> |155  <br/> |
+|Versione 1805 (Build 9330.2124)  <br/> |13 giugno 2018  <br/> |155  <br/> |
 |Versione 1805 (Build 9330.2118)  <br/> |12 giugno 2018  <br/> |402  <br/> |
 |Versione 1805 (Build 9330.2087)  <br/> |24 maggio 2018  <br/> |154  <br/> |
    
@@ -462,7 +473,7 @@ La versione più recente è la numero 1801 (Build 9001.2138).
   
 ## <a name="related-topics"></a>Argomenti correlati
 
-- [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Informazioni generali sui canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](update-history-office365-proplus-by-date.md)
 - [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine di versione)](update-history-office365-proplus-by-version.md)
 
