@@ -1,8 +1,23 @@
 ---
-titolo: "Note sulle versioni per il Canale mensile rilasciate nel 2018" ms.author: andrewmo autore: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ms.topic per i professionisti IT: fare riferimento a ms.service: Office 365 proplus dedicati localization_priority: critico ms.Collection: RelNotes_ProPlus descrizione: "Fornisce ai professionisti IT note sulla versione per Canale mensile delle versioni di Office 365 ProPlus rilasciate nel 2018"
+title: Note sulle versioni per i rilasci del Canale mensile nel 2018
+ms.author: andrewmo
+author: andymosten
+manager: andrewmo
+ms.date: 10/3/2018
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
+ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
+ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362711"
 ---
-
-# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni rilasciate del Canale mensile nel 2018
+# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
 Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, sugli aggiornamenti di sicurezza e non relativi alla sicurezza inclusi negli aggiornamenti del Canale mensile per Office 365 ProPlus nel 2018.
  
@@ -14,8 +29,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 *Versione 1809 (Build 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
-- **Ricerca rapida** Abbiamo velocizzato calcoli di corrispondenza, HLOOKUP e VLOOKUP così puoi ottenere risposte più rapidamente.
-- **Scopri più informazioni sui tuoi dati** Le applicazioni di Office 365 sono arricchite di intelligenza artificiale (AI) che ti consente di eseguire al meglio il tuo lavoro. Il riquadro Idee utilizza l'intelligenza artificiale per creare suggerimenti azionabili e intelligenti che ti consentono di risparmiare tempo e migliorare il contenuto.[Ulteriori informazioni](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Ricerca rapida** Abbiamo velocizzato i tuoi calcoli HLOOKUP, VLOOKUP e MATCH così puoi ottenere risposte più rapidamente. [Ulteriori informazioni](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **Per gli amanti di Ottieni e Trasforma** Se utilizzi molto Ottieni e Trasforma, sarai felice di sapere che la funzionalità Colonna di esempio è stata migliorata. E anche molti connettori sono stati migliorati. [Ulteriori informazioni](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
@@ -26,13 +40,14 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+- **Guarda le tue diapositive prendere vita** Inserisci grafiche 3D animate per vedere cuori battere, pianeti in orbita e tirannosauri scatenarsi sullo schermo.  [Ulteriori informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Nuovi strumenti di correzione** Non preoccuparti di quello che scrivi. PowerPoint ora dispone di suggerimenti di grammatica e scrittura. [Ulteriori informazioni](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 - **Ottieni la loro attenzione con le \@menzioni** Utilizza @mentions nei commenti per informare i colleghi che è necessario il loro contributo. [Ulteriori informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Convertitore Equation Editor** Il convertitore consente agli utenti di convertire le equazioni create tramite Microsoft Equation Editor nel formato Office Math ML per abilitare la modifica. 
+- **Convertitore Equation Editor** Il convertitore consente agli utenti di convertire le equazioni create tramite Microsoft Equation Editor nel formato Office Math ML per abilitare la modifica.
 
 ## <a name="version-1808-september-11"></a>Versione 1808: 11 settembre
 *Versione 1808 (Build 10730.20102)*
