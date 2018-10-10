@@ -3,7 +3,7 @@ title: Aggiornamenti per Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -12,24 +12,25 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: Trovare e gestire gli aggiornamenti per Project Server 2013 e Project Server 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
-ms.openlocfilehash: a855804aeb3f9ffc07bf2dcf85a74239123f4738
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+description: Trova e gestisci gli aggiornamenti per Project Server 2013 e Project Server 2010 in un'unica posizione. Utilizza i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
+ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954792"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456700"
 ---
 # <a name="project-server-updates"></a>Aggiornamenti per Project Server
 
-Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti di Project Server 2013 e Project Server 2010 e per scaricarli. 
+Utilizza i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti di Project Server 2013 e Project Server 2010 e per scaricarli. 
 > [!NOTE]
-> Per informazioni sugli aggiornamenti per Project Server 2016, vedere [Aggiornamenti per SharePoint](sharepoint-updates.md), dato che Project Server 2016 è incluso in SharePoint Server 2016 Enterprise Edition.
+> Per informazioni sugli aggiornamenti per Project Server 2016, consulta [Aggiornamenti per SharePoint](sharepoint-updates.md), dato che Project Server 2016 è incluso in SharePoint Server 2016 Enterprise Edition.
   
 ## <a name="project-server-2013-update-history"></a>Cronologia degli aggiornamenti di Project Server 2013
   
 |**Data di rilascio**|**Numero KB**|
 |:-----|:-----|:-----|
+|Ottobre 2018  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |Settembre 2018  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |Agosto 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |Luglio 2018  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
@@ -80,6 +81,7 @@ Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori 
 
 |**Data di rilascio**|**Numero KB**|
 |:-----|:-----|:-----|
+|Ottobre 2018  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |Settembre 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |Agosto 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |Luglio 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |

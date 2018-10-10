@@ -3,7 +3,7 @@ title: Aggiornamenti per SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -13,19 +13,19 @@ ms.collection:
 - IT_Sharepoint_Server_Top
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
-description: Trovare e gestire gli aggiornamenti per SharePoint Server 2016, SharePoint 2013 e SharePoint 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
-ms.openlocfilehash: 9a4b6884be84070f2c15d8bb94659c5516e22ffc
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+description: Trova e gestisci gli aggiornamenti per SharePoint Server 2016, SharePoint 2013 e SharePoint 2010 in un'unico luogo. Utilizza i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
+ms.openlocfilehash: d58388fdd2653eec09e3645853693faa0da88893
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954842"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456810"
 ---
 # <a name="sharepoint-updates"></a>Aggiornamenti per SharePoint
 
-Trovare e gestire gli aggiornamenti per [SharePoint Server 2016](#sharepoint-2016-update-history), [SharePoint 2013](#sharepoint-2013-update-history) e [SharePoint 2010](#sharepoint-2010-update-history) in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
+Trova e gestisci gli aggiornamenti per [SharePoint Server 2016](#sharepoint-2016-update-history), [SharePoint 2013](#sharepoint-2013-update-history) e [SharePoint 2010](#sharepoint-2010-update-history) in un'unico luogo. Utilizza i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
 
-Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedere la [Roadmap di Office 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
+Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedi la [Roadmap di Office 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
 
 <a name="BKMK_2016"> </a>
   
@@ -33,6 +33,7 @@ Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedere la 
 
 |**Nome pacchetto**|**Numero KB**|**Data di rilascio**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> MUI/patch linguistica di SharePoint Server 2016  <br/> |[KB 4461447](https://support.microsoft.com/en-us/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/en-us/help/4092463) <br/> |Ottobre 2018  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/en-us/help/4092459) <br/>  |Settembre 2018  <br/> |
 |SharePoint Server 2016  <br/> MUI/patch linguistica di SharePoint Server 2016  <br/> |[KB 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |Agosto 2018  <br/> |
 |SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/en-us/help/4022228)  <br/> |Luglio 2018  <br/> |
@@ -78,6 +79,7 @@ Per gli aggiornamenti cumulativi vengono forniti i seguenti pacchetti:
     
 |**Nome pacchetto**|**Numero KB**|**Data di rilascio**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/en-us/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/en-us/help/4461458) <br/> |Ottobre 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/en-us/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/en-us/help/4092476) <br/> |Settembre 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/en-us/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/en-us/help/4032247) <br/> |Agosto 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/en-us/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/en-us/help/4022241) <br/> |Luglio 2018  <br/> |
@@ -138,6 +140,7 @@ Per gli aggiornamenti cumulativi vengono forniti i seguenti pacchetti:
 
 |**Nome pacchetto**|**Numero KB**|**Data di rilascio**|
 |:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/en-us/help/4461464) <br/> |Ottobre 2018  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/en-us/help/4227169) <br/> |Settembre 2018  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/en-us/help/4032221) <br/> |Agosto 2018  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/en-us/help/4022204) <br/> |Giugno 2018  <br/> |
@@ -189,7 +192,7 @@ Per gli aggiornamenti cumulativi vengono forniti i seguenti pacchetti:
    
 ## <a name="additional-information"></a>Informazioni aggiuntive
 
-Gli aggiornamenti software includono qualsiasi aggiornamento, aggiornamento cumulativo, service pack, feature pack, aggiornamento critico, di sicurezza o rapido. Vedere [KB 824684](https://support.microsoft.com/kb/824684) per una descrizione della terminologia standard utilizzata per descrivere gli aggiornamenti software Microsoft. 
+Gli aggiornamenti software includono qualsiasi aggiornamento, aggiornamento cumulativo, service pack, feature pack, aggiornamento critico, di sicurezza o rapido. Vedere [KB 824684](https://support.microsoft.com/kb/824684) per una descrizione della terminologia standard utilizzata per descrivere gli aggiornamenti software di Microsoft. 
 
 Oltre agli aggiornamenti per SharePoint, è opportuno consultare le informazioni seguenti per i prodotti su cui si basa SharePoint.
   
