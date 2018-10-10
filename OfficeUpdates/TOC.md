@@ -34,6 +34,7 @@
 ## [Skype per gli aggiornamenti di Business](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [File con estensione msp Office 2016](msp-files-office-2016.md)
 ## [File msp di Office 2013](msp-files-office-2013.md)
+## [Aggiornamenti di Office 2019](update-history-office-2019.md)
 ## [Aggiornamenti di Office 2013](update-history-office-2013.md)
 ## [Aggiornamenti di Office 2010](update-history-office-2010-click-to-run.md)
 
