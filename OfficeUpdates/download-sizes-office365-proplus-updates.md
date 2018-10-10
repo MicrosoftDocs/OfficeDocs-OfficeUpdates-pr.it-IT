@@ -3,19 +3,19 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/28/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento
-ms.openlocfilehash: 0ea2d9e80271223dfe72bfa5871a1a25ba032939
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
+ms.openlocfilehash: a5c51a9ccaf7484360965371868b9d444f0b1eda
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25346992"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456820"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -35,6 +35,39 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Vengono elencate solo le versioni rilasciate negli ultimi quattro mesi.
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tieni presente che la dimensione del file di download sarà superiore.
 > - Se passi a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB. 
+
+## <a name="october-9-2018"></a>9 ottobre 2018
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1809 (Build 10827.20150).
+  
+|**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1808 (Build 10730.20088)  <br/> |5 settembre 2018  <br/> |170  <br/> |
+|Versione 1808 (Build 10730.20102)  <br/> |12 settembre 2018  <br/> |176 <br/> |
+|Versione 1808 (Build 10730.20127)  <br/> |24 settembre 2018  <br/> |396 <br/> |
+|Versione 1809 (Build 10827.20138)  <br/> |27 settembre 2018  <br/> |80 <br/> |
+  
+### <a name="semi-annual-channel"></a>Canale semestrale
+
+La versione più recente è la numero 1808 (Build 9126.2295).
+  
+|**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1803 (Build 9126.2275)  <br/> |14 agosto 2018  <br/> |104 <br/> |
+|Versione 11803 (Build 9126.2282)  <br/> |11 settembre 2018  <br/> |100<br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
+
+La versione più recente è la numero 1808 (Build 10730.20155).
+  
+|**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1803 (Build 9126.2275)  <br/> |14 agosto 2018  <br/> |292 <br/> |
+|Versione 1808 (Build 10730.20102)  <br/> |11 settembre 2018  <br/>   |87  <br/>|
+
 
   ## <a name="september-27-2018"></a>27 settembre 2018
 
@@ -423,7 +456,7 @@ La versione più recente è la numero 1801 (Build 9001.2171).
 |**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1801 (Build 9001.2144)  <br/> |7 febbraio 2018  <br/> |80  <br/> |
-|Versione 1801 (Build 9001.2138)  <br/> |1 febbraio 2018  <br/> |83  <br/> |
+|Versione 1801 (Build 9001.2138)  <br/> |1° febbraio 2018  <br/> |83  <br/> |
 |Versione 1712 (Build 8827.2179)  <br/> |30 gennaio 2018  <br/> |358  <br/> |
 |Versione 1712 (Build 8827.2148)  <br/> |17 gennaio 2018  <br/> |174  <br/> |
    
@@ -453,7 +486,7 @@ La versione più recente è la numero 1801 (Build 9001.2144).
   
 |**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
 |:-----|:-----|:-----|
-|Versione 1801 (Build 9001.2138)  <br/> |1 febbraio 2018  <br/> |57  <br/> |
+|Versione 1801 (Build 9001.2138)  <br/> |1° febbraio 2018  <br/> |57  <br/> |
 |Versione 1712 (Build 8827.2179)  <br/> |30 gennaio 2018  <br/> |174  <br/> |
 |Versione 1712 (Build 8827.2148)  <br/> |17 gennaio 2018  <br/> |215  <br/> |
 |Versione 1711 (Build 8730.2175)  <br/> |9 gennaio 2018  <br/> |233  <br/> |
