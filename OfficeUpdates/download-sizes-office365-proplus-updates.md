@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento
-ms.openlocfilehash: a5c51a9ccaf7484360965371868b9d444f0b1eda
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: 78ab2d6fa201e495f4dcbb48ac1a331100119fd9
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456820"
+ms.locfileid: "25459413"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -51,12 +51,12 @@ La versione più recente è la numero 1809 (Build 10827.20150).
   
 ### <a name="semi-annual-channel"></a>Canale semestrale
 
-La versione più recente è la numero 1808 (Build 9126.2295).
+La versione più recente è la numero 1803 (Build 9126.2295).
   
 |**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 9126.2275)  <br/> |14 agosto 2018  <br/> |104 <br/> |
-|Versione 11803 (Build 9126.2282)  <br/> |11 settembre 2018  <br/> |100<br/> |
+|Versione 1803 (Build 9126.2282)  <br/> |11 settembre 2018  <br/> |100<br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
