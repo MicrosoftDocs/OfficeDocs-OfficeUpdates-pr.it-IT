@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
+ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456790"
+ms.locfileid: "25493872"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -34,7 +34,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza 
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): aggiornamento difesa in profondità di Microsoft Office 
 
-### <a name="powerpoint-security-updates"></a>PowerPoint: aggiornamenti della sicurezza 
+### <a name="powerpoint-security-updates"></a>PowerPoint: aggiornamenti di sicurezza 
 -   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft PowerPoint
 
 ### <a name="word-security-updates"></a>Word: aggiornamenti di sicurezza 
@@ -44,25 +44,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Word 
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza 
--   Risolve un errore in cui i simboli nell'intervallo 2190...2194 vengono cambiati in Cambria Math. Questo problema causa l'aumento dell'altezza delle celle Excel di 3 volte.
--   Risolve il problema in Excel in cui Excel può diventare inattivo quando l'utente passa sopra le opzioni di formattazione in una cartella di lavoro con molti nomi definiti, e dove Excel può diventare inattivo nello strumento di Analisi rapida anche quando l'Anteprima dinamica è stata disattivata nelle opzioni.
--   Sono in corso ulteriori ricerche riguardo un rallentamento delle prestazioni durante lo spostamento della finestra dell'applicazione Excel da un desktop all'altro. Nel frattempo, se noti questa lentezza, allora una soluzione da considerare è quella di selezionare "Ottimizza per compatibilità" per "Quando si utilizzano più display" nella scheda "Generale" nella finestra di dialogo Opzioni file.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
--   Risolve un problema di potenziale corruzione di file salvati con contenuto ActiveX.
-
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
--   Risolve un problema che fa apparie l'Equation Editor quando si inserisce un oggetto Word Document.
-
-### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
--   Risolve un problema in cui se impostavi un'intestazione o un piè di pagina per una stampa, la modifica non veniva mantenuta la volta successiva che andavi a stampare il tuo progetto.
-
-### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
--   Risolve il problema delle applicazioni che mostrano animazioni nonostante le animazioni siano state disattivate nelle impostazioni di accessibilità e prestazioni. 
--   Risolve il problema dello sfondo che diventa vuoto quando si utilizza lo strumento di disegno evidenziatore.
-
-## <a name="version-1809-september-27"></a>Versione 1809: Settembre 27
+## <a name="version-1809-september-27"></a>Versione 1809: 27 settembre
 *Versione 1809 (Build 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
