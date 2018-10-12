@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/10/2018
+ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
-ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
+ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
+ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25493872"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25504988"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -49,19 +49,18 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 *Versione 1809 (Build 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
-- **Ricerca rapida** Abbiamo velocizzato i tuoi calcoli HLOOKUP, VLOOKUP e MATCH così puoi ottenere risposte più rapidamente. [Ulteriori informazioni](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **Per gli amanti di Ottieni e Trasforma** Se utilizzi molto Ottieni e Trasforma, sarai felice di sapere che la funzionalità Colonna di esempio è stata migliorata. E anche molti connettori sono stati migliorati. [Ulteriori informazioni](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Ricerca rapida** Abbiamo velocizzato calcoli di corrispondenza, HLOOKUP e VLOOKUP così puoi ottenere risposte più rapidamente. [ Ulteriori informazioni](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **Per gli amanti di Ottieni e Trasforma** Se utilizzi molto Ottieni e Trasforma,  sarai felice di sapere che la funzionalità Colonna di esempio è stata migliorata e anche molti altri connettori sono stati migliorati. [Ulteriori informazioni](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente alle schermate di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
-- **Guarda cosa c'è in arrivo** Prova le nuove esperienze utente prima che vengano rilasciate e facci sapere cosa ne pensi. [Ulteriori informazioni](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Vedere l'URL che si cela nel collegamenti sicuri** I collegamenti sicuri consentono di proteggersi dagli URL dannosi ricevuti nella posta elettronica, ma essi nascondono l'URL originale. Ora devi solo passare il cursore del mouse su un URL per visualizzare l'originale, anche in collegamenti protetti tramite collegamenti sicuri.
-- **Accedere alla ricerca suggerimenti ortografici** Dopo aver eseguito la ricerca, Outlook fornirà una query di ricerca con correzioni ortografiche suggerite.
-- **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Guarda cosa c'è in arrivo** Prova le nuove esperienze utente prima che vengano rilasciate e facci sapere cosa ne pensi. [ Ulteriori informazioni](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **Scopri l'URL che si cela dietro i collegamenti sicuri** I collegamenti sicuri consentono di proteggersi dagli URL dannosi ricevuti nella posta elettronica, ma essi nascondono l'URL originale. Ora basta passare il mouse su un URL per visualizzare l'originale, anche per i collegamenti protetti tramite collegamenti sicuri.
+- **Accedi alla ricerca suggerimenti ortografici** Dopo aver eseguito la ricerca, Outlook fornirà una query di ricerca con correzioni ortografiche suggerite.
+- **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente alle schermate di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
-- **Guarda le tue diapositive prendere vita** Inserisci grafiche 3D animate per vedere cuori battere, pianeti in orbita e tirannosauri scatenarsi sullo schermo.  [Ulteriori informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- ** Nuovi strumenti di correzione Non preoccuparti di quello che scrivi.** PowerPoint ora dispone di suggerimenti di grammatica e scrittura. [Ulteriori informazioni](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **Guarda le tue diapositive prendere vita** Inserisci grafiche 3D animate per vedere cuori battere, pianeti in orbita e tirannosauri scatenarsi sullo schermo. [ Ulteriori informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
@@ -119,12 +118,12 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="access-security-updates"></a>Access: aggiornamenti della sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
+### <a name="excel-security-updates"></a>Excel: Aggiornamenti di sicurezza
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilità della divulgazione delle informazioni di Microsoft Excel 
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti di sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   [ ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021) : aggiornamento difesa in profondità di Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
@@ -161,7 +160,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="access-security-updates"></a>Access: aggiornamenti della sicurezza
 -   [ CVE-2018-8312: vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): vulnerabilità relativa alla manomissione di Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
@@ -281,7 +280,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1804-may-8"></a>Versione 1804: 8 maggio
 *Versione 1804 (Build 9226.2126)*
 
-### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
+### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
@@ -319,7 +318,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1803-april-11"></a>Versione 1803: 11 aprile
 *Versione 1803 (Build 9126.2152)*
 
-### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
+### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
@@ -332,7 +331,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema che causa la visualizzazione di un messaggio relativo alla memoria insufficiente.
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): vulnerabilità relativa alla diffusione di informazioni di Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
