@@ -3,19 +3,19 @@ title: Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco delle versioni più recenti per Office 365 ProPlus per ciascun canale di aggiornamenti e collegamenti alle note sulle versioni e alla cronologia degli aggiornamenti
-ms.openlocfilehash: 1e746cb80014c2603951933adfa63db1f2dab3c9
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: 0e0396048c7702400dd84d68da25a1fd7fa8a35c
+ms.sourcegitcommit: d780aaaf591dbfad76ed02b88abe569d6038c70f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459393"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25522147"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
 
@@ -26,8 +26,8 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
   
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino a**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile  <br/> |1809  <br/> |[10827.20150)](monthly-channel-2018.md#version-1809-october-9)  <br/> | 9 ottobre 2018  <br/> |Viene rilasciata la versione 1810 <br/>|
-|Semestrale (mirato)  <br/> |1808  <br/> |[10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 9 ottobre 2018  <br/> | 13 marzo 2019 <br/>|
+|Mensile  <br/> |1809  <br/> |[10827.20150](monthly-channel-2018.md#version-1809-october-9)  <br/> | 9 ottobre 2018  <br/> |Viene rilasciata la versione 1810 <br/>|
+|Semestrale (mirato)  <br/> |1808  <br/> |[10730.20155](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 9 ottobre 2018  <br/> | 13 marzo 2019 <br/>|
 |Semestrale <br/> |1803  <br/> | [9126.2295](semi-annual-channel-2018.md#version-1803-october-9) <br/> |9 ottobre 2018  <br/> | 10 dicembre 2019 <br/>|
 |Semestrale <br/> |1708  <br/> |[8431.2316](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |9 ottobre 2018  <br/> | 13 marzo 2019 <br/>|
 
