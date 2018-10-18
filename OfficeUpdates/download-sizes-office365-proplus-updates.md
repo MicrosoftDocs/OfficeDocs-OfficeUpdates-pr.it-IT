@@ -3,19 +3,19 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento
-ms.openlocfilehash: 78ab2d6fa201e495f4dcbb48ac1a331100119fd9
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: a9d529bb4702f5006c7992af382e80ea8e008534
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459413"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607333"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -35,6 +35,20 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Vengono elencate solo le versioni rilasciate negli ultimi quattro mesi.
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tieni presente che la dimensione del file di download sarà superiore.
 > - Se passi a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB. 
+
+## <a name="october-16-2018"></a>16 ottobre 2018
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1809 (Build 10827.20181).
+  
+|**Aggiornamento dalla versione**|**Data di rilascio**|**Dimensione approssimativa del download (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1808 (Build 10730.20088)  <br/> |5 settembre 2018  <br/> |170  <br/> |
+|Versione 1808 (Build 10730.20102)  <br/> |12 settembre 2018  <br/> |176 <br/> |
+|Versione 1808 (Build 10730.20127)  <br/> |24 settembre 2018  <br/> |396 <br/> |
+|Versione 1809 (Build 10827.20138)  <br/> |27 settembre 2018  <br/> |86 <br/> |
+|Versione 1809 (Build 10827.20150)  <br/> |9 ottobre 2018  <br/> |82 <br/> |
 
 ## <a name="october-9-2018"></a>9 ottobre 2018
 

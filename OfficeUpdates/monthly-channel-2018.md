@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/11/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
-ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
+description: Fornisce ai professionisti IT le note sulle versioni del Canale mensile per Office 365 ProPlus rilasciate nel 2018
+ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25504988"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607353"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -24,6 +24,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
  > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti di sicurezza e non relativi alla sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
+
+## <a name="version-1809-october-16"></a>Versione 1809: Ottobre 16
+*Versione 1809 (Build 10827.20181)* 
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza 
+-  Risolti diversi problemi di prestazioni.
+
 
 ## <a name="version-1809-october-9"></a>Versione 1809: Ottobre 9
 *Versione 1809 (Build 10827.20150)*
@@ -51,13 +58,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 - **Ricerca rapida** Abbiamo velocizzato calcoli di corrispondenza, HLOOKUP e VLOOKUP così puoi ottenere risposte più rapidamente. [ Ulteriori informazioni](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **Per gli amanti di Ottieni e Trasforma** Se utilizzi molto Ottieni e Trasforma,  sarai felice di sapere che la funzionalità Colonna di esempio è stata migliorata e anche molti altri connettori sono stati migliorati. [Ulteriori informazioni](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente alle schermate di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 - **Guarda cosa c'è in arrivo** Prova le nuove esperienze utente prima che vengano rilasciate e facci sapere cosa ne pensi. [ Ulteriori informazioni](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **Scopri l'URL che si cela dietro i collegamenti sicuri** I collegamenti sicuri consentono di proteggersi dagli URL dannosi ricevuti nella posta elettronica, ma essi nascondono l'URL originale. Ora basta passare il mouse su un URL per visualizzare l'originale, anche per i collegamenti protetti tramite collegamenti sicuri.
 - **Accedi alla ricerca suggerimenti ortografici** Dopo aver eseguito la ricerca, Outlook fornirà una query di ricerca con correzioni ortografiche suggerite.
-- **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente alle schermate di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 - **Guarda le tue diapositive prendere vita** Inserisci grafiche 3D animate per vedere cuori battere, pianeti in orbita e tirannosauri scatenarsi sullo schermo. [ Ulteriori informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
@@ -66,7 +73,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 - **Ottieni la loro attenzione con le \@menzioni** Utilizza @mentions nei commenti per informare i colleghi che è necessario il loro contributo. [Ulteriori informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Le icone della barra multifunzione hanno un nuovo aspetto** Non preoccuparti, tutto funziona allo stesso modo. Inoltre, si adattano perfettamente a schermi di tutte le dimensioni. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Convertitore Equation Editor** Il convertitore consente agli utenti di convertire le equazioni create tramite Microsoft Equation Editor nel formato Office Math ML per abilitare la modifica.
+- **Convertitore Equation Editor** Il convertitore consente agli utenti di convertire le equazioni create tramite Microsoft Equation Editor nel formato Office Math ML per abilitarne la modifica.
 
 ## <a name="version-1808-september-11"></a>Versione 1808: 11 settembre
 *Versione 1808 (Build 10730.20102)*
@@ -75,7 +82,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   [ CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331) : vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 -   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilità relativa alla divulgazione delle informazioni di Microsoft Excel
 
-### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti di sicurezza
 -   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Word
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
@@ -115,7 +122,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1807-august-14"></a>Versione 1807: agosto 14
 *Versione 1807 (Build 10325.20118)*
 
-### <a name="access-security-updates"></a>Access: aggiornamenti della sicurezza
+### <a name="access-security-updates"></a>Access: Aggiornamenti di sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti di sicurezza
@@ -123,7 +130,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilità della divulgazione delle informazioni di Microsoft Excel 
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
 -   [ ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021) : aggiornamento difesa in profondità di Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
@@ -210,7 +217,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1805-june-12"></a>Versione 1805: 12 giugno
 *Versione 1805 (Build 9330.2118)*
 
-### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
+### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): vulnerabilità relativa alla diffusione di informazioni di Microsoft Excel
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 
@@ -280,7 +287,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1804-may-8"></a>Versione 1804: 8 maggio
 *Versione 1804 (Build 9226.2126)*
 
-### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
@@ -318,7 +325,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1803-april-11"></a>Versione 1803: 11 aprile
 *Versione 1803 (Build 9126.2152)*
 
-### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
@@ -331,7 +338,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema che causa la visualizzazione di un messaggio relativo alla memoria insufficiente.
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): vulnerabilità relativa alla diffusione di informazioni di Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
@@ -495,11 +502,11 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 -   [Avviso 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): aggiornamento difesa in profondità di Microsoft Office
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
 -   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
 
-### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti di sicurezza
 -   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Word
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
 -   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Word
