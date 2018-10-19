@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Vengono fornite ai professionisti IT le informazioni sugli aggiornamenti più recenti per Office per Mac, compresi i collegamenti per scaricare i pacchetti e una cronologia degli aggiornamenti
-ms.openlocfilehash: 388da8841fc6cfd42bb9eaf2d087d104e980273c
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: 7c01797a8cc02e08e70acab9daa2e9dcdb376bc8
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607343"
+ms.locfileid: "25638166"
 ---
 # <a name="update-history-for-office-for-mac"></a>Cronologia degli aggiornamenti per Office per Mac
 
@@ -58,7 +58,7 @@ La tabella seguente fornisce informazioni sui pacchetti più recenti, compreso u
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.4 (18101400)  <br/> |[Scarica](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Il pacchetto di aggiornamento è a 64 bit. <br/><br/>[Cronologia delle versioni per MAU](release-history-microsoft-autoupdate.md)<br/> |258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/>|
 |Skype for Business  <br/> |16.22.0.160 <br/> |[Scarica](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |La versione più recente è stata rilasciata il 12 ottobre 2018. <br/><br/>[Aggiornamenti più recenti](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |
-|Desktop remoto | 10.2.2 (1291)  | [Scarica](https://go.microsoft.com/fwlink/?linkid=868963) | Il pacchetto di installazione è a 64 bit. <br/> <br/>[Novità](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  a9df9b5d37707d0eeca3c9368d1219726f323d99 <br/> |
+|Desktop remoto | 10.2.2 (1291)  | [Scarica](https://go.microsoft.com/fwlink/?linkid=868963) | Il pacchetto di installazione è a 64 bit. <br/> <br/>[Novità](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
 |Portale aziendale di Intune |1.5 (52.1805002.000) [180509] | [Scarica](https://go.microsoft.com/fwlink/?linkid=869655)| [Novità di Microsoft Intune](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
 |Plug-in del browser Safari per Microsoft SharePoint in locale per Office 2016 per Mac  <br/> |15.32.0 (170309)  <br/> |[Scarica](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |Il pacchetto di installazione è a 64 bit.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
