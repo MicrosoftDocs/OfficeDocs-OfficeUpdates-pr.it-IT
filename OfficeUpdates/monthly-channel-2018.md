@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni del Canale mensile per Office 365 ProPlus rilasciate nel 2018
-ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: a14a4c99d586c58fc118182148acaf54adb37673
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607353"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718970"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -24,6 +24,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
  > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti di sicurezza e non relativi alla sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
+> - Spesso implementiamo funzionalità (e talvolta persino correzioni) nel canale Mensile per un certo periodo. Ciò consente di verificare che tutto funzioni in modo uniforme prima del rilascio della funzionalità a un gruppo di destinatari più ampio. Pertanto, se non viene visualizzato un elemento descritto di seguito, non occorre preoccuparsi, perché sarà implementato. [Ulteriori informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1809-october-16"></a>Versione 1809: Ottobre 16
 *Versione 1809 (Build 10827.20181)* 
@@ -122,10 +124,10 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1807-august-14"></a>Versione 1807: agosto 14
 *Versione 1807 (Build 10325.20118)*
 
-### <a name="access-security-updates"></a>Access: Aggiornamenti di sicurezza
+### <a name="access-security-updates"></a>Access: aggiornamenti di sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: Aggiornamenti di sicurezza
+### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilità della divulgazione delle informazioni di Microsoft Excel 
@@ -164,10 +166,10 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1806-july-10"></a>Versione 1806: 10 luglio
 *Versione 1806 (Build 10228.20104)*
 
-### <a name="access-security-updates"></a>Access: aggiornamenti della sicurezza
--   [ CVE-2018-8312: vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)
+### <a name="access-security-updates"></a>Access: aggiornamenti di sicurezza
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): vulnerabilità relativa alla manomissione di Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
@@ -217,11 +219,11 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1805-june-12"></a>Versione 1805: 12 giugno
 *Versione 1805 (Build 9330.2118)*
 
-### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): vulnerabilità relativa alla diffusione di informazioni di Microsoft Excel
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): vulnerabilità relativa all'elevazione di privilegi in Microsoft Outlook
 
 ### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
@@ -244,10 +246,10 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 *Versione 1805 (Build 9330.2078)*
 
 ### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
- - **Visualizzazione di dati con nuovi grafici:** scegli tra 11 grafici e aggiungine uno a moduli e report per visualizzare meglio i dati e prendere decisioni informate. [Ulteriori informazioni](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+ - **Visualizzazione di dati con nuovi grafici**: scegliere tra 11 grafici e aggiungerne uno a maschere e report per visualizzare meglio i dati e prendere decisioni informate. [Ulteriori informazioni](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
- - **Chatta con i coautori mentre modifichi:** collabora in modo più efficiente chattando con i coautori senza dover uscire da Excel. Nota che questa funzionalità non è disponibile in alcune aree geografiche.[Ulteriori informazioni](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **Chatta con i coautori mentre modifichi:** Collabora in modo più efficiente chattando con i coautori senza dover uscire da Excel. Nota che questa funzionalità non è disponibile in alcune aree geografiche.[Ulteriori informazioni](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
  - **Digitazione senza mani:** usa i comandi vocali per creare messaggi di posta elettronica con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -263,7 +265,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
  - **Microsoft Forms:** inserisci un test o un sondaggio in una diapositiva. Office raccoglie e archivia le risposte. [Ulteriori informazioni](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
- - Risolve un problema a causa del quale Project potrebbe arrestarsi in modo anomalo la prima volta che si salva un progetto in Project Web App.
+ - Risolvere un problema a causa del quale Project potrebbe arrestarsi in modo anomalo la prima volta che si salva un progetto in Project Web App.
 
 
 ### <a name="visio-feature-updates"></a>Visio: aggiornamenti delle funzionalità
@@ -280,7 +282,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 *Versione 1804 (Build 9226.2156)*
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
-- Consente di risolvere un problema a causa del quale, all'apertura di un'applicazione, l'utente potrebbe visualizzare un messaggio sull'avvio in modalità provvisoria e quindi l'applicazione non si apre.
+- Consente di risolvere un problema a causa del quale, quando apre un'applicazione, l'utente potrebbe visualizzare un messaggio sull'avvio in modalità provvisoria e l'applicazione non si apre.
 
 
 
@@ -293,7 +295,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): vulnerabilità della divulgazione delle informazioni di Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti di sicurezza
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): vulnerabilità relativa al bypass delle funzionalità di sicurezza di Microsoft Outlook
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti di sicurezza
@@ -308,7 +310,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   **Ascolto delle e-mail:** Outlook può leggere ad alta voce la posta elettronica dell’utente, evidenziando del testo durante la lettura. [Ulteriori informazioni](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **Non perdere mai un promemoria:** configura i promemoria in modo che essi appaiano al di sopra delle finestre in uso. In caso contrario, Outlook lampeggerà nella barra delle applicazioni per ottenere la tua attenzione.[Ulteriori informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Contrassegnare gli elementi eliminati come già letti:** è ora possibile impostare tutti i messaggi eliminati come già letti. Scegli facendo clic su File \> Opzioni \> Posta \> Altro.
--   **Opzione di crittografia:** gli utenti di Crittografia messaggi di Office 365 possono crittografare un messaggio e inviarlo a tutti gli utenti, all'interno o all'esterno dell'organizzazione. L'opzione di crittografia è disponibile su Opzioni \> Autorizzazioni durante la creazione di un messaggio. [Altre informazioni](https://aka.ms/omeoverview)
+-   **Opzione di crittografia:** gli utenti di Crittografia messaggi di Office 365 possono crittografare un messaggio e inviarlo a tutti gli utenti, all'interno o all'esterno dell'organizzazione. L'opzione di crittografia è disponibile in Opzioni \> Autorizzazioni durante la creazione di un messaggio. [Altre informazioni](https://aka.ms/omeoverview)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 -   **Convertire l'input penna:** è possibile creare disegni e note a mano libera e convertirli in testo leggibile e forme nitide per creare una presentazione professionale. [Ulteriori informazioni](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -380,13 +382,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1802-march-13"></a>Versione 1802: 13 marzo
 *Versione 1802 (Build 9029.2253)*
 
-### <a name="access-security-updates"></a>Access: aggiornamenti della sicurezza
+### <a name="access-security-updates"></a>Access: aggiornamenti di sicurezza
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Access
 
 ### <a name="excel-security-updates"></a>Excel: aggiornamenti di sicurezza
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): bypass delle funzionalità di sicurezza di Microsoft Office Excel
 
-### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti di sicurezza
 -   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): vulnerabilità relativa alla diffusione di informazioni di Microsoft Office
 
 
@@ -466,7 +468,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 -   **Conversione delle icone SVG in forme:** trasforma tutte le immagini SVG e le icone in forme di Office in modo da poter cambiare il loro colore, le dimensioni o la texture.
--   ** Deselezionare le celle: consente di selezionare le opzioni del foglio di lavoro e deselezionare le celle accidentalmente selezionate senza dover ricominciare da capo.**
+-   **Deselezionare le celle:** Consente di selezionare le opzioni del foglio di lavoro e deselezionare le celle accidentalmente selezionate senza dover ricominciare da capo.
 
 ### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema in caso di errore nei riferimenti delle cartelle di lavoro durante l’apertura di più cartelle, facendo doppio clic sui nomi dei file in Esplora File.
