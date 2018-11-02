@@ -1,6 +1,5 @@
 # Office 365 ProPlus
 ## [Cronologia degli aggiornamenti (per data)](update-history-office365-proplus-by-date.md)
-## [Aggiornamento della cronologia (versione)](update-history-office365-proplus-by-version.md)
 ## [Aggiornare le dimensioni](download-sizes-office365-proplus-updates.md)
 
 ## [Note sulla versione](release-notes-office365-proplus.md)
@@ -41,7 +40,7 @@
 # Prodotti Server di Office
 ## [Aggiornamenti per Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 ## [Aggiornamenti per Project Server](project-server-updates.md)
-## [Aggiornamenti per SharePoint](sharepoint-updates.md)
+## [Aggiornamenti di SharePoint](sharepoint-updates.md)
 ## [Skype per gli aggiornamenti Business Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # Collegamenti correlati
