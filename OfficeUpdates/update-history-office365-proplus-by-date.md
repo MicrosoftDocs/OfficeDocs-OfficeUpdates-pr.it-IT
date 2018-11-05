@@ -3,47 +3,48 @@ title: Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/18/2018
+ms.date: 10/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: bd92012c83b7438edac74990f3e18608d96fe251
-ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
+ms.openlocfilehash: 8fd677a9fc2db7e44bfc771a062f4f4f8d0e88e8
+ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25638176"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "25841262"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
-Office 365 ProPlus viene aggiornato regolarmente con nuove funzionalità, aggiornamenti di sicurezza e di altro tipo. Questi aggiornamenti vengono rilasciati tramite i [canali di aggiornamento](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). A ciascun rilascio ad ogni canale di aggiornamento è assegnato un numero di versione e di build. 
+Office 365 ProPlus viene aggiornato regolarmente con nuove funzionalità, aggiornamenti della sicurezza e di altro tipo. Questi aggiornamenti vengono rilasciati tramite i [canali di aggiornamento](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). A ciascun rilascio in ogni canale di aggiornamento è assegnato un numero di versione e di build. 
 
 
 > [!NOTE]
 > - Questi numeri di versione e build si applicano anche a Office 365 Business, Visio Pro per Office 365 e Project Online Desktop Client. Office 365 Business è la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima. 
-> - Per ulteriori informazioni sui canali di aggiornamento, consulta [Informazioni generali sui canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
+> - Per ulteriori informazioni sui canali di aggiornamento, vedere [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-Nella tabella seguente sono elencati la versione supportata e il numero di build aggiornato per ciascun canale di aggiornamento. 
+Nella tabella seguente viene elencata la versione supportata e il numero di build più recente per ogni canale di aggiornamento. 
  
-|**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino a**|
+|**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile  <br/> |1809  <br/> |10827.20181 <br/> | 16 ottobre 2018  <br/> |Viene rilasciata la versione 1810 <br/>|
+|Mensile  <br/> |1810  <br/> |11001.20074<br/> | 29 ottobre 2018  <br/> |Viene rilasciata la versione 1811 <br/>|
 |Semestrale (mirato)  <br/> |1808  <br/> |10730.20155 <br/> | 9 ottobre 2018  <br/> | 13 marzo 2019 <br/>|
 |Semestrale <br/> |1803  <br/> | 9126.2295<br/> |9 ottobre 2018  <br/> | 10 dicembre 2019 <br/>|
 |Semestrale <br/> |1708  <br/> |8431.2316  <br/> |9 ottobre 2018  <br/> | 13 marzo 2019 <br/>|
 
-Per informazioni sulle dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Office 365 ProPlus, consulta [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
+Per informazioni sulle dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Office 365 ProPlus, vedere [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
 
-La tabella seguente fornisce un elenco di numeri di versione e build per ciascun aggiornamento a Office 365 ProPlus rilasciato nei seguenti canali di aggiornamento: mensile, semestrale (mirato) e semestrale. Ogni voce nella tabella reindirizza direttamente alle note sulle versioni di tale rilascio. Le note sulle versioni forniscono informazioni sulle funzionalità, aggiornamenti della sicurezza e non relativi alla sicurezza che sono inclusi nell'aggiornamento a Office 365 ProPlus.
+La tabella seguente fornisce un elenco di numeri diversione e build per ciascun aggiornamento a Office 365 ProPlus rilasciato nei seguenti canali di aggiornamento: mensile, semestrale (mirato) e semestrale. Ogni voce nella tabella reindirizza direttamente alle note sulle versioni di tale rilascio. Le note sulle versioni forniscono informazioni sulle funzionalità,aggiornamenti della sicurezza e non della sicurezza che sono inclusi nell'aggiornamento a Office 365 ProPlus.
 
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
+|2018|29 ottobre |[Versione 1810 (Build 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | |
 |2018|16 ottobre |[Versione 1809 (Build 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
 |2018|9 ottobre |[Versione 1809 (Build 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[Versione 1808 (Build 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[Versione 1803 (Build 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Versione 1708 (Build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018|27 settembre   |[Versione 1809 (Build 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
@@ -80,14 +81,14 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 ||27 novembre  <br/> | [Versione 1710 (Build 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
 ||24 novembre  <br/> |  <br/> |  <br/> |[Versione 1705 (Build 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
 ||20 novembre  <br/> | [Versione 1710 (Build 8625.2132)](monthly-channel-2017.md#version-1710-november-20)  <br/> |  <br/> |  <br/> |
-||14 novembre  <br/> | [Versione 1710 (Build 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> | [Versione 1708 (Build 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [Versione 1705 (Build 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [Versione 1701 (Build 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |
+||14 novembre  <br/> | [Versione 1710 (Build 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> | [Versione 1708 (Build 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [Versione 1705 (Build 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [ Versione 1701 (Build 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |
 ||2 novembre  <br/> |[Versione 1710 (Build 8625.2121)](monthly-channel-2017.md#version-1710-november-2)  <br/> |  <br/> |  <br/> |
 ||25 ottobre  <br/> | [Versione 1709 (Build 8528.2147)](monthly-channel-2017.md#version-1709-october-25)  <br/> |  <br/> |  <br/> |
 ||16 ottobre  <br/> | [Versione 1709 (Build 8528.2139)](monthly-channel-2017.md#version-1709-october-16)  <br/> |  <br/> |  <br/> |
-||10 ottobre  <br/> | [Versione 1708 (Build 8431.2107)](monthly-channel-2017.md#version-1708-october-10)  <br/> | [Versione 1708 (Build 8431.2107)](semi-annual-channel-targeted-2017.md#version-1708-october-10) <br/> | [Versione 1705 (Build 8201.2200)](semi-annual-channel-2017.md#version-1705-october-10)  <br/>  [Versione 1701 (Build 7766.2119)](semi-annual-channel-2017.md#version-1701-october-10)  <br/> |
+||10 ottobre  <br/> | [Versione 1708 (Build 8431.2107)](monthly-channel-2017.md#version-1708-october-10)  <br/> | [Versione 1708 (Build 8431.2107)](semi-annual-channel-targeted-2017.md#version-1708-october-10) <br/> | [Versione 1705 (Build 8201.2200)](semi-annual-channel-2017.md#version-1705-october-10)  <br/>  [ Versione 1701 (Build 7766.2119)](semi-annual-channel-2017.md#version-1701-october-10)  <br/> |
 ||4 ottobre  <br/> | [Versione 1708 (Build 8431.2094)](monthly-channel-2017.md#version-1708-october-4)  <br/> |  <br/> |  <br/> |
 ||18 settembre  <br/> | [Versione 1708 (Build 8431.2079)](monthly-channel-2017.md#version-1708-september-18)  <br/> |  <br/> |  <br/> |
-||12 settembre  <br/> | [Versione 1707 (Build 8326.2107)](monthly-channel-2017.md#version-1707-september-12)  <br/> | [Versione 1708 (Build 8431.2079)](semi-annual-channel-targeted-2017.md#version-1708-september-12)  <br/> | [Versione 1705 (Build 8201.2193)](semi-annual-channel-2017.md#version-1705-september-12)  <br/>  [Versione 1701 (Build 7766.2116)](semi-annual-channel-2017.md#version-1701-september-12)  <br/> |
+||12 settembre  <br/> | [Versione 1707 (Build 8326.2107)](monthly-channel-2017.md#version-1707-september-12)  <br/> | [Versione 1708 (Build 8431.2079)](semi-annual-channel-targeted-2017.md#version-1708-september-12)  <br/> | [Versione 1705 (Build 8201.2193)](semi-annual-channel-2017.md#version-1705-september-12)  <br/>  [ Versione 1701 (Build 7766.2116)](semi-annual-channel-2017.md#version-1701-september-12)  <br/> |
 ||29 agosto  <br/> | [Versione 1707 (Build 8326.2096)](monthly-channel-2017.md#version-1707-august-29)  <br/> |  <br/> |  <br/> |
 ||24 agosto  <br/> | [Versione 1707 (Build 8326.2087)](monthly-channel-2017.md#version-1707-august-24)  <br/> |  <br/> |  <br/> |
 ||18 agosto  <br/> | [Versione 1707 (Build 8326.2076)](monthly-channel-2017.md#version-1707-august-18)  <br/> |  <br/> |  <br/> |
@@ -100,13 +101,13 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 ||19 luglio  <br/> | [Versione 1706 (Build 8229.2103)](monthly-channel-2017.md#version-1706-july-19)  <br/> |  <br/> |  <br/> |
 ||13 luglio  <br/> | [Versione 1706 (Build 8229.2086)](monthly-channel-2017.md#version-1706-july-13)  <br/> | [Versione 1705 (Build 8201.2136)](semi-annual-channel-targeted-2017.md#version-1705-july-13) <br/> | [Versione 1701 (Build 7766.2096)](semi-annual-channel-2017.md#version-1701-july-13)  <br/>  [Versione 1609 (Build 7369.2151)](semi-annual-channel-2017.md#version-1609-july-13)  <br/> |
 ||28 giugno  <br/> | [Versione 1706 (Build 8229.2073)](monthly-channel-2017.md#version-1706-june-28)  <br/> |  <br/> |  <br/> |
-||13 giugno  <br/> | [Versione 1705 (Build 8201.2102)](monthly-channel-2017.md#version-1705-june-13)  <br/> | [Versione 1705 (Build 8201.2102)](semi-annual-channel-targeted-2017.md#version-1705-june-13)  <br/> | [Versione 1701 (Build 7766.2092)](semi-annual-channel-2017.md#version-1701-june-13)  <br/>  [Versione 1609 (Build 7369.2139)](semi-annual-channel-2017.md#version-1609-june-13)  <br/> |
+||13 giugno  <br/> | [Versione 1705 (Build 8201.2102)](monthly-channel-2017.md#version-1705-june-13)  <br/> | [Versione 1705 (Build 8201.2102)](semi-annual-channel-targeted-2017.md#version-1705-june-13)  <br/> | [ Versione 1701 (Build 7766.2092)](semi-annual-channel-2017.md#version-1701-june-13)  <br/>  [Versione 1609 (Build 7369.2139)](semi-annual-channel-2017.md#version-1609-june-13)  <br/> |
 ||7 giugno  <br/> | [Versione 1705 (Build 8201.2075)](monthly-channel-2017.md#version-1705-june-7)  <br/> |  <br/> |  <br/> |
 ||1 giugno  <br/> | [Versione 1704 (Build 8067.2157)](monthly-channel-2017.md#version-1704-june-1)  <br/> |  <br/> |  <br/> |
 ||18 maggio  <br/> | [Versione 1704 (Build 8067.2115)](monthly-channel-2017.md#version-1704-may-18)  <br/> |  <br/> |  <br/> |
 ||9 maggio  <br/> | [Versione 1703 (Build 7967.2161)](monthly-channel-2017.md#version-1703-may-9)  <br/> | [Versione 1701 (Build 7766.2084)](semi-annual-channel-targeted-2017.md#version-1701-may-9)  <br/> | [Versione 1609 (Build 7369.2130)](semi-annual-channel-2017.md#version-1609-may-9)  <br/>  [Versione 1605 (Build 6965.2150)](semi-annual-channel-2017.md#version-1605-may-9)  <br/> |
 ||21 aprile  <br/> | [Versione 1703 (Build 7967.2139)](monthly-channel-2017.md#version-1703-april-21)  <br/> |  <br/> |  <br/> |
-||11 aprile  <br/> | [Versione 1702 (Build 7870.2038)](monthly-channel-2017.md#version-1702-april-11)  <br/> | [Versione 1701 (Build 7766.2076)](semi-annual-channel-targeted-2017.md#version-1701-april-11)  <br/> | [Versione 1609 (Build 7369.2127)](semi-annual-channel-2017.md#version-1609-april-11)  <br/>  [Versione 1605 (Build 6965.2145)](semi-annual-channel-2017.md#version-1605-april-11)  <br/> |
+||11 aprile  <br/> | [Versione 1702 (Build 7870.2038)](monthly-channel-2017.md#version-1702-april-11)  <br/> | [ Versione 1701 (Build 7766.2076)](semi-annual-channel-targeted-2017.md#version-1701-april-11)  <br/> | [Versione 1609 (Build 7369.2127)](semi-annual-channel-2017.md#version-1609-april-11)  <br/>  [Versione 1605 (Build 6965.2145)](semi-annual-channel-2017.md#version-1605-april-11)  <br/> |
 ||27 marzo  <br/> | [Versione 1702 (Build 7870.2031)](monthly-channel-2017.md#version-1702-march-27)  <br/> |  <br/> |  <br/> |
 ||14 marzo  <br/> | [Versione 1702 (Build 7870.2024)](monthly-channel-2017.md#version-1702-march-14)  <br/> | [Versione 1701 (Build 7766.2071)](semi-annual-channel-targeted-2017.md#version-1701-march-14)  <br/> | [Versione 1609 (Build 7369.2120)](semi-annual-channel-2017.md#version-1609-march-14)  <br/>  [Versione 1605 (Build 6965.2140)](semi-annual-channel-2017.md#version-1605-march-14)  <br/> |
 ||9 marzo  <br/> | [Versione 1702 (Build 7870.2020)](monthly-channel-2017.md#version-1702-march-9)  <br/> |  <br/> |  <br/> |
@@ -144,7 +145,7 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 ||4 maggio  <br/> |[Versione 1604 (Build 6868.2060)](monthly-channel-2016.md#version-1604-may-4)  <br/> |  <br/> |  <br/> |
 ||3 maggio  <br/> |  <br/> |[Versione 1602 (Build 6741.2033)](semi-annual-channel-targeted-2016.md#version-1602-may-3)  <br/> |  <br/> |
 ||28 aprile  <br/> |[Versione 1603 (Build 6769.2040)](monthly-channel-2016.md#version-1603-april-28)  <br/> |  <br/> |  <br/> |
-||12 aprile  <br/> |[Versione 1603 (Build 6769.2017)](monthly-channel-2016.md#version-1603-april-12)  <br/> |[Versione 1602 (Build 6741.2026) ](semi-annual-channel-targeted-2016.md#version-1602-april-12) <br/> |[Versione 1509 (Build 6001.1073)](semi-annual-channel-2016.md#version-1509-april-12)  <br/> |
+||12 aprile  <br/> |[Versione 1603 (Build 6769.2017)](monthly-channel-2016.md#version-1603-april-12)  <br/> |[Versione 1602 (Build 6741.2026)](semi-annual-channel-targeted-2016.md#version-1602-april-12) <br/> |[Versione 1509 (Build 6001.1073)](semi-annual-channel-2016.md#version-1509-april-12)  <br/> |
 ||4 aprile  <br/> |[Versione 1603 (Build 6769.2015)](monthly-channel-2016.md#version-1603-april-4)  <br/> |[Versione 1602 (Build 6741.2025)](semi-annual-channel-targeted-2016.md#version-1602-april-4)  <br/> |  <br/> |
 ||24 marzo  <br/> |[Versione 1602 (Build 6741.2021)](monthly-channel-2016.md#version-1602-march-24)  <br/> |  <br/> |  <br/> |
 ||23 marzo  <br/> |  <br/> |[Versione 1602 (Build 6741.2021)](semi-annual-channel-targeted-2016.md#version-1602-march-23)  <br/> |  <br/> |
@@ -168,10 +169,10 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 
 ## <a name="related-topics"></a>Argomenti correlati
 
-- [Informazioni generali sui canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus](release-notes-office365-proplus.md)
 - [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Se hai bisogno di assistenza per un problema con l'utilizzo di Office, è consigliabile postare la domanda nel [forum di Microsoft Answers](https://answers.microsoft.com/) o nella [Community Tech](https://techcommunity.microsoft.com/) oppure contattare [il supporto](https://support.microsoft.com/contactus).
+> Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
