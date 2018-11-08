@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: dec4a8e8af5cc2cb4e15a47df3c9047f5e7cc8e4
-ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
+ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "25841252"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031645"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -33,6 +33,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità 
 
 - **Collaborare con i commenti:** mantenere la conversazione nel proprio foglio di calcolo con la casella di risposta integrata. [Ulteriori informazioni](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **Quotazioni azionarie a portata di mano:** recuperare prezzi delle azioni aggiornati, variazioni dei prezzi e altro con il nuovo tipo di dati Azioni. Un altro nuovo tipo di dati è Dati geografici. [Ulteriori informazioni](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 - **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in un foglio di lavoro, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto. [Ulteriori informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Modifica rapida nella barra della formula:** ora è possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. C'è anche un miglior supporto per emoji e altri caratteri complessi. [Altre informazioni](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 

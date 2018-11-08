@@ -12,19 +12,19 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: Trova e gestisci gli aggiornamenti per Project Server 2013 e Project Server 2010 in un'unica posizione. Utilizza i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
-ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+description: Trovare e gestire gli aggiornamenti per Project Server 2013 e Project Server 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
+ms.openlocfilehash: d8e5e8801d639d8a2b48ade63dc62571aed2c782
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456700"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024590"
 ---
 # <a name="project-server-updates"></a>Aggiornamenti per Project Server
 
-Utilizza i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti di Project Server 2013 e Project Server 2010 e per scaricarli. 
+Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti di Project Server 2013 e Project Server 2010 e per scaricarli. 
 > [!NOTE]
-> Per informazioni sugli aggiornamenti per Project Server 2016, consulta [Aggiornamenti per SharePoint](sharepoint-updates.md), dato che Project Server 2016 è incluso in SharePoint Server 2016 Enterprise Edition.
+> Per informazioni sugli aggiornamenti per Project Server 2016, vedere [Aggiornamenti per SharePoint](sharepoint-updates.md), dato che Project Server 2016 è incluso in SharePoint Server 2016 Enterprise Edition.
   
 ## <a name="project-server-2013-update-history"></a>Cronologia degli aggiornamenti di Project Server 2013
   
@@ -60,7 +60,7 @@ Utilizza i collegamenti riportati in questa pagina per visualizzare ulteriori in
 |Maggio 2016  <br/> |[KB3115024](https://support.microsoft.com/kb/3115024) <br/> |
 |Aprile 2016  <br/> |[KB3114936](https://support.microsoft.com/kb/3114936) <br/> |
 |Marzo 2016  <br/> |[KB3114823](https://support.microsoft.com/kb/3114823) <br/> |
-|Febbraio 2016  <br/> |[KB3114723](https://support.microsoft.com/kb/3114723) <br/> |
+|Febbraio 2016  <br/> |[KB3114723](https://support.microsoft.com/kb/3114723) <br/> |
 |Gennaio 2016  <br/> |[KB3114493](https://support.microsoft.com/kb/3114493) <br/> |
 |Dicembre 2015  <br/> |[KB3114341](https://support.microsoft.com/kb/3114341) <br/> |
 |Novembre 2015  <br/>  |[KB3101369](https://support.microsoft.com/kb/3101369) <br/> |
@@ -83,7 +83,7 @@ Utilizza i collegamenti riportati in questa pagina per visualizzare ulteriori in
 |:-----|:-----|:-----|
 |Ottobre 2018  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |Settembre 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
-|Agosto 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
+|Agosto 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092438) <br/>|
 |Luglio 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
 |Giugno 2018  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |Maggio 2018  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |
@@ -132,5 +132,5 @@ Utilizza i collegamenti riportati in questa pagina per visualizzare ulteriori in
 
 ## <a name="related-topics"></a>Argomenti correlati
 
-- [Aggiornamenti per Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+- [Aggiornamenti per Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 - [Aggiornamenti per SharePoint](sharepoint-updates.md)
