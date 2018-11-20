@@ -3,36 +3,36 @@ title: Cronologia degli aggiornamenti per Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2013 che utilizzano A portata di clic.
-ms.openlocfilehash: 1723306ef27882f0df9662266397740509eb6a76
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: 12f398ed28d41cda77c3bb6395bb34bd0d9bd9d8
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456710"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296606"
 ---
 # <a name="update-history-for-office-2013"></a>Cronologia degli aggiornamenti per Office 2013
 
-La maggior parte dei prodotti di Office 2013 si aggiorna automaticamente tramite una tecnologia denominata A portata di clic. Se desideri verificare che la versione in uso sia aggiornata, controlla il numero di versione di Office e, se necessario, aggiorna manualmente.
+La maggior parte dei prodotti di Office 2013 si aggiorna automaticamente tramite una tecnologia denominata A portata di clic. Se si desidera verificare che la versione in uso sia aggiornata, controllare il numero di versione di Office e, se necessario, aggiornare manualmente.
   
 > [!NOTE]
-> La versione più recente di Office 2013 è la **15.0.5075.1001**, rilasciata il 9 ottobre 2018. 
+> La versione più recente di Office 2013 è la **15.0.5085.1000**, rilasciata il 13 novembre 2018. 
   
-Per verificare la versione di Office in uso, esegui le operazioni seguenti:
+Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
   
-1. Apri un'applicazione di Office 2013, ad esempio Word o Excel.
+1. Aprire un'applicazione di Office 2013, ad esempio Word o Excel.
     
-2. Seleziona **File** > **Account**.
+2. Selezionare **File** > **Account**.
     
-3. Alla voce **Informazioni sui prodotti**, controlla il numero di versione visualizzato sotto **Aggiornamenti di Office**.
+3. In **Informazioni sui prodotti**, controllare il numero di versione visualizzato sotto **Aggiornamenti di Office**.
     
-    Se il numero di versione visualizzato corrisponde alla versione più recente, il prodotto è aggiornato. In caso contrario, puoi eseguire manualmente l'aggiornamento per ottenere la versione più recente di Office 2013. Per aggiornare Office, [esegui queste operazioni](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
+    Se il numero di versione visualizzato corrisponde alla versione più recente, il prodotto è aggiornato. In caso contrario, è possibile eseguire manualmente l'aggiornamento per ottenere la versione più recente di Office 2013. Per aggiornare Office, [eseguire queste operazioni](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Elenco di date di rilascio, numeri di versione e informazioni sulle correzioni per gli aggiornamenti di Office 2013
 
@@ -46,14 +46,15 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
   
 |**Anno di pubblicazione**|**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|:-----|
-|2018 |9 ottobre   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
-| |11 settembre   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
-||14 agosto   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
-||10 luglio   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
-||12 giugno   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
-||8 maggio   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
-||10 aprile   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/en-us/help/4098622)  |
-||13 marzo   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
+|2018 |13 novembre   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/it-IT/help/4469617)  |
+||9 ottobre   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/it-IT/help/4464656)  |
+| |11 settembre   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/it-IT/help/4459402)  |
+||14 agosto   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/it-IT/help/4346823)  |
+||10 luglio   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/it-IT/help/4340798)  |
+||12 giugno   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/it-IT/help/4299875)  |
+||8 maggio   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/it-IT/help/4133083)  |
+||10 aprile   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/it-IT/help/4098622)  |
+||13 marzo   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/it-IT/help/4090988)  |
 ||13 febbraio   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||9 gennaio   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
 |2017   |12 dicembre   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
@@ -67,8 +68,8 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
 ||11 aprile   |15.0.4919.1002   |[KB 4016803](https://support.microsoft.com/help/4016803)  |
 ||14 marzo   |15.0.4911.1002   |[KB 4013886](https://support.microsoft.com/help/4013886)  |
 ||22 febbraio   |15.0.4903.1002   |[KB 4010765](https://support.microsoft.com/help/4010765)  |
-||10 gennaio   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/en-us/kb/3214449)  |
-|2016   |13 dicembre   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595)  |
+||10 gennaio   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/it-IT/kb/3214449)  |
+|2016   |13 dicembre   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/it-IT/kb/3208595)  |
 ||8 novembre   |15.0.4875.1001   |[KB 3200802](https://support.microsoft.com/kb/3200802)  |
 ||11 ottobre   |15.0.4867.1003   |[KB 3194160](https://support.microsoft.com/kb/3194160)  |
 ||13 settembre   |15.0.4859.1002   |[KB 3188548](https://support.microsoft.com/kb/3188548)  |
@@ -104,7 +105,7 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
 ||24 luglio   |15.0.4631.1004   |[KB 2989605](https://support.microsoft.com/kb/2989605)  |
 ||8 luglio   |15.0.4631.1002   |[KB 2980001](https://support.microsoft.com/kb/2980001)  |
 ||10 giugno   |15.0.4623.1003   |[KB 2971668](https://support.microsoft.com/kb/2971668)  |
-||22 maggio   |15.0.4615.1002   |Questa versione risolve gli errori di attivazione.   |
+||22 maggio   |15.0.4615.1002   |Questa versione corregge gli errori di attivazione.   |
 ||13 maggio   |15.0.4615.1001   |[KB 2964042](https://support.microsoft.com/kb/2964042)  |
 ||8 aprile   |15.0.4605.1003   |[KB 2955382](https://support.microsoft.com/kb/2955382)  |
 ||11 marzo   |15.0.4569.1508   |[KB 2937335](https://support.microsoft.com/kb/2937335)  |

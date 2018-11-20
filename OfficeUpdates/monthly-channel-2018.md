@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
+ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031645"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "26526391"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -24,47 +24,81 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
  > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
-> - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzione ad un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. 
-  [Ulteriori informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1810-november-13"></a>Versione 1810: 13 novembre
+*Versione 1810 (Build 11001.20108)* 
+
+### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8574): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8577): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza 
+
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8522): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8524): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8558): vulnerabilità della divulgazione delle informazioni relative a Microsoft Outlook 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8576): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8579): vulnerabilità della divulgazione delle informazioni relative a Microsoft Outlook 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8582): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
+
+### <a name="project-security-updates"></a>Project: Aggiornamenti della sicurezza 
+
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8575): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
+
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza  
+
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8573): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Word 
+
+### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza 
+
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8546): vulnerabilità relativa alla sospensione del servizio in Microsoft Skype for Business 
+
+ ### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
+
+ - Risolto un problema per il quale, durante il salvataggio / la pubblicazione di un progetto in Project Online, la barra di stato non sempre si aggiornava per visualizzare lo stato più recente.
+ - Risolto un problema per il quale, se si utilizzavano file di Project in una raccolta documenti di SharePoint nella nuova esperienza moderna, le azioni di Estrazione necessaria e Sola lettura non erano applicate correttamente.
+
 
 ## <a name="version-1810-october-29"></a>Versione 1810: 29 ottobre
 *Versione 1810 (Build 11001.20074)* 
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità 
 
-- **Collaborare con i commenti:** mantenere la conversazione nel proprio foglio di calcolo con la casella di risposta integrata. [Ulteriori informazioni](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **Quotazioni azionarie a portata di mano:** recuperare prezzi delle azioni aggiornati, variazioni dei prezzi e altro con il nuovo tipo di dati Azioni. Un altro nuovo tipo di dati è Dati geografici. [Ulteriori informazioni](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
-- **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in un foglio di lavoro, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto. [Ulteriori informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Modifica rapida nella barra della formula:** ora è possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. C'è anche un miglior supporto per emoji e altri caratteri complessi. [Altre informazioni](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
+- **Collaborare con i commenti:** mantenere la conversazione nel proprio foglio di calcolo con la casella di risposta integrata. [Altre informazioni](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **Quotazioni azionarie a portata di mano:** recuperare prezzi delle azioni aggiornati, variazioni dei prezzi e altro con il nuovo tipo di dati Azioni. Un altro nuovo tipo di dati è Dati geografici. [Altre informazioni](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in un foglio di lavoro, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto! [Altre informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **Modifica rapida barra della formula:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato anche migliorato il supporto di emoji e caratteri complessi. [Altre informazioni](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
-### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità 
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità 
 
-- **Utenti suggeriti dall'Assistente Pianificazione:** visualizzare i partecipanti suggeriti quando si pianifica una riunione. Non è più necessario passare continuamente dall'Assistente Pianificazione alla riga A. [Ulteriori informazioni](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
+- **Utenti suggeriti dall'Assistente Pianificazione:** visualizzare i partecipanti suggeriti quando si pianifica una riunione. Non è più necessario passare continuamente dall'Assistente Pianificazione alla riga A. [Altre informazioni](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
 - **Maggiore facilità nella prenotazione delle sale:** cercare una sala riunioni utilizzando più di un elenco di sale e passare da un elenco all'altro senza perdere le sale selezionate.
 - **Nascondere i promemoria per gli eventi passati:** è possibile impostare il calendario per eliminare automaticamente i promemoria relativi ad eventi passati. [Altre informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità 
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità 
 
-- **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in una diapositiva, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto. [Ulteriori informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Nuovi strumenti di correzione:** niente più preoccupazione per le parole. PowerPoint offre suggerimenti relativi a grammatica e ortografia.
-- **I bozzetti vengono rielaborati:** testi e forme disegnati a mano vengono ridisegnati in diagrammi sofisticati. Basta selezionare i tratti input penna per iniziare. [Ulteriori informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in una diapositiva, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto! [Altre informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **Nuovi strumenti di correzione:** niente più preoccupazione per le parole. PowerPoint offre ora suggerimenti relativi alla grammatica e all’ortografia.
+- **I bozzetti vengono rielaborati:** testi e forme disegnati a mano vengono ridisegnati in diagrammi sofisticati. Basta selezionare i tratti input penna per iniziare. [Altre informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
-### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità 
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità 
 
-- **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in un documento, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto. [Ulteriori informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in un documento, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto! [Altre informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Guardare i documenti prendere vita:** inserire grafici 3D animati per visualizzare cuori pulsanti, pianeti in orbita e la furia di un T-Rex nella pagina. [Altre informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 
 ### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità 
-- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="publisher-feature-updates"></a>Publisher: aggiornamenti delle funzionalità 
-- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità 
-- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="visio-feature-updates"></a>Visio: aggiornamenti delle funzionalità 
-- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 
 ## <a name="version-1809-october-16"></a>Versione 1809: 16 ottobre
@@ -98,23 +132,23 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 *Versione 1809 (Build 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
-- **Ricerca rapida** CERCA.VERT, CERCA.ORIZZ e CONFRONTA sono state implementate per trovare più rapidamente le risposte. [Ulteriori informazioni](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **Sostenitori delle funzionalità per chiamare tutti e di visualizzazione e trasformazione** Chi usa spesso la funzionalità di visualizzazione e trasformazione, sarà lieto di apprendere che Colonna da esempi è stata migliorata. Inoltre, sono stati migliorati anche molti connettori. [Ulteriori informazioni](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Ricerca rapida** CERCA.VERT, CERCA.ORIZZ e CONFRONTA sono state implementate per trovare più rapidamente le risposte. [Altre informazioni](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **Sostenitori delle funzionalità per chiamare tutti e di visualizzazione e trasformazione** Chi usa spesso la funzionalità di visualizzazione e trasformazione, sarà lieto di apprendere che Colonna da esempi è stata migliorata. Inoltre, sono stati migliorati anche molti connettori. [Altre informazioni](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
-- **Visualizzare cosa sarà disponibile a breve** Possibilità di provare le nuove funzionalità prima del rilascio e di inviare commenti e suggerimenti. [Ulteriori informazioni](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Visualizzare l'URL dei collegamenti sicuri** I collegamenti sicuri proteggono l'utente dagli URL dannosi ricevuti tramite e-mail, ma nascondono l'URL originale. Ora basta passare il puntatore del mouse su un URL per visualizzare l'originale, anche in collegamenti protetti da collegamenti sicuri.
+- **Visualizzare cosa sarà disponibile a breve** Possibilità di provare le nuove funzionalità prima del rilascio e di inviare commenti e suggerimenti. [Altre informazioni](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **Visualizzare l'URL dei collegamenti sicuri** I collegamenti sicuri proteggono l'utente dagli URL dannosi ricevuti tramite e-mail, ma nascondono l'URL originale. Ora basta passare il puntatore del mouse su un URL per visualizzare l’originale, anche in collegamenti protetti da collegamenti sicuri.
 - **Ottenere suggerimenti di ricerca sul controllo ortografico** Dopo l'esecuzione di una ricerca, Outlook fornisce una query di ricerca suggerita con correzioni ortografiche.
-- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
-- **Guardare le diapositive prendere vita:** inserire grafici 3D animati per visualizzare cuori pulsanti, pianeti in orbita e la furia di un T-Rex sullo schermo.  [Ulteriori informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Guardare le diapositive prendere vita:** inserire grafici 3D animati per visualizzare cuori pulsanti, pianeti in orbita e la furia di un T-Rex sullo schermo. [Altre informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
-- **Ottenere l'attenzione tramite \@menzioni** Utilizzare @menzioni nei commenti per informare i collaboratori quando c'è bisogno del loro input. [Ulteriori informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Ottenere l'attenzione tramite \@menzioni** Utilizzare @menzioni nei commenti per informare i collaboratori quando c'è bisogno del loro input. [Altre informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Convertitore di Equation Editor** Il convertitore consente di convertire le equazioni create usando Microsoft Equation Editor in formato MathML di Office per consentire la modifica.
 
 ## <a name="version-1808-september-11"></a>Versione 1808: 11 settembre
@@ -135,18 +169,18 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 *Versione 1808 (Build 10730.20088)*
 
 ### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
- - **Aggiornare, ricollegare o rimuovere tabelle collegate** La versione aggiornata di Gestione tabelle collegate è la posizione per la gestione di tutte le origini dati e tabelle collegate. [Ulteriori informazioni](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+ - **Aggiornare, ricollegare o rimuovere tabelle collegate** La versione aggiornata di Gestione tabelle collegate è la posizione per la gestione di tutte le origini dati e tabelle collegate. [Altre informazioni](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
- - **Disattivare l'inoltro per una riunione** per impedire ai partecipanti di inoltrare la riunione ad altri utenti basta andare sulla barra multifunzione e fare clic su Opzioni di risposta. [Ulteriori informazioni](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **Disattivare l'inoltro per una riunione** per impedire ai partecipanti di inoltrare la riunione ad altri utenti. Basta andare sulla barra multifunzione e fare clic su Opzioni di risposta. [Altre informazioni](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio: aggiornamenti delle funzionalità
  - **Utilizzare un determinato momento nel diagramma successivo** È possibile scegliere tra 26 nuovi stencil con le icone per analitica, arte, festeggiamenti, volti, sport e altro ancora. 
- - **Creare un documento di Word da forme di Visio** Aggiungere automaticamente i contenuti di un diagramma, ad esempio forme e metadati, a un documento di Word. Quindi, personalizzare il documento per creare linee guida di processi e manuali operativi. [Ulteriori informazioni](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio e Power BI: un connubio perfetto** Bastano pochi clic del mouse per convertire il diagramma di Visio in una visualizzazione interattiva di Power BI. [Ulteriori informazioni](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Creare un documento Word fuori dalle forme di Visio:** aggiungere automaticamente il contenuto del diagramma, incluse forme e metadati, a un documento di Word. Personalizzare quindi il documento per creare linee guida di processo e manuali operativi. [Altre informazioni](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio e Power BI: un connubio perfetto** Bastano pochi clic del mouse per convertire il diagramma di Visio in una visualizzazione interattiva di Power BI. [Altre informazioni](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: aggiornamenti delle funzionalità
- - **Visualizzare ulteriori informazioni sulle schede della lavagna delle attività** Quando il titolo da solo non è esplicativo, è possibile personalizzare le schede della lavagna delle attività per mostrare tutti i dettagli più importanti. [Ulteriori informazioni](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ - **Visualizzare ulteriori informazioni sulle schede della lavagna delle attività** Quando il titolo da solo non è esplicativo, è possibile personalizzare le schede della lavagna delle attività per mostrare tutti i dettagli più importanti. [Altre informazioni](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -  Risolve un problema in Excel in cui la linea tratteggiata che segna l'intervallo di celle selezionato da un utente per la copia non scompare e rimane negli appunti anche dopo un'operazione successiva come Incolla. 
@@ -219,15 +253,15 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1806-june-25"></a>Versione 1806: 25 giugno
 *Versione 1806 (Build 10228.20080)*
 
-### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
- - **Modifica nella barra della formula e nelle celle migliorata:** ora è possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. C'è anche un miglior supporto per emoji e altri caratteri complessi. [Ulteriori informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
+ - **Cella e barra della formula per apportare modifiche migliorate:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato anche migliorato il supporto di emoji e caratteri complessi. [Altre informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
  - **Impostazione predefinita di Ricorrenza:** nella finestra di dialogo Ricorrenza appuntamento (in "Intervallo di ricorrenza"), "Termina entro" è l'impostazione predefinita (anziché "Nessuna data di fine") ed è la prima impostazione elencata; viene impostata una data di fine predefinita.
  - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
  - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **Indicare le diapositive con una penna:** utilizzare la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Ulteriori informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -288,10 +322,10 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="access-feature-updates"></a>Access: Aggiornamenti delle funzionalità
  - **Visualizzazione di dati con nuovi grafici**: scegliere tra 11 grafici e aggiungerne uno a maschere e report per visualizzare meglio i dati e prendere decisioni informate. [Ulteriori informazioni](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
-### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
- - **Chat con i coautori durante la modifica:** collaborare in modo più efficiente chattando con i coautori senza dover uscire da Excel. Si noti che questa caratteristica non è disponibile in alcune aree geografiche. [Ulteriori informazioni](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
+ - **Chat con i coautori durante la modifica:** collaborare in modo più efficiente chattando con i coautori senza dover uscire da Excel. Questa funzionalità non è disponibile in alcune aree geografiche. [Altre informazioni](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
-### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
  - **Digitazione senza mani:** usare i comandi vocali per creare messaggi di posta elettronica con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **Visualizzazione di 3 fusi orari:** se si deve pianificare una riunione in fusi orari diversi, basta aggiungere più fusi orari al calendario per visualizzare facilmente la disponibilità di tutti i partecipanti e l'orario adatto a tutti. [Ulteriori informazioni](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **Condivisione del calendario semplificata:** la condivisione dei calendari è diventata più semplice e i calendari condivisi dalla versione desktop di Outlook ora sono disponibili anche in Outlook Mobile. [Ulteriori informazioni](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
@@ -347,8 +381,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 *Versione 1804 (Build 9226.2114)*
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
--   **Ascolto delle e-mail:** Outlook può leggere ad alta voce la posta elettronica dell’utente, evidenziando del testo durante la lettura. [Ulteriori informazioni](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **Non perdere neanche un promemoria:** impostare la visualizzazione di promemoria nelle finestre in uso. In caso contrario, Outlook lampeggia sulla barra delle applicazioni per attirare l'attenzione. [Ulteriori informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   **Ascolto delle e-mail:** Outlook può leggere ad alta voce la posta elettronica dell’utente, evidenziando del testo durante la lettura. [Altre informazioni](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+-   **Non perdere nessun promemoria:** è possibile impostare l'apertura di pop up relativi ai promemoria nelle finestre in esecuzione oppure Outlook lampeggerà sulla barra delle applicazioni per attirare l'attenzione dell'utente. [Altre informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Contrassegnare gli elementi eliminati come già letti:** è ora possibile impostare tutti i messaggi eliminati come già letti. Scegliere facendo clic su File \> Opzioni \> Posta \> Altro.
 -   **Opzione di crittografia:** gli utenti di Crittografia messaggi di Office 365 possono crittografare un messaggio e inviarlo a tutti gli utenti, all'interno o all'esterno dell'organizzazione. L'opzione di crittografia è disponibile in Opzioni \> Autorizzazioni durante la creazione di un messaggio. [Altre informazioni](https://aka.ms/omeoverview)
 
@@ -384,7 +418,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-0950): vulnerabilità della divulgazione delle informazioni di Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-1026): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-1030): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
--   **Attivazione bloccata dei controlli Flash, Silverlight e Shockwave in Office per motivi di sicurezza:** per motivi di sicurezza, nuove build di Microsoft Office per Office 365 in Windows bloccano l'attivazione dei controlli Flash, Silverlight e Shockwave.  Ulteriori informazioni sono disponibili [qui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) e [qui](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+-   
+  **Attivazione bloccata dei controlli Flash, Silverlight e Shockwave in Office per motivi di sicurezza:** per motivi di sicurezza, nuove build di Microsoft Office per Office 365 in Windows bloccano l'attivazione dei controlli Flash, Silverlight e Shockwave. Altre informazioni [qui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) e [qui](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="version-1803-march-27"></a>Versione 1803: 27 marzo
 *Versione 1803 (Build 9126.2116)*

@@ -3,19 +3,19 @@ title: Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows In
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Outlook 2016, Outlook 2013, e Outlook 2010
-ms.openlocfilehash: e46a3b9deddf184a382d8eec5cdeb1276d550a21
-ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.openlocfilehash: ac904d82c5c8e728c1fa1103c5cd241592de90dd
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "26024570"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296566"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows Installer (MSI)
 
@@ -44,18 +44,18 @@ La compatibilità di Outlook con Office 365 e con l'ambiente locale dipende dai 
 
 |**Service Pack (SP) più recente**|**Aggiornamento minimo richiesto**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Aggiornamento pubblico di ottobre 2018 <br/>[KB4461440](https://support.microsoft.com/help/4461440) <br/><br/> Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Novembre 2018 (PU) <br/>[KB4461506](https://support.microsoft.com/help/4461506) <br/><br/> Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Aggiornamenti di Outlook 2013
 
 |**Service Pack (SP) più recente**|**Aggiornamento minimo richiesto**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|SP 1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Aggiornamento pubblico di dicembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Aggiornamento pubblico di ottobre 2018 <br/>[KB4092477](https://support.microsoft.com/help/4092477) <br/><br/>  Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP 1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Aggiornamento pubblico di dicembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Novembre 2018 (PU) <br/>[KB4461486](https://support.microsoft.com/help/4461486) <br/><br/>  Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Aggiornamenti di Outlook 2010
 
 |**Service Pack (SP) più recente**|**Aggiornamento minimo richiesto**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |Aggiornamento pubblico di ottobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Aggiornamento pubblico di aprile 2015 per Office 2010 per MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/it-IT/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Aggiornamento pubblico di ottobre 2018 <br/>[KB4227170](https://support.microsoft.com/help/4227170) <br/><br/>  Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2010 <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |Aggiornamento pubblico di ottobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Aggiornamento pubblico di aprile 2015 per Office 2010 per MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/it-IT/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Novembre 2018 (PU) <br/>[KB4461529](https://support.microsoft.com/help/4461529) <br/><br/>  Aggiornamento pubblico di agosto 2016 per il Filtro per la posta indesiderata di Outlook 2010 <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
    
 
