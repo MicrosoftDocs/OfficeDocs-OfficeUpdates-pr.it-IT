@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/19/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 4877f865b77fa11161c7180d1203bd2ee4066f59
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
+ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526411"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "26618436"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 
@@ -42,7 +42,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   [CVE-2018-8579](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8579): vulnerabilità della divulgazione delle informazioni relative a Microsoft Outlook 
 -   [CVE-2018-8582](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8582): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
 
-### <a name="project-security-updates"></a>Project: Aggiornamenti della sicurezza 
+### <a name="project-security-updates"></a>Project: aggiornamenti della sicurezza 
 
 -   [CVE-2018-8575](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8575): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
 
@@ -63,6 +63,10 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - Risolto un problema che non consentiva agli utenti di usare correttamente il pulsante di controllo Account per spostarsi tra gli account nei moduli personalizzati.
 - Risolto un problema che causava un arresto anomalo quando si utilizzava ScanPST per ripristinare un file OST/PST.
 - Risolto un problema che non consentiva di visualizzare il campo Cc in alcuni messaggi di posta elettronica per utenti con profili in modalità online.
+
+### <a name="onenote-non-security-updates"></a>OneNote: aggiornamenti non relativi alla sicurezza 
+
+- Risolto un possibile problema di stabilità che coinvolge la sincronizzazione e l’accesso a una sezione eliminata.
 
 ### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza 
 
@@ -258,7 +262,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1803-august-14"></a>Versione 1803: 14 agosto
 *Versione 1803 (Build 9126.2275)*
 
-### <a name="access-security-updates"></a>Access: Aggiornamenti della sicurezza
+### <a name="access-security-updates"></a>Access: aggiornamenti della sicurezza
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8312): vulnerabilità di tipo use-after-free relativa all'esecuzione di codice remoto in Microsoft Access
 
 ### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
