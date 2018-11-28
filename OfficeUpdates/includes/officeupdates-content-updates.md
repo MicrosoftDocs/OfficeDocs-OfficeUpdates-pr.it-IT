@@ -121,3 +121,13 @@
 | 14/11/2018 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
 | 14/11/2018 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
 | 15/11/2018 | [Note sulla versione per Office 2016 per Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificato |
+
+
+## <a name="week-of-november-19-2018"></a>Settimana del 19 novembre 2018
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 19/11/2018 | [Note sulla versione per Office 2016 per Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificato |
+| 19/11/2018 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018](/OfficeUpdates/semi-annual-channel-targeted-2018) | modificato |
+| 19/11/2018 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
