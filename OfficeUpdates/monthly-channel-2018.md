@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526391"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706650"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -25,6 +25,28 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1811-november-27"></a>Versione 1811: 27 novembre
+*Versione 1811 (Build 11029.20079)* 
+
+### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
+
+- **Dipingi di nero, dipingi di grigio:** cambiare l'aspetto di Access ogni volta che si desidera. Quattro temi tra cui scegliere: A colori, Nero, Grigio e Bianco. [Altre informazioni](https://support.office.com/article/9d76a8b4-bfff-48a9-b8c8-8e133461bc94)
+
+### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
+
+- **Scegliere e applicare lo zoom:** Invece di modificare lo zoom ogni volta che si legge un messaggio, scegliere un'impostazione predefinita da utilizzare per tutti i messaggi. [Altre informazioni](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Spostamento asincrono dei messaggi in Outlook:** esecuzione dello spostamento asincrono dei messaggi per aumentare la produttività per gli utenti di Outlook.
+- **Perfezionate le esperienze di Posta in arrivo evidenziata attivata e disattivata:** i messaggi di posta non letti saranno visualizzati in tutte le cartelle, non solo in Posta in arrivo, quando la Posta in arrivo evidenziata è disattivata. Ordinare in base allo stato del contrassegno aggiunto. Migliorare l'interazione della posta in arrivo evidenziata con la ricerca: la posta in arrivo evidenziata rimane finché non viene avviata una ricerca. Il testo "Risultati" viene visualizzato dopo il completamento di una ricerca.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
+
+- **Visualizzare il numero della diapositiva sugli stampati:** aggiungere il numero della diapositiva nella versione stampata degli stampati. [Altre informazioni](https://support.office.com/article/91c62c83-9032-497c-ab76-cae8f3e1a402)
+
+### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
+
+- **Condividere e caricare i documenti con i nuovi pulsanti esposti nell'area informazioni:** i pulsanti Condividi, Copia percorso in appunti e Apri percorso file erano prima accessibili solo dietro al percorso di salvataggio del documento. Ora sono pulsanti visualizzabili chiaramente nell’area delle informazioni. Passare a File > Informazioni per visualizzare i pulsanti nuovi.
+
 
 ## <a name="version-1810-november-13"></a>Versione 1810: 13 novembre
 *Versione 1810 (Build 11001.20108)* 
@@ -43,7 +65,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   [CVE-2018-8579](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8579): vulnerabilità della divulgazione delle informazioni relative a Microsoft Outlook 
 -   [CVE-2018-8582](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8582): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
 
-### <a name="project-security-updates"></a>Project: Aggiornamenti della sicurezza 
+### <a name="project-security-updates"></a>Project: aggiornamenti della sicurezza 
 
 -   [CVE-2018-8575](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8575): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
 
