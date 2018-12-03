@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 11/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
+ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706650"
+ms.lasthandoff: 11/29/2018
+ms.locfileid: "26987096"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -37,7 +37,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 - **Scegliere e applicare lo zoom:** Invece di modificare lo zoom ogni volta che si legge un messaggio, scegliere un'impostazione predefinita da utilizzare per tutti i messaggi. [Altre informazioni](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
 - **Spostamento asincrono dei messaggi in Outlook:** esecuzione dello spostamento asincrono dei messaggi per aumentare la produttività per gli utenti di Outlook.
-- **Perfezionate le esperienze di Posta in arrivo evidenziata attivata e disattivata:** i messaggi di posta non letti saranno visualizzati in tutte le cartelle, non solo in Posta in arrivo, quando la Posta in arrivo evidenziata è disattivata. Ordinare in base allo stato del contrassegno aggiunto. Migliorare l'interazione della posta in arrivo evidenziata con la ricerca: la posta in arrivo evidenziata rimane finché non viene avviata una ricerca. Il testo "Risultati" viene visualizzato dopo il completamento di una ricerca.
+- **Visualizzare i dettagli degli utenti di LinkedIn in Outlook:** adesso, quando si apre una scheda profilo di un contatto, è possibile ottenere maggiori informazioni visualizzando il suo profilo LinkedIn.
+- **Perfezionate le esperienze di Posta in arrivo evidenziata attivata e disattivata:** per i clienti che non usano Posta in arrivo evidenziata, abbiamo ripristinato la scheda Non letti nell’elenco dei messaggi in tutte le cartelle. Abbiamo aggiunto anche la possibilità di ordinare in base allo stato del contrassegno per individuare più facilmente gli elementi contrassegnati. Infine, la Posta in arrivo evidenziata ha un migliore modello interazione con la ricerca: la Posta in arrivo evidenziata rimane finché non viene avviata una ricerca e viene visualizzato il testo “Risultati” dopo il completamento di una ricerca.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
 
