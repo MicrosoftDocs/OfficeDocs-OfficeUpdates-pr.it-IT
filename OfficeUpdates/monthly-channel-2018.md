@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/29/2018
+ms.date: 12/04/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
+ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26987096"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "27154824"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -25,6 +25,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1811-november-27"></a>Versione 1811: 27 novembre
 *Versione 1811 (Build 11029.20079)* 
@@ -39,8 +40,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Spostamento asincrono dei messaggi in Outlook:** esecuzione dello spostamento asincrono dei messaggi per aumentare la produttività per gli utenti di Outlook.
 - **Visualizzare i dettagli degli utenti di LinkedIn in Outlook:** adesso, quando si apre una scheda profilo di un contatto, è possibile ottenere maggiori informazioni visualizzando il suo profilo LinkedIn.
 - **Perfezionate le esperienze di Posta in arrivo evidenziata attivata e disattivata:** per i clienti che non usano Posta in arrivo evidenziata, abbiamo ripristinato la scheda Non letti nell’elenco dei messaggi in tutte le cartelle. Abbiamo aggiunto anche la possibilità di ordinare in base allo stato del contrassegno per individuare più facilmente gli elementi contrassegnati. Infine, la Posta in arrivo evidenziata ha un migliore modello interazione con la ricerca: la Posta in arrivo evidenziata rimane finché non viene avviata una ricerca e viene visualizzato il testo “Risultati” dopo il completamento di una ricerca.
+- **Bloccare il download di contenuti esterni per impostazione predefinita nei messaggi di posta elettronica con firma e crittografia SMIME:** a causa di una vulnerabilità nel protocollo SMIME, Outlook bloccherà il download dei contenuti esterni sui messaggi che sono stati firmati o crittografati tramite SMIME. Per evitare la vulnerabilità di protezione, gli utenti non potranno scaricare con un singolo clic i contenuti esterni tramite l'interfaccia utente di Outlook. È presente una nuova opzione nella finestra di dialogo Opzioni che consente agli utenti di ripristinare il comportamento precedente. 
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 
 - **Visualizzare il numero della diapositiva sugli stampati:** aggiungere il numero della diapositiva nella versione stampata degli stampati. [Altre informazioni](https://support.office.com/article/91c62c83-9032-497c-ab76-cae8f3e1a402)
 
