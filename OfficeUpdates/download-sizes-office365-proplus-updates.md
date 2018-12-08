@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
-ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
+ms.openlocfilehash: 17a7e5458382394128e85b024315cb19886c5eba
+ms.sourcegitcommit: 3c5daa87f8ef4e8dbc0185c2ab9080caf9cbd325
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "27180776"
+ms.lasthandoff: 12/07/2018
+ms.locfileid: "27194917"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -90,7 +90,7 @@ La versione più recente è la 1803 (Build 9126.2315).
   
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
-|Versione 1803 (Build 9126.2282) <br/> |9 ottobre 2018  <br/> |61 <br/> |
+|Versione 1803 (Build 9126.2295) <br/> |9 ottobre 2018  <br/> |61 <br/> |
 |Versione 1803 (Build 9126.2282)  <br/> |11 settembre 2018  <br/> |58<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
@@ -192,7 +192,7 @@ La versione più recente è la numero 1803 (Build 9126.2282).
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 9126.2259)  <br/> |10 luglio 2018  <br/> |99  <br/> |
-|Versione 1708 (Build 9126.2275)  <br/> |14 agosto 2018  <br/> |99 <br/> |
+|Versione 1803 (Build 9126.2275)  <br/> |14 agosto 2018  <br/> |99 <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
@@ -233,8 +233,8 @@ La versione più recente è la numero 1803 (Build 9126.2275).
   
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
-|Versione 1803 (Build 8431.2259)  <br/> |10 luglio 2018  <br/> |86  <br/> |
-|Versione 1708 (Build 8431.2270)  <br/> |12 giugno 2018  <br/> |279  <br/> |
+|Versione 1803 (Build 9126.2259)  <br/> |10 luglio 2018  <br/> |86  <br/> |
+|Versione 1708 (Build 8431.2280)  <br/> |10 luglio 2018  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
