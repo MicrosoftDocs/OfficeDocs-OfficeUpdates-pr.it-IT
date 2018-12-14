@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/19/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
-ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
+ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "26618436"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241517"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 
@@ -24,6 +24,55 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
+
+ 
+> [!NOTE]
+> - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
+
+## <a name="version-1808-december-11"></a>Versione 1808: 11 dicembre
+*Versione 1808 (Build 10730.20262)*
+
+### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8597): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8598): vulnerabilità della divulgazione delle informazioni di Microsoft Excel 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8627): vulnerabilità della divulgazione delle informazioni di Microsoft Excel 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8636): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8587): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: Aggiornamenti della sicurezza 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8628): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft PowerPoint 
+
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza 
+
+- Risolto un problema nelle sessioni di creazione condivisa in cui un filtro dei dati non veniva aggiornato correttamente dopo l’applicazione da parte di un altro utente di un filtro di colonna per i dati in quel filtro dei dati.
+- Risolto un problema per il quale, quando un utente cancellava la didascalia di un filtro dei dati in una sessione di creazione condivisa, si verificava un arresto anomalo di Excel per un altro utente.
+- Risolto un possibile arresto anomalo durante la creazione di più filtri dei dati nella tabella associati alla stessa colonna di dati e la successiva eliminazione di quella colonna di dati.
+- Risolto un problema che causava, a volte, un arresto anomalo di Excel durante l'aggiornamento di una tabella Query filtrata contenente il testo con ritorno a capo automatico nelle celle quando l'opzione per modificare automaticamente la larghezza delle colonne era disattivata.
+- Risolto un problema in cui i filtri dei dati salvati in Excel 2007 potevano attivare un arresto anomalo se aperti in versioni più recenti di Excel quando il numero di elementi visualizzati nel filtro dei dati era diverso.
+- Risolto un problema che causava blocchi all’apertura della cartella Cronologia conversazioni.
+- Introduce il supporto per il pulsante di diagnostica per semplificare l'analisi delle richieste di supporto.
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza
+
+- Risolto un problema che causava la visualizzazione di un messaggio di errore all'avvio della finestra di dialogo "Gestisci regole e avvisi".
+- Risolto un problema che impediva agli utenti di connettersi alle cassette postali tramite DirectAccess utilizzando una connessione a consumo.
+- Risolto un problema che causava un’apertura erronea in "Visualizzazione protetta" di documenti liberi archiviati nelle cartelle pubbliche.
+- Risolto un problema per il quale gli utenti visualizzavano allegati non previsti quando inoltravano messaggi con allegati in linea.
+- Risolto un problema che causava il rendering non corretto di file OFT inviati come allegato.
+- Risolto un problema che causava arresti anomali per alcuni utenti di componenti aggiuntivi quando si aggiungeva una riunione a un calendario condiviso.
+
+### <a name="project-non-security-updates"></a>Project: Aggiornamenti non relativi alla sicurezza
+
+- Risolto un problema riguardante il supporto di una nuova valuta venezuelana in Project.
+- Risolto un problema per il quale era possibile un blocco di Project quando si usava un Surface 4 connesso a un monitor esterno.
+- Risolto un problema per il quale era possibile un arresto anomalo di Project quando si salvava un progetto in formato XML.
+- Risolto un problema per il quale era possibile l’eliminazione dei campi personalizzati delle risorse dell’organizzazione dopo la modifica del calendario della risorsa.
+- Risolto un problema che causava arresti anomali durante la ricerca di nomi visualizzati coreani.
 
 ## <a name="version-1808-november-13"></a>Versione 1808: 13 novembre
 *Versione 1808 (Build 10730.20205)*
