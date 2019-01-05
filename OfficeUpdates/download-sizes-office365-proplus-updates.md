@@ -3,19 +3,19 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 01/03/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 52394a5132cc5a2a2dc2a0d691976a6a11851b62
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: dc2f2bba78c335ccb26d1edafcd566bb0aa5a5f7
+ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241357"
+ms.lasthandoff: 01/04/2019
+ms.locfileid: "27525787"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -36,6 +36,16 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tenere presente che la dimensione del file di download sarà superiore.
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB. 
 
+## <a name="january-3-2019"></a>3 gennaio 2019
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1812 (Build 11126.20188). 
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1810 (Build 11029.20079)  <br/> |27 novembre 2018  <br/> |179<br/> |
+|Versione 1811 (Build 11029.20108)  <br/> |11 dicembre 2018  <br/> |176<br/> |
 
 ## <a name="december-11-2018"></a>11 dicembre 2018
 
