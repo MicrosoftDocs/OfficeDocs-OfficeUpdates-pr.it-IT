@@ -3,19 +3,19 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: dc2f2bba78c335ccb26d1edafcd566bb0aa5a5f7
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 30e3215285589e1e576ab79efad70dd425585923
+ms.sourcegitcommit: 37c86e1ba884e8750c7376862b6b1d0151e62921
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 01/04/2019
-ms.locfileid: "27525787"
+ms.locfileid: "27733113"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -35,6 +35,36 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Vengono elencate solo le versioni rilasciate negli ultimi quattro mesi.
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tenere presente che la dimensione del file di download sarà superiore.
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB. 
+
+## <a name="january-8-2019"></a>8 gennaio 2019
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione prevista è la numero 1812 (Build 11126.20196). 
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1812 (Build 11126.20188)  <br/> |3 gennaio 2019  <br/> |75<br/> |
+|Versione 1811 (Build 11029.20108)  <br/> |11 dicembre 2018  <br/> |177<br/> |
+
+### <a name="semi-annual-channel"></a>Canale semestrale
+
+La versione prevista è la numero 1808 (Build 10730.20264)
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1803 (Build 9126.2336) <br/> |11 dicembre 2018  <br/> | 281<br/> |
+|Versione 1803 (Build 9126.2315)  <br/> |13 novembre 2018  <br/> |281 <br/> |
+  
+### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
+
+La versione prevista è la numero 1808 (Build 10730.20264).
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1808 (Build 10730.20262)  <br/> |11 dicembre 2018  <br/> |83 <br/> |
+|Versione 1808 (Build 10730.20205)  <br/> |13 novembre 2018  <br/>   |96  <br/>|
+
 
 ## <a name="january-3-2019"></a>3 gennaio 2019
 
@@ -74,7 +104,7 @@ La versione più recente è la numero 1808 (Build 10730.20262).
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 10730.20155)  <br/> |9 ottobre 2018  <br/> |90 <br/> |
-|Versione 1808 (Build 10730.20205)  <br/> |13 novembre 2018  <br/>   |77  <br/>|
+|Versione 1803 (Build 10730.20205)  <br/> |13 novembre 2018  <br/>   |77  <br/>|
 
 ## <a name="november-27-2018"></a>27 novembre 2018
 
