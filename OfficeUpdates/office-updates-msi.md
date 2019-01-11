@@ -24,7 +24,7 @@ Utilizzare i collegamenti in questa pagina per ottenere ulteriori informazioni e
  
 > [!NOTE]
 > - Le informazioni contenute in questo articolo si applicano solo alle versioni con licenza perpetua di Office che utilizzano la tecnologia di installazione di Windows Installer (MSI); ad esempio, se è installata una versione con contratto multilicenza di Office, come Office Professional Plus 2016.
-> - Le informazioni contenute in questo articolo non si applicano alle versioni Office 365 di Office, ad esempio Office 365 ProPlus.
+> - Le informazioni contenute in questo articolo non si applicano alle versioni Office 365, ad esempio Office 365 ProPlus.
 > - Per ulteriori informazioni sull'installazione degli aggiornamenti di Office, vedere [Installare gli aggiornamenti di Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). 
 
 

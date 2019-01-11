@@ -32,8 +32,8 @@ La tabella seguente riepiloga le informazioni sulla versione più recente di Off
 > - Per motivi di sicurezza, Microsoft ha reso deprecato l'uso di SHA-1. [Ulteriori informazioni](https://docs.microsoft.com/it-IT/security-updates/SecurityAdvisories/2017/4010323)
 > - A partire dal rilascio 16.17 di settembre 2018, queste informazioni si applicano anche a Office 2019 per Mac, che è una versione di Office per Mac disponibile come acquisto di una copia unica presso un punto vendita al dettaglio o tramite un contratto multilicenza.
 > - Le informazioni sulla cronologia degli aggiornamenti per la versione 16.16 e sulle versioni precedenti si applicano anche a Office 2016 per Mac, un’altra versione di Office per Mac disponibile come acquisto di una copia unica. Le versioni precedenti, fino alla versione 16.16 compresa, possono essere attivate con un contratto multilicenza di Office 2016 per Mac. Non è possibile attivare la versione 16.17 o versioni successive con un contratto multilicenza di Office 2016 per Mac. Per informazioni sulle versioni di Office 2016 per Mac da settembre in poi, vedere le [Note sulla versione di Office 2016 per Mac](release-notes-office-2016-mac.md).
-> - Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza inclusi in una determinata versione di Office per Mac, vedere [Note sulla versione di Office per Mac](release-notes-office-for-mac.md).
-> - Se si desidera accedere alle nuove versioni prima, iscriversi al programma [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
+> - Per informazioni sulle caratteristiche, sugli aggiornamenti di sicurezza e non, inclusi in una determinata versione di Office per Mac, vedere [Note sulla versione di Office per Mac.](release-notes-office-for-mac.md)
+> - Se si desidera accedere alle nuove versioni prima, iscriversi al programma [Office Insider.](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Pacchetti di aggiornamento più recenti per Office per Mac
 
