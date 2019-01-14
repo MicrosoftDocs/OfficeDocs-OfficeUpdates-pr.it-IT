@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: f2e1c394266de2b07acaad5ae95d6d19cfc17684
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 9a12200522acbb2f46f7a814affa4b2be5d8d7b9
+ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241487"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "27992130"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -191,11 +191,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 - **Guardare le diapositive prendere vita:** inserire grafici 3D animati per visualizzare cuori pulsanti, pianeti in orbita e la furia di un T-Rex sullo schermo. [Altre informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Fare domande al pubblico con un test o un sondaggio:** inserire un test o un sondaggio in una diapositiva. Office raccoglie e archivia le risposte. [Ulteriori informazioni](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 - **Ottenere l'attenzione tramite \@menzioni** Utilizzare @menzioni nei commenti per informare i collaboratori quando c'è bisogno del loro input. [Altre informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Convertitore di Equation Editor** Il convertitore consente di convertire le equazioni create usando Microsoft Equation Editor in formato MathML di Office per consentire la modifica.
+- **Trasformare il documento da statico a sorprendente:** trasformare il documento in una pagina web interattiva, facile da condividere che si adatta perfettamente a qualsiasi dispositivo. [Altre informazioni](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ## <a name="version-1808-september-11"></a>Versione 1808: 11 settembre
 *Versione 1808 (Build 10730.20102)*
