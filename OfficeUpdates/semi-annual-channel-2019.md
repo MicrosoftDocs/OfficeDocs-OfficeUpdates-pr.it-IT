@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 990e7afafea208c46e58d2e2b11dd6ec7555c7af
-ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
+ms.openlocfilehash: 27022231bfcf8d5cff8ca82f0ac2a1e05cce3939
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "27992120"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325436"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -151,8 +151,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - Consente di risolvere un problema che causa la visualizzazione di un messaggio relativo alla memoria insufficiente.
 - È stato risolto un problema che impediva ad alcuni utenti di aprire e-mail e documenti protetti da IRM condivisi con tali utenti da persone in altre organizzazioni.
 - Risolve alcuni problemi relativi alle prestazioni.
+- Migliorare le prestazioni di apertura.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
 - Risolve un problema relativo al servizio di supporto TLS 1.2. (nota: è la stessa correzione riportata nelle note del 10 aprile e indicata qui nuovamente nell'ambito dell'aggiornamento cumulativo di settembre.)
 - Consente di risolvere un problema per cui l'aggiunta degli utenti selezionando "Chiamata Skype" in una riunione causa un errore.
 - Consente di rimuovere un'istruzione che richiede all'utente di aggiungere le coordinate Skype a una riunione, se viene aggiunta una Skype Room come posizione e la riunione già contiene le coordinate della riunione dei team.

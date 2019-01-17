@@ -3,19 +3,19 @@ title: Note sulla versione per gli aggiornamenti della sicurezza di Office 365 P
 ms.author: andrewmo
 author: ''
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulla versione gli aggiornamenti della sicurezza di Office 365 ProPlus
-ms.openlocfilehash: 8ba613b04a8a91d438891cbcda75216cd4715456
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 3fe63810815126c8c1616beef9221dfaf9d1833c
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241257"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325376"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Note sulla versione per gli aggiornamenti della sicurezza di Office 365 ProPlus
 
@@ -24,6 +24,27 @@ Le note sulla versione forniscono informazioni sulle correzioni per la sicurezza
 > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
+
+## <a name="january-8-2019"></a>8 gennaio 2019
+
+Canale mensile: versione 1812 (Build 11126.20196)  
+Canale semestrale (mirato): versione 1808 (Build 10730.20264)  
+Canale semestrale: versione 1808 (Build 10730.20264)  
+Canale semestrale: versione 1803 (Build 9126.2351)  
+Canale semestrale: versione 1708 (Build 8431.2366)  
+
+
+### <a name="outlook"></a>Outlook
+-   [CVE-2019-0559](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-0559)
+
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza 
+-   [CVE-2019-0561](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-0561)
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-0585) 
+ 
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza 
+-   [CVE-2019-0541](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-0541)
+-   [CVE-2019-0560](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-0560)
+
 ## <a name="december-11-2018"></a>11 dicembre 2018
 Canale mensile: versione 1811 (Build 11029.20108)  
 Canale semestrale: versione 1803 (Build 9126.2336)  
