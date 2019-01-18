@@ -334,7 +334,7 @@ ms.locfileid: "27992130"
 <span data-ttu-id="45952-383">*Versione 1805 (Build 9330.2124)*</span><span class="sxs-lookup"><span data-stu-id="45952-383">*Version 1805 (Build 9330.2124)*</span></span>
 
 ### <a name="outlook-non-security-updates"></a><span data-ttu-id="45952-384">Outlook: aggiornamenti non relativi alla sicurezza</span><span class="sxs-lookup"><span data-stu-id="45952-384">Outlook Non-security updates</span></span>
- - <span data-ttu-id="45952-385">Consente di correggere un problema a causa del quale un'applicazione che chiama la MAPI API potrebbe provocare un arresto anomalo.</span><span class="sxs-lookup"><span data-stu-id="45952-385">Fix an issue where an application calling the MAPI API could result in a crash.</span></span>
+ - <span data-ttu-id="45952-385">Consentono di risolvere un problema a causa del quale un'applicazione che chiama l'API MAPI potrebbe provocare un arresto anomalo.</span><span class="sxs-lookup"><span data-stu-id="45952-385">Fix an issue where an application calling the MAPI API could result in a crash.</span></span>
 
 
 
@@ -354,7 +354,7 @@ ms.locfileid: "27992130"
 
 ### <a name="project-non-security-updates"></a><span data-ttu-id="45952-395">Aggiornamenti non relativi alla sicurezza di Project</span><span class="sxs-lookup"><span data-stu-id="45952-395">Project Non-security updates</span></span>
 
-- <span data-ttu-id="45952-396">Consente di correggere un problema a causa del quale non è possibile salvare un sottoprogetto mentre si lavora su di esso attraverso il contesto di un progetto principale.</span><span class="sxs-lookup"><span data-stu-id="45952-396">Fix an issue where you are blocked from saving a sub project when working with them through the context of a master project.</span></span>
+- <span data-ttu-id="45952-396">Consentono di correggere un problema a causa del quale non è possibile salvare un sottoprogetto mentre si lavora su di esso attraverso il contesto di un progetto principale.</span><span class="sxs-lookup"><span data-stu-id="45952-396">Fix an issue where you are blocked from saving a sub project when working with them through the context of a master project.</span></span>
 
 ## <a name="version-1805-may-24"></a><span data-ttu-id="45952-397">Versione 1805: 24 maggio</span><span class="sxs-lookup"><span data-stu-id="45952-397">Version 1805: May 24</span></span>
 <span data-ttu-id="45952-398">*Versione 1805 (Build 9330.2087)*</span><span class="sxs-lookup"><span data-stu-id="45952-398">*Version 1805 (Build 9330.2087)*</span></span>
@@ -396,7 +396,7 @@ ms.locfileid: "27992130"
 ### <a name="word-feature-updates"></a><span data-ttu-id="45952-433">Word: Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="45952-433">Word: Feature updates</span></span>
  - <span data-ttu-id="45952-p160">**Chat con i coautori durante la modifica:** collaborare in modo più efficiente chattando con i coautori senza dover uscire da Word. [Ulteriori informazioni](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)</span><span class="sxs-lookup"><span data-stu-id="45952-p160">**Chat with co-authors while you edit:** Collaborate more effectively by chatting with your co-authors without ever leaving Word. [Learn more](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)</span></span>
  - <span data-ttu-id="45952-p161">**Digitazione senza mani:** usare i comandi vocali per creare documenti con la semplice dettatura. Non c'è bisogno di digitare. [Ulteriori informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)</span><span class="sxs-lookup"><span data-stu-id="45952-p161">**Hands free typing:** Use your voice to create documents by simply dictating. No need to type. [Learn more](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)</span></span>
- - <span data-ttu-id="45952-p162">**Modifica semplificata con Editor input penna:** con un solo tratto della penna, si possono dividere o unire le parole, aggiungere una nuova riga o inserire parole. [Ulteriori informazioni](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)</span><span class="sxs-lookup"><span data-stu-id="45952-p162">**Editing comes naturally with Ink Editor:** With a single stroke, split or join words, add a new line, or insert words using your pen. [Learn more](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)</span></span>
+ - <span data-ttu-id="45952-p162">**Modifica semplificata con Editor input penna:** con un solo tratto della penna si possono dividere o unire le parole, aggiungere una nuova riga o inserire parole [Ulteriori informazioni](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)</span><span class="sxs-lookup"><span data-stu-id="45952-p162">**Editing comes naturally with Ink Editor:** With a single stroke, split or join words, add a new line, or insert words using your pen. [Learn more](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)</span></span>
 
 
 
