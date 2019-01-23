@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241517"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27258502"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 
@@ -54,10 +54,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - Risolto un possibile arresto anomalo durante la creazione di più filtri dei dati nella tabella associati alla stessa colonna di dati e la successiva eliminazione di quella colonna di dati.
 - Risolto un problema che causava, a volte, un arresto anomalo di Excel durante l'aggiornamento di una tabella Query filtrata contenente il testo con ritorno a capo automatico nelle celle quando l'opzione per modificare automaticamente la larghezza delle colonne era disattivata.
 - Risolto un problema in cui i filtri dei dati salvati in Excel 2007 potevano attivare un arresto anomalo se aperti in versioni più recenti di Excel quando il numero di elementi visualizzati nel filtro dei dati era diverso.
-- Risolto un problema che causava blocchi all’apertura della cartella Cronologia conversazioni.
 - Introduce il supporto per il pulsante di diagnostica per semplificare l'analisi delle richieste di supporto.
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza
 
 - Risolto un problema che causava la visualizzazione di un messaggio di errore all'avvio della finestra di dialogo "Gestisci regole e avvisi".
 - Risolto un problema che impediva agli utenti di connettersi alle cassette postali tramite DirectAccess utilizzando una connessione a consumo.
@@ -65,6 +64,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - Risolto un problema per il quale gli utenti visualizzavano allegati non previsti quando inoltravano messaggi con allegati in linea.
 - Risolto un problema che causava il rendering non corretto di file OFT inviati come allegato.
 - Risolto un problema che causava arresti anomali per alcuni utenti di componenti aggiuntivi quando si aggiungeva una riunione a un calendario condiviso.
+- Risolto un problema che causava blocchi all’apertura della cartella Cronologia conversazioni.
 
 ### <a name="project-non-security-updates"></a>Project: Aggiornamenti non relativi alla sicurezza
 

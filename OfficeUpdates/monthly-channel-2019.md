@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 7162611e9e525c7ee33ca23e9bd7f7f44712b51a
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27724921"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "28723129"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -29,11 +29,14 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
  > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md). 
 
+## <a name="version-1812-january-8"></a>Versione 1812: 8 gennaio
+*Versione 1812 (Build 11126.20196)* 
+
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
+- Risolto un problema in cui non era possibile deselezionare gli stili delle barre Critical, Late e Slack per il diagramma di Gantt dopo averne selezionato uno.
+
 ## <a name="version-1812-january-3"></a>Versione 1812: 3 gennaio
 *Versione 1812 (Build 11126.20188)* 
-
-### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
-- **Aumentare l’efficienza con Microsoft Graph:** importare o collegare dati intelligenti e reinventare il database desktop con tecnologia intelligente. [Altre informazioni](https://support.office.com/article/448d8bf1-0f54-46c4-91bc-490d5ebfdadd)
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 
@@ -61,3 +64,5 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 
 
+> [!NOTE]
+> Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
