@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/23/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 9ea61602012e64525ef3e7c1a862c156597c4aa3
-ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
+ms.openlocfilehash: a49be8a79deb7b44c24411b17532f1b85d9760d3
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29442062"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530251"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -32,7 +32,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ## <a name="version-1812-january-14"></a>Versione 1812: 14 gennaio
 *Versione 1812 (Build 11126.20266)* 
 
-Solo aggiornamenti non relativi alla sicurezza. Ulteriori informazioni presto disponibili.
+Solo aggiornamenti non relativi alla sicurezza, rivolti ai problemi correlati alle prestazioni.
 
 
 ## <a name="version-1812-january-8"></a>Versione 1812: 8 gennaio
