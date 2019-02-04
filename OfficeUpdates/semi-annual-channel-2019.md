@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
-ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
+ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29647021"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690728"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -40,7 +40,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
  - **Modifica collaborativa:** collaborare con altri utenti contemporaneamente all'interno della cartella di lavoro. [Altre informazioni](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **Il salvataggio automatico di file nel cloud è ora abilitato per impostazione predefinita:** ciò significa che gli utenti non dovranno più preoccuparsi di perdere le modifiche nei documenti archiviati in OneDrive o SharePoint Online. Le modifiche vengono salvate automaticamente nel cloud e gli utenti non dovranno più premere esplicitamente CTRL+S o il pulsante Salva. Tuttavia, è necessario comprendere questa modifica al comportamento in modo da non apportare modifiche accidentali ai documenti. Si noti che gli utenti possono disattivare il salvataggio automatico con l'interruttore Salva automaticamente posto nella parte superiore dello schermo. È consigliabile comunicare ai propri utenti questa modifica imminente e fornire loro informazioni su come sfruttare al meglio questa nuova funzionalità in Office 365. [Altre informazioni sul salvataggio automatico](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) e [Altre informazioni su cosa è importante che gli amministratori IT sappiano sul salvataggio automatico](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **Cella e barra della formula per apportare modifiche migliorate:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato anche migliorato il supporto di emoji e caratteri complessi. [Altre informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Funzionalità migliorate per la modifica di celle e barra della formula:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato migliorato anche il supporto di emoji e altri caratteri complessi. [Altre informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili le cartelle di lavoro. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Evitare modifiche indesiderate:** Impostare l’apertura in modalità sola lettura delle cartelle di lavoro per impedire modifiche accidentali. Passare a File > informazioni > Proteggi cartella di lavoro > Apri sempre in sola lettura
 
@@ -73,13 +73,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
  - **Gestire i profili dalla Selezione profilo:** se si utilizza la Selezione profilo all'avvio di Outlook, è possibile apportare modifiche senza passare al pannello di controllo. In Selezione profilo è possibile creare ed eliminare profili e modificare le impostazioni.
 - **Accessibilità integrata:** rendere accessibile a tutti i messaggi con l'aggiunta di un testo alternativo descrittivo alle immagini.
 - **Avvisi relativi ai componenti aggiuntivi di Outlook:** occasionalmente un componente aggiuntivo COM di Outlook può incontrare problemi che rallentano il resto di Outlook. Questi problemi potrebbero essere dovuti alla latenza di eventi quali il passaggio tra cartelle di Outlook, l'arrivo di nuove e-mail, l'apertura di elementi del Calendario e così via. Quando si verificano tali problemi, Outlook visualizza un avviso nella barra di notifica.
-- **Conoscere i partecipanti della riunione:** è ora possibile visualizzare le risposte di altri utenti a una convocazione riunione, anche se non si è l'organizzatore.
-- **Non perdere nessun promemoria:** è possibile impostare l'apertura di pop up relativi ai promemoria nelle finestre in esecuzione oppure Outlook lampeggerà sulla barra delle applicazioni per attirare l'attenzione dell'utente. [Altre informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **Conoscere i partecipanti alla riunione:** è ora possibile visualizzare le risposte di altri utenti a una convocazione riunione, anche se non si è l'organizzatore.
+- **Promemoria sempre visualizzati:** è possibile impostare l'apertura di pop up relativi ai promemoria nelle finestre in esecuzione. In alternativa, Outlook lampeggerà sulla barra delle applicazioni per attirare l'attenzione dell'utente. [Altre informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 - **Contrassegnare gli elementi eliminati come già letti:** è ora possibile impostare tutti i messaggi eliminati come già letti. Scegliere facendo clic su File \> Opzioni \> Posta \> Altro.
 - **Visualizzazione di tre fusi orari:** se si deve pianificare una riunione in fusi orari diversi, basta aggiungere più fusi orari al calendario per visualizzare facilmente la disponibilità di tutti i partecipanti e l'orario adatto a tutti. [Altre informazioni](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
-- **Perfezionata l’esperienza utente per la creazione di un gruppo:** abbiamo perfezionato l’esperienza utente per la creazione di un gruppo per ottenere un aspetto più moderno e ordinato.[ Altre informazioni](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
+- **Perfezionamento dell'esperienza utente per la creazione di un gruppo:** l'esperienza utente per la creazione di un gruppo è stata perfezionata in modo da ottenere un aspetto più moderno e ordinato. [Altre informazioni](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 - Risolto un problema che causava errori di sincronizzazione del calendario.
 - Risolto un problema che causava la visualizzazione di un messaggio di errore all'avvio della finestra di dialogo "Gestisci regole e avvisi".
 - Risolto un problema che impediva agli utenti di connettersi alle cassette postali tramite DirectAccess utilizzando una connessione a consumo.
@@ -103,7 +103,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità 
 - **Il salvataggio automatico di file nel cloud è ora abilitato per impostazione predefinita:** ciò significa che gli utenti non dovranno più preoccuparsi di perdere le modifiche nei documenti archiviati in OneDrive o SharePoint Online. Le modifiche vengono salvate automaticamente nel cloud e gli utenti non dovranno più premere esplicitamente CTRL+S o il pulsante Salva. Tuttavia, è necessario comprendere questa modifica al comportamento in modo da non apportare modifiche accidentali alle presentazioni. Si noti che gli utenti possono disattivare il salvataggio automatico con l'interruttore Salva automaticamente posto nella parte superiore dello schermo. È consigliabile comunicare ai propri utenti questa modifica imminente e fornire loro informazioni su come sfruttare al meglio questa nuova funzionalità in Office 365. [Altre informazioni sul salvataggio automatico](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) e [Altre informazioni su cosa è importante che gli amministratori IT sappiano sul salvataggio automatico](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **Cella e barra della formula per apportare modifiche migliorate:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato anche migliorato il supporto di emoji e caratteri complessi. [Altre informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Funzionalità migliorate per la modifica di celle e barra della formula:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato migliorato anche il supporto di emoji e altri caratteri complessi. [Altre informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Convertire l'input penna:** è possibile creare disegni e note a mano libera e convertirli in testo leggibile e forme nitide per creare una presentazione professionale. [Altre informazioni](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Indicare le diapositive con una penna:** utilizzare la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Altre informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
@@ -124,7 +124,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - Risolto un problema a causa del quale la creazione condivisa da parte di più utenti sulla stessa presentazione comporta una duplicazione errata degli schemi diapositiva.
 - Risolto un problema a causa del quale l'apertura di un file salvato su OneDrive comporta l'arresto anomalo di PowerPoint all'uscita dalla visualizzazione protetta.
 
-### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità 
+### <a name="project-feature-updates"></a>Project: aggiornamenti delle funzionalità 
 - **Gestione di sprint:** aggiungere, aggiornare o eliminare velocemente sprint agili.
 - **Filtro della scheda attività:** è possibile ottimizzare le schede attività, filtrando per risorse principali o attività di riepilogo.
 - **Impostare la percentuale di completamento da una scheda attività:** è possibile scegliere una percentuale di completamento per ogni colonna e quindi aggiornare il completamento dell'attività con trascinamento della selezione.

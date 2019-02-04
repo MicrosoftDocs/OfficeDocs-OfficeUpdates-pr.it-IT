@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/23/2019
+ms.date: 1/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: 6011bb4e60b4c6cce214226a163281593a01e117
-ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
+ms.openlocfilehash: 1bb67d3e0afd2c1029668b25637a97f94b8bd76e
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29442092"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690758"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
@@ -31,7 +31,7 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
  
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile  <br/> |1812  <br/> |11126.20266 <br/> | 14 gennaio 2019 <br/> |Viene rilasciata la versione 1901 <br/>|
+|Mensile  <br/> |1901  <br/> |11231.20130<br/> | 31 gennaio 2019 <br/> |Viene rilasciata la versione 1902 <br/>|
 |Semestrale (mirato)  <br/> |1808  <br/> |10730.20264 <br/> |  8 gennaio 2019 <br/> | 12 marzo 2019 <br/>|
 |Semestrale <br/> |1808  <br/> | 10730.20264<br/> | 8 gennaio 2019  <br/> |  10 marzo 2020 <br/>|
 |Semestrale <br/> |1803  <br/> | 9126.2351  <br/> | 8 gennaio 2019  <br/> |  10 settembre 2019 <br/>|
@@ -45,6 +45,7 @@ La tabella seguente fornisce un elenco di numeri diversione e build per ciascun 
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|31 gennaio   |[Versione 1901 (Build 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | |
 |2019|14 gennaio   |[Versione 1812 (Build 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | |
 |2019|8 gennaio |[Versione 1812 (Build 11126.20196 )](monthly-channel-2019.md#version-1812-january-8)|[Versione 1808 (Build 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[Versione 1808 (Build 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [Versione 1803 (Build 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [Versione 1708 (Build 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
 |2019|3 gennaio   |[Versione 1812 (Build 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
