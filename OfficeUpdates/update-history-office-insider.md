@@ -1,0 +1,57 @@
+---
+title: Cronologia degli aggiornamenti per il canale Office Insider
+ms.author: andrewmo
+author: anankani
+manager: andrewmo
+ms.date: 02/01/2019
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
+ms.openlocfilehash: 454a69c84eb7c30d23d4fd33ed27b335ffd84b5a
+ms.sourcegitcommit: af5ea1735bfc8cdead34a90d557fd348044afaab
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29708744"
+---
+# <a name="update-history-for-office-insider-channel"></a>Cronologia degli aggiornamenti per il canale Office Insider
+
+Le informazioni di questa pagina sono destinate agli utenti di Insider che vogliono sapere se hanno installato l'aggiornamento più recente o sono alla ricerca di un elenco delle ultime build Insider pubblicate. Fare clic [qui](https://insider.office.com/) per altre informazioni sul programma Insider.
+
+## <a name="office-insider-versions-and-builds"></a>Versioni e build di Office Insider
+
+Se si è iscritti al livello Insider, si ricevono aggiornamenti frequenti contenenti le nuove funzionalità e i miglioramenti apportati. L'elenco seguente mostra la cronologia delle ultime versioni e build Insider. **Le build rilasciate per ultime sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti. 
+
+Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://support.office.com/it-IT/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).
+
+**30 gennaio 2019**<br/> Versione 1902 (Build 11326.20000)<br/> 
+
+**25 gennaio 2019**<br/> Versione 1902 (Build 11316.20026)<br/> 
+
+**22 gennaio 2019**<br/> Versione 1902 (Build 11310.20016)<br/> 
+
+**17 gennaio 2019**<br/> Versione 1902 (Build 11231.20080)<br/>
+
+**10 gennaio 2019**<br/> Versione 1902 (Build 11231.20066)<br/> 
+
+
+## <a name="insider-community"></a>Community di Insider
+
+![Immagine della community di Insider. ](images/insidercommunity.png) <br/>
+**Community di Office Insider**<br/> Per chattare con altri utenti di Insider, è possibile pubblicare un post nella community.<br/> 
+[Visitare la community](https://go.microsoft.com/fwlink/?linkid=843493)<br/> 
+
+![Immagine con l'icona di Twitter. ](images/twitter.png)<br/>
+**Office Insider su Twitter**<br/> Su @OfficeInsider vengono pubblicati frequentemente post su versioni Insider e vengono ospitati eventi speciali per gli utenti di Insider.<br/> 
+[Seguici su Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
+
+
+  [
+  ![Immagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+
+
+**Scopri per primo le nuove funzionalità**
+[Iscriviti a Office Insider](https://insider.office.com/)
