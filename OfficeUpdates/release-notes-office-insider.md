@@ -1,12 +1,41 @@
 ---
-titolo: "Release Notes per Office gli utenti interni" ms.author: andrewmo autore: mikho manager: andrewmo ms.date: 28/1/2019 ms.audience: Win32 Fast ms.topic: ms.service di riferimento: Office 365 proplus localization_priority: ms.collection critico: RelNotes_ProPlus Descrizione: "vengono forniti gli utenti interni Fast gruppo di destinatari con l'elenco più recente di nuove funzionalità principali, correzioni o problemi noti
+titolo: "Release Notes per Office gli utenti interni" ms.author: andrewmo autore: mikho manager: andrewmo ms.date: 2/11/2019 ms.audience: Win32 Fast ms.topic: ms.service di riferimento: Office 365 proplus localization_priority: ms.collection critici: RelNotes_ProPlus Descrizione: "vengono forniti gli utenti interni Fast gruppo di destinatari con l'elenco più recente di nuove funzionalità principali, correzioni o problemi noti
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli utenti interni di Office
 
 In questo articolo sono note sulla versione di build di persona interna di Word, Excel, PowerPoint, Outlook, l'accesso e Project per Windows desktop. Ogni settimana, verrà riportato nuove e interessanti funzionalità, correzioni importanti e gli eventuali problemi significativi che vogliamo è a conoscenza. Si noti che è spesso distribuire caratteristiche (e le correzioni pari a volte) per gli utenti interni per un periodo di tempo. Ciò consente di verificare che tutto funzioni in modo uniforme prima del rilascio la funzionalità a un gruppo di destinatari più ampio. Pertanto, se non viene visualizzato un elemento descritto di seguito, non bisogna preoccuparsi si otterranno viene alla fine.  
 
-## <a name="february-1-2019-version-1902-build-1132620000"></a>1 febbraio 2019 1902 versione (build 11326.20000)
+## <a name="february-9-2019-version-1902-build-1133020014"></a>2019 9 febbraio 1902 versione (build 11330.20014)
+
+
+## <a name="notable-fixes"></a>Correzioni noti
+
+### <a name="word"></a>Word 
+- Viene risolto un problema di cui alcuni stili personalizzati non possono essere applicati al word online
+- È i problemi di anteprima di contesto con rich oggetti di Word
+- È stato risolto un problema in incollare gli elenchi può causare un arresto anomalo di Word
+
+### <a name="excel"></a>Excel
+- Viene risolto un problema di cui accodati spazi dopo formati numerici vengono non è più che mostra quando non vi è alcun simbolo di valuta
+- È stato risolto un problema con auto rileva per titoli
+
+### <a name="powerpoint"></a>PowerPoint
+- Correzioni rapide per prestazioni e la stabilità diversi
+
+### <a name="outlook"></a>Outlook
+- Correzioni rapide per prestazioni e la stabilità diversi
+
+### <a name="access"></a>Access
+- Correzioni rapide per prestazioni e la stabilità diversi
+
+### <a name="project"></a>Project
+- Correzioni rapide per prestazioni e la stabilità diversi
+
+
+
+
+## <a name="january-30-2019-version-1902-build-1132620000"></a>30 gennaio 2019 1902 versione (build 11326.20000)
 
 
 ## <a name="notable-fixes"></a>Correzioni noti
