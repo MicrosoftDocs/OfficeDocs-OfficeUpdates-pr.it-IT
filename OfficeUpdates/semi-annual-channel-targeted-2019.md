@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d9ace400fb5f3c92d1e0089c851f51109dfc2228
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325416"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29953998"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -28,6 +28,24 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
  
 > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
+
+## <a name="version-1808-february-12"></a>Versione 1808: 12 febbraio
+*Versione 1808 (Build 10730.20280)* 
+
+### <a name="access-non-security-updates"></a>Access: aggiornamenti non relativi alla sicurezza 
+
+- Questo aggiornamento aggiunge ad Access il supporto per le nuove ere giapponesi.
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza 
+
+- Risolve un problema a causa del quale viene visualizzato un errore quando gli utenti con regole che fanno riferimento a una cartella che non esiste più provano a gestire le regole e a causa del quale le regole lato client non vengono eseguite.
+- Risolve un problema a causa del quale si verificano blocchi frequenti a intervalli imprevedibili per gli utenti con cassette postali delegate memorizzate nella cache.
+- Risolve un problema a causa del quale in alcune viste le riunioni giornata intera includono un giorno in più del previsto a causa dell'ora di fine della riunione impostata sulla mezzanotte del giorno successivo.
+- È stato risolto un blocco durante la creazione di nuovi appuntamenti o nuove riunioni che fanno riferimento a ere giapponesi.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto il problema per cui i componenti aggiuntivi distribuiti con la [distribuzione centralizzata di Office 365](https://docs.microsoft.com/it-IT/office/dev/add-ins/publish/centralized-deployment) vengono bloccati e sono inutilizzabili.
 
 
 ## <a name="version-1808-january-8"></a>Versione 1808: 8 gennaio

@@ -3,7 +3,7 @@ title: Aggiornamenti per Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 01/09/2019
+ms.date: 02/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Trovare e gestire gli aggiornamenti per Project Server 2013 e Project Server 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
-ms.openlocfilehash: 78cf1ddaab810b239d74b4276ef12bb04a097ddb
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: befaaa2d69bfacbde84fa65774a21846135e7a55
+ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770107"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29964608"
 ---
 # <a name="project-server-updates"></a>Aggiornamenti per Project Server
 
@@ -30,6 +30,7 @@ Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori 
   
 |**Data di rilascio**|**Numero KB**|
 |:-----|:-----|:-----|
+|Febbraio 2019  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
 |Gennaio 2019  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
 |Dicembre 2018  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
 |Novembre 2018  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
@@ -84,6 +85,7 @@ Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori 
 
 |**Data di rilascio**|**Numero KB**|
 |:-----|:-----|:-----|
+|Febbraio 2019  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
 |Gennaio 2019  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
 |Dicembre 2018  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|
 |Novembre 2018  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|

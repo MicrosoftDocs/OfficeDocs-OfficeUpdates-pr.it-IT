@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Canale mensile (mirato) di Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/01/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 0541583a6f29669e876b4cbdd97aa34a479b9e86
-ms.sourcegitcommit: af5ea1735bfc8cdead34a90d557fd348044afaab
+ms.openlocfilehash: c449a12e4146d47f564b81fd3b8b43164aef3975
+ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29708734"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29964538"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -24,6 +24,8 @@ Le informazioni di questa pagina sono destinate agli utenti di Insider che vogli
 ## <a name="office-insider-versions-and-builds"></a>Versioni e build di Office Insider
 
 Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come Insider Slow, si riceverà un nuovo aggiornamento delle funzionalità di Office all'incirca una volta al mese, oltre a build successive contenenti correzioni importanti o aggiornamenti della sicurezza. L'elenco seguente include le versioni e le build recenti pubblicate in Canale mensile (mirato). **Le build rilasciate per ultime sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti. Per le note sulla versione, vedere [Novità per gli utenti di Office Insider](https://support.office.com/it-IT/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+**12 febbraio 2019**<br/> Versione 1901 (Build 11231.20174)<br/>
 
 **31 gennaio 2019**<br/> Versione 1901 (Build 11231.20130)<br/> 
 

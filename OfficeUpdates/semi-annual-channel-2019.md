@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/29/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690728"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954058"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -28,6 +28,68 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
+> - OneNote 2016 non sarà incluso per impostazione predefinita quando un utente del canale semestrale scarica e installa Office 365 in Windows 10 dal portale di Office.
+
+## <a name="version-1808-february-12"></a>Versione 1808: 12 febbraio
+*Versione 1808 (Build 10730.20280)*
+
+### <a name="access-non-security-updates"></a>Access: aggiornamenti non relativi alla sicurezza 
+
+- Questo aggiornamento aggiunge ad Access il supporto per le nuove ere giapponesi.
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza 
+
+- Risolve un problema a causa del quale viene visualizzato un errore quando gli utenti con regole che fanno riferimento a una cartella che non esiste più provano a gestire le regole e a causa del quale le regole lato client non vengono eseguite.
+- Risolve un problema a causa del quale si verificano blocchi frequenti a intervalli imprevedibili per gli utenti con cassette postali delegate memorizzate nella cache.
+- Risolve un problema a causa del quale in alcune viste le riunioni giornata intera includono un giorno in più del previsto a causa dell'ora di fine della riunione impostata sulla mezzanotte del giorno successivo.
+- È stato risolto un blocco durante la creazione di nuovi appuntamenti o nuove riunioni che fanno riferimento a ere giapponesi.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto il problema per cui i componenti aggiuntivi distribuiti con la [distribuzione centralizzata di Office 365](https://docs.microsoft.com/it-IT/office/dev/add-ins/publish/centralized-deployment) vengono bloccati e sono inutilizzabili.
+
+
+## <a name="version-1803-february-12"></a>Versione 1803: 12 febbraio
+*Versione 1803 (Build 9126.2356)*
+
+*Si tratta della versione del Canale semestrale, disponibile da luglio 2018. Continuerà a essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1808 (Build 10730.20280), contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza.*
+
+### <a name="access-non-security-updates"></a>Access: aggiornamenti non relativi alla sicurezza 
+
+- Questo aggiornamento aggiunge ad Access il supporto per le nuove ere giapponesi.
+
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza 
+
+- Questo aggiornamento aggiunge a Excel il supporto per le nuove ere giapponesi.
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto un blocco durante la creazione di nuovi appuntamenti o nuove riunioni che fanno riferimento a ere giapponesi.
+
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
+- Questo aggiornamento aggiunge a Project il supporto per le nuove ere giapponesi.
+
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+
+- Questo aggiornamento aggiunge a Word il supporto per le nuove ere giapponesi.
+
+### <a name="visio-non-security-updates"></a>Visio: aggiornamenti non relativi alla sicurezza
+
+- Questo aggiornamento aggiunge a Visio il supporto per le nuove ere giapponesi.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto il problema per cui i componenti aggiuntivi distribuiti con la [distribuzione centralizzata di Office 365](https://docs.microsoft.com/it-IT/office/dev/add-ins/publish/centralized-deployment) vengono bloccati e sono inutilizzabili.
+
+## <a name="version-1708-february-12"></a>Versione 1708: 12 febbraio
+*Versione 1708 (Build 8431.2372)*
+
+*Si tratta della versione del Canale semestrale, disponibile da gennaio 2018. Continuerà a essere supportata e a ricevere aggiornamenti della sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1808 (Build 10730.20280), contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza.*
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto il problema per cui i componenti aggiuntivi distribuiti con la [distribuzione centralizzata di Office 365](https://docs.microsoft.com/it-IT/office/dev/add-ins/publish/centralized-deployment) vengono bloccati e sono inutilizzabili.
+
 
 ## <a name="version-1808-january-8"></a>Versione 1808: 8 gennaio
 *Versione 1808 (Build 10730.20264)*
@@ -35,7 +97,6 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
 
  - **Visualizzazione di dati con nuovi grafici**: scegliere tra 11 grafici e aggiungerne uno a maschere e report per visualizzare meglio i dati e prendere decisioni informate. [Ulteriori informazioni](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
-
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
  - **Modifica collaborativa:** collaborare con altri utenti contemporaneamente all'interno della cartella di lavoro. [Altre informazioni](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
