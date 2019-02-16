@@ -1,64 +1,161 @@
 ---
-titolo: "Release Notes per Office gli utenti interni" ms.author: andrewmo autore: mikho manager: andrewmo ms.date: 2/11/2019 ms.audience: Win32 Fast ms.topic: ms.service di riferimento: Office 365 proplus localization_priority: ms.collection critici: RelNotes_ProPlus Descrizione: "vengono forniti gli utenti interni Fast gruppo di destinatari con l'elenco più recente di nuove funzionalità principali, correzioni o problemi noti
+title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: Mikho Manager: andrewmo ms. Date: 2/15/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente di nuove funzionalità chiave, correzioni o problemi noti
 ---
 
-# <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli utenti interni di Office
+# <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli addetti ai lavori di Office
 
-In questo articolo sono note sulla versione di build di persona interna di Word, Excel, PowerPoint, Outlook, l'accesso e Project per Windows desktop. Ogni settimana, verrà riportato nuove e interessanti funzionalità, correzioni importanti e gli eventuali problemi significativi che vogliamo è a conoscenza. Si noti che è spesso distribuire caratteristiche (e le correzioni pari a volte) per gli utenti interni per un periodo di tempo. Ciò consente di verificare che tutto funzioni in modo uniforme prima del rilascio la funzionalità a un gruppo di destinatari più ampio. Pertanto, se non viene visualizzato un elemento descritto di seguito, non bisogna preoccuparsi si otterranno viene alla fine.  
+In questo articolo sono contenute le note sulla versione per le build inSider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana, verranno evidenziate le nuove funzionalità, le correzioni importanti e gli eventuali problemi significativi che è necessario conoscere. Si noti che spesso si tirano fuori le caratteristiche (e talvolta anche le correzioni) agli addetti ai lavori in un periodo di tempo. In questo modo, è possibile garantire che le operazioni funzionino senza problemi prima di rilasciare la funzionalità a un gruppo di destinatari più ampio. Quindi, se non vedi qualcosa descritto in basso, non preoccuparti di averlo alla fine.  
 
-## <a name="february-9-2019-version-1902-build-1133020014"></a>2019 9 febbraio 1902 versione (build 11330.20014)
+## <a name="february-12-2019-version-1902-build-1133020014"></a>Febbraio 12 2019 versione 1902 (Build 11330,20014)
 
-
-## <a name="notable-fixes"></a>Correzioni noti
-
-### <a name="word"></a>Word 
-- Viene risolto un problema di cui alcuni stili personalizzati non possono essere applicati al word online
-- È i problemi di anteprima di contesto con rich oggetti di Word
-- È stato risolto un problema in incollare gli elenchi può causare un arresto anomalo di Word
-
-### <a name="excel"></a>Excel
-- Viene risolto un problema di cui accodati spazi dopo formati numerici vengono non è più che mostra quando non vi è alcun simbolo di valuta
-- È stato risolto un problema con auto rileva per titoli
+## <a name="whats-new"></a>Novità:
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correzioni rapide per prestazioni e la stabilità diversi
-
-### <a name="outlook"></a>Outlook
-- Correzioni rapide per prestazioni e la stabilità diversi
-
-### <a name="access"></a>Access
-- Correzioni rapide per prestazioni e la stabilità diversi
-
-### <a name="project"></a>Project
-- Correzioni rapide per prestazioni e la stabilità diversi
 
 
+### <a name="morph-transition-enhancements---morph-by-name"></a>Miglioramenti alla transizione del Morph-Morph per nome
+
+Specificare le forme che si desidera morph
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+- Per ottenere morph per il trattamento di due oggetti come lo stesso oggetto, l'utente può rinominare le forme utilizzando il riquadro di selezione.
+- Il nome deve essere precostituito da "!!" (due punti esclamativi) per Morph per utilizzarlo per ignorare il comportamento predefinito di corrispondenza, ad esempio "! Nome
+- Gli utenti possono continuare a rinominare forme con qualsiasi nome che non inizia con "!!" senza preoccuparsi che cambierà la modalità di funzionamento di morph
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+- Inserire una forma in una diapositiva, diciamo rettangolo
+- Creare una nuova diapositiva
+- Inserire una forma diversa nella seconda diapositiva, diciamo triangolo
+- Aprire SelectionPane, rinominare il rettangolo nella diapositiva 1 in "!! Shape "e Rinomina il triangolo nella diapositiva 2 in"! forma
+- Applicare morph sulla diapositiva 2nd
+
+</BR>
+
+### <a name="morph-transition-enhancements---smartart"></a>Miglioramenti alla transizione di morph-SmartArt
+
+Morph SmartArt con transizioni più fluide
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+Utilizzare morph nello stesso modo in cui si farebbe con SmartArt
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+- Inserire un SmartArt in una diapositiva
+- Duplica la diapositiva
+- Ridimensiona/cambia/sposta l'SmartArt sulla diapositiva duplicata
+- Applicazione del morph sulla diapositiva duplicata
+
+</BR>
+
+### <a name="morph-transition-enhancements---tables"></a>Miglioramenti alla transizione del morph-tabelle
+
+Le tabelle si trasformano con transizioni più fluide
+
+#### <a name="getting-started"></a>Guida introduttiva:
+Utilizzare morph nello stesso modo in cui si utilizzano le tabelle
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+- Inserire una tabella in una diapositiva
+- Duplica la diapositiva
+- Ridimensiona/cambia/sposta la tabella sulla diapositiva duplicata
+- Applicazione del morph sulla diapositiva duplicata
+
+</BR>
+
+### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a>Word, Excel, PowerPoint, OneNote, Access, Project, Publisher & Visio
+
+### <a name="seamlessly-switch-between-accounts"></a>Passare senza problemi tra gli account
+
+Il nuovo account Manager Visualizza tutti gli account personali e di lavoro in un'unica posizione, nonché il controllo del passaggio tra di essi. Questa esperienza aggiornata rende chiaro come è stato effettuato l'accesso e ora è possibile alternare tra lavoro e account personali senza dover prima disconnettersi o gestire le finestre di dialogo complesse.
 
 
-## <a name="january-30-2019-version-1902-build-1132620000"></a>30 gennaio 2019 1902 versione (build 11326.20000)
 
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+- Passare da un account all'altra
+- Aggiungere un nuovo account [Nota: si consiglia di accedere prima a file | Account | Servizi connessi e rimuovere tutti i servizi personali connessi a account di lavoro o viceversa]
+- DisConnettersi da un account
+</BR>
 
-## <a name="notable-fixes"></a>Correzioni noti
+## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema con ridimensionamento celle in una tabella di Excel incorporata
-- È stato risolto un problema con copia e Incolla di forme nell'area di disegno.
+- È stato risolto un problema con l'anteprima di contesto per le tabelle & immagini
 
 ### <a name="excel"></a>Excel
-- È stato risolto un problema con l'apertura di file da Excel Web app
-- È stato risolto un problema in cui salvare un file CSV come. Non era XLSX a causa del nome file dimensione
-- È predefinito del menu di scelta rapida per visualizzare le opzioni del menu di scelta
+- È stato risolto un problema a causa del quale il testo nel campo di ricerca filtro automatico è bianco nel tema nero
+- È stato risolto un problema dell'interfaccia utente di consenso con nuovo componente aggiuntivo di Office
 
 ### <a name="powerpoint"></a>PowerPoint
-- È fissa un emessi dove gli utenti sono stati non è possibile utilizzare i tasti di scelta rapida tasti ctrl + alt + 7/ctrl + alt + 8 per immettere parentesi quadre
-- Viene risolto un problema di cui l'inserimento di un video in locale nel PPT comporterebbe una riduzione lo spazio su disco rigido "C"
-- È il pulsante pubblica in Microsoft Stream che è stato non vengono visualizzate per alcuni utenti predefinito del
+- È stato risolto un problema con l'estensione automatica della visualizzazione quando si presentano presentazioni su laptop o tablet.
 
 ### <a name="outlook"></a>Outlook
-- Viene risolto un problema di cui la visualizzazione delle attività nel calendario non è stato correttamente visualizzata l'oggetto attività
+- È stato risolto un problema con la visualizzazione del pulsante Invia a OneNote
 
 ### <a name="access"></a>Access
-- Cui è stato risolto un problema scalabilità con i grafici
+- Varie correzioni per la stabilità e le prestazioni
 
 ### <a name="project"></a>Project
-- Correzioni rapide per prestazioni e la stabilità diversi
+- Varie correzioni per la stabilità e le prestazioni
+
+
+</BR></BR>
+## <a name="february-9-2019-version-1902-build-1133020014"></a>Febbraio 9 2019 versione 1902 (Build 11330,20014)
+
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="word"></a>Word 
+- È stato risolto un problema a causa del quale non è stato possibile applicare alcuni stili personalizzati a Word online
+- Sono stati risolti i problemi di anteprima dei conTesti con oggetti Rich in Word
+- È stato risolto un problema a causa del quale gli elenchi di incollatura potrebbero causare un arresto anomalo di Word
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema a causa del quale gli spazi accodati dopo i formati dei numeri non vengono più visualizzati quando non è presente alcun simbolo di valuta
+- È stato risolto un problema relativo al rilevamento automatico delle scorte
+
+### <a name="powerpoint"></a>PowerPoint
+- Varie correzioni per la stabilità e le prestazioni
+
+### <a name="outlook"></a>Outlook
+- Varie correzioni per la stabilità e le prestazioni
+
+### <a name="access"></a>Access
+- Varie correzioni per la stabilità e le prestazioni
+
+### <a name="project"></a>Project
+- Varie correzioni per la stabilità e le prestazioni
+
+</BR></BR>
+
+
+## <a name="january-30-2019-version-1902-build-1132620000"></a>Gennaio 30, 2019 versione 1902 (Build 11326,20000)
+
+
+## <a name="notable-fixes"></a>Correzioni importanti
+
+### <a name="word"></a>Word 
+- È stato risolto un problema con il ridimensionamento delle celle in una tabella Excel incorporata
+- È stato risolto un problema relativo alla copia/incolla delle forme in un'area di disegno
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema relativo all'apertura di file da Excel Web App
+- È stato risolto un problema a causa del quale è stato salvato un file CSV. XLSX si è verificato un errore a causa della dimensione del nome di file
+- Il menu di scelta rapida è stato risolto per visualizzare le opzioni di menu di scelta rapida.
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato corretto un oggetto rilasciato in cui gli utenti non sono stati in grado di utilizzare la combinazione di tasti CTRL + ALT + 7/Ctrl + Alt + 8 per immettere le parentesi quadre
+- È stato risolto un problema a causa del quale l'inserimento di un video locale nel PPT ridurrebbe lo spazio su disco dell'unità' C'
+- È stato risolto il pulsante pubblica su Microsoft Stream che non è stato visualizzato ad alcuni utenti
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema a causa del quale la visualizzazione attività nel calendario non indicava correttamente l'oggetto dell'attività.
+
+### <a name="access"></a>Access
+- È stato risolto un problema di scalabilità con i grafici
+
+### <a name="project"></a>Project
+- Varie correzioni per la stabilità e le prestazioni
