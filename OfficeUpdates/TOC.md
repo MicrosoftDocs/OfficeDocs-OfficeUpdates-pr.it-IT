@@ -28,7 +28,7 @@
 
 ### Programma Office Insider  
 #### [Cronologia degli aggiornamenti per il canale Insider](update-history-office-insider.md)
-#### [Cronologia degli aggiornamenti per Canale mensile (mirato)](update-history-monthly-channel-targeted.md)
+#### [Cronologia degli aggiornamenti per il canale mensile (mirato)](update-history-monthly-channel-targeted.md)
 ####[Note sulla versione per il canale Insider](release-notes-office-insider.md)
 
 # Office per Mac
