@@ -3,23 +3,6 @@
 
 
 
-## <a name="week-of-january-14-2019"></a>Settimana del 14 gennaio 2019
-
-
-| Data di pubblicazione |Titolo dell'argomento | Modifica |
-|------|------------|--------|
-| 1/16/2019 | [Note sulla versione per Office 2016 per Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificato |
-| 1/16/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
-| 1/16/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
-| 1/16/2019 | [Note sulla versione per gli aggiornamenti della sicurezza di Office 365 ProPlus](/OfficeUpdates/office365-proplus-security-updates) | modificato |
-| 1/16/2019 | [Cronologia delle versioni per Microsoft AutoUpdate (MAU)](/OfficeUpdates/release-history-microsoft-autoupdate) | modificato |
-| 1/16/2019 | [Note sulle versioni per i rilasci del Canale semestrale nel 2019](/OfficeUpdates/semi-annual-channel-2019) | modificato |
-| 1/16/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
-| 1/17/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
-| 1/17/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
-| 1/17/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
-
-
 ## <a name="week-of-january-21-2019"></a>Settimana del 21 gennaio 2019
 
 
@@ -87,3 +70,15 @@
 | 2/15/2019 | [Cronologia degli aggiornamenti per i prodotti a portata di clic di Office 2010](/OfficeUpdates/update-history-office-2010-click-to-run) | modificato |
 | 2/15/2019 | [Note sulla versione per gli addetti ai lavori di Office](/OfficeUpdates/release-notes-office-insider) | modificato |
 | 2/15/2019 | [Cronologia degli aggiornamenti per Office inSider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
+
+
+## <a name="week-of-february-18-2019"></a>Settimana del 18 febbraio 2019
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 2/20/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
+| 2/20/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
+| 2/21/2019 | [Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019](/OfficeUpdates/update-history-office-2019) | modificato |
+| 2/22/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
+| 2/22/2019 | [Cronologia degli aggiornamenti per Office inSider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
