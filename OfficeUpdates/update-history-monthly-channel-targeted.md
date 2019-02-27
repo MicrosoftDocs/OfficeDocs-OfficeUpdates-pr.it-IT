@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 54adf02c6a6955501988011fccfb505b55efeeb5
-ms.sourcegitcommit: f681559832b0ed0c65ba450ddf2c735c6ac33e90
+ms.openlocfilehash: 38dfeb237f513a1e8473c13f2bca43bb7034286d
+ms.sourcegitcommit: a5af28fd94e1c4fc54b4ce745ee3271e25c994bc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210495"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30247708"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -24,6 +24,8 @@ Le informazioni di questa pagina sono destinate agli utenti di Insider che vogli
 ## <a name="office-insider-versions-and-builds"></a>Versioni e build di Office Insider
 
 Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come Insider Slow, si riceverà un nuovo aggiornamento delle funzionalità di Office all'incirca una volta al mese, oltre a build successive contenenti correzioni importanti o aggiornamenti della sicurezza. L'elenco seguente include le versioni e le build recenti pubblicate in Canale mensile (mirato). **Le build rilasciate per ultime sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti. Per le note sulla versione, vedere [Novità per gli utenti di Office Insider](https://support.office.com/it-IT/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+**25 febbraio 2019**<br/> Versione 1902 (Build 11328.20116)<br/>
 
 **21 febbraio 2019**<br/> Versione 1902 (Build 11328.20100)<br/>
 
