@@ -3,19 +3,19 @@ title: Note sulla versione per Office per Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 2/20/2019
+ms.date: 2/26/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 76bb531d3d1ade277ee81256407cfeefdac4ac4b
-ms.sourcegitcommit: cbf28ac3d54fe873f17d57e40714c2647bd4363a
+ms.openlocfilehash: dd5e573544acd6a9950b4d28f63980e044913e7b
+ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30128122"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "30294609"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -34,6 +34,15 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 > - Spesso le funzionalità vengono implementate (e a volte corrette) nel canale mensile per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
+## <a name="february-2019-release"></a>Rilascio di febbraio 2019
+
+**Data di rilascio:** 26 febbraio 2019
+
+ Questa versione fornisce gli aggiornamenti seguenti:
+
+|**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|**Collegamento per il download del pacchetto di aggiornamento**|
+|:-----|:-----|:-----|
+|Microsoft AutoUpdate 4.8 <br/>| Risolto un problema relativo alla richiesta di consenso esplicito per gli aggiornamenti automatici di Microsoft AutoUpdate per MacOS 10.10 <br/><br/> Aggiornamento dell'ID applicazione di Microsoft AutoUpdate da 'MSau03' a 'MSau04' <br/><br/> Risolto un problema con MAU Privileged Helper per l'installazione mentre è in esecuzione un'altra versione <br/>|<br/> | [Pacchetto di aggiornamento di Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.8.19022003_Updater.pkg)|
 ## <a name="february-2019-release"></a>Rilascio di febbraio 2019
 
 **Data di rilascio:** 20 febbraio 2019 
