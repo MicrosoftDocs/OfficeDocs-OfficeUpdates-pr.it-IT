@@ -1,12 +1,44 @@
 ---
-title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: Mikho Manager: andrewmo ms. Date: 2/15/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente di nuove funzionalità chiave, correzioni o problemi noti
+title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: Mikho Manager: andrewmo ms. Date: 3/1/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente di nuove funzionalità chiave, correzioni o problemi noti
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli addetti ai lavori di Office
 
 In questo articolo sono contenute le note sulla versione per le build inSider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana, verranno evidenziate le nuove funzionalità, le correzioni importanti e gli eventuali problemi significativi che è necessario conoscere. Si noti che spesso si tirano fuori le caratteristiche (e talvolta anche le correzioni) agli addetti ai lavori in un periodo di tempo. In questo modo, è possibile garantire che le operazioni funzionino senza problemi prima di rilasciare la funzionalità a un gruppo di destinatari più ampio. Quindi, se non vedi qualcosa descritto in basso, non preoccuparti di averlo alla fine.  
 
-## <a name="february-12-2019-version-1902-build-1133020014"></a>Febbraio 12 2019 versione 1902 (Build 11330,20014)
+## <a name="february-25-2019-version-1903-build-1133020014"></a>25 febbraio 2019 versione 1903 (Build 11330,20014)
+
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="word"></a>Word 
+- È stato risolto un problema di crash che si è verificato quando si preme ' ESC ' quando si è in opzioni
+- È stato risolto un problema con copia & incolla da Word a PowerPoint online
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema a causa del quale la copia di una cella in Excel ha causato un utilizzo elevato della CPU quando è stato aperto un documento protetto
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema con le dimensioni dell'immagine della diapositiva quando si utilizza @Mentions in PowerPoint
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema a causa del quale la ricerca di Outlook non ha rispettato l'ordinamento cronologico selezionato
+- È stato risolto un problema a causa del quale il pulsante "Apri questa attività" della barra multifunzione del flusso di lavoro non rispondeva a determinate e-mail
+- È stato risolto un problema a causa del quale Outlook non è stato chiaro nelle sale locali dopo che gli utenti hanno selezionato una sala disponibile in room Finder
+
+### <a name="access"></a>Access
+- È stato aggiornato il testo del messaggio che ha mostrato quando si confermano le tabelle di ricollegamento con un'origine dati
+- È stata corretta la finestra di dialogo di importazione/esportazione salvata con testo bianco su sfondo bianco in tema scuro
+- È stato risolto un problema a causa del quale gli utenti non sono stati in grado di impostare la proprietà del controllo visualizzazione per un campo Sì/No su TextBox nella struttura della tabella
+
+### <a name="project"></a>Project
+- Varie correzioni per la stabilità e le prestazioni
+
+</BR></BR>
+
+
+
+## <a name="february-12-2019-version-1903-build-1133020014"></a>Febbraio 12 2019 versione 1903 (Build 11330,20014)
 
 ## <a name="whats-new"></a>Novità:
 
@@ -73,6 +105,7 @@ Utilizzare morph nello stesso modo in cui si utilizzano le tabelle
 Il nuovo account Manager Visualizza tutti gli account personali e di lavoro in un'unica posizione, nonché il controllo del passaggio tra di essi. Questa esperienza aggiornata rende chiaro come è stato effettuato l'accesso e ora è possibile alternare tra lavoro e account personali senza dover prima disconnettersi o gestire le finestre di dialogo complesse.
 
 
+![MeMock. png](Images/MeMock.png)
 
 #### <a name="scenarios-to-try"></a>Scenari da provare:
 - Passare da un account all'altra
@@ -103,7 +136,7 @@ Il nuovo account Manager Visualizza tutti gli account personali e di lavoro in u
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1902-build-1133020014"></a>Febbraio 9 2019 versione 1902 (Build 11330,20014)
+## <a name="february-9-2019-version-1903-build-1133020014"></a>Febbraio 9 2019 versione 1903 (Build 11330,20014)
 
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
