@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Canale mensile (mirato) di Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/22/2019
+ms.date: 03/01/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 38dfeb237f513a1e8473c13f2bca43bb7034286d
-ms.sourcegitcommit: a5af28fd94e1c4fc54b4ce745ee3271e25c994bc
+ms.openlocfilehash: f30eef0585fda90bc28737419386c84469c3ea6c
+ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30247708"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361731"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -24,6 +24,8 @@ Le informazioni di questa pagina sono destinate agli utenti di Insider che vogli
 ## <a name="office-insider-versions-and-builds"></a>Versioni e build di Office Insider
 
 Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come Insider Slow, si riceverà un nuovo aggiornamento delle funzionalità di Office all'incirca una volta al mese, oltre a build successive contenenti correzioni importanti o aggiornamenti della sicurezza. L'elenco seguente include le versioni e le build recenti pubblicate in Canale mensile (mirato). **Le build rilasciate per ultime sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti. Per le note sulla versione, vedere [Novità per gli utenti di Office Insider](https://support.office.com/it-IT/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+**1 marzo 2019**<br/> Versione 1902 (Build 11328.20140)<br/>
 
 **25 febbraio 2019**<br/> Versione 1902 (Build 11328.20116)<br/>
 
