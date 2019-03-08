@@ -1,12 +1,17 @@
 ---
-title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: Mikho Manager: andrewmo ms. Date: 3/1/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente di nuove funzionalità chiave, correzioni o problemi noti
+title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: Mikho Manager: andrewmo ms. Date: 3/07/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente di nuove funzionalità chiave, correzioni o problemi noti
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli addetti ai lavori di Office
 
-In questo articolo sono contenute le note sulla versione per le build inSider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana, verranno evidenziate le nuove funzionalità, le correzioni importanti e gli eventuali problemi significativi che è necessario conoscere. Si noti che spesso si tirano fuori le caratteristiche (e talvolta anche le correzioni) agli addetti ai lavori in un periodo di tempo. In questo modo, è possibile garantire che le operazioni funzionino senza problemi prima di rilasciare la funzionalità a un gruppo di destinatari più ampio. Quindi, se non vedi qualcosa descritto in basso, non preoccuparti di averlo alla fine.  
+In questo articolo sono contenute le note sulla versione per le build inSider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana, verranno evidenziate le nuove funzionalità, le correzioni importanti e gli eventuali problemi significativi che è necessario conoscere. Si noti che spesso si tirano fuori le caratteristiche (e talvolta anche le correzioni) agli addetti ai lavori in un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzione ad un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
 
-## <a name="february-25-2019-version-1903-build-1133020014"></a>25 febbraio 2019 versione 1903 (Build 11330,20014)
+> [!NOTE]
+> - Le note sulla versione sono registrate settimanalmente e possono essere una compilazione di più compilazioni. 
+> - La data di pubblicazione delle note sulla versione potrebbe non corrispondere alla data di rilascio effettiva.
+
+## <a name="march-1-2019"></a>1 marzo 2019 
+Versione 1903 (Build 11414,20014)
 
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
@@ -38,7 +43,8 @@ In questo articolo sono contenute le note sulla versione per le build inSider di
 
 
 
-## <a name="february-12-2019-version-1903-build-1133020014"></a>Febbraio 12 2019 versione 1903 (Build 11330,20014)
+## <a name="february-15-2019"></a>15 febbraio 2019 
+Versione 1903 (Build 11310,20016)
 
 ## <a name="whats-new"></a>Novità:
 
@@ -136,7 +142,8 @@ Il nuovo account Manager Visualizza tutti gli account personali e di lavoro in u
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1903-build-1133020014"></a>Febbraio 9 2019 versione 1903 (Build 11330,20014)
+## <a name="february-11-2019"></a>11 febbraio 2019
+Versione 1903 (Build 11330,20014)
 
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
@@ -165,7 +172,8 @@ Il nuovo account Manager Visualizza tutti gli account personali e di lavoro in u
 </BR></BR>
 
 
-## <a name="january-30-2019-version-1902-build-1132620000"></a>Gennaio 30, 2019 versione 1902 (Build 11326,20000)
+## <a name="february-1-2019"></a>2019 febbraio 1 
+Versione 1902 (Build 11326,20000)
 
 
 ## <a name="notable-fixes"></a>Correzioni importanti
