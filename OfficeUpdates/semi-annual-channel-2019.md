@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
+ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954058"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466113"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -227,8 +227,12 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Sincronizzare il diagramma di origine:** Quando si modifica un diagramma visualizzatore dati in Visio, è possibile aggiornare i dati di origine di Excel collegati con il contenuto del diagramma più recente.
 - **Modello di audit del Visualizzatore dati:** importare il contenuto da Excel e creare diagrammi di audit per transazioni finanziarie, gestione dell'inventario e altro ancora.
 - **Diagrammi di base:** i modelli di organigramma, brainstorming e SDL hanno nuovi diagrammi di base per iniziare rapidamente.
- - **Creare un documento Word fuori dalle forme di Visio:** aggiungere automaticamente il contenuto del diagramma, incluse forme e metadati, a un documento di Word. Personalizzare quindi il documento per creare linee guida di processo e manuali operativi. [Altre informazioni](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+- **Creare un documento Word fuori dalle forme di Visio:** aggiungere automaticamente il contenuto del diagramma, incluse forme e metadati, a un documento di Word. Personalizzare quindi il documento per creare linee guida di processo e manuali operativi. [Altre informazioni](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
+### <a name="office-suite-security-update"></a>Famiglia di prodotti Office: aggiornamento della sicurezza
+
+- 
+  **Attivazione bloccata dei controlli Flash, Silverlight e Shockwave in Office per motivi di sicurezza:** per motivi di sicurezza, nuove build di Microsoft Office per Office 365 in Windows bloccano l'attivazione dei controlli Flash, Silverlight e Shockwave. Altre informazioni [qui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) e [qui](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
  
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
 - Risolve un problema a causa del quale l'installazione degli aggiornamenti richiedeva un lungo periodo di tempo in determinati scenari.
