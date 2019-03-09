@@ -1,5 +1,5 @@
 ---
-title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: Mikho Manager: andrewmo ms. Date: 3/07/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente di nuove funzionalità chiave, correzioni o problemi noti
+title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: Mikho Manager: andrewmo ms. Date: 3/08/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente di nuove funzionalità chiave, correzioni o problemi noti
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli addetti ai lavori di Office
@@ -7,8 +7,56 @@ title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: Mi
 In questo articolo sono contenute le note sulla versione per le build inSider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana, verranno evidenziate le nuove funzionalità, le correzioni importanti e gli eventuali problemi significativi che è necessario conoscere. Si noti che spesso si tirano fuori le caratteristiche (e talvolta anche le correzioni) agli addetti ai lavori in un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzione ad un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
 
 > [!NOTE]
-> - Le note sulla versione sono registrate settimanalmente e possono essere una compilazione di più compilazioni. 
-> - La data di pubblicazione delle note sulla versione potrebbe non corrispondere alla data di rilascio effettiva.
+> - Le note sulla versione sono registrate settimanalmente e possono essere una compilazione di più Build
+> - La data di pubblicazione delle note di rilascio potrebbe non corrispondere alla data di rilascio effettiva della build
+
+
+## <a name="march-8-2019"></a>8 marzo 2019 
+Versione 1903 (Build 11425,20036)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="word"></a>Word
+
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a>Trovare quello che si sta cercando con Microsoft Search
+
+Con Microsoft Search, è possibile trovare tutti i file, le azioni, le persone e gli aiuti necessari per ottenere il lavoro svolto.
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+- La caratteristica viene visualizzata in maniera prominente sulla parte superiore dell'interfaccia utente nell'intestazione.
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+- Ricerca di un collegio, di un documento recente o di una ricerca per i comandi della barra multifunzione utilizzati più spesso
+- Cercare un argomento o un soggetto per ottenere ulteriori informazioni su di esso
+
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="word"></a>Word 
+- È stato risolto un problema di crash che si è verificato quando si preme ' ESC ' quando si è in opzioni
+- È stato risolto un problema di crash che si è verificato durante la risposta ai commenti
+- È stato risolto un problema con copia & incolla da Word a PowerPoint online
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema a causa del quale la copia di una cella in Excel ha causato un utilizzo elevato della CPU quando è stato aperto un documento protetto
+
+### <a name="powerpoint"></a>PowerPoint
+- Varie correzioni per la stabilità e le prestazioni
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema a causa del quale la ricerca di Outlook non ha rispettato l'ordinamento cronologico selezionato
+- È stato risolto un problema a causa del quale il pulsante "Apri questa attività" della barra multifunzione del flusso di lavoro non rispondeva a determinate e-mail
+- È stato risolto un problema a causa del quale Outlook non è stato chiaro nelle sale locali dopo che gli utenti hanno selezionato una sala disponibile in room Finder
+
+### <a name="access"></a>Access
+- È stata corretta la finestra di dialogo di importazione/esportazione salvata con testo bianco su sfondo bianco in tema scuro
+- È stato risolto un problema a causa del quale gli utenti non sono stati in grado di impostare la proprietà DisplayControl per un campo Sì/No su TextBox nella struttura della tabella
+
+### <a name="project"></a>Project
+- Varie correzioni per la stabilità e le prestazioni
+
 
 ## <a name="march-1-2019"></a>1 marzo 2019 
 Versione 1903 (Build 11414,20014)
