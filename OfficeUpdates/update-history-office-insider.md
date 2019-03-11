@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per il canale Office Insider
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/01/2019
+ms.date: 03/07/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
-ms.openlocfilehash: bcda4695c35146289f5dbcbc8014775243688a15
-ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
+ms.openlocfilehash: c79980e18332acfd94b4859ff6d2734179ad77b9
+ms.sourcegitcommit: 12fe89697c04c4f9094c60cbc410e44426a38069
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "30361751"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30482449"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Cronologia degli aggiornamenti per il canale Office Insider
 
@@ -25,15 +25,15 @@ Le informazioni di questa pagina sono destinate agli utenti di Insider che vogli
 
 Se si è iscritti al livello Insider, si ricevono aggiornamenti frequenti contenenti le nuove funzionalità e i miglioramenti apportati. L'elenco seguente mostra la cronologia delle ultime versioni e build Insider. **Le build rilasciate per ultime sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti. 
 
-Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://support.office.com/it-IT/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).
+Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/it-IT/OfficeUpdates/release-notes-office-insider).
 
-**1 marzo 2019**<br/> Versione 1902 (Build 11425.20036)<br/> 
+**1 marzo 2019**<br/> Versione 1903 (Build 11425.20036)<br/> 
 
-**25 febbraio 2019**<br/> Versione 1902 (Build 11414.20014)<br/> 
+**25 febbraio 2019**<br/> Versione 1903 (Build 11414.20014)<br/> 
 
-**12 febbraio 2019**<br/> Versione 1902 (Build 11406.20002)<br/> 
+**12 febbraio 2019**<br/> Versione 1903 (Build 11406.20002)<br/> 
 
-**9 febbraio 2019**<br/> Versione 1902 (Build 11330.20014)<br/> 
+**9 febbraio 2019**<br/> Versione 1903 (Build 11330.20014)<br/> 
 
 **30 gennaio 2019**<br/> Versione 1902 (Build 11326.20000)<br/> 
 
