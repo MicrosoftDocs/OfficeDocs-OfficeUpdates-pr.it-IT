@@ -3,23 +3,29 @@ title: Cronologia degli aggiornamenti per il canale Office Insider
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/07/2019
+ms.date: 03/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
-ms.openlocfilehash: c79980e18332acfd94b4859ff6d2734179ad77b9
-ms.sourcegitcommit: 12fe89697c04c4f9094c60cbc410e44426a38069
+ms.openlocfilehash: f8aef9345c96956c144922e07fa39bf208287a25
+ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "30482449"
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "30512795"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Cronologia degli aggiornamenti per il canale Office Insider
 
 Le informazioni di questa pagina sono destinate agli utenti di Insider che vogliono sapere se hanno installato l'aggiornamento più recente o sono alla ricerca di un elenco delle ultime build Insider pubblicate. Fare clic [qui](https://insider.office.com/) per altre informazioni sul programma Insider.
+
+> [!NOTE]
+> - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
+> - Le note sulla versione vengono aggiornate con minore frequenza e gli aggiornamenti per più build possono essere combinati fino al numero di build per cui vengono pubblicate le note sulla versione.
+
+
 
 ## <a name="office-insider-versions-and-builds"></a>Versioni e build di Office Insider
 
