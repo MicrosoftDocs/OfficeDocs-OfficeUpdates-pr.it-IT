@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
+ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379361"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30509299"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -46,10 +46,10 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 
-- **Avere un momento di respiro tra una riunione e l'altra:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che terminino per impostazione predefinita 5-10 minuti in anticipo.[Altre informazioni sono disponibili qui](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F) [e qui](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)
+- 
+  **Avere un momento di respiro tra una riunione e l'altra:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che terminino per impostazione predefinita 5-10 minuti in anticipo. [Altre informazioni](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Ascoltare il testo del messaggio di posta elettronica con Leggi ad alta voce**: Outlook è in grado di leggere i messaggi di posta elettronica ad alta voce, evidenziando il testo durante la lettura. Per attivare Leggi ad alta voce, passare alle impostazioni Accessibilità. [Altre informazioni](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-- **Crittografia dei messaggi: criteri IRM per la sola crittografia:** la nuova opzione Solo crittografia è disponibile nel menu Opzioni > Autorizzazioni per gli utenti di Office 365 Message Encryption. Questa opzione consente di crittografare un messaggio e inviarlo a chiunque, all'interno o all'esterno dell'organizzazione. [Altre informazioni](https://aka.ms/omeoverview)
-- **Nuovo valore predefinito per l'intervallo di ricorrenza:** per la finestra di dialogo Ricorrenza, l'intervallo di ricorrenza predefinito era "Nessuna data di fine". Questo consentiva di creare una serie ricorrente di lunga durata, che nel tempo potrebbe danneggiarsi. Il valore predefinito per la finestra di dialogo è stato modificato in "Fine entro", in modo da allineare il valore predefinito alle procedure consigliate per la gestione dei calendari.
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 
@@ -65,7 +65,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
  
 ### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
 
-- **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle nuove installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/DeployOffice/teams-install)
+- 
+  **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle nuove installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/en-us/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Versione 1901: 12 febbraio
 *Versione 1901 (Build 11231.20174)* 
