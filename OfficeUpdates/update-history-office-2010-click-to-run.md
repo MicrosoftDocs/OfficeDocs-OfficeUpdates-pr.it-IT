@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per i prodotti a portata di clic di Office
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/16/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni perpetue di Office 2010 che utilizzano a portata di clic
-ms.openlocfilehash: 27982e9c60b7f6d32f17d52ac7847e7e74353496
-ms.sourcegitcommit: 7c98e6f5ca63da673f6c86b348ab620d351018b2
+ms.openlocfilehash: b069b4ccaaf6c3750d9ef162961b108f419e8984
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/16/2019
-ms.locfileid: "30076951"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568179"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Cronologia degli aggiornamenti per i prodotti a portata di clic di Office 2010
 
@@ -30,7 +30,7 @@ I prodotti di Office 2010 seguenti vengono mantenuti aggiornati automaticamente 
 Se si utilizza uno di questi prodotti e si desidera verificare che l'utente sia aggiornato, controllare il numero di versione di Office e aggiornare manualmente Office, se necessario.
   
 > [!NOTE]
-> La versione più recente di Office 2010 è **14.0.7229.5000**, che è stata rilasciata il 15 febbraio 2019. 
+> La versione più recente di Office 2010 è **14.0.7230.5000**, che è stata rilasciata il 12 marzo 2019. 
   
 Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
   
@@ -54,7 +54,8 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
   
 |**Anno di pubblicazione**|**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|:-----|
-|2019|15 febbraio  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
+|2019|12 marzo  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/en-us/help/4491754) <br/> |
+||15 febbraio  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
 ||8 gennaio  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |
 |2018|13 novembre  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
 ||9 ottobre  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |

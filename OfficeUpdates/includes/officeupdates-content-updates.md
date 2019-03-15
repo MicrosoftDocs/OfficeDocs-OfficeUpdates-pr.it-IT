@@ -3,19 +3,23 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>Settimana del 28 gennaio 2019
+## <a name="week-of-march-04-2019"></a>Settimana del 4 marzo 2019
 
 
 | Data di pubblicazione |Titolo dell'argomento | Modifica |
 |------|------------|--------|
-| 1/31/2019 | [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificato |
-| 1/31/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
-| 1/31/2019 | [Note sulle versioni per i rilasci del Canale semestrale nel 2019](/OfficeUpdates/semi-annual-channel-2019) | modificato |
-| 1/31/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
-| 1/31/2019 | [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificato |
-| 2/1/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | aggiunto |
-| 2/1/2019 | [Cronologia degli aggiornamenti per Office inSider Channel](/OfficeUpdates/update-history-office-insider) | aggiunto |
-| 2/1/2019 | [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificato |
+| 3/4/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
+| 3/4/2019 | [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificato |
+| 3/4/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
+| 3/4/2019 | [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificato |
+| 3/6/2019 | [Note sulle versioni per i rilasci del Canale semestrale nel 2019](/OfficeUpdates/semi-annual-channel-2019) | modificato |
+| 3/7/2019 | [Note sulla versione per gli addetti ai lavori di Office](/OfficeUpdates/release-notes-office-insider) | modificato |
+| 3/7/2019 | [Cronologia degli aggiornamenti per Office inSider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
+| 3/8/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
+| 3/8/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
+| 3/8/2019 | [Note sulla versione per gli addetti ai lavori di Office](/OfficeUpdates/release-notes-office-insider) | modificato |
+| 3/8/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
+| 3/8/2019 | [Cronologia degli aggiornamenti per Office inSider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
 
 
 ## <a name="week-of-february-04-2019"></a>Settimana del 4 febbraio 2019
@@ -63,8 +67,8 @@
 
 | Data di pubblicazione |Titolo dell'argomento | Modifica |
 |------|------------|--------|
-| 2/20/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
-| 2/20/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
+| 20/02/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
+| 20/02/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
 | 2/21/2019 | [Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019](/OfficeUpdates/update-history-office-2019) | modificato |
 | 2/22/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
 | 2/22/2019 | [Cronologia degli aggiornamenti per Office inSider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
