@@ -1,5 +1,5 @@
 ---
-title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: Mikho Manager: andrewmo ms. Date: 3/08/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente di nuove funzionalità chiave, correzioni o problemi noti
+title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/15/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente delle nuove caratteristiche chiave, correzioni o problemi noti
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli addetti ai lavori di Office
@@ -10,6 +10,32 @@ In questo articolo sono contenute le note sulla versione per le build inSider di
 > - Le note sulla versione sono registrate settimanalmente e possono essere una compilazione di più Build
 > - La data di pubblicazione delle note di rilascio potrebbe non corrispondere alla data di rilascio effettiva della build
 
+## <a name="march-15-2019"></a>15 marzo 2019 
+Versione 1904 (Build 11504,20000)
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="word"></a>Word 
+- È stato risolto un problema a causa del quale le immagini di un documento salvate in formato PDF avrebbero i DPI non corretti
+
+### <a name="excel"></a>Excel
+- Varie correzioni per la stabilità e le prestazioni
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema a causa del quale il riquadro dei commenti non sarebbe stato aperto o chiuso correttamente
+- È stato risolto un problema a causa del quale l'applicazione potrebbe bloccarsi durante l'eliminazione di un video
+- È stato risolto un problema a causa del quale, in alcuni casi, l'applicazione non avrebbe avuto esito positivo
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema per il quale le ricevute di lettura erano errate quando vengono visualizzate in giapponese
+
+### <a name="access"></a>Access
+- Varie correzioni per la stabilità e le prestazioni
+
+### <a name="project"></a>Project
+- Varie correzioni per la stabilità e le prestazioni
+
+</BR></BR>
 
 ## <a name="march-8-2019"></a>8 marzo 2019 
 Versione 1903 (Build 11425,20036)
