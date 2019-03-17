@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/28/2019
+ms.date: 3/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
-ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
+ms.openlocfilehash: 1c03ce02014c0b324678016cdb10e1c88f09da7b
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "30509299"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568309"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -28,6 +28,11 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
  > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md). 
+
+## <a name="version-1902-march-12"></a>Versione 1902: 12 marzo
+*Versione 1902 (Build 11328.20158)* 
+
+- Diverse correzioni di bug e miglioramenti delle prestazioni.
 
 ## <a name="version-1902-march-4"></a>Versione 1902: 4 marzo
 *Versione 1902 (Build 11328.20146)* 
@@ -46,27 +51,26 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 
-- 
-  **Avere un momento di respiro tra una riunione e l'altra:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che terminino per impostazione predefinita 5-10 minuti in anticipo. [Altre informazioni](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- **Avere un momento di respiro tra una riunione e l'altra:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che terminino per impostazione predefinita 5-10 minuti in anticipo. [Altre informazioni](https://support.office.com/it-IT/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Ascoltare il testo del messaggio di posta elettronica con Leggi ad alta voce**: Outlook è in grado di leggere i messaggi di posta elettronica ad alta voce, evidenziando il testo durante la lettura. Per attivare Leggi ad alta voce, passare alle impostazioni Accessibilità. [Altre informazioni](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-
+- **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 
 - **Inserire un video online è più facile che mai:** se si vuole inserire un video da Vimeo o YouTube nella diapositiva, basta il collegamento alla pagina del video. [Altre informazioni](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 - **La formattazione dei calcoli diventa automatica:** le espressioni matematiche scritte a mano vengono convertite in caratteri standard. Per iniziare, basta selezionare le note scritte a mano e scegliere Da input penna a testo matematico. [Altre informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Salvare le modifiche non appena vengono apportate:** caricare i file in OneDrive per assicurarsi che tutti gli aggiornamenti vengano salvati automaticamente.
-- **Collegamenti ipertestuali a colori:** i collegamenti ipertestuali non sono più solamente blu. Ora è possibile scegliere il colore del carattere. [Ulteriori informazioni](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) MODIFICA 24843
+- **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 
 - **Salvare le modifiche non appena vengono apportate:** caricare i file in OneDrive per assicurarsi che tutti gli aggiornamenti vengano salvati automaticamente.
 - **Ecco perché il salvataggio automatico non è attivo: ** se si seleziona l'opzione Salvataggio automatico, verrà visualizzato un utile callout con i motivi per cui il salvataggio automatico potrebbe essere disattivato. Se l'unico motivo per cui il salvataggio automatico è disattivato consiste nel fatto che il documento non si trova in OneDrive o SharePoint, viene offerta la possibilità di spostarlo comodamente con un semplice clic.
+- **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  
 ### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
 
-- 
-  **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle nuove installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/en-us/DeployOffice/teams-install)
+- **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle nuove installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Versione 1901: 12 febbraio
 *Versione 1901 (Build 11231.20174)* 
