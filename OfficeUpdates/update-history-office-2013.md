@@ -3,26 +3,26 @@ title: Cronologia degli aggiornamenti per Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/13/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2013 che utilizzano A portata di clic.
-ms.openlocfilehash: fc89aee709a5b14fabde1ae9439c2b6a17c61307
-ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
+ms.openlocfilehash: 42418530bb24ea1edc8e30b368c2d09a494e990a
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29964588"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568159"
 ---
 # <a name="update-history-for-office-2013"></a>Cronologia degli aggiornamenti per Office 2013
 
 La maggior parte dei prodotti di Office 2013 si aggiorna automaticamente tramite una tecnologia denominata A portata di clic. Se si desidera verificare che la versione in uso sia aggiornata, controllare il numero di versione di Office e, se necessario, aggiornare manualmente.
   
 > [!NOTE]
-> La versione più recente di Office 2013 è la **15.0.5111.1001**, rilasciata il 12 febbraio 2019. 
+> La versione più recente di Office 2013 è la **15.0.5119.1000**, rilasciata il 12 marzo 2019. 
   
 Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
   
@@ -46,7 +46,8 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
   
 |**Anno di pubblicazione**|**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|:-----|
-|2019|12 febbraio   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/it-IT/help/4488446)  |
+|2019|12 marzo   |15.0.5119.1000   |[KB 4491754](https://support.microsoft.com/it-IT/help/4491754)  |
+||12 febbraio   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/it-IT/help/4488446)  |
 ||8 gennaio   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/it-IT/help/4484800)  |
 |2018|19 dicembre   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/it-IT/help/4477615)  |
 ||13 novembre   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/it-IT/help/4469617)  |

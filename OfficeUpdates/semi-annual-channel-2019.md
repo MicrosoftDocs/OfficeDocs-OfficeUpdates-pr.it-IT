@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 3/6/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
-ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
+ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466113"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568359"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -29,6 +29,25 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
 > - OneNote 2016 non sarà incluso per impostazione predefinita quando un utente del canale semestrale scarica e installa Office 365 in Windows 10 dal portale di Office.
+
+## <a name="version-1808-march-12"></a>Versione 1808: 12 marzo
+*Versione 1808 (Build 10730.20304)*
+
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto un problema che si verifica quando VBA restituisce il numero di pagina non corretto.
+- Ottimizzare i tempi di salvataggio nel file di Word locale. 
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+
+- È disponibile la chiave del Registro di sistema per disabilitare l'opzione "Solo crittografia" nel menu di Office 365 Message Encryption.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto un problema che può causare il blocco dell'aggiornamento di Office per un certo tempo durante il tentativo di download.
+
+## <a name="version-1803-march-12"></a>Versione 1803: 12 marzo 
+Questo mese non sono disponibili aggiornamenti.
 
 ## <a name="version-1808-february-12"></a>Versione 1808: 12 febbraio
 *Versione 1808 (Build 10730.20280)*

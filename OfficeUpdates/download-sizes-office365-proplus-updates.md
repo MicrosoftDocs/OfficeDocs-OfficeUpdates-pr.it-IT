@@ -3,19 +3,19 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/4/2019
+ms.date: 3/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: a9860958b4d093b72d84b68b3681094cb3b2f19d
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379351"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568199"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -35,6 +35,36 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Vengono elencate solo le versioni rilasciate negli ultimi quattro mesi.
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tenere presente che la dimensione del file di download sarà superiore.
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB. 
+
+## <a name="march-12-2019"></a>12 marzo 2019
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1902 (Build 11328.20158). 
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1901 (Build 11231.20130)  <br/> |31 gennaio 2019  <br/> |179<br/> |
+|Versione 1901 (Build 11231.20174)  <br/> |12 febbraio 2019  <br/> |177<br/> |
+|Versione 1902 (Build 11328.20146)  <br/> |4 marzo 2019  <br/> |278<br/> |
+
+### <a name="semi-annual-channel"></a>Canale semestrale
+
+La versione più recente è la numero 1808 (Build 10730.20304).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1808 (Build 10730.20264)  <br/> |8 gennaio 2019  <br/> |84<br/> |
+|Versione 1808 (Build 10730.20280) <br/> |12 febbraio 2019  <br/> |74<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
+
+La versione più recente è la numero 1902 (Build 11328.20158).
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1808 (Build 10730.20264)  <br/> |8 gennaio 2019  <br/> |257 <br/> |
+|Versione 1808 (Build 10730.20280)  <br/> |12 febbraio 2019  <br/> |256 <br/> |
 
 ## <a name="march-4-2019"></a>4 marzo 2019
 
