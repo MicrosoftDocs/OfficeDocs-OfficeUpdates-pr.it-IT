@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: ef2d238cd2219c9a72857f813528ef6806d53049
+ms.sourcegitcommit: 6289999d0145176584837695178b2c5bb0b961f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "27258502"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30684171"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 
@@ -232,7 +232,6 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità 
 - **Il salvataggio automatico di file nel cloud è ora abilitato per impostazione predefinita:** il salvataggio automatico è attivato per impostazione predefinita nel rilascio del canale semestrale (mirato) di settembre 2018. Ciò significa che gli utenti non dovranno più preoccuparsi di perdere le modifiche nei documenti archiviati in OneDrive o SharePoint Online. Le modifiche vengono salvate automaticamente nel cloud e gli utenti non dovranno più premere esplicitamente CTRL+S o il pulsante Salva. Tuttavia, è necessario comprendere questa modifica al comportamento in modo da non apportare modifiche accidentali alle presentazioni. Si noti che gli utenti possono disattivare il salvataggio automatico con l'interruttore Salva automaticamente posto nella parte superiore dello schermo. È consigliabile comunicare ai propri utenti questa modifica imminente e fornire loro informazioni su come sfruttare al meglio questa nuova funzionalità in Office 365. [Altre informazioni sul salvataggio automatico](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Altre informazioni su cosa è importante che gli amministratori IT sappiano sul salvataggio automatico](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **Cella e barra della formula per apportare modifiche migliorate:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato anche migliorato il supporto di emoji e caratteri complessi. [Altre informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Convertire l'input penna:** è possibile creare disegni e note a mano libera e convertirli in testo leggibile e forme nitide per creare una presentazione professionale. [Altre informazioni](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Indicare le diapositive con una penna:** utilizzare la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Altre informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)

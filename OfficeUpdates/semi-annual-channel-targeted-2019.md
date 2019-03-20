@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 4c8b3cfc3c02a83b9c20e3fe5ec7c2db27d6ef0e
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: b8d90867b24a7765cf4e92c45d7592c9ee32b8b7
+ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568099"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30691305"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -41,7 +41,6 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 
 - **Collaborare con i commenti:** è possibile mantenere la conversazione nel proprio foglio di calcolo con la casella di risposta integrata. [Altre informazioni](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **Ottenere l'attenzione tramite \@menzioni:** usare le \@menzioni nei commenti per informare i collaboratori quando c'è bisogno del loro input. Altre informazioni Collaborare con i commenti: mantenere la conversazione nel proprio foglio di calcolo con la casella di risposta integrata. [Altre informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in un foglio di lavoro, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto! [Altre informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
