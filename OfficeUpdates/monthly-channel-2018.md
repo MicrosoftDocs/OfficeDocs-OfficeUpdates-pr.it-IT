@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: db7e95f6140b84b4f41c7172868ca124dbb9de3b
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
+ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568379"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30697624"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -58,7 +58,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 
 - **Scegliere e applicare lo zoom:** Invece di modificare lo zoom ogni volta che si legge un messaggio, scegliere un'impostazione predefinita da utilizzare per tutti i messaggi. [Altre informazioni](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
-- **Spostamento asincrono dei messaggi in Outlook:** esecuzione dello spostamento asincrono dei messaggi per aumentare la produttività per gli utenti di Outlook.
+- **Continuare a lavorare durante lo spostamento di messaggi:** ora Outlook sposta i messaggi in background, di conseguenza è possibile continuare a lavorare durante lo spostamento di grandi quantità di messaggi tra le cartelle.
 - **Visualizzare i dettagli degli utenti di LinkedIn in Outlook:** adesso, quando si apre una scheda profilo di un contatto, è possibile ottenere maggiori informazioni visualizzando il suo profilo LinkedIn.
 - **Perfezionate le esperienze di Posta in arrivo evidenziata attivata e disattivata:** per i clienti che non usano Posta in arrivo evidenziata, abbiamo ripristinato la scheda Non letti nell’elenco dei messaggi in tutte le cartelle. Abbiamo aggiunto anche la possibilità di ordinare in base allo stato del contrassegno per individuare più facilmente gli elementi contrassegnati. Infine, la Posta in arrivo evidenziata ha un migliore modello interazione con la ricerca: la Posta in arrivo evidenziata rimane finché non viene avviata una ricerca e viene visualizzato il testo “Risultati” dopo il completamento di una ricerca.
 - **Bloccare il download di contenuti esterni per impostazione predefinita nei messaggi di posta elettronica con firma e crittografia SMIME:** a causa di una vulnerabilità nel protocollo SMIME, Outlook bloccherà il download dei contenuti esterni sui messaggi che sono stati firmati o crittografati tramite SMIME. Per evitare la vulnerabilità di protezione, gli utenti non potranno scaricare con un singolo clic i contenuti esterni tramite l'interfaccia utente di Outlook. È presente una nuova opzione nella finestra di dialogo Opzioni che consente agli utenti di ripristinare il comportamento precedente. 

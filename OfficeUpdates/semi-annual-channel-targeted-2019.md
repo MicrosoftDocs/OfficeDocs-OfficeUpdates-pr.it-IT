@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: b8d90867b24a7765cf4e92c45d7592c9ee32b8b7
-ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
+ms.openlocfilehash: c01b296758bed8c5bbcd908a9ad178d69a6d4645
+ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/20/2019
-ms.locfileid: "30691305"
+ms.locfileid: "30697614"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -104,7 +104,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
 
 - **Possibilità di inserire il supporto per SVG tramite le applicazioni di terze parti per Office con l'API Office.js:** le applicazioni di terze parti, note anche come componenti aggiuntivi in Office, ora possono inserire SVG. Gli utenti possono connettere la propria raccolta personale di SVG a Office, mentre gli sviluppatori possono usare l'API Office.js per implementare questa funzionalità.
-- **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle nuove installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/DeployOffice/teams-install)
+- **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle NUOVE installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/DeployOffice/teams-install)
 
 
 ## <a name="version-1808-february-12"></a>Versione 1808: 12 febbraio
