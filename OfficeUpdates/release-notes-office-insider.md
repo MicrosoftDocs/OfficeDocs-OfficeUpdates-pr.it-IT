@@ -1,5 +1,5 @@
 ---
-title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/15/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente delle nuove caratteristiche chiave, correzioni o problemi noti
+title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/22/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente delle nuove caratteristiche chiave, correzioni o problemi noti
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli addetti ai lavori di Office
@@ -10,7 +10,36 @@ In questo articolo sono contenute le note sulla versione per le build inSider di
 > - Le note sulla versione sono registrate settimanalmente e possono essere una compilazione di più Build
 > - La data di pubblicazione delle note di rilascio potrebbe non corrispondere alla data di rilascio effettiva della build
 
-## <a name="march-15-2019"></a>15 marzo 2019 
+## <a name="march-22-2019"></a>22 marzo 2019
+Versione 1904 (Build 11514,20004)
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="word"></a>Word 
+- È stato risolto un problema a causa del quale l'interfaccia utente avrebbe visualizzato continuamente "verifica delle modifiche"
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema in cui l'applicazione potrebbe bloccarsi dopo lo spostamento di un foglio di lavoro
+- È stato risolto un problema a causa del quale l'applicazione potrebbe bloccarsi dopo il salvataggio in formato PDF
+- È stato risolto un problema a causa del quale la finestra di dialogo di salvataggio non accetta alcuni caratteri coreani
+
+### <a name="powerpoint"></a>PowerPoint
+- Varie correzioni per la stabilità e le prestazioni
+
+### <a name="outlook"></a>Outlook
+- Varie correzioni per la stabilità e le prestazioni
+
+### <a name="access"></a>Access
+- È stato risolto il messaggio di errore in Access in cui è stato creato un collegamento supplementare all'accesso
+- È stato risolto un problema a causa del quale i dati provenienti da un SharePoint collegato sarebbero stati visualizzati in modo errato
+
+### <a name="project"></a>Project
+- È stato risolto un problema a causa del quale le impostazioni della lingua sarebbero passate dal cinese all'inglese
+- È stato risolto un problema a causa del quale l'applicazione potrebbe bloccarsi durante la sincronizzazione con SharePoint
+
+</BR></BR>
+
+## <a name="march-15-2019"></a>15 marzo 2019
 Versione 1904 (Build 11504,20000)
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
