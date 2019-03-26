@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/19/2019
+ms.date: 3/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: c01b296758bed8c5bbcd908a9ad178d69a6d4645
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: 54e892e82d0c758c1271c2431d94079ab1414dac
+ms.sourcegitcommit: 7e32729e84e323c338e7086e47fc6c50e0802b5f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697614"
+ms.lasthandoff: 03/23/2019
+ms.locfileid: "30789289"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -44,7 +44,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in un foglio di lavoro, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto! [Altre informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Sostenitori delle funzionalità per chiamare tutti e di visualizzazione e trasformazione:** chi usa spesso la funzionalità di visualizzazione e trasformazione, sarà lieto di apprendere che Colonna da esempi è stata migliorata. Inoltre, sono stati migliorati anche molti connettori. [Ulteriori informazioni](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Sostenitori delle funzionalità per chiamare tutti e di visualizzazione e trasformazione:** chi usa spesso la funzionalità di visualizzazione e trasformazione, sarà lieto di apprendere che Colonna da esempi è stata migliorata. Inoltre, sono stati migliorati anche molti connettori. [Altre informazioni](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Supporto migliorato per schermi ad alta definizione:** se si usano più monitor o un portatile, ora le app di Office appaiono nitide su ogni schermo, anche se gli schermi hanno impostazioni di ridimensionamento diverse. [Altre informazioni](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 
@@ -57,15 +58,16 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Maggiore facilità nella prenotazione delle sale:** cercare una sala riunioni utilizzando più di un elenco di sale e passare da un elenco all'altro senza perdere le sale selezionate.
 - **Nuovo valore predefinito per l'intervallo di ricorrenza:** per la finestra di dialogo Ricorrenza, l'intervallo di ricorrenza predefinito era "Nessuna data di fine". Questo consentiva di creare una serie ricorrente di lunga durata, che nel tempo potrebbe danneggiarsi. Il valore predefinito per la finestra di dialogo è stato modificato in "Fine entro", in modo da allineare il valore predefinito alle procedure consigliate per la gestione dei calendari.
 - **Partecipare alle riunioni di Teams dalla finestra di dialogo Promemoria di Outlook:** quando Outlook ricorda agli utenti una riunione imminente, mostra il pulsante Partecipa a riunione online se la riunione imminente è una riunione online di Teams. L'esperienza è analoga alla partecipazione a una riunione di Skype for Business dalla finestra di dialogo Promemoria di Outlook.
-- **Nascondere i promemoria per gli eventi passati:** è possibile impostare il calendario per eliminare automaticamente i promemoria relativi ad eventi passati. [Altre informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **Visualizzare l'URL dei collegamenti sicuri:** i collegamenti sicuri proteggono l'utente dagli URL dannosi ricevuti tramite posta elettronica, ma nascondono l'URL originale. Ora basta passare il puntatore del mouse su un URL per visualizzare l'originale, anche in collegamenti protetti da collegamenti sicuri.
+- **Nascondere i promemoria per gli eventi passati:** è possibile impostare il calendario per eliminare automaticamente i promemoria relativi ad eventi passati. [Ulteriori informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **Visualizzare l'URL dei collegamenti sicuri:** i collegamenti sicuri proteggono l'utente dagli URL dannosi ricevuti tramite posta elettronica, ma nascondono l'URL originale. Per vedere l'originale, passare il puntatore del mouse sull'URL. Richiede una licenza Advanced Threat Protection. [Altre informazioni](https://products.office.com/it-IT/exchange/advance-threat-protection)
 - **Scegliere e applicare lo zoom:** invece di modificare lo zoom ogni volta che si legge un messaggio, scegliere un'impostazione predefinita da usare per tutti i messaggi. [Altre informazioni](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Crittografia dei messaggi: criteri IRM per la sola crittografia:** la nuova opzione Solo crittografia è disponibile nel menu Opzioni > Autorizzazioni per gli utenti di Office 365 Message Encryption. Questa opzione consente di crittografare un messaggio e inviarlo a chiunque, all'interno o all'esterno dell'organizzazione.
 - **Messaggio di avviso per i contatti in copia nascosta:** la finestra popup per la copia nascosta avvertirà prima che si risponda inavvertitamente a un messaggio di posta elettronica in cui si è in copia nascosta.
 - **Riga A: più intelligente:** quando si fa clic sulla riga A: per indicare il destinatario di un messaggio, vengono suggeriti alcuni nomi tra cui scegliere. Inoltre, è possibile visualizzare la loro foto come ulteriore conferma di aver selezionato la persona giusta. [Altre informazioni](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
 - **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Supporto migliorato per schermi ad alta definizione:** se si usano più monitor o un portatile, ora le app di Office appaiono nitide su ogni schermo, anche se gli schermi hanno impostazioni di ridimensionamento diverse. [Altre informazioni](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
 
 - **Digita in vivavoce:** se si ha un microfono, Fare clic su Dettatura e osservare PowerPoint digitare mentre si parla. [Altre informazioni](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
 - **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
@@ -86,8 +88,10 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c'è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Ulteriori informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in un foglio di lavoro, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto! [Altre informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Supporto migliorato per schermi ad alta definizione:** se si usano più monitor o un portatile, ora le app di Office appaiono nitide su ogni schermo, anche se gli schermi hanno impostazioni di ridimensionamento diverse. [Altre informazioni](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+- **Scrivere il miglio CV con l'aiuto di LinkedIn:** Con Assistente curriculum, è possibile visualizzare le esperienze di lavoro, le competenze suggerite e altro per una data posizione. [Altre informazioni](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a)
 
-### <a name="project-feature-updates"></a>Project: aggiornamenti delle funzionalità
+### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
 
 - **Visualizzare ulteriori informazioni sulle schede della lavagna delle attività:** quando il titolo da solo non è esplicativo, è possibile personalizzare le schede della lavagna delle attività per mostrare tutti i dettagli più importanti. [Altre informazioni](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 - **Nuovo look di Office:** le app di Office ora sono caratterizzate da icone moderne più semplici e accessibili, mentre nella barra multifunzione sono presenti oggetti visivi aggiornati che evidenziano le potenti funzionalità di collaborazione disponibili nelle app di Office.
@@ -106,6 +110,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Possibilità di inserire il supporto per SVG tramite le applicazioni di terze parti per Office con l'API Office.js:** le applicazioni di terze parti, note anche come componenti aggiuntivi in Office, ora possono inserire SVG. Gli utenti possono connettere la propria raccolta personale di SVG a Office, mentre gli sviluppatori possono usare l'API Office.js per implementare questa funzionalità.
 - **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle NUOVE installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/DeployOffice/teams-install)
 
+### <a name="skype-for-business-feature-updates"></a>Skype for Business: aggiornamenti delle funzionalità
+
+- **Supporto migliorato per schermi ad alta definizione:** se si usano più monitor o un portatile, ora le app di Office appaiono nitide su ogni schermo, anche se gli schermi hanno impostazioni di ridimensionamento diverse. [Altre informazioni](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+
+### <a name="teams-feature-updates"></a>Teams: aggiornamenti delle funzionalità
+
+- **Supporto migliorato per schermi ad alta definizione:** se si usano più monitor o un portatile, ora le app di Office appaiono nitide su ogni schermo, anche se gli schermi hanno impostazioni di ridimensionamento diverse. [Altre informazioni](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ## <a name="version-1808-february-12"></a>Versione 1808: 12 febbraio
 *Versione 1808 (Build 10730.20280)* 
