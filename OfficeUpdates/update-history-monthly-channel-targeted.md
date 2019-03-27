@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Canale mensile (mirato) di Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/18/2019
+ms.date: 03/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 8d0dc92dffc1e7ef6b8b490243b41bd0aeec4ef7
-ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
+ms.openlocfilehash: 85e8f4d9d367ea9b4d308da792a3f0e21dafa1a1
+ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30568399"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30800536"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -28,6 +28,8 @@ Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come In
 > [!NOTE]
 > - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
 > - Le note sulla versione vengono aggiornate con minore frequenza e gli aggiornamenti per più build possono essere combinati fino al numero di build per cui vengono pubblicate le note sulla versione
+
+**25 marzo 2019**<br/> Versione 1903 (Build 11425.20184)<br/>
 
 **18 marzo 2019**<br/> Versione 1903 (Build 11425.20140)<br/>
 
