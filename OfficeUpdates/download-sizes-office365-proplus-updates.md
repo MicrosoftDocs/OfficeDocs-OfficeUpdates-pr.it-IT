@@ -3,19 +3,19 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/27/2019
+ms.date: 4/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 604b71c37813e37bde2d4e299f78508627a6121b
-ms.sourcegitcommit: 1f7171f728ce96b307858207cd04c59ae830291c
+ms.openlocfilehash: b62212216545a690172901bef75543778b6dad64
+ms.sourcegitcommit: 7380adc27555df032fbc89fb3b68bafa82e0fad4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "30936846"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31043432"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -36,13 +36,43 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tenere presente che la dimensione del file di download sarà superiore.
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB.
 
+
+### <a name="semi-annual-channel"></a>Canale semestrale
+
+La versione prevista è la numero 1808 (Build 10730.20334)
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1808 (Build 10730.20304)  <br/> |12 marzo 2019  <br/> |81<br/> |
+|Versione 1808 (Build 10730.20280) <br/> |12 febbraio 2019  <br/> |81<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
+
+La versione prevista è la numero 1902 (Build 11328.20230).
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1902 (Build 11328.20158)  <br/> |12 marzo 2019  <br/> |68 <br/> |
+|Versione 1808 (Build 10730.20280)  <br/> |12 febbraio 2019  <br/> |307 <br/> |
+
+## <a name="april-1-2019"></a>1 aprile 2019
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione prevista è la numero 1903 (Build 11425.20202). 
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1902 (Build 11328.20158)  <br/> |12 marzo 2019  <br/> |204<br/> |
+|Versione 1902 (Build 11328.20222)  <br/> |25 marzo 2019  <br/> |205<br/> |
+
 ## <a name="march-25-2019"></a>25 marzo 2019
 
 ### <a name="monthly-channel"></a>Canale mensile
 
 La versione più recente è la numero 1902 (Build 11328.20222). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1902 (Build 11328.20158)  <br/> |12 marzo 2019  <br/> |67<br/> |
 |Versione 1901 (Build 11328.201460)  <br/> |4 marzo 2019  <br/> |67<br/> |
@@ -54,7 +84,7 @@ La versione più recente è la numero 1902 (Build 11328.20222).
 
 La versione più recente è la numero 1902 (Build 11328.20158). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1901 (Build 11231.20130)  <br/> |31 gennaio 2019  <br/> |179<br/> |
 |Versione 1901 (Build 11231.20174)  <br/> |12 febbraio 2019  <br/> |177<br/> |
@@ -64,7 +94,7 @@ La versione più recente è la numero 1902 (Build 11328.20158).
 
 La versione più recente è la numero 1808 (Build 10730.20304).
 
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1808 (Build 10730.20264)  <br/> |8 gennaio 2019  <br/> |84<br/> |
 |Versione 1808 (Build 10730.20280) <br/> |12 febbraio 2019  <br/> |74<br/> |
@@ -73,7 +103,7 @@ La versione più recente è la numero 1808 (Build 10730.20304).
 
 La versione più recente è la numero 1902 (Build 11328.20158).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1808 (Build 10730.20264)  <br/> |8 gennaio 2019  <br/> |257 <br/> |
 |Versione 1808 (Build 10730.20280)  <br/> |12 febbraio 2019  <br/> |256 <br/> |
@@ -84,7 +114,7 @@ La versione più recente è la numero 1902 (Build 11328.20158).
 
 La versione più recente è la numero 1902 (Build 11328.20146). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1901 (Build 11231.20130)  <br/> |31 gennaio 2019  <br/> |180<br/> |
 |Versione 1901 (Build 11231.20174)  <br/> |12 febbraio 2019  <br/> |178<br/> |
@@ -95,7 +125,7 @@ La versione più recente è la numero 1902 (Build 11328.20146).
 
 La versione più recente è la numero 1901 (Build 11231.20174). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1901 (Build 11231.20130)  <br/> |31 gennaio 2019  <br/> |66<br/> |
 |Versione 1812 (Build 11126.20266)  <br/> |14 gennaio 2019  <br/> |158<br/> |
@@ -105,7 +135,7 @@ La versione più recente è la numero 1901 (Build 11231.20174).
 
 La versione più recente è la numero 1808 (Build 10730.20280)
 
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1808 (Build 10730.20264)  <br/> |8 gennaio 2019  <br/> |79<br/> |
 |Versione 1803 (Build 9126.2336) <br/> |11 dicembre 2018  <br/> |280<br/> |
@@ -115,7 +145,7 @@ La versione più recente è la numero 1808 (Build 10730.20280)
 
 La versione più recente è la numero 1808 (Build 10730.20280).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1808 (Build 10730.20264)  <br/> |8 gennaio 2019  <br/> |79 <br/> |
 |Versione 1808 (Build 10730.20262)  <br/> |11 dicembre 2018  <br/> |280 <br/> |
@@ -127,7 +157,7 @@ La versione più recente è la numero 1808 (Build 10730.20280).
 
 La versione più recente è la numero 1901 (Build 11231.20130). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1812 (Build 11126.20266)  <br/> |14 gennaio 2019 <br/> |159<br/> |
 |Versione 1812 (Build 11126.20196)  <br/> |8 gennaio 2019 <br/> |159<br/> |
@@ -138,7 +168,7 @@ La versione più recente è la numero 1901 (Build 11231.20130).
 
 La versione più recente è la numero 1812 (Build 11126.20266). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1812 (Build 11126.20196)  <br/> |8 gennaio 2019 <br/> |81<br/> |
 |Versione 1812 (Build 11126.20188)  <br/> |11 dicembre 2018 <br/> |162<br/> |
@@ -149,7 +179,7 @@ La versione più recente è la numero 1812 (Build 11126.20266).
 
 La versione più recente è la numero 1812 (Build 11126.20196). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1812 (Build 11126.20188)  <br/> |3 gennaio 2019  <br/> |75<br/> |
 |Versione 1811 (Build 11029.20108)  <br/> |11 dicembre 2018  <br/> |177<br/> |
@@ -158,7 +188,7 @@ La versione più recente è la numero 1812 (Build 11126.20196).
 
 La versione più recente è la numero 1808 (Build 10730.20264).
 
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 9126.2336) <br/> |11 dicembre 2018  <br/> | 281<br/> |
 |Versione 1803 (Build 9126.2315)  <br/> |13 novembre 2018  <br/> |281 <br/> |
@@ -167,7 +197,7 @@ La versione più recente è la numero 1808 (Build 10730.20264).
 
 La versione più recente è la numero 1808 (Build 10730.20264).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1808 (Build 10730.20262)  <br/> |11 dicembre 2018  <br/> |83 <br/> |
 |Versione 1808 (Build 10730.20205)  <br/> |13 novembre 2018  <br/>   |96  <br/>|
@@ -179,7 +209,7 @@ La versione più recente è la numero 1808 (Build 10730.20264).
 
 La versione più recente è la numero 1812 (Build 11126.20188). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1810 (Build 11029.20079)  <br/> |27 novembre 2018  <br/> |179<br/> |
 |Versione 1811 (Build 11029.20108)  <br/> |11 dicembre 2018  <br/> |176<br/> |
@@ -190,7 +220,7 @@ La versione più recente è la numero 1812 (Build 11126.20188).
 
 La versione più recente è la numero 1811 (Build 11029.20108). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1810 (Build 11001.20108)  <br/> |13 novembre 2018  <br/> |168<br/> |
 |Versione 1810 (Build 11029.20079)  <br/> |27 novembre 2018  <br/> |82<br/> |
@@ -199,7 +229,7 @@ La versione più recente è la numero 1811 (Build 11029.20108).
 
 La versione più recente è la numero 1803 (Build 9126.2336).
 
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 9126.2295) <br/> |9 ottobre 2018  <br/> | 61<br/> |
 |Versione 1803 (Build 9126.2282)  <br/> |11 settembre 2018  <br/> |60 <br/> |
@@ -208,7 +238,7 @@ La versione più recente è la numero 1803 (Build 9126.2336).
 
 La versione più recente è la numero 1808 (Build 10730.20262).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 10730.20155)  <br/> |9 ottobre 2018  <br/> |90 <br/> |
 |Versione 1803 (Build 10730.20205)  <br/> |13 novembre 2018  <br/>   |77  <br/>|
@@ -219,7 +249,7 @@ La versione più recente è la numero 1808 (Build 10730.20262).
 
 La versione più recente è la numero 1811 (Build 11029.20079). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1811 (Build 11001.20108)  <br/> |13 novembre 2018  <br/> |167<br/> |
 |Versione 1810 (Build 11001.20074)  <br/> |29 ottobre 2018  <br/> |166<br/> |
@@ -231,7 +261,7 @@ La versione più recente è la numero 1811 (Build 11029.20079).
 
 La versione più recente è la 1810 (Build 11001.20108). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1809 (Build 10827.20181)  <br/> |16 ottobre 2018  <br/> |188<br/> |
 |Versione 1809 (Build 11001.20074)  <br/> |29 ottobre 2018  <br/> |64<br/> |
@@ -240,7 +270,7 @@ La versione più recente è la 1810 (Build 11001.20108).
 
 La versione più recente è la 1803 (Build 9126.2315).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 9126.2295) <br/> |9 ottobre 2018  <br/> |61 <br/> |
 |Versione 1803 (Build 9126.2282)  <br/> |11 settembre 2018  <br/> |58<br/> |
@@ -249,7 +279,7 @@ La versione più recente è la 1803 (Build 9126.2315).
 
 La versione più recente è la 1808 (Build 10730.20205).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 10730.20102)  <br/> |9 ottobre 2018  <br/> |92 <br/> |
 |Versione 1808 (Build 10730.20102)  <br/> |11 settembre 2018  <br/>   |84  <br/>|
@@ -260,7 +290,7 @@ La versione più recente è la 1808 (Build 10730.20205).
 
 La versione più recente è la numero 1810 (Build 11001.20074). 
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1809 (Build 10827.20181)  <br/> |16 ottobre 2018  <br/> |188<br/> |
 |Versione 1809 (Build 10827.20150)  <br/> |9 ottobre 2018  <br/> |188<br/> |
@@ -272,7 +302,7 @@ La versione più recente è la numero 1810 (Build 11001.20074).
 
 La versione più recente è la numero 1809 (Build 10827.20181).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1808 (Build 10730.20088)  <br/> |5 settembre 2018  <br/> |170  <br/> |
 |Versione 1808 (Build 10730.20102)  <br/> |12 settembre 2018  <br/> |176 <br/> |
@@ -286,7 +316,7 @@ La versione più recente è la numero 1809 (Build 10827.20181).
 
 La versione più recente è la numero 1809 (Build 10827.20150).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1808 (Build 10730.20088)  <br/> |5 settembre 2018  <br/> |170  <br/> |
 |Versione 1808 (Build 10730.20102)  <br/> |12 settembre 2018  <br/> |176 <br/> |
@@ -297,7 +327,7 @@ La versione più recente è la numero 1809 (Build 10827.20150).
 
 La versione più recente è la numero 1803 (Build 9126.2295).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 9126.2275)  <br/> |14 agosto 2018  <br/> |104 <br/> |
 |Versione 1803 (Build 9126.2282)  <br/> |11 settembre 2018  <br/> |100<br/> |
@@ -307,7 +337,7 @@ La versione più recente è la numero 1803 (Build 9126.2295).
 
 La versione più recente è la numero 1808 (Build 10730.20155).
   
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1803 (Build 9126.2275)  <br/> |14 agosto 2018  <br/> |292 <br/> |
 |Versione 1808 (Build 10730.20102)  <br/> |11 settembre 2018  <br/>   |87  <br/>|
