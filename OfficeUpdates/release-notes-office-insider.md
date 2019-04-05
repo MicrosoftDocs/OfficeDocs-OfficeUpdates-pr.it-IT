@@ -1,7 +1,22 @@
 ---
-title: "note sulla versione per Office insiders" ms. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/22/2019 ms. audience: Win32 Fast ms. Topic: Reference ms. Service: O365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ ProPlus Description: "fornisce agli addetti ai lavori un pubblico veloce con l'elenco più recente delle nuove caratteristiche chiave, correzioni o problemi noti
+title: Note sulla versione per gli addetti ai lavori di Office
+ms.author: andrewmo
+author: v-almuzz
+manager: andrewmo
+ms.date: 3/22/2019
+ms.audience: Win32 Fast
+ms.topic: reference
+ms.service: o365-proplus-
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Fornisce agli utenti un gruppo di destinatari veloce con l'elenco più recente delle nuove caratteristiche chiave, correzioni o problemi noti
+ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478543"
 ---
-
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli addetti ai lavori di Office
 
 In questo articolo sono contenute le note sulla versione per le build inSider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana, verranno evidenziate le nuove funzionalità, le correzioni importanti e gli eventuali problemi significativi che è necessario conoscere. Si noti che spesso si tirano fuori le caratteristiche (e talvolta anche le correzioni) agli addetti ai lavori in un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzione ad un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
@@ -127,7 +142,7 @@ Versione 1903 (Build 11414,20014)
 - È stato risolto un problema a causa del quale la copia di una cella in Excel ha causato un utilizzo elevato della CPU quando è stato aperto un documento protetto
 
 ### <a name="powerpoint"></a>PowerPoint
-- È stato risolto un problema con le dimensioni dell'immagine della diapositiva quando si utilizza @Mentions in PowerPoint
+- È stato risolto un problema con le dimensioni dell'immagine @Mentions diapositiva quando si utilizza in PowerPoint
 
 ### <a name="outlook"></a>Outlook
 - È stato risolto un problema a causa del quale la ricerca di Outlook non ha rispettato l'ordinamento cronologico selezionato
