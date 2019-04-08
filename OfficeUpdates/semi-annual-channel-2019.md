@@ -3,28 +3,26 @@ title: Note sulle versioni per i rilasci del Canale semestrale nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/6/2019
+ms.date: 4/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568359"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478573"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
-Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza inclusi negli aggiornamenti del Canale semestrale per Office 365 ProPlus nel 2019. 
+Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non della sicurezza inclusi negli aggiornamenti del Canale semestrale per Office 365 ProPlus nel 2019, tra cui Visio Pro per Office 365 e Project Online Desktop Client.
 
 > [!NOTE]
-> - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
-> - Prima di gennaio 2019, il Canale semestrale era denominato Deferred Channel.
 
 > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
@@ -71,7 +69,7 @@ Questo mese non sono disponibili aggiornamenti.
 ## <a name="version-1803-february-12"></a>Versione 1803: 12 febbraio
 *Versione 1803 (Build 9126.2356)*
 
-*Si tratta della versione del Canale semestrale, disponibile da luglio 2018. Continuerà a essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1808 (Build 10730.20280), contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza.*
+*Si tratta della versione del Canale semestrale che è disponibile da luglio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2019. Tuttavia, ora è disponibile una nuova versione di Canale semestrale, Versione 1808 (Build 10730.20280), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="access-non-security-updates"></a>Access: aggiornamenti non relativi alla sicurezza 
 
@@ -103,7 +101,7 @@ Questo mese non sono disponibili aggiornamenti.
 ## <a name="version-1708-february-12"></a>Versione 1708: 12 febbraio
 *Versione 1708 (Build 8431.2372)*
 
-*Si tratta della versione del Canale semestrale, disponibile da gennaio 2018. Continuerà a essere supportata e a ricevere aggiornamenti della sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1808 (Build 10730.20280), contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza.*
+*Si tratta della versione del Canale semestrale che è disponibile da gennaio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione di Canale semestrale, Versione 1808 (Build 10730.20280), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
 
@@ -262,7 +260,7 @@ Questo mese non sono disponibili aggiornamenti.
 ## <a name="version-1803-january-8"></a>Versione 1803: 8 gennaio
 *Versione 1803 (Build 9126.2351)*
 
-*Si tratta della versione del Canale semestrale, disponibile da luglio 2018. Continuerà a essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1808, contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza.*
+*Si tratta della versione del Canale semestrale che è disponibile da luglio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, Versione 1808, che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
 - Risolto un problema per garantire la parità delle funzionalità dell'opzione di LinkedIn tra le applicazioni di Office.
