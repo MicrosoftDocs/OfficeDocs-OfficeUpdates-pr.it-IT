@@ -1,320 +1,360 @@
 ---
-title: Note sulla versione per gli addetti ai lavori di Office
+title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 3/22/2019
+ms.date: 4/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fornisce agli utenti un gruppo di destinatari veloce con l'elenco più recente delle nuove caratteristiche chiave, correzioni o problemi noti
-ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
-ms.translationtype: MT
+description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
+ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478543"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516071"
 ---
-# <a name="release-notes-for-office-insiders"></a>Note sulla versione per gli addetti ai lavori di Office
+# <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
-In questo articolo sono contenute le note sulla versione per le build inSider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana, verranno evidenziate le nuove funzionalità, le correzioni importanti e gli eventuali problemi significativi che è necessario conoscere. Si noti che spesso si tirano fuori le caratteristiche (e talvolta anche le correzioni) agli addetti ai lavori in un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzione ad un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
+Questo articolo contiene le note sulla versione per le build Insider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana vengono evidenziate nuove funzionalità interessanti, correzioni critiche e problemi significativi di cui è importante essere a conoscenza. Spesso in un determinato periodo di tempo vengono distribuite funzionalità, e a volte anche correzioni, ai partecipanti al programma Insider. Ciò consente di verificare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
 
 > [!NOTE]
-> - Le note sulla versione sono registrate settimanalmente e possono essere una compilazione di più Build
-> - La data di pubblicazione delle note di rilascio potrebbe non corrispondere alla data di rilascio effettiva della build
+> - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
+> - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
+
+## <a name="april-5th-2019"></a>5 aprile 2019
+Versione 1904 (build 11527.20014)
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all-applications"></a>Tutte le applicazioni
+ - È stato risolto un problema per cui nei menu di scelta rapida poteva comparire l'icona dell'app errata per Excel
+- È stato risolto un problema per cui il pulsante del menu File spariva dopo l'installazione di un aggiornamento
+- È stato risolto un problema per cui la licenza dell'utente veniva modificata
+
+### <a name="word"></a>Word 
+- È stato risolto un problema per cui il rendering del testo non veniva eseguito correttamente a determinati livelli di zoom
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema per cui agli utenti da non veniva chiesto di salvare una cartella di lavoro dopo aver apportato modifiche
+- È stato risolto un problema per cui non veniva attivato un evento BeforeSave se l'utente aveva condiviso la cartella di lavoro.
+- È stato risolto un problema per cui il ridimensionamento di una colonna a meno di 6 pixel generava un messaggio di errore non corretto.
+- È stato risolto un problema per cui Excel ignorava il flag Application.Visible
+- È stato risolto un problema per cui le frecce di relazione restavano attive in riquadri bloccati non attivi
+- È stato risolto un problema per cui la formattazione delle celle di data e valuta poteva cambiare all'apertura di una cartella di lavoro
+- È stato risolto un problema per cui le descrizioni comandi si spostavano in modo imprevisto
+- Sono stati risolti i problemi di localizzazione dell'editor di Power Query
+- È stato risolto un problema per una cartella di lavoro inviata come allegato di posta elettronica veniva rimossa
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema per cui la copia di forme richiedeva più tempo del previsto
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema per cui Outlook poteva arrestarsi in modo anomalo usando lo strumento di disegno
+- È stato risolto un problema di localizzazione durante la composizione di messaggi di posta elettronica in formato HTML
+- È stato risolto un problema per cui l'utente aveva difficoltà a selezionare il riquadro inferiore
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- Diverse correzioni a prestazioni e stabilità
+
+</BR></BR>
 
 ## <a name="march-22-2019"></a>22 marzo 2019
-Versione 1904 (Build 11514,20004)
+Versione 1904 (build 11514.20004)
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema a causa del quale l'interfaccia utente avrebbe visualizzato continuamente "verifica delle modifiche"
+- È stato risolto un problema per cui l'interfaccia utente mostrava costantemente "Ricerca modifiche in corso"
 
 ### <a name="excel"></a>Excel
-- È stato risolto un problema in cui l'applicazione potrebbe bloccarsi dopo lo spostamento di un foglio di lavoro
-- È stato risolto un problema a causa del quale l'applicazione potrebbe bloccarsi dopo il salvataggio in formato PDF
-- È stato risolto un problema a causa del quale la finestra di dialogo di salvataggio non accetta alcuni caratteri coreani
+- È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo dopo lo spostamento di un foglio di lavoro
+- È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo dopo il salvataggio come PDF
+- È stato risolto un problema per cui la finestra di dialogo per il salvataggio non accettava alcuni caratteri coreani
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 ### <a name="outlook"></a>Outlook
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 ### <a name="access"></a>Access
-- È stato risolto il messaggio di errore in Access in cui è stato creato un collegamento supplementare all'accesso
-- È stato risolto un problema a causa del quale i dati provenienti da un SharePoint collegato sarebbero stati visualizzati in modo errato
+- È stato risolto un messaggio di errore di Access per cui veniva creato un collegamento aggiuntivo ad Access
+- È stato risolto un problema per cui i dati di un elemento di SharePoint collegato non venivano visualizzati correttamente.
 
 ### <a name="project"></a>Project
-- È stato risolto un problema a causa del quale le impostazioni della lingua sarebbero passate dal cinese all'inglese
-- È stato risolto un problema a causa del quale l'applicazione potrebbe bloccarsi durante la sincronizzazione con SharePoint
+- È stato risolto un problema per cui le impostazioni della lingua passavano dal cinese all'inglese
+- È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo durante la sincronizzazione con SharePoint
 
 </BR></BR>
 
 ## <a name="march-15-2019"></a>15 marzo 2019
-Versione 1904 (Build 11504,20000)
+Versione 1904 (build 11504.20000)
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema a causa del quale le immagini di un documento salvate in formato PDF avrebbero i DPI non corretti
+- È stato risolto un problema in Word per cui le immagini di un documento salvato in formato PDF avevano valori DPI non corretti
 
 ### <a name="excel"></a>Excel
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 ### <a name="powerpoint"></a>PowerPoint
-- È stato risolto un problema a causa del quale il riquadro dei commenti non sarebbe stato aperto o chiuso correttamente
-- È stato risolto un problema a causa del quale l'applicazione potrebbe bloccarsi durante l'eliminazione di un video
-- È stato risolto un problema a causa del quale, in alcuni casi, l'applicazione non avrebbe avuto esito positivo
+- È stato risolto un problema in PowerPoint per cui il riquadro commenti non si apriva e chiudeva correttamente
+- È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo eliminando un video
+- È stato risolto un problema per cui in alcuni casi non si riusciva ad avviare l'applicazione
 
 ### <a name="outlook"></a>Outlook
-- È stato risolto un problema per il quale le ricevute di lettura erano errate quando vengono visualizzate in giapponese
+- È stato risolto un problema per cui le conferme di lettura in giapponese non risultavano corrette
 
 ### <a name="access"></a>Access
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 ### <a name="project"></a>Project
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 </BR></BR>
 
 ## <a name="march-8-2019"></a>8 marzo 2019 
-Versione 1903 (Build 11425,20036)
+Versione 1903 (build 11425.20036)
 
 ## <a name="whats-new"></a>Novità:
 
 ### <a name="word"></a>Word
 
-### <a name="find-what-youre-looking-for-with-microsoft-search"></a>Trovare quello che si sta cercando con Microsoft Search
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a>Trovare tutto ciò che serve con Microsoft Search
 
-Con Microsoft Search, è possibile trovare tutti i file, le azioni, le persone e gli aiuti necessari per ottenere il lavoro svolto.
+Con Microsoft Search è possibile trovare i file, le azioni, le persone e l'assistenza necessari per completare il lavoro.
 
 #### <a name="getting-started"></a>Guida introduttiva:
 
-- La caratteristica viene visualizzata in maniera prominente sulla parte superiore dell'interfaccia utente nell'intestazione.
+- La funzionalità viene visualizzata in posizione prominente sopra l'interfaccia utente nell'intestazione.
 
 #### <a name="scenarios-to-try"></a>Scenari da provare:
 
-- Ricerca di un collegio, di un documento recente o di una ricerca per i comandi della barra multifunzione utilizzati più spesso
-- Cercare un argomento o un soggetto per ottenere ulteriori informazioni su di esso
+- Cercare un'università, un documento recente o i comandi della barra multifunzione usati più di frequente
+- Cercare un argomento o un oggetto e ottenere altre informazioni sull'elemento cercato
 
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema di crash che si è verificato quando si preme ' ESC ' quando si è in opzioni
-- È stato risolto un problema di crash che si è verificato durante la risposta ai commenti
-- È stato risolto un problema con copia & incolla da Word a PowerPoint online
+- È stato risolto un problema di arresto anomalo che si verificava facendo clic su "ESC" in Opzioni
+- È stato risolto un problema di arresto anomalo quando si rispondeva ai commenti
+- È stato risolto un problema che si verificava effettuando copia e incolla da Word a PowerPoint Online
 
 ### <a name="excel"></a>Excel
-- È stato risolto un problema a causa del quale la copia di una cella in Excel ha causato un utilizzo elevato della CPU quando è stato aperto un documento protetto
+- È stato risolto un errore per cui copiare una cella in Excel causava un utilizzo elevato della CPU al momento dell'apertura di documenti protetti e modificabili
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 ### <a name="outlook"></a>Outlook
-- È stato risolto un problema a causa del quale la ricerca di Outlook non ha rispettato l'ordinamento cronologico selezionato
-- È stato risolto un problema a causa del quale il pulsante "Apri questa attività" della barra multifunzione del flusso di lavoro non rispondeva a determinate e-mail
-- È stato risolto un problema a causa del quale Outlook non è stato chiaro nelle sale locali dopo che gli utenti hanno selezionato una sala disponibile in room Finder
+- È stato risolto un problema per cui la funzione di ricerca di Outlook non rispettava l'ordinamento cronologico selezionato
+- È stato risolto un problema per cui il pulsante della barra multifunzione del flusso di lavoro "Apri attività" non funzionava per alcuni messaggi di posta elettronica.
+- È stato risolto un problema per cui Outlook non cancellava le sale in locale dopo che gli utenti selezionavano una sala disponibile in Ricerca sala
 
 ### <a name="access"></a>Access
-- È stata corretta la finestra di dialogo di importazione/esportazione salvata con testo bianco su sfondo bianco in tema scuro
-- È stato risolto un problema a causa del quale gli utenti non sono stati in grado di impostare la proprietà DisplayControl per un campo Sì/No su TextBox nella struttura della tabella
+- È stato risolto un problema per cui la finestra di dialogo Importazione/Esportazione salvata presentava del testo bianco su sfondo bianco nel tema scuro
+- È stato risolto un problema per cui gli utenti non potevano impostare la proprietà DisplayControl per un campo Sì/No in una casella di testo nella struttura della tabella.
 
 ### <a name="project"></a>Project
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 
 ## <a name="march-1-2019"></a>1 marzo 2019 
-Versione 1903 (Build 11414,20014)
+Versione 1903 (build 11414.20014)
 
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema di crash che si è verificato quando si preme ' ESC ' quando si è in opzioni
-- È stato risolto un problema con copia & incolla da Word a PowerPoint online
+- È stato risolto un problema di arresto anomalo che si verificava facendo clic su "ESC" in Opzioni
+- È stato risolto un problema che si verificava effettuando copia e incolla da Word a PowerPoint Online
 
 ### <a name="excel"></a>Excel
-- È stato risolto un problema a causa del quale la copia di una cella in Excel ha causato un utilizzo elevato della CPU quando è stato aperto un documento protetto
+- È stato risolto un errore per cui copiare una cella in Excel causava un utilizzo elevato della CPU al momento dell'apertura di documenti protetti e modificabili
 
 ### <a name="powerpoint"></a>PowerPoint
-- È stato risolto un problema con le dimensioni dell'immagine @Mentions diapositiva quando si utilizza in PowerPoint
+- È stato risolto un problema riguardante le dimensioni dell'immagine della diapositiva durante l'utilizzo delle @Mentions in PowerPoint
 
 ### <a name="outlook"></a>Outlook
-- È stato risolto un problema a causa del quale la ricerca di Outlook non ha rispettato l'ordinamento cronologico selezionato
-- È stato risolto un problema a causa del quale il pulsante "Apri questa attività" della barra multifunzione del flusso di lavoro non rispondeva a determinate e-mail
-- È stato risolto un problema a causa del quale Outlook non è stato chiaro nelle sale locali dopo che gli utenti hanno selezionato una sala disponibile in room Finder
+- È stato risolto un problema per cui la funzione di ricerca di Outlook non rispettava l'ordinamento cronologico selezionato
+- È stato risolto un problema per cui il pulsante della barra multifunzione del flusso di lavoro "Apri attività" non funzionava per alcuni messaggi di posta elettronica.
+- È stato risolto un problema per cui Outlook non cancellava le sale in locale dopo che gli utenti selezionavano una sala disponibile in Ricerca sala
 
 ### <a name="access"></a>Access
-- È stato aggiornato il testo del messaggio che ha mostrato quando si confermano le tabelle di ricollegamento con un'origine dati
-- È stata corretta la finestra di dialogo di importazione/esportazione salvata con testo bianco su sfondo bianco in tema scuro
-- È stato risolto un problema a causa del quale gli utenti non sono stati in grado di impostare la proprietà del controllo visualizzazione per un campo Sì/No su TextBox nella struttura della tabella
+- È stato aggiornato il testo di richiesta visualizzato durante la conferma del ricollegamento delle tabelle con un'origine dati
+- È stato risolto un problema per cui la finestra di dialogo Importazione/Esportazione salvata presentava del testo bianco su sfondo bianco nel tema scuro
+- È stato risolto un problema per cui gli utenti non potevano impostare la proprietà Controllo visualizzazione per un campo Sì/No in una casella di testo nella struttura della tabella.
 
 ### <a name="project"></a>Project
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 </BR></BR>
 
 
 
 ## <a name="february-15-2019"></a>15 febbraio 2019 
-Versione 1903 (Build 11310,20016)
+Versione 1903 (build 11310.20016)
 
 ## <a name="whats-new"></a>Novità:
 
 ### <a name="powerpoint"></a>PowerPoint
 
 
-### <a name="morph-transition-enhancements---morph-by-name"></a>Miglioramenti alla transizione del Morph-Morph per nome
+### <a name="morph-transition-enhancements---morph-by-name"></a>Miglioramenti apportati alla transizione morphing: morphing in base al nome
 
-Specificare le forme che si desidera morph
+Specificare le forme a cui applicare il morphing
 
 #### <a name="getting-started"></a>Guida introduttiva:
 
-- Per ottenere morph per il trattamento di due oggetti come lo stesso oggetto, l'utente può rinominare le forme utilizzando il riquadro di selezione.
-- Il nome deve essere precostituito da "!!" (due punti esclamativi) per Morph per utilizzarlo per ignorare il comportamento predefinito di corrispondenza, ad esempio "! Nome
-- Gli utenti possono continuare a rinominare forme con qualsiasi nome che non inizia con "!!" senza preoccuparsi che cambierà la modalità di funzionamento di morph
+- Per fare in modo che il morphing consideri due oggetti come lo stesso oggetto, l'utente può rinominare le forme usando il riquadro di selezione.
+- Il nome che il morphing deve usare per sostituire il comportamento predefinito di abbinamento deve essere preceduto da "!!" (due punti esclamativi), ad esempio "!!Nome".
+- Gli utenti possono continuare a rinominare le forme con nomi che non iniziano con "!!" senza preoccuparsi che questo incida sul modo in cui funziona il morphing
 
 #### <a name="scenarios-to-try"></a>Scenari da provare:
 
-- Inserire una forma in una diapositiva, diciamo rettangolo
+- Inserire una forma nella diapositiva, ad esempio un rettangolo
 - Creare una nuova diapositiva
-- Inserire una forma diversa nella seconda diapositiva, diciamo triangolo
-- Aprire SelectionPane, rinominare il rettangolo nella diapositiva 1 in "!! Shape "e Rinomina il triangolo nella diapositiva 2 in"! forma
-- Applicare morph sulla diapositiva 2nd
+- Inserire un'altra forma nella seconda diapositiva, ad esempio un triangolo
+- Aprire il riquadro di selezione, rinominare il rettangolo nella diapositiva 1 in "!!forma" e rinominare il triangolo nella diapositiva 2 in "!!forma"
+- Applicare il morphing nella seconda diapositiva
 
 </BR>
 
-### <a name="morph-transition-enhancements---smartart"></a>Miglioramenti alla transizione di morph-SmartArt
+### <a name="morph-transition-enhancements---smartart"></a>Miglioramenti apportati alla transizione morphing: grafica SmartArt
 
-Morph SmartArt con transizioni più fluide
+Morphing della grafica SmartArt con transizioni più agevoli
 
 #### <a name="getting-started"></a>Guida introduttiva:
 
-Utilizzare morph nello stesso modo in cui si farebbe con SmartArt
+Usare il morphing in modo analogo alla grafica SmartArt
 
 #### <a name="scenarios-to-try"></a>Scenari da provare:
 
-- Inserire un SmartArt in una diapositiva
-- Duplica la diapositiva
-- Ridimensiona/cambia/sposta l'SmartArt sulla diapositiva duplicata
-- Applicazione del morph sulla diapositiva duplicata
+- Inserire un elemento grafico SmartArt in una diapositiva
+- Duplicare la diapositiva
+- Ridimensionare/modificare/spostare l'elemento grafico SmartArt nella diapositiva duplicata
+- Applicare il morphing nella diapositiva duplicata
 
 </BR>
 
-### <a name="morph-transition-enhancements---tables"></a>Miglioramenti alla transizione del morph-tabelle
+### <a name="morph-transition-enhancements---tables"></a>Miglioramenti apportati alla transizione morphing: tabelle
 
-Le tabelle si trasformano con transizioni più fluide
+Morphing delle tabelle con transizioni più agevoli
 
 #### <a name="getting-started"></a>Guida introduttiva:
-Utilizzare morph nello stesso modo in cui si utilizzano le tabelle
+Usare il morphing in modo analogo alle tabelle
 
 #### <a name="scenarios-to-try"></a>Scenari da provare:
 
 - Inserire una tabella in una diapositiva
-- Duplica la diapositiva
-- Ridimensiona/cambia/sposta la tabella sulla diapositiva duplicata
-- Applicazione del morph sulla diapositiva duplicata
+- Duplicare la diapositiva
+- Ridimensionare/modificare/spostare la tabella nella diapositiva duplicata
+- Applicare il morphing nella diapositiva duplicata
 
 </BR>
 
-### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a>Word, Excel, PowerPoint, OneNote, Access, Project, Publisher & Visio
+### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a>Word, Excel, PowerPoint, OneNote, Access, Project, Publisher e Visio
 
-### <a name="seamlessly-switch-between-accounts"></a>Passare senza problemi tra gli account
+### <a name="seamlessly-switch-between-accounts"></a>Passare facilmente da un account a un altro
 
-Il nuovo account Manager Visualizza tutti gli account personali e di lavoro in un'unica posizione, nonché il controllo del passaggio tra di essi. Questa esperienza aggiornata rende chiaro come è stato effettuato l'accesso e ora è possibile alternare tra lavoro e account personali senza dover prima disconnettersi o gestire le finestre di dialogo complesse.
+La nuova Gestione account consente di visualizzare gli account aziendale e personale in un'unica posizione e permette di passare da uno all'altro. Questa esperienza aggiornata indica in modo chiaro la modalità di accesso e consente ora di passare dall'account aziendale a quello personale e viceversa senza dovere prima effettuare la disconnessione o gestire finestre di dialogo complesse.
 
 
-![MeMock. png](Images/MeMock.png)
+![MeMock.png](Images/MeMock.png)
 
 #### <a name="scenarios-to-try"></a>Scenari da provare:
-- Passare da un account all'altra
-- Aggiungere un nuovo account [Nota: si consiglia di accedere prima a file | Account | Servizi connessi e rimuovere tutti i servizi personali connessi a account di lavoro o viceversa]
-- DisConnettersi da un account
+- Passare da un account a un altro
+- Aggiungere un nuovo account [Nota: è consigliabile accedere prima a File | Account | Servizi connessi e rimuovere eventuali servizi personali connessi agli account aziendali o viceversa]
+- Disconnettersi da un account
 </BR>
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema con l'anteprima di contesto per le tabelle & immagini
+- È stato risolto un problema relativo all'anteprima contesto per tabelle e immagini
 
 ### <a name="excel"></a>Excel
-- È stato risolto un problema a causa del quale il testo nel campo di ricerca filtro automatico è bianco nel tema nero
-- È stato risolto un problema dell'interfaccia utente di consenso con nuovo componente aggiuntivo di Office
+- È stato risolto un problema in cui il testo nel campo Cerca del filtro automatico veniva visualizzato in bianco quando il tema era Nero
+- È stato risolto un problema relativo all'interfaccia utente del consenso con Nuovo componente aggiuntivo per Office
 
 ### <a name="powerpoint"></a>PowerPoint
-- È stato risolto un problema con l'estensione automatica della visualizzazione quando si presentano presentazioni su laptop o tablet.
+- È stato risolto un problema relativo all'estensione automatica dello schermo durante la visualizzazione di presentazioni su portatili o tablet
 
 ### <a name="outlook"></a>Outlook
-- È stato risolto un problema con la visualizzazione del pulsante Invia a OneNote
+- È stato risolto un problema relativo alla visualizzazione del pulsante Invio a OneNote
 
 ### <a name="access"></a>Access
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 ### <a name="project"></a>Project
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 
 </BR></BR>
 ## <a name="february-11-2019"></a>11 febbraio 2019
-Versione 1903 (Build 11330,20014)
+Versione 1903 (build 11330.20014)
 
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema a causa del quale non è stato possibile applicare alcuni stili personalizzati a Word online
-- Sono stati risolti i problemi di anteprima dei conTesti con oggetti Rich in Word
-- È stato risolto un problema a causa del quale gli elenchi di incollatura potrebbero causare un arresto anomalo di Word
+- È stato risolto un problema che impediva l'applicazione di alcuni stili personalizzati in Word Online
+- Sono stati risolti i problemi relativi all'anteprima contesto con oggetti complessi in Word
+- È stato risolto un problema che causava un arresto anomalo di Word quando si incollavano elenchi
 
 ### <a name="excel"></a>Excel
-- È stato risolto un problema a causa del quale gli spazi accodati dopo i formati dei numeri non vengono più visualizzati quando non è presente alcun simbolo di valuta
-- È stato risolto un problema relativo al rilevamento automatico delle scorte
+- È stato risolto un problema che impediva la visualizzazione degli spazi aggiunti dopo formati numerici quando non era presente alcun simbolo di valuta
+- È stato risolto un problema relativo al rilevamento automatico per le azioni
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 ### <a name="outlook"></a>Outlook
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 ### <a name="access"></a>Access
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 ### <a name="project"></a>Project
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità
 
 </BR></BR>
 
 
-## <a name="february-1-2019"></a>2019 febbraio 1 
-Versione 1902 (Build 11326,20000)
+## <a name="february-1-2019"></a>1 febbraio 2019 
+Versione 1902 (build 11326.20000)
 
 
 ## <a name="notable-fixes"></a>Correzioni importanti
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema con il ridimensionamento delle celle in una tabella Excel incorporata
-- È stato risolto un problema relativo alla copia/incolla delle forme in un'area di disegno
+- È stato risolto un problema di ridimensionamento delle celle in una tabella di Excel incorporata
+- È stato risolto un problema con il copia e incolla delle forme in un'area di disegno
 
 ### <a name="excel"></a>Excel
-- È stato risolto un problema relativo all'apertura di file da Excel Web App
-- È stato risolto un problema a causa del quale è stato salvato un file CSV. XLSX si è verificato un errore a causa della dimensione del nome di file
-- Il menu di scelta rapida è stato risolto per visualizzare le opzioni di menu di scelta rapida.
+- È stato risolto un problema di apertura dei file da Excel Web App
+- È stato risolto un problema che impediva il salvataggio di un file CSV come file XLSX a causa delle dimensioni del nome file
+- È stato corretto il menu di scelta rapida in modo da visualizzare le opzioni del menu di scelta rapida
 
 ### <a name="powerpoint"></a>PowerPoint
-- È stato corretto un oggetto rilasciato in cui gli utenti non sono stati in grado di utilizzare la combinazione di tasti CTRL + ALT + 7/Ctrl + Alt + 8 per immettere le parentesi quadre
-- È stato risolto un problema a causa del quale l'inserimento di un video locale nel PPT ridurrebbe lo spazio su disco dell'unità' C'
-- È stato risolto il pulsante pubblica su Microsoft Stream che non è stato visualizzato ad alcuni utenti
+- È stato risolto un problema che impediva agli utenti di usare i tasti di scelta rapida CTRL+ALT+7/CTRL+ALT+8 per inserire parentesi quadre
+- È stato risolto un problema per il quale l'inserimento di un video locale nel file PPT comportava una riduzione dello spazio su disco dell'unità 'C'
+- È stato corretto il pulsante Pubblica in Microsoft Stream che non veniva visualizzato per alcuni utenti
 
 ### <a name="outlook"></a>Outlook
-- È stato risolto un problema a causa del quale la visualizzazione attività nel calendario non indicava correttamente l'oggetto dell'attività.
+- È stato risolto un problema che impediva la corretta visualizzazione dell'oggetto dell'attività nella visualizzazione attività del calendario
 
 ### <a name="access"></a>Access
-- È stato risolto un problema di scalabilità con i grafici
+- È stato risolto un problema di ridimensionamento relativo ai grafici
 
 ### <a name="project"></a>Project
-- Varie correzioni per la stabilità e le prestazioni
+- Diverse correzioni a prestazioni e stabilità

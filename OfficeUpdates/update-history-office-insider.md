@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
-ms.openlocfilehash: cd4a6dd474302e7dc4f0896c5e9f6ab4480a340d
-ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
+ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30737516"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516471"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Cronologia degli aggiornamenti per il canale Office Insider
 
@@ -32,6 +32,8 @@ Le informazioni di questa pagina sono destinate agli utenti di Insider che vogli
 Se si è iscritti al livello Insider, si ricevono aggiornamenti frequenti contenenti le nuove funzionalità e i miglioramenti apportati. L'elenco seguente mostra la cronologia delle ultime versioni e build Insider. **Le build rilasciate per ultime sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti. 
 
 Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/it-IT/OfficeUpdates/release-notes-office-insider).
+
+**1 aprile 2019**<br/> Versione 1904 (Build 11527.20004)<br/>
 
 **18 marzo 2019**<br/> Versione 1904 (Build 11520.20004)<br/>
 
@@ -58,17 +60,15 @@ Per le note sulla versione, vedere [Note sulla versione di Insider per la versio
 
 ## <a name="insider-community"></a>Community di Insider
 
-![Immagine della community di Insider. ](images/insidercommunity.png) <br/>
-**Community di Office Insider**<br/> Per chattare con altri utenti di Insider, è possibile pubblicare un post nella community.<br/> 
+![Immagine della community di Office Insider. ](images/insidercommunity.png) <br/>
+**Community di Office Insider**<br/> Per chattare con altri partecipanti al programma Office Insider, è possibile pubblicare un post nella community.<br/> 
 [Visitare la community](https://go.microsoft.com/fwlink/?linkid=843493)<br/> 
 
 ![Immagine con l'icona di Twitter. ](images/twitter.png)<br/>
-**Office Insider su Twitter**<br/> Su @OfficeInsider vengono pubblicati frequentemente post su versioni Insider e vengono ospitati eventi speciali per gli utenti di Insider.<br/> 
+**Office Insider su Twitter**<br/> Su @OfficeInsider vengono pubblicati frequentemente post su versioni Insider e vengono ospitati eventi speciali per i partecipanti al programma Insider.<br/> 
 [Seguici su Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
-  ![Immagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![IImmagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Scopri per primo le nuove funzionalità**
