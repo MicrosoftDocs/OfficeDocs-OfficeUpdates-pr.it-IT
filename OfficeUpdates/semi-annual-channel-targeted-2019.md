@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 68384248cc9385dc03a9f67408a5e0603e1e9986
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: e72fac101cd74306e818790d2a90db01dc9c36c4
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478553"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751497"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -27,6 +27,26 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  
 > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
+
+## <a name="version-1902-april-9"></a>Versione 1902: 9 aprile
+*Versione 1902 (build 11328.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+
+- Risolve un problema che determinava un arresto anomalo durante il caricamento di immagini nella scheda contatto.
+- Risolve un problema che determinava un arresto anomalo all'avvio delle applicazioni di Office.
+- Risolto un problema per cui le finestre non venivano visualizzate nella posizione corretta quando la barra delle applicazioni del sistema era posizionata a sinistra o nella parte superiore dello schermo.
+
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+
+- Risolto un problema di mancata visualizzazione dell'interfaccia di salvataggio che si verificava quando un file era aperto in sola lettura e si faceva clic su Salva con nome nel riquadro Informazioni.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+
+- Risolto un problema che causava un numero eccessivo di richieste di accesso nei dispositivi Windows 10 (1803 o versioni successive).
+- Risolto un problema di regressione che causa blocchi durante il download di immagini collegate.
+- Risolto un problema di sfocatura dei file EMF di grandi dimensioni incollati in Word, Excel e PowerPoint.
+- Risolto il bug nella logica di analisi della cronologia delle versioni che in alcuni casi determinava l'apertura dei documenti in sola lettura.
 
 ## <a name="version-1902-march-12"></a>Versione 1902: 12 marzo
 *Versione 1902 (Build 11328.20158)*

@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: 99ea2f8a3ec131b643fc6c964585e7e0b592efe7
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516461"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751527"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -28,8 +28,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md). 
 
-## <a name="version-1903-april-01"></a>Versione 1903: 1 aprile
-*Versione 1903 (Build 11425.20202)*
+## <a name="version-1903-april-9"></a>Versione 1903: 9 aprile
+*Versione 1903 (build 11425.20204)* 
+
+Aggiornamenti della sicurezza elencati [qui](office365-proplus-security-updates.md)
+
+## <a name="version-1903-april-01"></a>Versione 1903: 1 aprile 
+*Versione 1903 (Build 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 
@@ -40,6 +45,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 - **Spostamento di forme migliorato:** assegnare un nome alle forme per un maggiore controllo sul modo in cui effettuano il morphing. [Altre informazioni](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **Aumentare l'efficacia del contenuto:** rendere accessibili le presentazioni Consentire allo strumento di verifica accessibilità di tenerli sotto controllo senza intralciare il lavoro. Per provare, fare clic su Revisione > Verifica accessibilità. Se verranno trovati elementi da consultare, verrà visualizzato un avviso nella barra di stato.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+
+- Correzione di un problema che determinava il blocco di Skype for Business al momento della risposta alle notifiche di chat in presenza di un'app SfB/Lync SDK di terze parti.
+- Correzione del blocco dell'app quando si incolla il contenuto degli Appunti in una chat.
+- Correzione di un problema che impediva la visualizzazione dell'informazione "accettata da" per una chiamata nella Coda di chiamate che viene gestita da uno degli agenti di chiamata.
+- Risolto un problema per cui le icone di chiamata risultavano nascoste quando un utente di Teams partecipa a una riunione in Skype for Business.
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 
