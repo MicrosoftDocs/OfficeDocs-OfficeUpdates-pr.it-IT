@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478573"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745548"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -27,6 +27,18 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
 > - OneNote 2016 non sarà incluso per impostazione predefinita quando un utente del canale semestrale scarica e installa Office 365 in Windows 10 dal portale di Office.
+
+## <a name="version-1808-april-9"></a>Versione 1808: 9 aprile
+*Versione 1808 (Build 10730.20334)*
+
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto un problema in cui l'utente può aprire i documenti in forma anonima in Internet Explorer o Microsoft Edge.
+- È stato risolto un problema in cui la formattazione del colore di evidenziazione del testo applicata al campo PAGE e/o NUMPAGES dell'intestazione o del piè di pagina di un documento Word rende il campo nero invece del colore di evidenziazione del testo applicato.
+- È stato aggiunto il supporto per il componente aggiuntivo di Word Creazione guidata cartolina giapponese per la nuova era giapponese. 
+
+## <a name="version-1803-april-9"></a>Versione 1803: 9 aprile
+Questo mese non sono disponibili aggiornamenti.
 
 ## <a name="version-1808-march-12"></a>Versione 1808: 12 marzo
 *Versione 1808 (Build 10730.20304)*
