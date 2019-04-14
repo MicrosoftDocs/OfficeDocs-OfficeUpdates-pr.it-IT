@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/5/2019
+ms.date: 4/11/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516071"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818513"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -25,7 +25,38 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
 
-## <a name="april-5th-2019"></a>5 aprile 2019
+## <a name="april-11-2019"></a>11 aprile 2019
+Versione 1905 (Build 11601.20042)
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all-applications"></a>Tutte le applicazioni
+ - È stato risolto un problema che impedisce ad alcuni utenti di salvare file nelle posizioni del cloud
+ - È stato risolto un problema in cui il riquadro errato si apre dalla barra multifunzione
+
+### <a name="word"></a>Word 
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema in cui gli utenti vedono un messaggio di errore per i tipi di dati collegati quando la cartella di lavoro non contiene tipi di dati collegati
+- È stato risolto un problema in cui i collegamenti URL all'interno di un documento di Word si possono modificare quando vengono visualizzati localmente e online
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema nel punto in cui l'applicazione può bloccarsi dopo l'annullamento di modifiche nella scheda animazioni
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema che impedisce ad alcuni utenti di modificare il campo Note per i contatti in una cartella pubblica
+- È stato risolto un problema in cui può verificarsi un conflitto tra le date di scadenza e le date di eliminazione
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- Diverse correzioni a prestazioni e stabilità
+
+</BR></BR>
+
+## <a name="april-5-2019"></a>5 aprile 2019
 Versione 1904 (build 11527.20014)
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
