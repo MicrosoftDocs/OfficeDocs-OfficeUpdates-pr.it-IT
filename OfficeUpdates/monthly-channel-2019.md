@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 99ea2f8a3ec131b643fc6c964585e7e0b592efe7
-ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
+ms.openlocfilehash: 4a8c42ea3cfc6e80aea0d898854398c150f1b9f2
+ms.sourcegitcommit: d1d427499eb9d1f82196e239281ff77e64cc0f87
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 04/10/2019
-ms.locfileid: "31751527"
+ms.locfileid: "31763734"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -45,6 +45,8 @@ Aggiornamenti della sicurezza elencati [qui](office365-proplus-security-updates.
 - **Spostamento di forme migliorato:** assegnare un nome alle forme per un maggiore controllo sul modo in cui effettuano il morphing. [Altre informazioni](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **Aumentare l'efficacia del contenuto:** rendere accessibili le presentazioni Consentire allo strumento di verifica accessibilità di tenerli sotto controllo senza intralciare il lavoro. Per provare, fare clic su Revisione > Verifica accessibilità. Se verranno trovati elementi da consultare, verrà visualizzato un avviso nella barra di stato.
+
+- **Perché reinventare quando è possibile riutilizzare?**  È possibile risparmiare tempo riutilizzando le diapositive che sono state create o che altri hanno condiviso. [Altre informazioni](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
 

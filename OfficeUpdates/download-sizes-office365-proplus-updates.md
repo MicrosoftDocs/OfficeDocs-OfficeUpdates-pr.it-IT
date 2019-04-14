@@ -3,19 +3,19 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/3/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 89e16d8802ba6093b3ce0fb2d44dc3cc8fa61567
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: ec4cd8df8f0d3fdd4e3abc957024af699d6058f2
+ms.sourcegitcommit: d1d427499eb9d1f82196e239281ff77e64cc0f87
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478563"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31763724"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -36,10 +36,20 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tenere presente che la dimensione del file di download sarà superiore.
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB.
 
+## <a name="april-9-2019"></a>9 aprile 2019
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1903 (Build 11425.20204). 
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1903 (build 11425.20202)  <br/> |1 aprile 2019  <br/> |307<br/> |
+|Versione 1902 (Build 11328.20158)  <br/> |12 marzo 2019  <br/> |204<br/> |
+
 
 ### <a name="semi-annual-channel"></a>Canale semestrale
 
-La versione prevista è la numero 1808 (Build 10730.20334)
+La versione più recente è la numero 1808 (build 10730.20334).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
@@ -48,7 +58,7 @@ La versione prevista è la numero 1808 (Build 10730.20334)
 
 ### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
 
-La versione prevista è la numero 1902 (Build 11328.20230).
+La versione più recente è la numero 1902 (build 11328.20230).
   
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensioni approssimative del download (in MB)**|
 |:-----|:-----|:-----|
