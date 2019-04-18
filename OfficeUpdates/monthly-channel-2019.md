@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
+ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818503"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31912572"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -28,8 +28,18 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md). 
 
+## <a name="version-1903-april-17"></a>Versione 1903: 17 aprile
+*Versione 1903 (Build 11425.20228)*
+
+- Diverse correzioni di bug e miglioramenti delle prestazioni.
+
+## <a name="version-1903-april-16"></a>Versione 1903: 16 aprile
+*Versione 1903 (Build 11425.20218)*
+
+- Diverse correzioni di bug e miglioramenti delle prestazioni.
+
 ## <a name="version-1903-april-9"></a>Versione 1903: 9 aprile
-*Versione 1903 (build 11425.20204)* 
+*Versione 1903 (Build 11425.20204)* 
 
 Aggiornamenti della sicurezza elencati [qui](office365-proplus-security-updates.md)
 
@@ -79,7 +89,7 @@ Aggiornamenti della sicurezza elencati [qui](office365-proplus-security-updates.
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 
-- **Ottenere l'attenzione tramite \@menzioni:** usare @mentions nei commenti per informare i collaboratori quando è necessario il loro contributo. [Altre informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Ottenere l'attenzione tramite \@menzioni:** utilizzare @menzioni nei commenti per informare i collaboratori quando c'è bisogno del loro input. [Altre informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Scoprire di più sui dati:** il nuovo pulsante Idee cerca modelli nei dati e li usa per creare suggerimenti intelligenti e personalizzati. [Altre informazioni](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Salvare le modifiche non appena vengono apportate:** caricare i file in OneDrive per assicurarsi che tutti gli aggiornamenti vengano salvati automaticamente.
 - **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
