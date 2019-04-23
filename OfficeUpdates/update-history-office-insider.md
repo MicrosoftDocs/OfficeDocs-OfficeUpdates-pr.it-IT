@@ -3,23 +3,23 @@ title: Cronologia degli aggiornamenti per il canale Office Insider
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/19/2019
+ms.date: 04/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
-ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: b7eeee07099d7e1e32bad421d00c4a0570ff4e62
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516471"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958147"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Cronologia degli aggiornamenti per il canale Office Insider
 
-Le informazioni di questa pagina sono destinate agli utenti di Insider che vogliono sapere se hanno installato l'aggiornamento più recente o sono alla ricerca di un elenco delle ultime build Insider pubblicate. Fare clic [qui](https://insider.office.com/) per altre informazioni sul programma Insider.
+Le informazioni di questa pagina sono destinate ai partecipanti al programma Office Insider che vogliono sapere se hanno installato l'aggiornamento più recente o sono alla ricerca di un elenco delle ultime build Insider. Fare clic [qui](https://insider.office.com/) per altre informazioni sul programma Office Insider.
 
 > [!NOTE]
 > - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
@@ -33,7 +33,11 @@ Se si è iscritti al livello Insider, si ricevono aggiornamenti frequenti conten
 
 Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/it-IT/OfficeUpdates/release-notes-office-insider).
 
-**1 aprile 2019**<br/> Versione 1904 (Build 11527.20004)<br/>
+[//]: # (NON RIMUOVERE)
+
+**15 aprile 2019**<br/> Versione 1905 (Build 11609.20002)<br/>
+
+**7 aprile 2019**<br/> Versione 1904 (Build 11601.20042)<br/>
 
 **18 marzo 2019**<br/> Versione 1904 (Build 11520.20004)<br/>
 
@@ -60,15 +64,17 @@ Per le note sulla versione, vedere [Note sulla versione di Insider per la versio
 
 ## <a name="insider-community"></a>Community di Insider
 
-![Immagine della community di Office Insider. ](images/insidercommunity.png) <br/>
-**Community di Office Insider**<br/> Per chattare con altri partecipanti al programma Office Insider, è possibile pubblicare un post nella community.<br/> 
+![Immagine della community di Insider. ](images/insidercommunity.png) <br/>
+**Community di Office Insider**<br/> Per chattare con altri utenti di Insider, è possibile pubblicare un post nella community.<br/> 
 [Visitare la community](https://go.microsoft.com/fwlink/?linkid=843493)<br/> 
 
 ![Immagine con l'icona di Twitter. ](images/twitter.png)<br/>
-**Office Insider su Twitter**<br/> Su @OfficeInsider vengono pubblicati frequentemente post su versioni Insider e vengono ospitati eventi speciali per i partecipanti al programma Insider.<br/> 
+**Office Insider su Twitter**<br/> Su @OfficeInsider vengono pubblicati frequentemente post su versioni Insider e vengono ospitati eventi speciali per gli utenti di Insider.<br/> 
 [Seguici su Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[![IImmagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+
+  [
+  ![Immagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Scopri per primo le nuove funzionalità**

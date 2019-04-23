@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818513"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958137"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -25,7 +25,60 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
 
-## <a name="april-11-2019"></a>11 aprile 2019
+## <a name="april-19-2019"></a>19 aprile 2019
+Versione 1905 (build 11609.20002)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="excel"></a>Excel
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a>Esperienza migliorata delle mappe colorate con tipi di dati
+
+Questa funzionalità è un miglioramento destinato agli utenti che tracciano grafici Mappa colorata usando i tipi di dati geografici di Excel. Il vantaggio per gli utenti finali sarà una migliore integrazione tra le funzionalità e una maggiore accuratezza dell'area da includere nella mappa. Altri vantaggi includono la possibilità di creare mappe con poligoni di città.
+
+##### <a name="getting-started"></a>Introduzione:
+
+- Questa funzionalità è un aggiornamento delle funzionalità esistenti in Excel. Per usare il miglioramento, convertire le posizioni in entità complesse e tracciare il grafico Mappa colorata. 
+
+##### <a name="scenarios-to-try"></a>Scenari da provare:
+
+- Gli utenti possono provare a creare mappe di città, stati, province e codici postali. 
+
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all-applications"></a>Tutte le applicazioni
+- È stato risolto un problema per cui a ogni avvio di un'applicazione veniva visualizzata la finestra di dialogo della prima esecuzione
+- È stato risolto un problema per cui nella finestra di dialogo "Salva con nome" mancava un collegamento a SharePoint.
+- È stato risolto un problema per cui agli utenti veniva erroneamente mostrata una finestra di dialogo "Ripristina ora"
+
+### <a name="word"></a>Word 
+- È stato risolto un problema per cui alcuni utenti potevano ricevere un errore di memoria o spazio su disco insufficiente richiedendo un tipo di carattere
+- È stato risolto un problema per cui una finestra poteva perdere lo stato attivo uscendo dal riquadro commenti
+
+### <a name="excel"></a>Excel
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema che impediva il ridimensionamento di forme personalizzate
+- È stato risolto un problema per cui PowerPoint poteva arrestarsi in modo anomalo aprendo un file in modalità di visualizzazione protetta
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema che impediva ad alcuni utenti di selezionare parole in cinese
+- È stato risolto un problema per cui le date di scadenza non erano calcolate correttamente 
+
+### <a name="access"></a>Access
+- È stato risolto un problema che impediva ad alcuni utenti di usare il Generatore di macro
+- È stato risolto un problema per cui, stampando un report, veniva stampata solo la prima pagina
+- È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo al passaggio del mouse su un collegamento ipertestuale
+- È stato risolto un problema per cui alcuni elementi non comparivano nello schermo nella visualizzazione Relazioni
+
+### <a name="project"></a>Project
+- Diverse correzioni a prestazioni e stabilità
+
+</BR></BR>
+
+## <a name="april-12-2019"></a>12 aprile 2019
 Versione 1905 (Build 11601.20042)
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
@@ -213,7 +266,7 @@ Versione 1903 (build 11414.20014)
 - È stato risolto un errore per cui copiare una cella in Excel causava un utilizzo elevato della CPU al momento dell'apertura di documenti protetti e modificabili
 
 ### <a name="powerpoint"></a>PowerPoint
-- È stato risolto un problema riguardante le dimensioni dell'immagine della diapositiva durante l'utilizzo delle @Mentions in PowerPoint
+- È stato risolto un problema riguardante le dimensioni dell'immagine della diapositiva durante l'utilizzo delle @menzioni in PowerPoint
 
 ### <a name="outlook"></a>Outlook
 - È stato risolto un problema per cui la funzione di ricerca di Outlook non rispettava l'ordinamento cronologico selezionato
