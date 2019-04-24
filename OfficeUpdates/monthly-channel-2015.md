@@ -1,5 +1,5 @@
 ---
-title: Note sulla versione per le versioni del canale mensile 2015
+title: Note sulla versione per i rilasci mensili del canale in 2015
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,28 +9,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Sono disponibili per i professionisti IT note sulla versione per canale mensile di versioni di Office 365 ProPlus 2015
+description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale mensile per Office 365 ProPlus in 2015
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556158"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438811"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Note sulla versione per le versioni del canale mensile 2015
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Note sulla versione per i rilasci mensili del canale in 2015
 
-Queste note sulla versione vengono fornite informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e non correlati alla sicurezza gli aggiornamenti inclusi negli aggiornamenti di canale mensile per Office 365 ProPlus nelle 2015.
+Queste note sulla versione forniscono informazioni su nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza inclusi negli aggiornamenti del canale mensile per Office 365 ProPlus in 2015.
  
 > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
-> - Mensile canale è stato denominato canale corrente prima 2017 settembre.
+> - Il canale mensile è stato denominato canale corrente prima del 2017 settembre.
 
-## <a name="version-1511-december-11"></a>Versione 1511: 11 dicembre
+## <a name="version-1511-december-11"></a>Versione 1511:11 dicembre
 *Versione 1511 (Build 6366.2036)*
 
-### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
--   **Modelli di Business Intelligence:** Tre nuovi modelli che sfruttano di business intelligence (BI) funzionalità di Excel: [Sui concetti di calendario](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [Analisi Stock](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d) [Cassa personali](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
+-   **Modelli di BI:** Tre nuovi modelli che sfruttano le funzionalità di Business Intelligence (BI) di Excel: [Calendar Insights](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [Stock Analysis](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d), [My flussi di cassa](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
 ### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale, quando si trascina il quadratino di riempimento di una cella formattata con data estesa, Excel si arresta in modo anomalo.
@@ -48,14 +48,14 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Calendario persiano:** aggiungere il calendario persiano come calendario principale o alternativo.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale, quando si trascina la barra di scorrimento in un elenco di messaggi, viene visualizzata la fine di tale elenco.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
 -   **Transizione morphing:** consente di creare transizioni continue tra diapositive e di inserire movimenti nelle presentazioni, al fine di enfatizzare concetti e informazioni. [Ulteriori informazioni](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** un nuovo servizio che consente di generare varie idee a partire da un contenuto. Tali idee possono essere usate per migliorare l'aspetto delle diapositive. [Ulteriori informazioni](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Questo servizio richiede una connessione Internet. Per disabilitare questa funzionalità, [utilizzare i file di modelli amministrativi di criteri di gruppo più recenti](https://www.microsoft.com/download/details.aspx?id=49030) e attivare l'impostazione di opzioni di progettazione di PowerPoint. È possibile trovare questa impostazione dei criteri in Configurazione utente\\Modelli amministrativi\\Microsoft Office 2016\\Strumenti | Opzioni | Generale | Opzioni servizi...\\PowerPoint Designer.
+    Questo servizio richiede una connessione Internet. Per disabilitare questa funzionalità, [utilizzare i file dei modelli amministrativi di criteri di gruppo più recenti](https://www.microsoft.com/download/details.aspx?id=49030) e abilitare l'impostazione opzioni di PowerPoint designer. È possibile trovare questa impostazione dei criteri in Configurazione utente\\Modelli amministrativi\\Microsoft Office 2016\\Strumenti | Opzioni | Generale | Opzioni servizi...\\PowerPoint Designer.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale le animazioni degli elementi SmartArt non vengono visualizzate nella sequenza prevista in modalità Presentazione con visualizzazione Relatore.
@@ -69,7 +69,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: Aggiornamenti delle funzionalità
 -   **Opzioni Invia come**: consente di inviare un documento come allegato o come file PDF dal riquadro di condivisione di Word o PowerPoint.
--   **Inserisci immagine API**: inserire immagini in Word, Excel o PowerPoint utilizzando il [metodo document.setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) nella libreria office.js comune. L'API JavaScript Word fornisce i metodi specifici dell'host denominati insertInlinePictureFromBase64() per impostare le immagini in linea nel [corpo](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [paragrafo](https://msdn.microsoft.com/library/office/mt598682.aspx)e gli oggetti Range.
+-   **Inserisci API immagine**: consente di inserire immagini in Word, Excel o PowerPoint utilizzando il [metodo document.setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx)nella raccolta comune office.js. L'API JavaScript di Word fornisce metodi specifici dell'host denominati insertInlinePictureFromBase64 () per impostare le immagini in linea su oggetti [Body](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [Paragraph](https://msdn.microsoft.com/library/office/mt598682.aspx)e range.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale vengono troncate le informazioni sulla data di modifica visualizzate durante le operazione Apri o Salva con nome.
@@ -82,16 +82,16 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere l'errore 0x80070005 durante l'attivazione dell'aggiornamento a Office 2016 su un computer Windows 7 OEM dotato del kit di preinstallazione di Office eseguito in modalità di controllo.
 
 
-## <a name="version-1509-december-8"></a>Versione 1509: 8 dicembre
+## <a name="version-1509-december-8"></a>Versione 1509:8 dicembre
 *Versione 1509 (Build 6001.1043)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
+### <a name="onenote-non-security-updates"></a>OneNote: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale XPS o la stampa creata utilizzando il client desktop di Windows viene visualizzata come un simbolo X rosso nei client desktop differenti da Windows. Ciò si verifica poiché i client non supportano il rendering XPS nativo.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale un segnalibro creato dall'utente si espande su più paragrafi. Tuttavia, quando si riceve il messaggio di posta elettronica, soltanto il primo paragrafo viene incluso nel segnalibro, quando si seleziona Vai a.
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): Aggiornamento della sicurezza di Microsoft Graphics Component per risolvere l'esecuzione di codice in modalità remota (3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
@@ -101,7 +101,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3116111)
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale un trattino d'unione viene visualizzato come un quadrato quando si utilizza lo stesso tipo di carattere.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -111,7 +111,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1509-november-10"></a>Versione 1509: Novembre 10
+## <a name="version-1509-november-10"></a>Versione 1509:10 novembre
 *Versione 1509 (Build 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: Aggiornamenti della sicurezza
@@ -133,13 +133,13 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="onenote-security-updates"></a>OneNote: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema in seguito al quale quando si incolla testo in Outlook, non viene visualizzato il testo completo se la quantità di testo incollata è superiore alla grandezza della finestra.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="project-security-updates"></a>Project: Aggiornamenti della sicurezza
+### <a name="project-security-updates"></a>Project: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
 ### <a name="publisher-security-updates"></a>Publisher: Aggiornamenti della sicurezza
@@ -149,7 +149,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 -   Bollettino Microsoft sulla sicurezza [MS15-123](https://technet.microsoft.com/library/security/ms15-123): Aggiornamento della sicurezza per Skype for Business e Microsoft Lync per risolvere la divulgazione di informazioni (3105872)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema relativo ai disturbi audio nei dispositivi con due microfoni input.
 -   Risolvere un problema per il quale gli utenti non possono partecipare a una riunione dopo il ripristino di un computer portatile dalla modalità sospensione e prima che il client Skype abbia effettuato di nuovo l'accesso.
 -   Aggiungere il supporto per i messaggi contestuali per garantire la conoscenza delle caratteristiche agli utenti.
@@ -162,7 +162,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema in cui la numerazione delle note a piè di pagina non corrisponde tra la visualizzazione in Word e la stampa quando si stampa in background un documento le cui note a piè di pagina sono impostate su "Riavvia la numerazione a ogni pagina".
 -   Risolvere un problema per il quale la creazione condivisa in tempo reale non funziona con i file archiviati in OneDrive, anche quando l'utente non è visibile agli altri utenti mentre apporta modifiche in tempo reale e quando non sono disponibili informazioni sulla presenza.
 -   Risolvere un problema per il quale Word si arresta in modo anomalo durante la creazione condivisa in tempo reale di un documento aperto da SharePoint o OneDrive.
@@ -180,17 +180,17 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1509-october-21"></a>Versione 1509: 21 ottobre
+## <a name="version-1509-october-21"></a>Versione 1509:21 ottobre
 *Versione 1509 (Build 6001.1034)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
+### <a name="onenote-non-security-updates"></a>OneNote: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema che blocca OneNote quando viene selezionato per due volte lo stesso colore per un bordo.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale, quando si modifica la firma dei messaggi di posta elettronica, un lettore dello schermo riconosce soltanto il primo paragrafo della firma, anche se comprende più paragrafi.
 -   Consente di risolvere un problema a causa del quale il cursore non si trova in posizione corretta quando si scrive o si risponde a un messaggio di posta elettronica.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale, in presenza di memoria insufficiente, il tentativo di visualizzare un'app o un desktop condiviso comporta la disconnessione e l'esecuzione di nuovi tentativi per tornare automaticamente a visualizzare l'app o il desktop condiviso.
 -   Consente di risolvere un problema a causa del quale all'aumentare del numero di partecipanti, diminuisce la qualità della condivisione del desktop.
 -   Consente di risolvere un problema a causa del quale, durante una giornata si ricevono più richieste di autenticazione per il telefono. Questa situazione si verifica in presenza di autenticazione a più fattori.
@@ -223,10 +223,10 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1509-october-5"></a>Versione 1509: Ottobre 5
+## <a name="version-1509-october-5"></a>Versione 1509:5 ottobre
 *Versione 1509 (Build 4229.1029)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
+### <a name="onenote-non-security-updates"></a>OneNote: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema con Office 365 Business, per il quale, quando si tenta di utilizzare OneNote con SharePoint, viene visualizzato un messaggio di errore che indica agli utenti che devono eseguire l'aggiornamento a una versione diversa di Office.
 -   Risolvere un problema per Surface Pro 3 per il quale l'anteprima della registrazione dei video non mostra cosa viene registrato.
 
@@ -248,7 +248,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1509-september-22"></a>Versione 1509: Settembre 22
+## <a name="version-1509-september-22"></a>Versione 1509:22 settembre
 *Versione 1509 (Build 4229.1024)*
 
 Questa è la versione iniziale di questo canale. Questa versione fornisce la prima disponibilità delle applicazioni di Office 2016.
