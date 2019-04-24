@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
 ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958137"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438907"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 

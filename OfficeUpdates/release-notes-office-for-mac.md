@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
 ms.openlocfilehash: df504e92bf8e5c52119c2ec40ab21435af0379d8
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958107"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438991"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -546,7 +546,7 @@ Questa versione fornisce gli aggiornamenti seguenti.
   
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|
 |:-----|:-----|:-----|
-|Word  <br/> |**Sfondi moderni per la modalità focus:** scegliere tra gli sfondi Crepuscolo o Notte polare quando si è in modalità focus nella tab **Visualizzazione**. [Ulteriori informazioni](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Word  <br/> |**Sfondi moderni per la modalità focus:** scegliere tra gli sfondi Crepuscolo o Notte polare quando si è in modalità focus nella tab **Visualizzazione**. [Ulteriori informazioni](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Excel  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Gruppi:** visualizzare i primi 10 gruppi principali e leggere o rispondere alle conversazioni di gruppo direttamente dalla cartella Gruppi.  <br/> <br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
