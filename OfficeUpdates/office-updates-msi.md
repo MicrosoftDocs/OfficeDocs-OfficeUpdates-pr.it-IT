@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Office 2016, Office 2013 e Office 2010
 ms.openlocfilehash: 82f0e6e29bebaf99f87a91ef98bfe115f114954a
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745418"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438571"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Office che utilizzano Windows Installer (MSI)
 
@@ -50,9 +50,9 @@ Utilizzare i collegamenti in questa pagina per ottenere ulteriori informazioni e
    
 ## <a name="updates-released-in-past-12-months"></a>Aggiornamenti rilasciati negli ultimi 12 mesi
 
-[Aggiornamenti per la sicurezza o di altro tipo per aprile 2019: KB4495300](https://support.microsoft.com/en-us/help/4495300)
+[Aggiornamenti per la sicurezza e di altro tipo per aprile 2019: KB4495300](https://support.microsoft.com/it-IT/help/4495300)
 
-[Aggiornamenti per la sicurezza o di altro tipo per marzo 2019: KB4491754](https://support.microsoft.com/en-us/help/4491754) 
+[Aggiornamenti per la sicurezza o di altro tipo per marzo 2019: KB4491754](https://support.microsoft.com/it-IT/help/4491754) 
 
 [Aggiornamenti per la sicurezza o di altro tipo per febbraio 2019: KB4488446](https://support.microsoft.com/help/4488446)
 
@@ -72,7 +72,7 @@ Utilizzare i collegamenti in questa pagina per ottenere ulteriori informazioni e
 
 [Aggiornamenti per la sicurezza o di altro tipo per giugno 2018: KB4299875](https://support.microsoft.com/help/4299875)  
 
-[Aggiornamenti per la sicurezza o di altro tipo per maggio 2018: KB4133083 ](https://support.microsoft.com/en-us/help/4133083)
+[Aggiornamenti per la sicurezza o di altro tipo per maggio 2018: KB4133083](https://support.microsoft.com/it-IT/help/4133083)
   
  
   

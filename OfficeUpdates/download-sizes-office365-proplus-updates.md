@@ -3,19 +3,19 @@ title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 4/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 9f631b58e9828ba60a1950f2f2b95581890c671b
-ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
+ms.openlocfilehash: 4d636864a4fc00efcdd232e47bd36cb5e7401ce2
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31912582"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438581"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -35,6 +35,17 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Vengono elencate solo le versioni rilasciate negli ultimi quattro mesi.
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tenere presente che la dimensione del file di download sarà superiore.
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB.
+
+## <a name="april-22-2019"></a>22 aprile 2019
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1903 (Build 11425.20244). 
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1903 (Build 11425.20228)  <br/> |17 aprile 2019  <br/> |204<br/> |
+|Versione 1903 (Build 11425.20218)  <br/> |16 aprile 2019  <br/> |186<br/> |
+
 
 ## <a name="april-17-2019"></a>17 aprile 2019
 ### <a name="monthly-channel"></a>Canale mensile

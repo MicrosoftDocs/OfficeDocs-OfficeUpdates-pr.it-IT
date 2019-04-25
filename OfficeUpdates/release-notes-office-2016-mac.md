@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni per Office 2016 per Mac a partire da settembre 2018
-ms.openlocfilehash: 801964703a2a43f721a31b7692d1dd24f69450d0
-ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
+ms.openlocfilehash: 7b46ce1be815d252ab4493630ac18989282cbcb5
+ms.sourcegitcommit: 5a3394599c426087999ef0a7044a7a511405b665
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31924334"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "32460141"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Note sulla versione per Office 2016 per Mac
 
@@ -35,7 +35,7 @@ Gli aggiornamenti per Office 2016 per Mac sono disponibili tramite Microsoft Aut
 La tabella seguente elenca i pacchetti più recenti per Office 2016 per Mac e per le singole applicazioni, come Word ed Excel. Tutti i pacchetti sono solo a 64 bit. La data di build è indicata tra parentesi, in un formato AAMMGG, dopo il numero di versione. Il pacchetto di installazione viene usato se l'applicazione non è già installata, mentre il pacchetto di aggiornamento viene usato se l'applicazione è già installata.
 
 ### <a name="april-16-2019"></a>16 aprile 2019
-Versione 16.16 (19041201)
+Versione 16.16.9 (19041201)
 
 |**Applicazione**|**Link di download**|**Hash SHA256 per pacchetto di installazione**|
 |:-----|:-----|:-----|:-----|
@@ -50,7 +50,7 @@ Versione 16.16 (19041201)
 
  **Data di rilascio:** 16 aprile 2019 
   
- *Versione 16.16 (Build 19041201)* 
+ *Versione 16.16.9 (Build 19041201)* 
   
 Questa versione fornisce gli aggiornamenti seguenti.
   

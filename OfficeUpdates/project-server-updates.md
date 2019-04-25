@@ -14,11 +14,11 @@ ms.collection:
 - RelNotes_Server
 description: Trovare e gestire gli aggiornamenti per Project Server 2013 e Project Server 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
 ms.openlocfilehash: 75e8e5f56450363669c938156a121d5f87452593
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745478"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438801"
 ---
 # <a name="project-server-updates"></a>Aggiornamenti per Project Server
 
@@ -95,7 +95,7 @@ Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori 
 |Novembre 2018  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
 |Ottobre 2018  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |Settembre 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
-|Agosto 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
+|Agosto 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092438) <br/>|
 |Luglio 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
 |Giugno 2018  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |Maggio 2018  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |

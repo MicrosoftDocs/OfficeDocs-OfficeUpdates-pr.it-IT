@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Outlook 2016, Outlook 2013, e Outlook 2010
 ms.openlocfilehash: 882dc4c4d0767b4f0260d552f30b96e036130127
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745488"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438751"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows Installer (MSI)
 
@@ -56,6 +56,6 @@ La compatibilità di Outlook con Office 365 e con l'ambiente locale dipende dai 
 
 |**Service Pack (SP) più recente**|**Aggiornamento minimo richiesto**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Aggiornamento pubblico di ottobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Aggiornamento pubblico di aprile 2015 per Office 2010 per MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/en-us/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Aggiornamento pubblico di marzo 2019 <br/>[KB4462229](https://support.microsoft.com/help/4462229) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Aggiornamento pubblico di ottobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Aggiornamento pubblico di aprile 2015 per Office 2010 per MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/it-IT/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Aggiornamento pubblico di marzo 2019 <br/>[KB4462229](https://support.microsoft.com/help/4462229) <br><br><br><br/>|
    
 
