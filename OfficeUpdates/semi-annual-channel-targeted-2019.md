@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: cdf78723e289a421c81986fd3ccc15e199fbb6ef
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958047"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370308"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -31,11 +31,26 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 ## <a name="version-1902-april-9"></a>Versione 1902: 9 aprile
 *Versione 1902 (Build 11328.20230)*
 
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+
+- Risolto un problema per cui premendo il tasto TAB la selezione non passava alla cella successiva se conteneva una formula con un nome definito alla fine.
+- Risolto un problema per cui la formattazione delle celle causava un inutile aumento delle dimensioni del file.
+- Risolto un problema per cui l’operazione taglia e incolla di una tabella pivot tra cartelle di lavoro, comportava il trasferimento dei dati senza la tabella pivot condivisa con altri utenti.
+
 ### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 
+- Risolto un problema per cui le finestre non venivano visualizzate nella posizione corretta quando la barra delle applicazioni del sistema era posizionata a sinistra o nella parte superiore dello schermo.
 - Risolve un problema che determinava un arresto anomalo durante il caricamento di immagini nella scheda contatto.
 - Risolve un problema che determinava un arresto anomalo all'avvio delle applicazioni di Office.
 - Risolto un problema per cui le finestre non venivano visualizzate nella posizione corretta quando la barra delle applicazioni del sistema era posizionata a sinistra o nella parte superiore dello schermo.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+
+- Risolto un problema in Lync (Skype for Business) per cui nelle riunioni online con più di 7 partecipanti la finestra della riunione poteva scomparire.
+
+### <a name="visio-non-security-updates"></a>Visio: aggiornamenti non relativi alla sicurezza
+
+- Risolto un problema che causava l’interruzione della gerarchia delle finestre per l’estensione di Visio con soluzioni di terze parti, se si disabilitava la funzione dinamica DPI.
 
 ### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 
@@ -43,6 +58,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
 
+- Risolto un problema per cui parti di un aggiornamento di Office non usavano il peer caching di Ottimizzazione recapito. 
+  [Altre informazioni]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+- Risolto un bug che portava alla rimozione o alla mancata attivazione dei prodotti, se Office veniva installato tramite lo strumento di distribuzione e si verificava un errore di corrispondenza maiuscole/minuscole.
 - Risolto un problema che causava un numero eccessivo di richieste di accesso nei dispositivi Windows 10 (1803 o versioni successive).
 - Risolto un problema di regressione che causa blocchi durante il download di immagini collegate.
 - Risolto un problema di sfocatura dei file EMF di grandi dimensioni incollati in Word, Excel e PowerPoint.

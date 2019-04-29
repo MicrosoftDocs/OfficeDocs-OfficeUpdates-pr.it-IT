@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: 0e8641b742db196ed58dc4ede93ee684ba5fce90
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745548"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370198"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -31,6 +31,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 ## <a name="version-1808-april-9"></a>Versione 1808: 9 aprile
 *Versione 1808 (Build 10730.20334)*
 
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+- Risolto un problema in Lync (Skype for Business) per cui nelle riunioni online con più di 7 partecipanti la finestra della riunione poteva scomparire.
+
 ### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 
 - È stato risolto un problema in cui l'utente può aprire i documenti in forma anonima in Internet Explorer o Microsoft Edge.
@@ -38,7 +41,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 - È stato aggiunto il supporto per il componente aggiuntivo di Word Creazione guidata cartolina giapponese per la nuova era giapponese. 
 
 ## <a name="version-1803-april-9"></a>Versione 1803: 9 aprile
-Questo mese non sono disponibili aggiornamenti.
+- Aggiornamenti della sicurezza elencati [qui](office365-proplus-security-updates.md)
 
 ## <a name="version-1808-march-12"></a>Versione 1808: 12 marzo
 *Versione 1808 (Build 10730.20304)*
@@ -57,7 +60,7 @@ Questo mese non sono disponibili aggiornamenti.
 - È stato risolto un problema che può causare il blocco dell'aggiornamento di Office per un certo tempo durante il tentativo di download.
 
 ## <a name="version-1803-march-12"></a>Versione 1803: 12 marzo 
-Questo mese non sono disponibili aggiornamenti.
+- Aggiornamenti della sicurezza elencati [qui](office365-proplus-security-updates.md)
 
 ## <a name="version-1808-february-12"></a>Versione 1808: 12 febbraio
 *Versione 1808 (Build 10730.20280)*
@@ -81,7 +84,7 @@ Questo mese non sono disponibili aggiornamenti.
 ## <a name="version-1803-february-12"></a>Versione 1803: 12 febbraio
 *Versione 1803 (Build 9126.2356)*
 
-*Si tratta della versione del Canale semestrale che è disponibile da luglio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2019. Tuttavia, ora è disponibile una nuova versione di Canale semestrale, Versione 1808 (Build 10730.20280), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Si tratta della versione del Canale semestrale, disponibile da luglio 2018. Continuerà a essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1808 (Build 10730.20280), contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza.*
 
 ### <a name="access-non-security-updates"></a>Access: aggiornamenti non relativi alla sicurezza 
 
@@ -113,7 +116,7 @@ Questo mese non sono disponibili aggiornamenti.
 ## <a name="version-1708-february-12"></a>Versione 1708: 12 febbraio
 *Versione 1708 (Build 8431.2372)*
 
-*Si tratta della versione del Canale semestrale che è disponibile da gennaio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione di Canale semestrale, Versione 1808 (Build 10730.20280), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Si tratta della versione del Canale semestrale, disponibile da gennaio 2018. Continuerà a essere supportata e a ricevere aggiornamenti della sicurezza fino a marzo 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1808 (Build 10730.20280), contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza.*
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
 
@@ -272,7 +275,7 @@ Questo mese non sono disponibili aggiornamenti.
 ## <a name="version-1803-january-8"></a>Versione 1803: 8 gennaio
 *Versione 1803 (Build 9126.2351)*
 
-*Si tratta della versione del Canale semestrale che è disponibile da luglio 2018. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, Versione 1808, che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Si tratta della versione del Canale semestrale, disponibile da luglio 2018. Continuerà a essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2019. Tuttavia, ora è disponibile una nuova versione del Canale semestrale, la versione 1808, contenente nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non relativi alla sicurezza.*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
 - Risolto un problema per garantire la parità delle funzionalità dell'opzione di LinkedIn tra le applicazioni di Office.
