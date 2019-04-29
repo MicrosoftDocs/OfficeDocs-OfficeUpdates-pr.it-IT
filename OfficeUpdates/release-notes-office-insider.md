@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438907"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370188"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -24,6 +24,32 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > [!NOTE]
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
+
+## <a name="april-26-2019"></a>26 aprile 2019
+Versione 1905 (build 11617.20002)
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="word"></a>Word 
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema in cui i macro del Risolutore presentavano problemi di esecuzione
+- È stato risolto un problema che potrebbe impedire l'importazione di file di Excel in SharePoint
+
+### <a name="powerpoint"></a>PowerPoint
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="outlook"></a>Outlook
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- Diverse correzioni a prestazioni e stabilità
+
+</BR></BR>
 
 ## <a name="april-19-2019"></a>19 aprile 2019
 Versione 1905 (build 11609.20002)
