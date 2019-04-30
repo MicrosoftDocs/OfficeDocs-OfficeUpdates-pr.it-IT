@@ -3,25 +3,6 @@
 
 
 
-## <a name="week-of-march-18-2019"></a>Settimana del 18 marzo 2019
-
-
-| Data di pubblicazione |Titolo dell'argomento | Modifica |
-|------|------------|--------|
-| 3/18/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
-| 3/19/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018](/OfficeUpdates/semi-annual-channel-targeted-2018) | modificato |
-| 3/19/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
-| 3/20/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2018](/OfficeUpdates/monthly-channel-2018) | modificato |
-| 3/20/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
-| 3/21/2019 | [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificato |
-| 3/21/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2018](/OfficeUpdates/monthly-channel-2018) | modificato |
-| 3/21/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
-| 3/21/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
-| 3/21/2019 | [Cronologia degli aggiornamenti per Office inSider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
-| 3/22/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
-| 3/22/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
-
-
 ## <a name="week-of-march-25-2019"></a>Settimana del 25 marzo 2019
 
 
@@ -105,3 +86,27 @@
 | 4/19/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
 | 4/19/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
 | 4/19/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
+
+
+## <a name="week-of-april-22-2019"></a>Settimana del 22 aprile 2019
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 4/23/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
+| 4/23/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
+| 4/23/2019 | [Cronologia degli aggiornamenti per Office inSider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
+| 4/23/2019 | [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificato |
+| 4/23/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
+| 4/23/2019 | [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificato |
+| 4/23/2019 | [Note sulla versione per Office 2016 per Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificato |
+| 4/23/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
+| 4/24/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
+| 4/24/2019 | [Note sulle versioni per i rilasci del Canale semestrale nel 2019](/OfficeUpdates/semi-annual-channel-2019) | modificato |
+| 4/24/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
+| 4/25/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
+| 4/25/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
+| 4/26/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
+| 4/26/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
+| 4/26/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
+| 4/27/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
