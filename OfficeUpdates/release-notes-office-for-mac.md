@@ -3,19 +3,19 @@ title: Note sulla versione per Office per Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 5/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 6cb4866a65ad45e54a13f62e1b422675d8e4ede4
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 57e30df61e42547b0c23cdb797142dcf87666a56
+ms.sourcegitcommit: b3d71e9fbbece2bba40b6b71f2ad3f4bbbee7a55
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370258"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33527781"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -36,7 +36,24 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 ## <a name="april-2019-release"></a>Versione di aprile 2019
 
- **Data di rilascio:** 16 aprile 2019 
+**Data di rilascio:** 29 aprile 2019 
+  
+ *Versione 16.24.1 (Build 19042400)*
+
+
+ Questa versione fornisce gli aggiornamenti seguenti:
+
+|**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|**Collegamento per il download del pacchetto di aggiornamento**|
+|:-----|:-----|:-----|:-----|
+|Word<br/>|Aggiornamenti dei caratteri in bundle per includere i glifi della nuova era giapponese.<br/>|<br/>|[Pacchetto di aggiornamento per Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19042400_Updater.pkg)<br/>|
+|Excel<br/>|Aggiornamenti dei caratteri in bundle per includere i glifi della nuova era giapponese.<br/>|<br/>|[Pacchetto di aggiornamento per Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19042400_Updater.pkg)<br/>|
+|PowerPoint<br/>|Aggiornamenti dei caratteri in bundle per includere i glifi della nuova era giapponese.<br/>|<br/>|[Pacchetto di aggiornamento per PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19042400_Updater.pkg)<br/>|
+|Outlook<br/>|Aggiornamenti dei caratteri in bundle per includere i glifi della nuova era giapponese.<br/>|<br/>|[Pacchetto di aggiornamento per Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19042400_Updater.pkg)<br/>|
+|OneNote<br/>|Aggiornamenti dei caratteri in bundle per includere i glifi della nuova era giapponese.<br/>|<br/>|[Pacchetto di aggiornamento per OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Onenote_16.24.19042400_Updater.pkg)<br/>|
+
+
+
+ **Data di rilascio:** 16 aprile 2019
   
  *Versione 16.24 (Build 19041401)*
 
