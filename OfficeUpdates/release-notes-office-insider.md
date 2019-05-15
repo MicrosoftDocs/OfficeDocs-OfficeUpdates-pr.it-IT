@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/26/2019
+ms.date: 5/10/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
+ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370188"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33882765"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -24,6 +24,65 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > [!NOTE]
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
+
+## <a name="may-10-2019"></a>10 maggio 2019
+Versione 1906 (Build 11702.20000)
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all"></a>Tutto
+- È stato risolto un problema in cui la finestra di dialogo Salva con nome poteva mostrare un percorso non corretto
+
+### <a name="word"></a>Word 
+- È stato risolto un problema in cui alcune selezioni di Aiutami non venivano inserite
+
+### <a name="excel"></a>Excel
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="powerpoint"></a>PowerPoint
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="outlook"></a>Outlook
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- È stato risolto un problema in cui le ID attività dovevano essere evidenziate per essere visualizzate
+
+</BR></BR>
+
+## <a name="may-3-2019"></a>3 maggio 2019
+Versione 1906 (Build 11629.20008)
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all"></a>Tutto
+- È stato risolto un problema in cui alcuni utenti riscontravano problemi di sincronizzazione con OneDrive for Business
+
+### <a name="word"></a>Word 
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema in cui i collegamenti esterni a volte venivano rimossi dalle cartelle di lavoro dopo l'aggiornamento a una versione più recente di Excel
+- È stato risolto un problema in cui alcuni utenti riscontravano problemi durante la selezione di celle in una cartella di lavoro
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema in cui le dimensioni del carattere non rimanevano tali quando si convertivano i disegni in testo
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema in cui salvare un contatto di un File VCF poteva generare campi vuoti come risultato
+- È stato risolto un problema in cui un messaggio poteva bloccarsi nella cartella Posta in uscita, anche se era stato inviato
+- È stato risolto un problema in cui Outlook poteva arrestarsi in modo anomalo durante l’uso dello strumento di disegno
+
+### <a name="access"></a>Accesso
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- È stato risolto un problema per cui l’editor passava dal cinese all'inglese
+- È stato risolto un problema in cui le attività non pubblicate potevano comparire nella copia pubblicata di un progetto principale
+
+</BR></BR>
 
 ## <a name="april-26-2019"></a>26 aprile 2019
 Versione 1905 (build 11617.20002)
