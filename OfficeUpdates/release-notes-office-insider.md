@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/10/2019
+ms.date: 5/17/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
-ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
+ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
+ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33882765"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34161565"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -24,6 +24,117 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > [!NOTE]
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
+
+## <a name="may-17-2019"></a>17 maggio 2019
+Versione 1906 (build 11708.20006)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="user-experience-updates"></a>Aggiornamenti dell’esperienza utente
+
+Gli aggiornamenti nella sezione Presto disponibile sono ora disponibili, con la barra multifunzione semplificata e l’aggiornamento visivo del riquadro delle cartelle, dell’elenco dei messaggi e del riquadro di lettura.
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Questa modifica farà parte della nuova interfaccia utente predefinita, che è già presente nella scheda Presto disponibile dalla metà di dicembre per il 100% dei prodotti.
+
+#### <a name="customizable-simplified-ribbon"></a>Barra multifunzione semplificata personalizzabile
+
+Il passaggio dalla visualizzazione classica a quella semplificata e il blocco o sblocco dei comandi sono facilmente personalizzabili.
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Gli utenti possono accedere alla barra multifunzione semplificata attivando, inizialmente, la scheda Presto disponibile e facendo clic sulla freccia di espansione per passare dalla visualizzazione classica multiriga alla nuova barra multifunzione semplificata.
+
+##### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Passare dalla barra multifunzione classica a quella semplificata
+
+#### <a name="pick-your-favorite-action"></a>Selezionare l’azione preferita
+
+Non si usa Contrassegna ed Elimina? E invece Archivia o Segna come già letto? Come personalizzare il menu Azioni rapide con i comandi utilizzati più spesso.
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Per selezionare le Azioni rapide, fare clic con il pulsante destro del mouse su un messaggio di posta elettronica nell'elenco per aprire il Menu di scelta rapida. Quindi fare clic su "Imposta azioni rapide"
+
+##### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Modificare le impostazione predefinite da Contrassegna ed Elimina ad Archivia, Sposta, Segna come già letto o nessuna per un elenco dei messaggi più ordinato.
+
+#### <a name="relaxed-or-tighter-layout-you-choose"></a>Layout medio o più ridotto? A te la scelta
+
+Usa spaziatura inferiore consente di decidere se si vuole più spazio fra gli elementi o un layout più ridotto per visualizzare più elementi.
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Scheda Visualizza, usare la casella di controllo con spaziatura ridotta: nel gruppo Messaggi per la barra multifunzione classica, impostazioni di Visualizzazione corrente per la barra multifunzione semplificata
+
+##### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Usare Outlook per la valutazione della posta elettronica e per scrivere un messaggio, con e senza l’impostazione abilitata. Con Usa spaziatura ridotta abilitata, sono presenti più messaggi in ogni pagina e i form di composizione sono semplificati.
+
+#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a>Eliminare le voci usate di recente e duplicate tramite il client di sincronizzazione di OneDrive.
+
+Abilitare una migliore integrazione del client di sincronizzazione di OneDrive con gli allegati cloud tramite l’eliminazione delle voci usate di recente e duplicate. Abilitare il comportamento allega come copia più veloce per i dati sincronizzati.
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Se si usa il client di sincronizzazione di OneDrive, non verranno più visualizzati file duplicati negli Allega file usati di recente.
+
+##### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Abilitare il client di sincronizzazione di OneDrive e usare il menu Allega file nella versione desktop di Outlook
+
+#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a>È stata migliorata la sincronizzazione delle cartelle condivise per le cassette postali con più cartelle
+
+Per anni Outlook ha limitato a un massimo di 500 il numero delle cartelle durante la sincronizzazione delle cassette postali condivise. Con questa modifica Outlook ha migliorato la sincronizzazione in modo che non sia più presente il limite di 500 nelle cartelle condivise.
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Creare 1000 cartelle in una cassetta postale, concedere ad altri utenti l'accesso alla cassetta postale, creare un profilo di Outlook per un altro utente e verificare che la sincronizzazione funzioni.
+
+### <a name="word"></a>Word
+
+#### <a name="erase-just-a-little-bit"></a>Effettuare delle piccole cancellazioni
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Passare alla scheda Disegno. Selezionare il menu a discesa Gomma. Scegliere Gomma piccola o Gomma media.
+
+##### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Passare alla scheda Disegno. Selezionare la penna. Disegnare un tratto input penna. Selezionare il menu a discesa Gomma. Scegliere Gomma piccola o Gomma media. Eliminare alcuni punti del tratto input penna.
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all"></a>Tutto 
+- È stato risolto un problema che impediva ad alcuni utenti di salvare in formato PDF
+- È stato risolto un problema che poteva influire sul salvataggio di file di grandi dimensioni in un sistema a 32 bit
+
+### <a name="word"></a>Word 
+- Sono state migliorate significativamente le funzionalità di dettatura
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema per cui gli eventi di doppio clic potevano non riuscire sui dispositivi con touchscreen
+- È stato risolto un problema che impediva ad alcuni utenti di modificare le macro VBA
+- È stato risolto un problema che poteva influire sulle prestazioni quando si usavano i filtri dei dati
+
+### <a name="powerpoint"></a>PowerPoint
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema per cui veniva visualizzato un modello diverso da quello selezionato.
+
+### <a name="access"></a>Accesso
+- È stato risolto un problema per cui l'uso del generatore di zoom per la visualizzazione di testo RTF poteva rendere difficile la lettura.
+
+### <a name="project"></a>Project
+- Diverse correzioni su prestazioni e stabilità
+
+</BR></BR>
 
 ## <a name="may-10-2019"></a>10 maggio 2019
 Versione 1906 (Build 11702.20000)
@@ -62,6 +173,7 @@ Versione 1906 (Build 11629.20008)
 - È stato risolto un problema in cui alcuni utenti riscontravano problemi di sincronizzazione con OneDrive for Business
 
 ### <a name="word"></a>Word 
+- È stato risolto un problema per cui, in alcuni casi, l'apertura di Word poteva richiedere molto tempo.
 
 ### <a name="excel"></a>Excel
 - È stato risolto un problema in cui i collegamenti esterni a volte venivano rimossi dalle cartelle di lavoro dopo l'aggiornamento a una versione più recente di Excel
@@ -200,7 +312,7 @@ Versione 1904 (build 11527.20014)
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="all-applications"></a>Tutte le applicazioni
- - È stato risolto un problema per cui nei menu di scelta rapida poteva comparire l'icona dell'app errata per Excel
+- È stato risolto un problema per cui nei menu di scelta rapida poteva comparire l'icona dell'app errata per Excel
 - È stato risolto un problema per cui il pulsante del menu File spariva dopo l'installazione di un aggiornamento
 - È stato risolto un problema per cui la licenza dell'utente veniva modificata
 
