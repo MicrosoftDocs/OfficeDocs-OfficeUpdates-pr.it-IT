@@ -3,18 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034497"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337110"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -30,10 +31,17 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 ## <a name="version-1902-may-14"></a>Versione 1902: 14 maggio
 *Versione 1902 (Build 11328.20286)*
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non correlati alla sicurezza
- -  Risolto un problema riguardo l’utilizzo dello strumento fotocamera in Excel che potrebbe causare un blocco del foglio di calcolo.
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+ -  È stato risolto un problema per cui quando si usava lo strumento Fotocamera in Excel poteva verificarsi un blocco del foglio di calcolo.
+ - È stato risolto un problema che causava un arresto anomalo durante lo scorrimento con la rotellina del mouse in una finestra inattiva contenente un foglio grafico.
+ - È stato risolto un problema che causava la visualizzazione di un messaggio "Errore imprevisto" durante l'importazione di un foglio di calcolo in SharePoint.
+ - È stato risolto un problema che causava l'arresto anomalo di Excel durante l'apertura di una cartella di lavoro contenente formattazione condizionale che usa un nome come regola e a cui è applicata una visualizzazione personalizzata.
+ - Le macro che usano la convalida dei dati con formule contenenti più di 255 caratteri potevano generare errori in fase di esecuzione. Questo problema ora è stato corretto.
+ - Un problema causava rallentamenti durante il caricamento di file contenenti tabelle pivot collegate a altre cartelle di lavoro. Questo problema è stato risolto.
+ - È stato risolto un problema che si verificava all'apertura di file HTML e che causava la visualizzazione del messaggio di errore simile a "il formato e l'estensione del file non corrispondono".
+ - È stata apportata una modifica per risolvere i problemi relativi allo scorrimento con la rotellina del mouse su finestre inattive.  
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
  - Risolve un problema che impediva ai clienti di poter modificare alcuni campi di elementi dei quali era stata eseguita la migrazione.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
@@ -44,7 +52,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  - Accedere a Skype for Business con le credenziali utilizzate per accedere a un'altra applicazione di Office.
  - Attivare correttamente l’app Skype for Business quando è installata con attivazione di computer condivisi.
 
-### <a name="visio-non-security-updates"></a>Visio: Aggiornamenti non relativi alla sicurezza
+### <a name="visio-non-security-updates"></a>Visio: aggiornamenti non relativi alla sicurezza
  - Risolto un problema che causava l’interruzione della gerarchia delle finestre per l’estensione di Visio con soluzioni di terze parti, se si disabilitava la funzione dinamica DPI.
 
 ### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
@@ -209,7 +217,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 ## <a name="version-1808-january-8"></a>Versione 1808: 8 gennaio
 *Versione 1808 (Build 10730.20264)* 
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza 
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza 
 
 - Risolto un problema che causava errori di sincronizzazione del calendario.
 
