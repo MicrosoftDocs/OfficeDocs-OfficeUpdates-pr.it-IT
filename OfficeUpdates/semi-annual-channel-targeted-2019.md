@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 5/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
-ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
+ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34337110"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432424"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -60,6 +60,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  - Risolto il problema della finestra di dialogo "Non è possibile caricare la risorsa" quando si avvia Word.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+ - Risolto un problema per cui non è possibile salvare i file nelle cartelle WebDAV di Apache.
+ - Risolto un problema per cui Office si chiude improvvisamente all'apertura di alcuni file archiviati nel cloud da parte del cliente.
  - Risolto un problema di scorretta identificazione del nome della nuova era "Reiwa" in caratteri Hiragana e Kanji come espressione con errori di ortografia o grammatica.
  - Risolto un problema per cui l'elenco dei file recenti risulta eliminato per molti utenti in Windows 10.
  - Risolto un problema che causava la visualizzazione di una barra di Office Update per l’utente finale anche se era in corso un aggiornamento generato da un amministratore.
