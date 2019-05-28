@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
-ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
+ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34161565"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432414"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -24,6 +24,42 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > [!NOTE]
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
+
+## <a name="may-24-2019"></a>24 maggio 2019
+Versione 1906 (Build 11715.20002)
+
+## <a name="whats-new"></a>Novità:
+
+#### <a name="user-experience-updates"></a>Aggiornamenti dell'esperienza utente
+
+Gli aggiornamenti nella sezione Prossimamente sono ora disponibili e includono la barra multifunzione semplificata, nonché un aggiornamento visivo del riquadro delle cartelle, dell'elenco dei messaggi e del riquadro di lettura.
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all"></a>Tutto
+
+- È stato risolto un problema che impediva la visualizzazione del riquadro della chat
+
+### <a name="word"></a>Word 
+- È stato risolto un problema per cui, in alcuni casi, Word evidenziava in modo errato il testo per indicare errori grammaticali
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema per cui veniva usata un'icona errata per Elementi grafico
+- È stato risolto un problema per cui poteva essere attivata la cartella di lavoro errata in uno script VBA quando la stessa cartella era già aperta
+
+### <a name="powerpoint"></a>PowerPoint
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="outlook"></a>Outlook
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- È stato risolto un problema per cui Project poteva arrestarsi in modo anomalo dopo il passaggio alla barra delle applicazioni
+
+</BR></BR>
 
 ## <a name="may-17-2019"></a>17 maggio 2019
 Versione 1906 (build 11708.20006)
@@ -278,6 +314,22 @@ Questa funzionalità è un miglioramento destinato agli utenti che tracciano gra
 ## <a name="april-12-2019"></a>12 aprile 2019
 Versione 1905 (Build 11601.20042)
 
+## <a name="whats-new"></a>Novità:
+
+### <a name="access"></a>Access
+
+#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Novità di Access: connettore dati a Microsoft Graph
+
+È ora possibile collegarsi o importare dati dai servizi di Microsoft Graph per creare applicazioni che sfruttano i dati contestuali intelligenti archiviati in Graph
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+Nella scheda Dati esterni della barra multifunzione fare clic su Nuove origini dati e individuare il nuovo connettore Graph nel menu Servizi online
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Importare dati o collegarsi a diversi servizi di Graph, tra cui Persone, Gruppi ed Elementi di OneDrive.
+
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="all-applications"></a>Tutte le applicazioni
@@ -308,6 +360,55 @@ Versione 1905 (Build 11601.20042)
 
 ## <a name="april-5-2019"></a>5 aprile 2019
 Versione 1904 (build 11527.20014)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a>Outlook per Windows: impostare e condividere le impostazioni di Posta in arrivo evidenziata
+
+Le preferenze di Posta in arrivo evidenziata sono archiviate nel cloud, di conseguenza è possibile usufruire della stessa esperienza coerente indipendentemente dall'uso di Outlook per Windows o di Outlook sul web in qualsiasi computer.
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+In File > Opzioni > scheda Generale è presente una nuova preferenza per 'Memorizza le mie impostazioni di Outlook nel cloud'. Gli utenti dovranno selezionare la casella per abilitare l'impostazione di Posta in arrivo evidenziata a effettuare il roaming ad altre installazioni di Outlook Desktop e a Outlook Web App.
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Cambiare Posta in arrivo evidenziata nel computer in cui è attivata la preferenza delle impostazioni cloud. Passare a Outlook Web App e verificare l'applicazione della preferenza. Cambiare Posta in arrivo evidenziata in Outlook Web App e avviare la versione desktop di Outlook per verificare l'applicazione della preferenza.
+
+### <a name="word"></a>Word
+
+#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>Nella modalità Strumenti di apprendimento è disponibile ulteriore supporto per altri colori della pagina
+
+In Strumenti di apprendimento in Word è stato aggiunto il supporto per altri colori del tema della pagina, per poter modificare il colore di sfondo della pagina.  Molti utenti hanno difficoltà a leggere con uno sfondo completamente bianco o completamente nero, quindi è stata ampliata la scelta dei colori disponibili in Word su PC e Mac.
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+Per provare, passare alla scheda Visualizza, scegliere Strumenti di apprendimento e quindi Colore pagina.
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Per provare, passare alla scheda Visualizza, scegliere Strumenti di apprendimento e quindi Colore pagina.
+
+### <a name="excel"></a>Excel
+
+#### <a name="elevate-creativity-with-animated-3d-models"></a>Aumentare la creatività con modelli 3D animati
+
+Office ora supporta i modelli animati, che verranno riprodotti nell'editor e consentiranno di animare i fogli.
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+1. Aprire Excel
+2. Inserire un modello 3D animato. A breve tali modelli saranno inseriti in Remix, ma per il momento sono disponibili nel percorso seguente: \\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art
+3. Il modello animato verrà riprodotto nell'editor, nonché nella modalità Presentazione.
+4. Nella barra multifunzione del formato 3D esplorare altre scene di animazione disponibili nel modello
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+1. Inserire un modello animato, che verrà riprodotto nell'editor.
+2. Esplorare le scene di animazione disponibili nel modello animato tramite la raccolta Scene, disponibile nella barra multifunzione del formato 3D
+3. È possibile riprodurre e mettere in pausa l'animazione con la barra multifunzione, la barra degli strumenti mobile o la barra spaziatrice
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
@@ -378,6 +479,22 @@ Versione 1904 (build 11514.20004)
 ## <a name="march-15-2019"></a>15 marzo 2019
 Versione 1904 (build 11504.20000)
 
+## <a name="whats-new"></a>Novità:
+
+### <a name="word"></a>Word
+
+#### <a name="focus-mode"></a>Modalità focus
+
+Passare alla modalità focus nel menu Visualizza per rimuovere elementi di distrazione e concentrarsi sul lavoro. Solo per gli abbonati a Office 365.
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+Pulsante "Focus" nella scheda Visualizza oppure pulsante "Focus" sulla barra di stato della barra multifunzione
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Accedere alla modalità focus e sperimentare la nuova esperienza con focus
+
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
@@ -421,7 +538,19 @@ Con Microsoft Search è possibile trovare i file, le azioni, le persone e l'assi
 
 - Cercare un'università, un documento recente o i comandi della barra multifunzione usati più di frequente
 - Cercare un argomento o un oggetto e ottenere altre informazioni sull'elemento cercato
+- 
+#### <a name="coauthoring"></a>Creazione condivisa
 
+Si è stanchi di non poter accedere immediatamente a documenti contenenti macro? Ora i file docm in OneDrive for Business consentono a più autori di apportare modifiche contemporaneamente.
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+Per accedere a questa funzionalità, l'utente non deve fare clic su alcun pulsante nell'interfaccia utente. La funzionalità è abilitata per impostazione predefinita nei file docm di OneDrive for Business.
+L'utente deve quindi salvare un file docm in OneDrive for Business per provare.
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Creare un file docm in OneDrive for Business, condividerlo con i colleghi e collaborare.
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
@@ -452,6 +581,21 @@ Con Microsoft Search è possibile trovare i file, le azioni, le persone e l'assi
 ## <a name="march-1-2019"></a>1 marzo 2019 
 Versione 1903 (build 11414.20014)
 
+## <a name="whats-new"></a>Novità
+
+### <a name="word"></a>Word
+
+#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a>Colori sincronizzati per revisioni, commenti e collaborazione in tempo reale
+
+Le correzioni dei prodotti ora garantiscono che commenti, revisioni e cursore di un collaboratore vengano visualizzati nello stesso colore.
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+Aprire un documento di SharePoint o OneDrive aperto da altri utenti. Verificare che il colore delle revisioni e dei commenti di un utente corrisponda a quello del cursore di tale utente.
+
+#### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Aprire un documento di SharePoint o OneDrive aperto da altri utenti. Verificare che il colore delle revisioni e dei commenti di un utente corrisponda a quello del cursore di tale utente.
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
