@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Canale mensile (mirato) di Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 04/23/2019
+ms.date: 05/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 79b699861abccf27f37a0f20f066f41667476df8
-ms.sourcegitcommit: a91987b2cd720f39376703edaed6283f968d8e5c
+ms.openlocfilehash: 0a1503de7b2e6c12d7d3f44b926165cda8734109
+ms.sourcegitcommit: 01db1a12c902cc22867e31c1636e12c023b3f515
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34107675"
+ms.lasthandoff: 05/27/2019
+ms.locfileid: "34487547"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -30,6 +30,11 @@ Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come In
 > - Le note sulla versione vengono aggiornate con minore frequenza e gli aggiornamenti per più build possono essere combinati fino al numero di build per cui vengono pubblicate le note sulla versione
 
 [//]: # (NON RIMUOVERE)
+
+**25 maggio 2019**<br/>
+Versione 1905 (Build 11629.20196)<br/>
+
+**22 maggio 2019**<br/> Versione 1905 (build 11629.20164)<br/>
 
 **16 maggio 2019**<br/>
 Versione 1905 (Build 11629.20136)<br/>
