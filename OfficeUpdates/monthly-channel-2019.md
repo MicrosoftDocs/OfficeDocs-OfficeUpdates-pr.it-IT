@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834815"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549743"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -22,10 +22,71 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  
  > [!NOTE]
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
-> - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md). 
+> - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
+
+## <a name="version-1905-may-29"></a>Versione 1905: 29 maggio
+*Versione 1905 (Build 11629.20196)*
+
+### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
+
+- **Passaggio semplificato:** la nuova interfaccia di Gestione account consente di visualizzare tutti gli account aziendali e personali di Office 365 in un'unica posizione. Passare da uno all’altro non è mai stato così facile. [Altre informazioni](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
+
+- **Passaggio semplificato:** la nuova interfaccia di Gestione account consente di visualizzare tutti gli account aziendali e personali di Office 365 in un'unica posizione. Passare da uno all’altro non è mai stato così facile. [Altre informazioni](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Prossimamente:** scoprire le interessanti modifiche presto disponibili in Office, provarle e inviare feedback. [Altre informazioni](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **Collaborare in modo più efficace con @menzioni nei Commenti:** la collaborazione è molto più semplice. Ora è possibile menzionare con @ i colleghi nei commenti dei documenti e loro riceveranno automaticamente una notifica tramite posta elettronica che li riporterà al documento.
+
+- **Creazione condivisa miglioramenti unione**: la creazione condivisa ha migliorato il tasso di unione quando si lavora con la formattazione condizionale, gli stili di cella, la protezione dell'intervallo, la griglia di visualizzazione e il taglia/incolla tra fogli. 
+
+### <a name="outlook"></a>Outlook
+
+- **Un modo più rapido per aggiungere account:** grazie ai miglioramenti per la configurazione dell'account, l'aggiunta di account di Outlook.com e Gmail che utilizzano l'autenticazione a 2 fattori in Outlook è più facile che mai. [Altre informazioni](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+
+- **Passaggio semplificato:** la nuova interfaccia di Gestione account consente di visualizzare tutti gli account aziendali e personali di Office 365 in un'unica posizione. Passare da uno all’altro non è mai stato così facile. [Altre informazioni](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Sottotitoli e sottotitoli in tempo reale:** le parole del relatore vengono visualizzate automaticamente sullo schermo come sottotitoli o tradotti in sottotitoli nella lingua scelta. [Altre informazioni](https://support.office.com/article/d68d20e49-aec3-456a-939d-34a79e8ddd5f)
+
+- **Prossimamente:** scoprire le interessanti modifiche presto disponibili in Office, provarle e inviare feedback. [Altre informazioni](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **Collaborare in modo più efficace con @menzioni nei Commenti:** la collaborazione è molto più semplice. Ora è possibile menzionare con @ i colleghi nei commenti dei documenti e loro riceveranno automaticamente una notifica tramite posta elettronica che li riporterà al documento.
+
+### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
+
+- **Passaggio semplificato:** la nuova interfaccia di Gestione account consente di visualizzare tutti gli account aziendali e personali di Office 365 in un'unica posizione. Passare da uno all’altro non è mai stato così facile. [Altre informazioni](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="visio-feature-updates"></a>Visio: aggiornamenti delle funzionalità
+
+- **Passaggio semplificato:** la nuova interfaccia di Gestione account consente di visualizzare tutti gli account aziendali e personali di Office 365 in un'unica posizione. Passare da uno all’altro non è mai stato così facile. [Altre informazioni](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- I report di Power BI esportati in PDF, PPT o configurati per la sottoscrizione messaggio di posta elettronica verranno ora visualizzati anche con Visio Visual:** se si esportano i report di Power BI in PDF, PPT o si configura una sottoscrizione messaggio di posta elettronica, Visio Visual verrà facilmente renderizzato in questi formati. [Altre informazioni](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità  
+
+- **Collaborare in modo più efficace con @menzioni nei Commenti:** la collaborazione è molto più semplice. Ora è possibile menzionare con @ i colleghi nei commenti dei documenti e loro riceveranno automaticamente una notifica tramite posta elettronica che li riporterà al documento.
+
+- **Passaggio semplificato:** la nuova interfaccia di Gestione account consente di visualizzare tutti gli account aziendali e personali di Office 365 in un'unica posizione. Passare da uno all’altro non è mai stato così facile. [Altre informazioni](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **La modalità Strumenti di apprendimento dispone di ulteriore supporto per più colori della pagina:** in Strumenti di apprendimento in Word è stato aggiunto il supporto per altri colori del tema della pagina, per poter modificare il colore di sfondo della pagina.  Molti utenti hanno difficoltà a leggere con uno sfondo completamente bianco o completamente nero, quindi è stata ampliata la scelta dei colori disponibili in Word su PC e Mac.
+
+- **Prossimamente:** scoprire le interessanti modifiche presto disponibili in Office, provarle e inviare feedback. [Altre informazioni](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+## <a name="version-1904-may-22"></a>Versione 1904: 22 maggio
+*Versione 1904 (Build 11601.20230)*
+
+Si tratta di un problema che consente agli utenti di visualizzare la nuova richiesta di privacy per ogni avvio di un'applicazione, anche dopo aver selezionato ed effettuato una scelta per il livello di privacy.
+
+## <a name="version-1904-may-14"></a>Versione 1904: 14 maggio 
+*Versione 1904 (Build 11601.20204)*
+
+ - Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/OfficeUpdates/office365-proplus-security-updates)
 
 ## <a name="version-1904-may-08"></a>Versione 1904: maggio 08 
 *Versione 1904 (Build 11601.20178)* 
@@ -144,7 +205,8 @@ Risolto un problema di scorretta identificazione del nome della nuova era "Reiwa
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 
-- **Avere un momento di respiro tra una riunione e l'altra:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che terminino per impostazione predefinita 5-10 minuti in anticipo. [Altre informazioni](https://support.office.com/it-IT/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- 
+  **Avere un momento di respiro tra una riunione e l'altra:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che terminino per impostazione predefinita 5-10 minuti in anticipo. [Altre informazioni](https://support.office.com/it-IT/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Ascoltare il testo del messaggio di posta elettronica con Leggi ad alta voce**: Outlook è in grado di leggere i messaggi di posta elettronica ad alta voce, evidenziando il testo durante la lettura. Per attivare Leggi ad alta voce, passare alle impostazioni Accessibilità. [Altre informazioni](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -163,7 +225,8 @@ Risolto un problema di scorretta identificazione del nome della nuova era "Reiwa
  
 ### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
 
-- **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle nuove installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/DeployOffice/teams-install)
+- 
+  **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle nuove installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Versione 1901: 12 febbraio
 *Versione 1901 (Build 11231.20174)* 
@@ -186,6 +249,10 @@ Aggiornamenti della sicurezza elencati [qui](office365-proplus-security-updates.
 - **Maggiore controllo sui diagrammi di flusso di dati:** i nuovi fantastici layout per i diagrammi di flusso del Visualizzatore dati sono chiari, nitidi e facili da capire. [Altre informazioni](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **Stencil di Azure incorporati:** per progettare un'applicazione cloud o pianificare un'architettura è possibile scegliere tra decine di stencil di Azure. [Altre informazioni](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
+
+- **Trasformare il documento da statico a sorprendente:** trasformare il documento in una pagina web interattiva, facile da condividere che si adatta perfettamente a qualsiasi dispositivo. [Altre informazioni](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
 
@@ -223,8 +290,7 @@ Solo aggiornamenti non relativi alla sicurezza, rivolti ai problemi correlati al
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 
 - **Migliorare la comprensione con Focus su riga:** spostarsi in un documento riga per riga senza distrazioni. Modificare lo stato attivo per rendere visibili una, tre o cinque righe alla volta. [Altre informazioni](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
-- **Trasformare il documento da statico a sorprendente:** trasformare il documento in una pagina web interattiva, facile da condividere che si adatta perfettamente a qualsiasi dispositivo. [Altre informazioni](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
-- **Mantenere Verifica accessibilità in esecuzione mentre si lavora:** tenere traccia dei problemi di accessibilità del documento senza la necessità di tenere Verifica accessibilità sempre aperto. Tramite un indicatore nella barra di stato, in modo analogo al controllo ortografico, Word contrassegna i problemi di accessibilità riscontrati mentre si lavora. 
+- **Mantenere Verifica accessibilità in esecuzione mentre si lavora:** tenere traccia dei problemi di accessibilità del documento senza la necessità di tenere Verifica accessibilità sempre aperto. Tramite un indicatore nella barra di stato, in modo analogo al controllo ortografico, Word contrassegna i problemi di accessibilità riscontrati mentre si lavora.
 
 ### <a name="visio-feature-updates"></a>Visio: aggiornamenti delle funzionalità
 
