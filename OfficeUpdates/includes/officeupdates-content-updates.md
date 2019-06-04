@@ -3,30 +3,6 @@
 
 
 
-## <a name="week-of-april-22-2019"></a>Settimana del 22 aprile 2019
-
-
-| Data di pubblicazione |Titolo dell'argomento | Modifica |
-|------|------------|--------|
-| 23/04/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
-| 23/04/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
-| 23/04/2019 | [Cronologia degli aggiornamenti per Office Insider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
-| 23/04/2019 | [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificato |
-| 23/04/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
-| 23/04/2019 | [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificato |
-| 23/04/2019 | [Note sulla versione per Office 2016 per Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificato |
-| 23/04/2019 | [Cronologia degli aggiornamenti per Office per Mac](/OfficeUpdates/update-history-office-for-mac) | modificato |
-| 4/24/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
-| 4/24/2019 | [Note sulle versioni per i rilasci del Canale semestrale nel 2019](/OfficeUpdates/semi-annual-channel-2019) | modificato |
-| 4/24/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
-| 4/25/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
-| 4/25/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
-| 4/26/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
-| 4/26/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
-| 4/26/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
-| 4/27/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
-
-
 ## <a name="week-of-april-29-2019"></a>Settimana del 29 aprile 2019
 
 
@@ -102,3 +78,18 @@
 | 5/23/2019 | [Cronologia delle versioni per Microsoft AutoUpdate (MAU)](/OfficeUpdates/release-history-microsoft-autoupdate) | modificato |
 | 5/24/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
 | 5/24/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
+
+
+## <a name="week-of-may-27-2019"></a>Settimana del 27 maggio 2019
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 5/27/2019 | [Cronologia degli aggiornamenti per Canale mensile (mirato) di Office](/OfficeUpdates/update-history-monthly-channel-targeted) | modificato |
+| 5/29/2019 | [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificato |
+| 5/29/2019 | [Note sulla versione per Office per Mac](/OfficeUpdates/release-notes-office-for-mac) | modificato |
+| 5/29/2019 | [Cronologia degli aggiornamenti per Office Insider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
+| 5/29/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
+| 5/29/2019 | [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificato |
+| 5/31/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
+| 5/31/2019 | [Cronologia degli aggiornamenti per Office Insider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
