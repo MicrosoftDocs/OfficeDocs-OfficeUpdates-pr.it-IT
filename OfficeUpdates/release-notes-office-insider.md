@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/17/2019
+ms.date: 5/31/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
+ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432414"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34659783"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -24,6 +24,112 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > [!NOTE]
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
+
+
+## <a name="may-31-2019"></a>31 maggio 2019
+Versione 1906 (build 11722.20008)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a>La finestra di dialogo per contattare il supporto è ora ancorabile e viene visualizzata a destra
+
+La finestra di dialogo usata per contattare il supporto verrà ora visualizzata in un riquadro a destra e avviata come finestra ancorata.
+
+#### <a name="ink-in-your-email"></a>Input penna disponibile nei messaggi di posta elettronica
+
+È ora possibile creare e aggiungere annotazioni alle immagini nei messaggi di posta elettronica di Outlook.
+
+### <a name="word"></a>Word
+
+#### <a name="open-document-links-in-word"></a>Aprire i collegamenti ai documenti in Word
+
+Quando si fa clic su un collegamento a un documento in Office, è possibile aggiornare la preferenza in modo da aprire l'app Word per impostazione predefinita.  Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/it-IT/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Per impostazione predefinita, la funzionalità è disattivata. Gli utenti possono attivarla tramite l'impostazione Opzioni -> Avanzate -> Gestione del link oppure possono sceglierla quando le app WXP Win32 visualizzano un'apposita esperienza.
+Quando gli utenti fanno clic su collegamenti a file di Word/PowerPoint/Excel archiviati in OneDrive/OneDrive for Business/SharePoint da Outlook/Word/PowerPoint/Excel, per impostazione predefinita tali collegamenti verranno aperti nell'applicazione di Office appropriata anziché nel browser.
+
+Per modificare questa impostazione predefinita, gli utenti possono aggiornare l'impostazione seguente in Outlook/Word/Excel/PowerPoint:
+
+File -> Opzioni -> Avanzate -> Gestione del link
+
+Questa impostazione è condivisa in Outlook/Word/PowerPoint/Excel e può essere impostata in una di queste app.
+
+##### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Per attivare l'esperienza di scelta, aprire un collegamento a un documento di Word archiviato in OneDrive/SharePoint da Outlook/Word/PowerPoint/Excel, quindi fare clic su Apri nell'applicazione client da Office Online. Eseguire questa operazione per due volte nell'arco di 30 giorni. Dopo aver effettuato la scelta, per impostazione predefinita i collegamenti verranno aperti nelle app Win 32.
+
+### <a name="powerpoint"></a>PowerPoint
+
+#### <a name="open-presentation-links-in-powerpoint"></a>Aprire i collegamenti alle presentazioni in PowerPoint
+
+Quando si fa clic su un collegamento a una presentazione in Office, è possibile aggiornare la preferenza in modo da aprire l'app PowerPoint per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/it-IT/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Per impostazione predefinita, la funzionalità è disattivata. Gli utenti possono attivarla tramite l'impostazione Opzioni -> Avanzate -> Gestione del link oppure possono sceglierla quando le app WXP Win32 visualizzano un'apposita esperienza.
+Quando gli utenti fanno clic su collegamenti a file di Word/PowerPoint/Excel archiviati in OneDrive/OneDrive for Business/SharePoint da Outlook/Word/PowerPoint/Excel, per impostazione predefinita tali collegamenti verranno aperti nell'applicazione di Office appropriata anziché nel browser.
+
+Per modificare questa impostazione predefinita, gli utenti possono aggiornare l'impostazione seguente in Outlook/Word/Excel/PowerPoint:
+
+File -> Opzioni -> Avanzate -> Gestione del link
+
+Questa impostazione è condivisa in Outlook/Word/PowerPoint/Excel e può essere impostata in una di queste app.
+
+##### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Per attivare l'esperienza di scelta, aprire un collegamento a una presentazione di PowerPoint archiviata in OneDrive/SharePoint da Outlook/Word/PowerPoint/Excel, quindi fare clic su Apri nell'applicazione client da Office Online. Eseguire questa operazione per due volte nell'arco di 30 giorni. Dopo aver effettuato la scelta, per impostazione predefinita i collegamenti verranno aperti nelle app Win 32.
+
+### <a name="excel"></a>Excel
+
+#### <a name="open-workbook-links-in-excel"></a>Aprire i collegamenti alle cartelle di lavoro in Excel
+
+Quando si fa clic su un collegamento a una cartella di lavoro in Office, è possibile aggiornare la preferenza in modo da aprire l'app Excel per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/it-IT/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Guida introduttiva:
+
+Per impostazione predefinita, la funzionalità è disattivata. Gli utenti possono attivarla tramite l'impostazione Opzioni -> Avanzate -> Gestione del link oppure possono sceglierla quando le app WXP Win32 visualizzano un'apposita esperienza.
+Quando gli utenti fanno clic su collegamenti a file di Word/PowerPoint/Excel archiviati in OneDrive/OneDrive for Business/SharePoint da Outlook/Word/PowerPoint/Excel, per impostazione predefinita tali collegamenti verranno aperti nell'applicazione di Office appropriata anziché nel browser.
+
+Per modificare questa impostazione predefinita, gli utenti possono aggiornare l'impostazione seguente in Outlook/Word/Excel/PowerPoint:
+
+File -> Opzioni -> Avanzate -> Gestione del link
+
+Questa impostazione è condivisa in Outlook/Word/PowerPoint/Excel e può essere impostata in una di queste app.
+
+##### <a name="scenarios-to-try"></a>Scenari da provare:
+
+Per attivare l'esperienza di scelta, aprire un collegamento a una cartella di lavoro di Excel archiviata in OneDrive/SharePoint da Outlook/Word/PowerPoint/Excel, quindi fare clic su Apri nell'applicazione client da Office Online. Eseguire questa operazione per due volte nell'arco di 30 giorni. Dopo aver effettuato la scelta, per impostazione predefinita i collegamenti verranno aperti nelle app Win 32.
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all"></a>Tutto
+- È stato risolto un problema per cui i file potevano essere salvati automaticamente anche quando il salvataggio automatico era disabilitato.
+
+### <a name="word"></a>Word 
+- È stato risolto un problema che poteva impedire ad alcuni utenti di salvare in SharePoint.
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema che causava la visualizzazione di un'icona errata per i filtri inattivi.
+
+### <a name="powerpoint"></a>PowerPoint
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema per cui alcuni utenti risultavano offline per errore in una visualizzazione della pianificazione di gruppo.
+- È stato risolto un problema che impediva a SafeLink di analizzare un URL con uno spazio finale.
+- È stato risolto un problema per cui le sale venivano visualizzate come disponibili in orario non lavorativo.
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- Diverse correzioni a prestazioni e stabilità
+
+</BR></BR>
 
 ## <a name="may-24-2019"></a>24 maggio 2019
 Versione 1906 (Build 11715.20002)
