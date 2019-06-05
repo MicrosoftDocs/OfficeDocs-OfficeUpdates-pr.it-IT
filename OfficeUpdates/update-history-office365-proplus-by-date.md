@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: 6f5a66ffd501c9c6e32eaa3eb9619260e6a06959
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: f3848c46626369f6f957ed0839f7692af755f574
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549753"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34684002"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
@@ -31,7 +31,7 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile<br/>|1905<br/>|11629.20196<br/>|29 maggio 2019<br/>|Viene rilasciata la versione 1906<br/>|
+|Mensile<br/>|1905<br/>|11629.20214<br/>|3 giugno 2019<br/>|Viene rilasciata la versione 1906<br/>|
 |Semestrale (mirato)<br/>|1902<br/>|11328.20286<br/>|14 maggio 2019<br/>|10 settembre 2019<br/>|
 |Semestrale<br/>|1808<br/>|10730.20344<br/>|14 maggio 2019<br/>|10 marzo 2020<br/>|
 |Semestrale<br/>|1803<br/>|9126.2387<br/>|14 maggio 2019<br/>|10 settembre 2019<br/>|
@@ -47,6 +47,7 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|3 giugno|[Versione 1905 (Build 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|29 maggio |[Versione 1905 (Build 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|22 maggio |[Versione 1904 (Build 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
 |2019|14 maggio |[Versione 1904 (Build 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[Versione 1902 (Build 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[Versione 1808 (Build 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [Versione 1803 (Build 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
