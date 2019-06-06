@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549743"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34683992"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -26,6 +26,11 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
  > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
+
+## <a name="version-1905-june-03"></a>Versione 1905: 3 giugno
+*Versione 1905 (Build 11629.20214)*
+
+ - È stato risolto un problema per cui alcuni componenti aggiuntivi generavano errori imprevisti attorno alle forme nei grafici.
 
 ## <a name="version-1905-may-29"></a>Versione 1905: 29 maggio
 *Versione 1905 (Build 11629.20196)*
@@ -66,7 +71,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - **Passaggio semplificato:** la nuova interfaccia di Gestione account consente di visualizzare tutti gli account aziendali e personali di Office 365 in un'unica posizione. Passare da uno all’altro non è mai stato così facile. [Altre informazioni](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- I report di Power BI esportati in PDF, PPT o configurati per la sottoscrizione messaggio di posta elettronica verranno ora visualizzati anche con Visio Visual:** se si esportano i report di Power BI in PDF, PPT o si configura una sottoscrizione messaggio di posta elettronica, Visio Visual verrà facilmente renderizzato in questi formati. [Altre informazioni](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+- **I report di Power BI esportati in PDF, PPT o configurati per la sottoscrizione messaggio di posta elettronica verranno ora visualizzati anche con Visio Visual:** se si esportano i report di Power BI in PDF, PPT o si configura una sottoscrizione messaggio di posta elettronica, Visio Visual verrà facilmente renderizzato in questi formati. [Altre informazioni](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità  
 
@@ -77,6 +82,14 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 - **La modalità Strumenti di apprendimento dispone di ulteriore supporto per più colori della pagina:** in Strumenti di apprendimento in Word è stato aggiunto il supporto per altri colori del tema della pagina, per poter modificare il colore di sfondo della pagina.  Molti utenti hanno difficoltà a leggere con uno sfondo completamente bianco o completamente nero, quindi è stata ampliata la scelta dei colori disponibili in Word su PC e Mac.
 
 - **Prossimamente:** scoprire le interessanti modifiche presto disponibili in Office, provarle e inviare feedback. [Altre informazioni](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+
+- Fornisce agli utenti di Skype for Business online l'opzione per disabilitare il suggerimento contestuale "Aggiungi la tua foto - aiuterà le persone a conoscerti". Per abilitare questa correzione, vedere [Altre informazioni](https://support.microsoft.com/help/4503469).
+
+- Impedisce l'attivazione ripetuta dell'impostazione della suoneria secondaria dopo il riavvio di Skype for Business. Per abilitare questa correzione, vedere [Altre informazioni](https://support.microsoft.com/help/4503470).
+
+ - Correzione che consente di risolvere un problema che causava il blocco di Skype for Business durante la partecipazione a una riunione con un numero elevato di utenti in caso di utilizzo contestuale di un'applicazione basata su Lync SDK. Per abilitare questa correzione, vedere [Altre informazioni](https://support.microsoft.com/help/4503472).
 
 ## <a name="version-1904-may-22"></a>Versione 1904: 22 maggio
 *Versione 1904 (Build 11601.20230)*

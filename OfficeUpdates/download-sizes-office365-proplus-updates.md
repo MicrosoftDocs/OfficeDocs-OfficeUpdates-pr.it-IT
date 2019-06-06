@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: ce40e3d5b770e13c163d3372525e248cd95c3df9
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: b849b50792988a4640597749d5b4f33b99fac150
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549733"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34684012"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -35,6 +35,17 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Nelle tabelle vengono riportate soltanto le versioni più recenti da aggiornare. Per aggiornare una versione meno recente, tenere presente che la dimensione del file di download sarà superiore.
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB.
 
+## <a name="june-3-2019"></a>3 giugno 2019
+*Versione 1905 (Build 11629.20214)*
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1905 (Build 11629.20214).
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1905 (Build 11629.20196)  <br/> |29 maggio 2019  <br/> |291<br/> |
+|Versione 1904 (Build 11601.20230)  <br/> |22 maggio 2019  <br/> |190<br/> |
+
 ## <a name="may-29-2019"></a>29 maggio 2019
 *Versione 1905 (Build 11629.20196)*
 ### <a name="monthly-channel"></a>Canale mensile
@@ -43,8 +54,8 @@ La versione più recente è la numero 1905 (Build 11629.20196).
   
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
-|Versione 1904 (Build 11601.20230)  <br/> |22 maggio 2019  <br/> |193<br/> |
-|Versione 1904 (Build 11601.20204)  <br/> |14 maggio 2019  <br/> |60<br/> |
+|Versione 1904 (Build 11601.20230)  <br/> |22 maggio 2019  <br/> |188<br/> |
+|Versione 1904 (Build 11601.20204)  <br/> |14 maggio 2019  <br/> |193<br/> |
 
 ## <a name="may-22-2019"></a>22 maggio 2019
 *Versione 1904 (Build 11601.20230)*
