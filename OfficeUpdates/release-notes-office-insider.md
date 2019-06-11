@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/31/2019
+ms.date: 6/7/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
-ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
+ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
+ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34659783"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34773752"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -25,6 +25,35 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
 
+
+## <a name="june-7-2019"></a>7 giugno 2019
+Versione 1907 (Build 11727.20064)
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="word"></a>Word 
+- È stato risolto un problema per cui poteva verificarsi un arresto anomalo di Word quando la correzione automatica era impostata in modo da convertire in maiuscolo la prima lettera di una frase
+- Sono state migliorate le prestazioni relative alla modifica di un documento in SharePoint.
+- È stato risolto un problema per cui le immagini vettoriali create in Adobe Illustrator non venivano visualizzate correttamente.
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema per cui i campi di ordinamento talvolta non venivano configurati correttamente durante la registrazione di una macro.
+- È stato risolto un problema che causava un blocco o un arresto anomalo durante il calcolo di una formula di matrice.
+
+### <a name="powerpoint"></a>PowerPoint
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema per cui gli allegati incorporati talvolta non venivano ridimensionati correttamente
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- È stato risolto un problema per cui le schede attività a durata fissa potevano talvolta modificare la data di fine di un'attività.
+- È stato risolto un problema per cui i valori di Percentuale di completamento potevano risultare errati all'apertura di un progetto di una versione precedente.
+
+</BR></BR>
 
 ## <a name="may-31-2019"></a>31 maggio 2019
 Versione 1906 (build 11722.20008)
