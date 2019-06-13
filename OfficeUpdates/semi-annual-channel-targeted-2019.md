@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/22/2019
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432424"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910396"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -27,6 +27,31 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  
 > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
+
+## <a name="version-1902-june-11"></a>Versione 1902: 11 giugno
+*Versione 1902 (Build 11328.20318)*
+<br/>Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+ - È stato risolto un problema che causava un arresto anomalo durante il salvataggio in formato PDF di un file contenente un mapping XML.
+ - È stato risolto un problema che causava la rimozione di collegamenti esterni durante il caricamento di cartelle di lavoro con nomi di foglio non validi.
+ - È stato risolto un problema per cui quando si usava lo strumento Fotocamera in Excel poteva verificarsi un blocco del foglio di calcolo.
+ - È stato risolto un problema che impediva la sincronizzazione dei grafici a cascata e a imbuto con le tabelle in seguito all'inserimento o all'eliminazione di celle.
+ - È stato risolto problema che causava un arresto anomalo quando si ricalcolava una tabella dati durante il calcolo del foglio di lavoro con una formula di matrice presente in un altro foglio dipendente dalla tabella. 
+ - È stato risolto un problema che impediva di aprire da SharePoint cartelle di lavoro protette da password senza prima estrarre il file.
+ - È stata apportata una modifica per assicurare che l'evento BeforeSave venga gestito durante la condivisione o l'attivazione del salvataggio automatico.
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+ - È stato risolto un problema che causava la scomparsa delle attività dei clienti quando si aggiungeva una seconda condizione a "Raggruppa per".
+
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+ - È stato corretto un errore che causava la generazione di un allegato con estensione asd quando si condivideva un documento modificato in collaborazione.
+ - È stato risolto un problema relativo ai commenti attribuiti ad autori casuali.
+ - È stato risolto un problema relativo a Rimuovi firma durante l'estrazione di un documento.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+ - È stato risolto un bug in VBA per cui lo stato di riempimento della forma visualizzato non era corretto dopo un'azione di annullamento.
+
 
 ## <a name="version-1902-may-14"></a>Versione 1902: 14 maggio
 *Versione 1902 (Build 11328.20286)*
