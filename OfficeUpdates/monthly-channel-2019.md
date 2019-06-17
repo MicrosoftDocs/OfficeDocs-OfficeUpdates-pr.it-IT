@@ -3,19 +3,19 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2019
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-//: ''
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857746"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910386"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -113,7 +113,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 ## <a name="version-1904-may-22"></a>Versione 1904: 22 maggio
 *Versione 1904 (Build 11601.20230)*
 
-Si tratta di un problema che consente agli utenti di visualizzare la nuova richiesta di privacy per ogni avvio di un'applicazione, anche dopo aver selezionato ed effettuato una scelta per il livello di privacy.
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+
+- Si tratta di un problema che consente agli utenti di visualizzare la nuova richiesta di privacy per ogni avvio di un'applicazione, anche dopo aver selezionato ed effettuato una scelta per il livello di privacy.
 
 ## <a name="version-1904-may-14"></a>Versione 1904: 14 maggio 
 *Versione 1904 (Build 11601.20204)*
