@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-//: ''
+ms.date: 6/14/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857756"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948792"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,7 +26,41 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
 
  > [!NOTE]
-> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, vedere [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="june-14-2019"></a>14 giugno 2019
+Versione 1907 (Build 11807.20000)
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="word"></a>Word 
+- È stato risolto un problema che impediva a un utente di eseguire l'accesso durante il salvataggio in OneDrive
+- È stato risolto un problema che impediva a un utente di modificare le proprietà di SharePoint in modalità accesso limitato
+- È stato risolto un problema per cui il contenuto dell'intestazione e del piè di pagina poteva cambiare durante la regolazione dei margini
+- È stato risolto un problema per cui la formattazione poteva interrompersi durante il passaggio alla visualizzazione Web
+- È stato risolto un problema che impediva a un utente di usare i campi personalizzati se aperti da SharePoint
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema di prestazioni riscontrato durante l'eliminazione di righe di un set filtrato
+- È stato risolto un problema che poteva talvolta causare lo sfarfallio del mouse in Visualizzazione protetta
+- È stato risolto un problema che poteva causare un arresto anomalo durante l'eliminazione di una serie
+- È stato risolto un problema per cui gli utenti non potevano scegliere di aggiungere la cronologia versioni quando non era disponibile
+- È stato risolto un problema che poteva causare un'eccezione durante l'uso dello strumento Confronto di fogli di calcolo
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema per cui poteva verificarsi un arresto anomalo quando si faceva clic su un collegamento a SharePoint
+- È stato risolto un problema per cui l'utente passava alla pagina successiva durante la digitazione con una penna per Surface
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema per cui, in alcuni casi, il campo A era più lungo del normale
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- Diverse correzioni a prestazioni e stabilità
+
+</BR></BR>
 
 ## <a name="june-7-2019"></a>7 giugno 2019
 Versione 1907 (Build 11727.20064)

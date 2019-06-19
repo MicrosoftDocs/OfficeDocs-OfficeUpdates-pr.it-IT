@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: 3eae3d3143d7e774ae785ce56f7934eb35dfac0e
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 44abaebed9d32ef279a600d28c54002c42d144c5
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935908"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017376"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
@@ -49,16 +49,16 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
 |2019|11 giugno|[Versione 1905 (Build 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[Versione 1902 (Build 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[Versione 1808 (Build 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[Versione 1803 (Build 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
-|2019|3 giugno|[Versione 1905 (Build 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
+|2019|3 giugno |[Versione 1905 (Build 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|29 maggio |[Versione 1905 (Build 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|22 maggio |[Versione 1904 (Build 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
 |2019|14 maggio |[Versione 1904 (Build 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[Versione 1902 (Build 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[Versione 1808 (Build 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [Versione 1803 (Build 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
 |2019|8 maggio |[Versione 1904 (Build 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | |
 |2019|29 aprile |[Versione 1904 (Build 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
-|2019|22 aprile |[Versione 1903 (Build 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
+|2019|23 aprile |[Versione 1903 (Build 11425.20244)](monthly-channel-2019.md#version-1903-april-23)| | |
 |2019|17 aprile |[Versione 1903 (Build 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
 |2019|16 aprile |[Versione 1903 (Build 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | |
-|2019|9 aprile |[Versione 1903 (Build 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[Versione 1902 (Build 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[Versione 1808 (Build 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Versione 1803 (Build 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
+|2019|9 aprile |[Versione 1903 (Build 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[Versione 1902 (Build 11328.20230)](semi-annual-channel-targeted-2019.md#version-1902-april-9) |[Versione 1808 (Build 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Versione 1803 (Build 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019|1 aprile |[Versione 1903 (Build 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
 |2019|25 marzo |[Versione 1902 (Build 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019|12 marzo |[Versione 1902 (Build 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[Versione 1902 (Build 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[Versione 1808 (Build 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
