@@ -34,7 +34,7 @@
 # Office per Mac
 ## [Cronologia degli aggiornamenti (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Note sulla versione (Office 365, 2019)](release-notes-office-for-mac.md)
-## [Note sulla versione (2016)](release-notes-office-2016-mac.md)
+## [Cronologia degli aggiornamenti (2016)](release-notes-office-2016-mac.md)
 ## [Cronologia delle versioni per MAU](release-history-microsoft-autoupdate.md)
 
 # Office (con licenza perpetua)
