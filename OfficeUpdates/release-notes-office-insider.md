@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/21/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
+ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948792"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130645"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,7 +26,77 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
 
  > [!NOTE]
-> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, vedere [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="june-21-2019"></a>21 giugno 2019
+Versione 1907 (Build 11815.20002)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Modalità scura per il tema nero nella versione desktop di Outlook
+
+Durante la lettura e la composizione dei messaggi di posta elettronica, gli utenti che utilizzano la modalità scura ora visualizzeranno il riquadro di lettura e di composizione con uno sfondo nero. Nel riquadro di lettura e sulla barra multifunzione, è presente un interruttore con l'icona sole/luna, nel caso in cui gli utenti desiderino visualizzare l'anteprima del messaggio con uno sfondo chiaro.
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+1. Se si attiva il tema nero, la modalità scura sarà attiva per impostazione predefinita.
+2. Usare l'interruttore con l'icona sole/luna (presente nel riquadro di lettura e sulla barra multifunzione) per visualizzare l'anteprima del messaggio per gli utenti che non utilizzano la modalità scura.
+
+#### <a name="scenarios-to-try"></a>Scenari da provare
+
+1. Leggere i messaggi di posta elettronica in modalità scura. Nel caso in cui risulti difficile leggere i messaggi, usare l'interruttore con l'icona del sole presente nel riquadro di lettura per passare a uno sfondo chiaro. 
+2. Comporre i messaggi di posta elettronica in modalità scura. Visualizzare l'anteprima del messaggio con uno sfondo chiaro utilizzando l'interruttore con l'icona del sole presente sulla barra multifunzione. 
+
+Nel caso in cui i messaggi di posta elettronica non vengano visualizzati correttamente, inviarli come allegato a OutlookDarkModeFail,
+
+#### <a name="get-location-suggestions"></a>Ottenere suggerimenti per il luogo
+
+Iniziare a digitare e Outlook cercherà le località corrispondenti.
+
+Ciò si applica al campo Luogo durante la creazione di appuntamenti e riunioni.
+
+#### <a name="getting-started"></a>Guida introduttiva:
+
+- Creare un appuntamento o una riunione in un calendario di Office 365 o Outlook.com in Outlook. 
+- Fare clic nel campo Luogo e iniziare a digitare...
+
+#### <a name="scenarios-to-try"></a>Scenari da provare
+
+Quando si aggiunge una sala riunioni a una riunione, fare clic sul campo Luogo anziché utilizzare il componente aggiuntivo Ricerca sala o la Rubrica.
+Per gli appuntamenti in un luogo fisico pubblico (ad esempio, un ristorante, un bar o uno studio dentistico), cercare la posizione esatta utilizzando la nuova selezione. In questo modo, sarà possibile ricevere una notifica su Outlook Mobile al momento di andar via.
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all"></a>Tutto
+- È stato risolto un problema per cui la casella di ricerca rimaneva abilitata offline.
+
+### <a name="word"></a>Word 
+- È stato risolto un problema per cui talvolta risultava difficile visualizzare lo stato attivo della tastiera.
+- È stato risolto un problema per cui talvolta il testo incollato in un nuovo documento presentava un allineamento non corretto.
+- È stato risolto un problema che impediva ad alcuni utenti di salvare le modifiche dopo aver attivato lo stato di sospensione del computer.
+- È stato risolto un problema per cui, in alcuni casi, veniva stampato un intero documento anziché l'intervallo selezionato.
+- È stato risolto un problema che rendeva difficile la lettura di commenti su display più piccoli.
+- È stato risolto un problema per cui l'acquisizione a un dispositivo causava un arresto anomalo.
+
+### <a name="excel"></a>Excel
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema per cui talvolta risultava difficile visualizzare lo stato attivo della tastiera.
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema che causava la visualizzazione errata di un componente aggiuntivo disabilitato come abilitato.
+- È stato risolto un problema che impediva ai clienti di visualizzare tutti i criteri di conservazione, nel caso ne fosse presente un numero elevato.
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- Diverse correzioni a prestazioni e stabilità
+
+</BR></BR>
 
 ## <a name="june-14-2019"></a>14 giugno 2019
 Versione 1907 (Build 11807.20000)
@@ -484,22 +554,6 @@ Questa funzionalità è un miglioramento destinato agli utenti che tracciano gra
 
 ## <a name="april-12-2019"></a>12 aprile 2019
 Versione 1905 (Build 11601.20042)
-
-## <a name="whats-new"></a>Novità:
-
-### <a name="access"></a>Access
-
-#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Novità di Access: connettore dati a Microsoft Graph
-
-È ora possibile collegarsi o importare dati dai servizi di Microsoft Graph per creare applicazioni che sfruttano i dati contestuali intelligenti archiviati in Graph
-
-#### <a name="getting-started"></a>Guida introduttiva:
-
-Nella scheda Dati esterni della barra multifunzione fare clic su Nuove origini dati e individuare il nuovo connettore Graph nel menu Servizi online
-
-#### <a name="scenarios-to-try"></a>Scenari da provare:
-
-Importare dati o collegarsi a diversi servizi di Graph, tra cui Persone, Gruppi ed Elementi di OneDrive.
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
