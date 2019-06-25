@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
-ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
+ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017366"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203715"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -26,7 +26,51 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 > - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="version-1906-june-24"></a>Versione 1906: 24 giugno
+*Versione 1906 (Build 11727.20210)*
+* Diverse correzioni di bug e miglioramenti delle prestazioni.
+
+### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
+
+- **Fogli di lavoro animati:** è possibile inserire grafici 3D animati per visualizzare cuori pulsanti, pianeti in orbita e la furia di un T-Rex nella cartella di lavoro. 
+  [Altre informazioni](https://support.office.com/it-IT/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+
+- **Barra multifunzione semplificata e personalizzabile:** un'unica riga essenziale riunisce i pulsanti usati di frequente. In questo modo è possibile passare facilmente dalla visualizzazione classica a quella semplificata e aggiungere/rimuovere comandi. 
+  [Altre informazioni](https://support.office.com/it-IT/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+
+- **Selezione dell'azione preferita:** le azioni Contrassegna e Elimina non vengono usate, ma si preferisce usare Archivia o Segna come già letto? È possibile personalizzare il menu Azioni rapide con i comandi usati più di frequente.
+
+- **Miglioramento della sincronizzazione delle cartelle condivise per cassette postali con numerose cartelle:** per anni Outlook ha limitato a un massimo di 500 il numero delle cartelle durante la sincronizzazione delle cassette postali condivise. Con questa modifica la sincronizzazione in Outlook è migliorata e il limite di 500 cartelle non è più presente.
+
+- **Impostazioni di Posta in arrivo evidenziata invariate nei vari dispositivi:** le preferenze della Posta in arrivo evidenziata vengono archiviate nel cloud. È quindi ora possibile usufruire della stessa esperienza quando si usa Outlook per Windows in qualsiasi computer e in Outlook sul web. 
+  [Altre informazioni](https://support.office.com/it-IT/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **Possibilità di scegliere tra layout medio o più ridotto:** l'opzione Usa spaziatura inferiore consente di decidere se si preferisce lasciare maggiore spazio fra gli elementi o adottare un layout più ridotto per visualizzare un maggior numero di elementi.
+
+- **Aggiornamento dell'esperienza utente di Outlook:** è finalmente accessibile a tutti un'esperienza semplificata, in precedenza disponibile in anteprima con Prossimamente, progettata per consentire all'utente di concentrarsi sugli aspetti più importanti. 
+  [Altre informazioni](https://support.office.com/it-IT/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+
+- **Input penna disponibile nei messaggi di posta elettronica** Ora è possibile creare e aggiungere annotazioni alle immagini nei messaggi di posta elettronica di Outlook. 
+  [Altre informazioni](https://support.office.com/it-IT/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
+
+- **Creazione condivisa:** per poter accedere immediatamente a documenti contenenti macro, ora i file docm in OneDrive for Business consentono a più autori di apportare modifiche contemporaneamente.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza 
+
+ - È stata aggiunta una correzione per consentire la visualizzazione di tutti i flussi delle videocamere da dispositivi Polycom CX5500 e correlati in una riunione quando il monitor viene ridimensionato più del 100%.
+
+- È ora possibile ritagliare correttamente il video in una riunione con un monitor 4K quando l'impostazione "Durante le riunioni ritaglia e centra il video" è abilitata.
+
+- È ora consentito il trasferimento dei file a client Office Communicator legacy da un computer Windows 10 con più schede di rete. [Altre informazioni] (https://support.microsoft.com/help/4508477)
+
+- Esperienza migliorata per la comunicazione tra i partecipanti a Skype for Business e Microsoft Teams.
+
 
 ## <a name="version-1905-june-11"></a>Versione 1905: 11 giugno
 *Versione 1905 (Build 11629.20246)*
