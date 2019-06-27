@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203715"
+ms.locfileid: "35226866"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -26,7 +26,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 > - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
 ## <a name="version-1906-june-24"></a>Versione 1906: 24 giugno
 *Versione 1906 (Build 11727.20210)*
@@ -54,7 +54,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 - **Aggiornamento dell'esperienza utente di Outlook:** è finalmente accessibile a tutti un'esperienza semplificata, in precedenza disponibile in anteprima con Prossimamente, progettata per consentire all'utente di concentrarsi sugli aspetti più importanti. 
   [Altre informazioni](https://support.office.com/it-IT/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **Input penna disponibile nei messaggi di posta elettronica** Ora è possibile creare e aggiungere annotazioni alle immagini nei messaggi di posta elettronica di Outlook. 
+- **Aggiunta della funzionalità Input penna:** è possibile scarabocchiare sopra le immagini o aggiungere un'area di disegno per inviare idee con l'input penna. 
   [Altre informazioni](https://support.office.com/it-IT/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
@@ -67,9 +67,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - È ora possibile ritagliare correttamente il video in una riunione con un monitor 4K quando l'impostazione "Durante le riunioni ritaglia e centra il video" è abilitata.
 
-- È ora consentito il trasferimento dei file a client Office Communicator legacy da un computer Windows 10 con più schede di rete. [Altre informazioni] (https://support.microsoft.com/help/4508477)
+- È ora consentito il trasferimento dei file a client Office Communicator legacy da un computer Windows 10 con più schede di rete. [Altre informazioni](https://support.microsoft.com/help/4508477)
 
-- Esperienza migliorata per la comunicazione tra i partecipanti a Skype for Business e Microsoft Teams.
+- Esperienza migliorata per la comunicazione tra i partecipanti a Skype for Business e Microsoft Teams
 
 
 ## <a name="version-1905-june-11"></a>Versione 1905: 11 giugno
