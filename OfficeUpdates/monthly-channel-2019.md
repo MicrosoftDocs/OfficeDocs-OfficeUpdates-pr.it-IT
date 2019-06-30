@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
-ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
+ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35226866"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345583"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -26,7 +26,26 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 > - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, vedere [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="version-1906-june-27"></a>Versione 1906: 27 giugno
+*Versione 1906 (Build 11727.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+
+- Risolve un problema a causa del quale un sottoinsieme di utenti POP3 visualizza tutti i messaggi di posta elettronica formattati in testo normale, indipendentemente dalle impostazioni.  Questa correzione ripristina la visualizzazione dei messaggi in formato HTML.
+
+## <a name="version-1906-june-26"></a>Versione 1906: 26 giugno
+*Versione 1906 (Build 11727.20224)*
+
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto un problema in Excel in cui le macro assegnate alle forme o ai controlli modulo possono visualizzare un messaggio di errore non corretto oppure possono funzionare su intervalli di destinazione non corretti.
+- È stato risolto un problema a causa del quale le operazioni di taglia e incolla accanto a una tabella non funzionano quando si lavora in modalità condivisa con altri utenti.
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+
+- Risolve un problema che causa ambiguità per i responsabili circa il fatto che un delegato abbia già risposto o meno a una determinata convocazione di riunione.
 
 ## <a name="version-1906-june-24"></a>Versione 1906: 24 giugno
 *Versione 1906 (Build 11727.20210)*

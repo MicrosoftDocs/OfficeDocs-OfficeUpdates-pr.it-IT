@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: d5a915184658c9be53282986c057455b4e3362b5
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203695"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345563"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -35,6 +35,38 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="june-27-2019"></a>27 giugno 2019
+
+[//]: # (NON RIMUOVERE - INIZIO CONTENUTO - 27 giugno 2019)
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1906 (Build 11727.20230).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1906 (Build 11727.20224) <br/> |26 giugno 2019 <br/> |187<br/> |
+|Versione 1906 (Build 11727.20210) <br/> |24 giugno 2019 <br/> |287<br/> |
+
+
+[//]: # (NON RIMUOVERE - FINE CONTENUTO - 27 giugno 2019)
+
+## <a name="june-26-2019"></a>26 giugno 2019
+
+[//]: # (NON RIMUOVERE - INIZIO CONTENUTO - 26 giugno 2019)
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1906 (Build 11727.20224).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1906 (Build 11727.20210) <br/> |24 giugno 2019 <br/> |60<br/> |
+|Versione 1905 (Build 11629.20246) <br/> |11 giugno 2019 <br/> |170<br/> |
+
+
+[//]: # (NON RIMUOVERE - FINE CONTENUTO - 26 giugno 2019)
 
 ## <a name="june-24-2019"></a>24 giugno 2019
 
