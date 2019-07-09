@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
-ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
+ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
+ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35393340"
+ms.lasthandoff: 07/05/2019
+ms.locfileid: "35575167"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,7 +26,61 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
 
  > [!NOTE]
-> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, vedere [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="july-5-2019"></a>5 luglio 2019
+Versione 1908 (Build 11901.20002)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="sketchy-shapes"></a>Forme Schizzo
+
+Se si sta lavorando a una bozza di presentazione, è possibile applicare lo stile Schizzo per indicare che non è ancora finale. Questo stile consente di conferire un tocco personale agli oggetti senza trasformarli in forme libere, disegnate a mano.
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all"></a>Tutto
+- Le prestazioni dei suggerimenti tasto di scelta della barra multifunzione sono state notevolmente migliorate
+- È stato risolto un problema che impediva la visualizzazione corretta della finestra di dialogo "Scopri le prossime novità"
+- È stato risolto un problema che poteva causare il disallineamento di Foto nel riquadro a comparsa della raccolta di Creazione condivisa
+
+### <a name="word"></a>Word 
+- È stato risolto un problema che poteva talvolta impedire l'aggiunta di nuovi commenti
+- È stato risolto un problema per cui le tabelle potevano talvolta causare un arresto anomalo
+- È stato risolto un problema per cui alla fine di una stampa unione potevano essere aggiunti dati non validi
+- È stato risolto un problema che poteva causare il rendering non corretto di alcune equazioni LaTeX
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema per cui la modifica dei tipi di grafico poteva causare un'eccezione di runtime
+- È stato risolto un problema che causava la visualizzazione di una barra multifunzione errata all'apertura di più finestre
+- È stato risolto un problema che poteva causare un errore quando una macro apriva una seconda istanza di una cartella di lavoro
+- È stato risolto un problema che poteva causare un arresto anomalo durante l'apertura o la creazione di una cartella di lavoro o il passaggio da una cartella di lavoro all'altra
+- È stato risolto un problema che impediva agli utenti di aprire in Teams un PDF creato in Word
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema che poteva peggiorare la qualità di un grafico esportato in un PDF
+- È stato risolto un problema che impediva la visualizzazione di una descrizione comando con l'indicazione della distanza dal centro
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema che poteva talvolta impedire la visualizzazione dell'errore Disco pieno
+- È stato risolto un problema che poteva causare la duplicazione degli allegati durante l'aggiornamento di una convocazione di riunione
+
+### <a name="access"></a>Access
+- È stato risolto un problema che impediva ad alcune query di restituire valori interi di grandi dimensioni
+- È stato risolto un problema che poteva impedire la modifica della casella di testo SQL
+- È stato risolto un problema per cui le descrizioni comandi potevano essere difficili da visualizzare in alcuni schermi con valori DPI elevati
+
+### <a name="project"></a>Project
+- È stato risolto un problema che poteva impedire la modifica dei valori di contrassegno nelle nuove attività
+- È stato risolto un problema per cui un aggiornamento di stato poteva impostare una data di inizio effettivo errata nelle assegnazioni e nelle attività
+- È stato risolto un problema che poteva comportare la sovrassegnazione errata di alcune risorse
+- È stato risolto un problema per cui il metodo Add di TaskDependencies poteva non riuscire quando veniva aggiunto un elemento Lag, il separatore decimale era una virgola e in caso di connessione a un server
+- È stato risolto un problema per cui l'aggiornamento dei valori delle tabelle di ricerca dei campi personalizzati locali tramite CSOM poteva causare l'arresto anomalo dei PC
+- È stato risolto un problema per cui i valori totali del lavoro potevano risultare errati se contenevano un numero decimale
+
+</BR></BR>
 
 ## <a name="june-28-2019"></a>28 giugno 2019
 Versione 1907 (Build 11819.20002)
