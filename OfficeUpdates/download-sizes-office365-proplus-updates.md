@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
-ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
+ms.openlocfilehash: f353cd54355468e4eed9cc8cde8eae2429c65236
+ms.sourcegitcommit: 44ee03955100dfadfe6bd551c5c2552d8fd371b4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "35345563"
+ms.lasthandoff: 07/08/2019
+ms.locfileid: "35585564"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -35,6 +35,34 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB.
 
 [//]: # (NON RIMUOVERE)
+## <a name="july-8-2019"></a>8 luglio 2019
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione prevista è la numero 1906 (Build 11727.20244).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1906 (Build 11727.20230) <br/> |27 giugno 2019 <br/> |202<br/> |
+|Versione 1906 (Build 11727.20224) <br/> |26 giugno 2019 <br/> |51<br/> |
+
+### <a name="semi-annual-channel"></a>Canale semestrale
+
+La versione prevista è la numero 1902 (Build 11328.20368).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1808 (Build 10730.20348) <br/> |11 giugno 2019  <br/> |307<br/> |
+|Versione 1808 (Build 10730.20344) <br/> |14 maggio 2019  <br/> |307<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
+
+La versione prevista è la numero 1902 (Build 11328.20368).
+  
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1902 (Build 11328.20318)  <br/> |11 giugno 2019  <br/> |71 <br/> |
+|Versione 1902 (build 11328.20286)  <br/> |14 maggio 2019  <br/> |74 <br/> |
 
 ## <a name="june-27-2019"></a>27 giugno 2019
 

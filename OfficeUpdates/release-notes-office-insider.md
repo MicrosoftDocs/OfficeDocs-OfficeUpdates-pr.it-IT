@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
-ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
+ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
+ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/05/2019
-ms.locfileid: "35575167"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35587897"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -138,7 +138,7 @@ Durante la lettura e la composizione dei messaggi di posta elettronica, gli uten
 1. Leggere i messaggi di posta elettronica in modalità scura. Nel caso in cui risulti difficile leggere i messaggi, usare l'interruttore con l'icona del sole presente nel riquadro di lettura per passare a uno sfondo chiaro. 
 2. Comporre i messaggi di posta elettronica in modalità scura. Visualizzare l'anteprima del messaggio con uno sfondo chiaro utilizzando l'interruttore con l'icona del sole presente sulla barra multifunzione. 
 
-Nel caso in cui i messaggi di posta elettronica non vengano visualizzati correttamente, inviarli come allegato a OutlookDarkModeFail,
+Nel caso in cui i messaggi di posta elettronica non vengano visualizzati correttamente, inviarli come allegato a OutlookDarkModeFail@service.microsoft.com
 
 #### <a name="get-location-suggestions"></a>Ottenere suggerimenti per il luogo
 

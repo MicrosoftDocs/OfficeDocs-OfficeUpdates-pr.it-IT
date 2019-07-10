@@ -1,5 +1,5 @@
 ---
-title: Note sulla versione per le versioni del canale semi-annuale 2017
+title: Note sulla versione per i rilasci del canale semestrale nel 2017
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,48 +9,48 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Sono disponibili per i professionisti IT note sulla versione per canale e annuale di versioni di Office 365 ProPlus 2017
+description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale per Office 365 ProPlus in 2017
 ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556171"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32439231"
 ---
-# <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Note sulla versione per le versioni del canale semi-annuale 2017
+# <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Note sulla versione per i rilasci del canale semestrale nel 2017
 
-Queste note sulla versione vengono fornite informazioni sulle nuove caratteristiche, aggiornamenti di sicurezza e non correlati alla sicurezza gli aggiornamenti inclusi negli aggiornamenti di canale semi-annuale per Office 365 ProPlus nelle 2017. 
+Queste note sulla versione forniscono informazioni su nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza inclusi negli aggiornamenti del canale semestrale per Office 365 ProPlus in 2017. 
 > [!NOTE]
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - Prima di gennaio 2018, il Canale semestrale era denominato Deferred Channel.
 
 
-## <a name="version-1705-december-12"></a>Versione 1705: 12 dicembre
+## <a name="version-1705-december-12"></a>Versione 1705:12 dicembre
 *Versione 1705 (Build 8201.2213)*
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Aggiornamenti della sicurezza
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): vulnerabilità della divulgazione delle informazioni relative a Microsoft PowerPoint
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   [Avviso 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Aggiornamento difensivo di Microsoft Office
 
 
 
-## <a name="version-1701-december-12"></a>Versione 1701: 12 dicembre
+## <a name="version-1701-december-12"></a>Versione 1701:12 dicembre
 *Versione 1701 (Build 7766.2130)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 giugno. Continuerà a essere supportato e ricevere gli aggiornamenti di sicurezza finché 2018 gennaio. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1705 (Build 8201.2213), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile a partire dal 2017 giugno. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a gennaio 2018. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1705 (Build 8201,2213), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Aggiornamenti della sicurezza
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): vulnerabilità della divulgazione delle informazioni relative a Microsoft PowerPoint
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   [Avviso 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Aggiornamento difensivo di Microsoft Office
 
 
 
-## <a name="version-1705-november-24"></a>Versione 1705: 24 novembre
+## <a name="version-1705-november-24"></a>Versione 1705:24 novembre
 *Versione 1705 (Build 8201.2209)*
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -58,7 +58,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1705-november-14"></a>Versione 1705: Novembre 14
+## <a name="version-1705-november-14"></a>Versione 1705:14 novembre
 *Versione 1705 (Build 8201.2207)*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
@@ -66,7 +66,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): vulnerabilità di danneggiamento della memoria di Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilità di danneggiamento della memoria di Microsoft Office
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   [Avviso 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Aggiornamento difensivo di Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
@@ -74,17 +74,17 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1701-november-14"></a>Versione 1701: Novembre 14
+## <a name="version-1701-november-14"></a>Versione 1701:14 novembre
 * Versione 1701 (Build 7766.2122)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 giugno. Continuerà a essere supportato e ricevere gli aggiornamenti di sicurezza finché 2018 gennaio. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1705 (Build 8201.2207), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile a partire dal 2017 giugno. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a gennaio 2018. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1705 (Build 8201,2207), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   [CVE-2017-11877:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) le funzionalità di sicurezza di Microsoft Excel ignorano la vulnerabilità
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): vulnerabilità di danneggiamento della memoria di Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilità di danneggiamento della memoria di Microsoft Office
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   [Avviso 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Aggiornamento difensivo di Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
@@ -92,7 +92,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1705-october-10"></a>Versione 1705: 10 ottobre
+## <a name="version-1705-october-10"></a>Versione 1705:10 ottobre
 *Versione 1705 (Build 8201.2200)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
@@ -102,7 +102,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): le funzionalità di sicurezza di Microsoft Outlook ignorano la vulnerabilità
 -   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): vulnerabilità della divulgazione delle informazioni relative a Microsoft Outlook
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): vulnerabilità elevazione di privilegi in Skype for Business
 
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
@@ -113,10 +113,10 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1701-october-10"></a>Versione 1701: 10 ottobre
+## <a name="version-1701-october-10"></a>Versione 1701:10 ottobre
 * Versione 1701 (Build 7766.2119)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 giugno. Continuerà a essere supportato e ricevere gli aggiornamenti di sicurezza finché 2018 gennaio. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1705 (Build 8201.2200), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile a partire dal 2017 giugno. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a gennaio 2018. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1705 (Build 8201,2200), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): le funzionalità di sicurezza di Microsoft Outlook ignorano la vulnerabilità
@@ -132,16 +132,16 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1705-september-12"></a>Versione 1705: Settembre 12
+## <a name="version-1705-september-12"></a>Versione 1705:12 settembre
 *Versione 1705 (Build 8201.2193)*
 
-### <a name="access-feature-updates"></a>Access: Aggiornamenti delle funzionalità
--   **Che cos'è una nuova finestra di dialogo:** Finestra di dialogo che vengono illustrate le nuove funzionalità di accesso viene visualizzato quando si apre Access dopo l'accesso è stato aggiornato con nuove funzionalità. La finestra di dialogo è disponibile anche tramite File \> Account \> What's New.
+### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
+-   **What’s New dialog:** A dialog box that highlights new Access features appears when Access is opened after Access is updated with new features. The dialog box is also available by going to File \> Account \> What’s New.
 -   **Supporto per numero grande (bigint):** consente di utilizzare il tipo di dati Numero grande nelle tabelle di Access per fare calcoli con numeri elevati e per collegarsi a o importare da database esterni che sfruttano un tipo di dati equivalente, come bigint in SQL Server. [Ulteriori informazioni](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
--   **Supporto per Windows Information Protection (WIP):**   Excel è ora un'app con riconoscimento e distingue tra dati aziendali e personali. In questo modo, riesce a determinare correttamente quali sono quelli da proteggere, in base ai criteri configurati.  [Ulteriori informazioni](https://aka.ms/wiptechnet)
--   **Ottenere & trasformazione analisi utilizzo software:** Nell'Editor di Query, creare una nuova colonna fornendo valori di esempio. Durante la digitazione, Excel rileva le trasformazioni obbligatorie e viene visualizzata un'anteprima della nuova colonna.
+-   **Supporto per Windows Information Protection (WIP):**    Excel è ora un'app illuminata e può distinguere tra dati aziendali e personali, determinando in modo corretto quali proteggere, in base ai criteri configurati.   [Altre informazioni](https://aka.ms/wiptechnet)
+-   **Get & Transform improvement:** In the Query Editor, create a new column by providing sample values. As you type, Excel detects the required transformations and shows a preview of the new column.
 -   **Inserire collegamenti recenti:** È possibile allegare facilmente i collegamenti ipertestuali ai file o siti Web basati sul cloud recenti e creare nomi visualizzati significativi per gli utenti che utilizzano utilità per la lettura dello schermo. [Ulteriori informazioni](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Personalizzare il layout di tabella pivot predefinito:** Configurare una tabella pivot secondo le proprie preferenze e iniziare con il layout personalizzato ogni volta che si crea una nuova tabella pivot. [Ulteriori informazioni](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
 -   **Miglioramenti di visualizzazione e trasformazione:** Gli utenti possono creare nuove colonne per esempio e dividere le colonne delle tabelle in righe. Specificare parametri per SAP HANA e raggruppare i dati sono operazioni ora più semplici.
@@ -154,7 +154,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Usare una penna per selezionare e modificare gli oggetti:** Catturare i punti di controllo dell'oggetto con una penna digitale per ridimensionare, ruotare, spostare e altro.
 -   **Grafico mappa:** Confrontare i valori e visualizzare le categorie in aree geografiche diverse. [Ulteriori informazioni](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle cartelle di lavoro. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire le icone:**  Utilizzare le icone da una raccolta di file SVG (Scalable Vector Graphics) standard accedendo a Inserisci \> Illustrazioni \> icone. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Salvare in cartelle recenti:** Salvare una cartella di lavoro in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Miglioramenti accessibilità:** Supporto migliorato per l'utilizzo della tastiera, Assistente vocale e altri strumenti di Assistive Technology per leggere e modificare le cartelle di lavoro. [Ulteriori informazioni](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -191,7 +191,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale l'area di disegno di OneNote nasconde i contenuti oppure si aggiorna quando vengono visualizzati molti paragrafi.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
--   **Supporto per Windows Information Protection (WIP):**   Outlook è ora un'app con riconoscimento e distingue tra dati aziendali e personali. In questo modo, riesce a determinare in modo corretto quali sono quelli da proteggere, sulla base dei criteri configurati.  [Ulteriori informazioni](https://aka.ms/wiptechnet)
+-   **Supporto per Windows Information Protection (WIP):**    Outlook è ora un'app illuminata e può distinguere tra dati aziendali e personali, determinando in modo corretto quali proteggere, in base ai criteri configurati.   [Altre informazioni](https://aka.ms/wiptechnet)
 -   **Inserire collegamenti recenti:** È possibile allegare i collegamenti ipertestuali ai file o siti Web basati sul cloud recenti e creare nomi visualizzati significativi per gli utenti che utilizzano utilità per la lettura dello schermo. [Ulteriori informazioni](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Rimozione dello sfondo:** consente di rimuovere un'immagine di sfondo con uno strumento di disegno a mano libera.
@@ -199,7 +199,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Impostazione delle autorizzazioni sugli allegati:** per gli allegati di OneDrive o SharePoint, l'utente può impostare se i destinatari, interni o esterni all'organizzazione, dispongono di autorizzazioni di lettura o modifica per l'allegato.
 -   **Riquadro attività che è possibile aggiungere:** Tenere aperto il riquadro attività del componente aggiuntivo mentre si passa da un messaggio all'altro nella cassetta postale. [Ulteriori informazioni](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle e-mail. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire le icone:**  Utilizzare le icone da una raccolta di file SVG (Scalable Vector Graphics) standard accedendo a Inserisci \> Illustrazioni \> icone.  [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni.   [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
@@ -220,14 +220,14 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale un'immagine in un messaggio è oscurata quando viene inviata da un computer con valori DPI alti.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
--   **Supporto per Windows Information Protection (WIP):**   PowerPoint è ora un'app con riconoscimento e distingue tra dati aziendali e personali. In questo modo, riesce a determinare in modo corretto quali sono quelli da proteggere, sulla base dei criteri configurati.  [Ulteriori informazioni](https://aka.ms/wiptechnet)
+-   **Supporto per Windows Information Protection (WIP):**    PowerPoint è ora un'app illuminata e può distinguere tra dati aziendali e personali, determinando in modo corretto quali proteggere, in base ai criteri configurati.   [Altre informazioni](https://aka.ms/wiptechnet)
 -   **Inserire collegamenti recenti:** È possibile allegare i collegamenti ipertestuali ai file o siti Web basati sul cloud recenti e creare nomi visualizzati significativi per gli utenti che utilizzano utilità per la lettura dello schermo. [Ulteriori informazioni](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Distribuzione centralizzata dei componenti aggiuntivi**: gli amministratori possono distribuire e aggiornare i componenti aggiuntivi per utenti o gruppi dall'interfaccia di amministrazione di Office 365. [Ulteriori informazioni](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Rimozione dello sfondo:** consente di rimuovere un'immagine di sfondo con uno strumento di disegno a mano libera.
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle presentazioni. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire le icone:**  Utilizzare le icone da una raccolta di file SVG (Scalable Vector Graphics) standard accedendo a Inserisci \> Illustrazioni \> icone. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **Digitando in tempo reale durante la creazione condivisa:** Vedere dove altre persone utilizza la presentazione e visualizzare le modifiche durante la digitazione. [Ulteriori informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   Digitazione in **tempo reale durante la creazione condivisa:** Vedere dove gli altri stanno lavorando nella presentazione e visualizzare le modifiche durante la digitazione. [Altre informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Salvare in cartelle recenti:** Salvare una presentazione in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Creare forme input penna precise:** Trascinare la gomma per segmenti al fine di rimuovere bit in eccesso dell'input penna, a destra fino alla riga più vicina.
 -   **Selezionare e modificare gli oggetti con una penna:** Utilizzare una penna digitale per spostare, ridimensionare oppure ruotare gli oggetti tramite gli appositi punti di controllo. In alternativa, utilizzare i pulsanti della penna per eseguire selezione con lazo dell'inchiostro.
@@ -245,9 +245,9 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
 -   **Elenco a discesa rapido per l'impostazione di predecessori:** Usare il menu a discesa del diagramma di Gantt per scegliere quali predecessori o successori collegare a un'attività.
--   **Riepilogo Nome attività:**  Campo delle attività di sola lettura che visualizza il nome dell'attività di riepilogo dell'attività.  
+-   **Nome Riepilogo attività:**   campo attività di sola lettura in cui viene visualizzato il nome dell'attività di riepilogo dell'attività.  
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per cui i valori selezionati per una grafico o tabella non sono visibili nel riquadro tabella/grafico.
 -   Consente di correggere la finestra di dialogo Crea sito di progetto che visualizza la posizione corretta del sito ora che in Project Online ogni Enterprise Project Template (EPT) ha il proprio URL per i siti di progetto.
 -   Consente di risolvere un problema a causa del quale l'evento VBA BeforeClose viene attivato prima del prompt Salva e non si dispone di un modo programmatico per stabilire la risposta dell'utente al prompt di salvataggio.
@@ -287,8 +287,8 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Aggiornamenti delle funzionalità
 -   **Inserimento di collegamenti:** Aggiungere un collegamento nei messaggi istantanei e nelle chat di gruppo e fornire testo descrittivo per il collegamento anziché l'intero URL.
--   **Notifica di condivisione dello schermo:** Quando si condivide una schermata di una conversazione di messaggistica immediata o durante la condivisione dello schermo continuerà fino a quando si abbandona una riunione, nella finestra Conversazione viene visualizzata una notifica. La notifica per ricordare sono ancora condivisione dello schermo in modo semplice interrompere la condivisione con il pulsante "Interrompi condivisione".
--   **Supporto Windows Information Protection (WIP):** Skype per le aziende è ora supportato come un'app sola lavoro WIP.  Aggiungendo Skype all'elenco dei domini consentiti App, indica a Windows non gestisce i dati personali.  Windows proteggere i dati per conto di Skype per le aziende.  [Ulteriori informazioni](https://aka.ms/wiptechnet)
+-   **Screen sharing notification:** A notification displays in the conversation window when you’re sharing a screen in an IM conversation or when screen sharing continues after you leave a meeting. The notification reminds you that you are still sharing your screen and makes it easy to stop sharing by using the “Stop Sharing” button.
+-   **Windows Information Protection (WIP) support:** Skype for Business is now supported as a WIP-work only app.By adding Skype to your allowed apps list, it indicates to Windows that it does not handle personal data.Windows proteggerà i dati per conto di Skype for business.   [Altre informazioni](https://aka.ms/wiptechnet)
 -   **Opzione di reimpostazione della password:** un collegamento a un pulsante di ripristino viene visualizzato nella finestra di accesso quando un utente non riesce ad accedere almeno una volta.
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
@@ -304,7 +304,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema per il quale una finestra di conversazione non è visibile in background quando si partecipa a una riunione e all'utente viene visualizzata la finestra di dialogo per aggiungere dispositivi audio.
 -   Consente di risolvere un problema per il quale il collegamento della riunione di Outlook non trasmette sempre correttamente l'URI interno.
 -   Ampliato il pulsante per partecipare alla riunione per correggere il troncamento di alcune lingue localizzate.
--   Modificare messaggio per le chiamate di tentativi per gli utenti con audio disabilitata dal criterio da "Impossibile completare la chiamata" a "Impossibile chiamata dal momento che un amministratore IT ha limitato audio. Provare a utilizzare invece la messaggistica immediata o posta elettronica e chiederà di contattare il proprio amministratore IT".
+-   Change message for attempted calls to users with audio disabled by policy from "Cannot complete the call" to "Cannot call because an IT administrator has restricted audio. Try using instant messaging or email instead and ask to check with their IT administrator."
 -   Aggiungere un collegamento ipertestuale "PIN di accesso dimenticato?" agli inviti alle riunioni di utenti abilitati ai Servizi di conferenza PSTN per Skype for Business Online.
 -   Consentire di partecipare alle riunioni dei team da Skype for Business Online.
 -   Modificare il volume della sessione dell'altoparlante dal 40% al 75%.
@@ -343,15 +343,15 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Frammenti di diapositiva:** consente di creare frammenti di un disegno di Visio ed esportarli come diapositive di PowerPoint. [Ulteriori informazioni](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
--   **Supporto per Windows Information Protection (WIP):**   Word è ora un'app con riconoscimento e distingue tra dati aziendali e personali. In questo modo, riesce a determinare correttamente quali sono quelli da proteggere, in base ai criteri configurati.  [Ulteriori informazioni](https://aka.ms/wiptechnet)
+-   **Supporto per Windows Information Protection (WIP):**    Word è ora un'app illuminata e può distinguere tra dati aziendali e personali, determinando correttamente quali proteggere, in base ai criteri configurati.   [Altre informazioni](https://aka.ms/wiptechnet)
 -   **Inserire collegamenti recenti:** È possibile allegare i collegamenti ipertestuali ai file o siti Web basati sul cloud recenti e creare nomi visualizzati significativi per gli utenti che utilizzano utilità per la lettura dello schermo. [Ulteriori informazioni](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **Distribuzione centralizzata dei componenti aggiuntivi**: gli amministratori possono distribuire e aggiornare i componenti aggiuntivi per utenti o gruppi dall'interfaccia di amministrazione di Office 365.  [Ulteriori informazioni](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **Distribuzione centralizzata dei componenti**aggiuntivi: gli amministratori possono distribuire e aggiornare i componenti aggiuntivi agli utenti o ai gruppi dall'interfaccia di amministrazione di Office 365.   [Altre informazioni](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Rimozione dello sfondo:** consente di rimuovere un'immagine di sfondo con uno strumento di disegno a mano libera.
 -   **Affiancato:** Consente di esplorare le pagine in visualizzazione Layout di stampa scorrendo tra loro in modalità affiancata, come se si trattasse di una pila di carta. [Ulteriori informazioni](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **Usare una penna per selezionare e modificare gli oggetti:** Catturare i punti di controllo dell'oggetto con una penna digitale per ridimensionare, ruotare, spostare e altro.
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nei documenti. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire le icone:**  Utilizzare le icone da una raccolta di file SVG (Scalable Vector Graphics) standard accedendo a Inserisci \> Illustrazioni \> icone.  [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni.   [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Salvare in cartelle recenti:** Salvare un documento in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Lettura migliorata con strumenti di apprendimento:** Nuovi comandi nelle competenze di lettura boost della Modalità di lettura modificando testo spaziatura, mostrando le interruzioni di pagina tra sillabe ed evidenziando ogni parola del documento letto ad alta voce. [Ulteriori informazioni](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Identificazione delle forme:** consente di trasformare automaticamente i disegni in forme utilizzando Disegno \> Converti in forma. [Ulteriori informazioni](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -393,10 +393,10 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1701-september-12"></a>Versione 1701: Settembre 12
+## <a name="version-1701-september-12"></a>Versione 1701:12 settembre
 * Versione 1701 (Build 7766.2116)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 giugno. Continuerà a essere supportato e ricevere gli aggiornamenti di sicurezza finché 2018 gennaio. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1705 (Build 8201.2193), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile a partire dal 2017 giugno. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a gennaio 2018. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1705 (Build 8201,2193), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): vulnerabilità di danneggiamento della memoria di Microsoft Office
@@ -411,13 +411,13 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): vulnerabilità della divulgazione delle informazioni relative a Graphics Component
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): esecuzione di codice remoto del componente di Microsoft Graphics
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
 -   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630): vulnerabilità di danneggiamento della memoria di Microsoft Office
 -   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744): vulnerabilità di danneggiamento della memoria di Microsoft Office
 
 
 
-## <a name="version-1701-july-27"></a>Versione 1701: Luglio 27
+## <a name="version-1701-july-27"></a>Versione 1701:27 luglio
 *Versione 1701 (Build 7766.2099)*
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
@@ -427,10 +427,10 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1609-july-27"></a>Versione 1609: Luglio 27
+## <a name="version-1609-july-27"></a>Versione 1609:27 luglio
 *Versione 1609 (Build 7369.2154)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 febbraio. Continuerà a essere supportato e ricevere aggiornamenti di sicurezza fino al 2017 settembre. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1701 (Build 7766.2099), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile da febbraio 2017. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2017. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1701 (Build 7766,2099), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): le funzionalità di sicurezza di Microsoft Office Outlook ignorano la vulnerabilità
@@ -439,7 +439,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1701-july-13"></a>Versione 1701: 13 luglio
+## <a name="version-1701-july-13"></a>Versione 1701:13 luglio
 *Versione 1701 (Build 7766.2096)*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
@@ -451,10 +451,10 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1609-july-13"></a>Versione 1609: 13 luglio
+## <a name="version-1609-july-13"></a>Versione 1609:13 luglio
 *Versione 1609 (Build 7369.2151)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 febbraio. Continuerà a essere supportato e ricevere aggiornamenti di sicurezza fino al 2017 settembre. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1701 (Build 7766.2096), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile da febbraio 2017. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2017. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1701 (Build 7766,2096), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): vulnerabilità di danneggiamento della memoria di Microsoft Office
@@ -465,7 +465,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1701-june-13"></a>Versione 1701: 13 giugno
+## <a name="version-1701-june-13"></a>Versione 1701:13 giugno
 * Versione 1701 (Build 7766.2092)*
 
 ### <a name="access-non-security-updates"></a>Access: Aggiornamenti non della sicurezza
@@ -517,7 +517,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale un utente non può eliminare un modello di pagina personalizzato.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
--   **Collaborare per gli allegati in tempo reale:** Caricare un allegato a OneDrive for Business consentire a chiunque di lavorare la versione più recente. Utilizzare il menu a discesa sull'allegato per caricare o salvarlo.
+-   **Collaborate on attachments in real time:** Upload attachments to OneDrive for Business to let everyone work on the latest version. Use the drop-down menu on the attachment to upload or save it.
 -   **Schede di riepilogo per pacchi e prenotazioni di viaggi:** Verificare e tenere traccia delle prenotazioni di viaggi e delle consegne di pacchi mediante le schede di riepilogo automaticamente create nella Posta in arrivo e nel Calendario. [Ulteriori informazioni](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Editor:** Offre strumenti di correzione contestuali avanzati che permettono di migliorare la scrittura. [Ulteriori informazioni](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
@@ -543,7 +543,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   **Copia della sezione:** copiare e incollare le sezioni tra presentazioni.
 -   **Condivisi con l'utente corrente:** visualizzare i documenti condivisi dagli altri utenti andando a File \> Apri \> Condivisi con l'utente corrente. [Ulteriori informazioni](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 -   **Riproduzione dell'input penna:** consente di riprodurre l'input penna avanti e indietro per nascondere o mostrare i contenuti, per fornire istruzioni dettagliate o per comprendere meglio il flusso dei pensieri degli altri. [Ulteriori informazioni](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
--   **Registrazioni dell'integrazione:** Creazione di una presentazione composto da diapositive registrate, le registrazioni dello schermo e inserito video e quindi condividere tale contenuto registrato da visualizzare in remoto. È inoltre possibile incorporare quiz per contribuire alla formazione a distanza e rendere la presentazione più interattive e cambia il colore di penna e all'utilizzo più semplice registrare commenti audio e controlli audio.
+-   **Better recordings:** Create a presentation made up of recorded slides, screen recordings and inserted video, and then share that recorded content to be viewed remotely. You can also embed quizzes to assist with remote learning and make your presentation more interactive as well as change the ink color and use simpler controls to record narrations and audio.
 -   **Miglioramenti per la progettazione:** fornisce suggerimenti per la progettazione mediante SmartArt per elenchi dei processi puntati.
 -   **Scheda della barra multifunzione di registrazione:** consente di aggiungere una scheda di registrazione personalizzando la barra multifunzione.
 -   **Modifica dei colori:** utilizzare Aiutami per impostare il colore per il tipo di carattere, per l'evidenziazione, per il completamento di una forma e altro. [Ulteriori informazioni](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
@@ -597,8 +597,8 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale in Publisher non vengono visualizzate le immagini CMYK TIF
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Aggiornamenti delle funzionalità
--   **Stile notifica di Windows:** Vengono apportate modifiche all'aspetto delle notifiche per chiamate in arrivo e conversazioni.[Ulteriori informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **Trasferimento con consultazione:** All'interno di una chiamata, rivolgersi a un altro utente tramite messaggistica immediata o di chiamata prima di trasferire la chiamata a tale utente. [Ulteriori informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **Stile di notifica di Windows:** Modifiche apportate all'aspetto delle notifiche per le chiamate in arrivo e le conversazioni. [Altre informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
+-   **Trasferimento consultivo:** All'interno di una chiamata, consultarsi con un altro utente tramite una chat o una chiamata prima di trasferire la chiamata a quell'utente. [Altre informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **Notifiche del microfono:** Viene visualizzata una notifica nella conversazione quando l'audio del microfono viene disattivato nel sistema operativo oppure quando il microfono non rileva audio.
 -   **Disabilitare "Numero personale":** Utilizzare la voce del Registro di sistema DisableDisplayMyNumber per disattivare "Numero personale" nella tastiera del telefono.
 
@@ -671,7 +671,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Risolvere un problema in cui gli utenti configurati per il bypass multimediale non riescono a riprendere una chiamata da un gateway PSTN dopo aver messo la chiamata in attesa.
 -   Risolvere un problema in cui l'utente visualizza una casella blu anziché il video quando partecipa a una riunione tramite un URL usando l’implementazione RDP di terze parti.
 -   Consente di risolvere un problema a causa del quale viene visualizzata parte dell'indirizzo SIP dell'utente anziché il nome visualizzato in un avviso popup.
--   Risolvere i problemi a cui, se Skype per le aziende si connette a un server SIP tramite la porta 443 e un server proxy è presente, non esiste un notevole ritardo nel processo di accesso se il proxy non accetta tale connessione. La correzione è abilitata per aggiungere la voce del Registro di sistema EnableDetectProxyForAllConnections DWORD in HKEY\_corrente\_utente\\Software\\Microsoft\\UCCPlatform\\Lync e impostare il valore su 1.
+-   Fix an issue where, when Skype for Business connects to a SIP server over port 443 and a proxy server is present, there is a significant delay in the sign-in process if the proxy doesn't allow such connections. The fix is enabled by adding the EnableDetectProxyForAllConnections DWORD registry entry under HKEY\_CURRENT\_USER\\Software\\Microsoft\\UCCPlatform\\Lync, and setting the value to 1.
 -   Consente di risolvere un problema che si verifica quando si utilizzano conversazioni a schede, si fa doppio clic su una scheda e si inizia a scrivere. Talvolta, queste operazioni causano il passaggio a una scheda differente, anche se si continua a scrivere nella finestra della conversazione.
 -   Consente di risolvere un problema a causa del quale gli URL contenuti in un messaggio istantaneo non possono essere selezionati nella finestra di cronologia della chat utilizzando la tastiera.
 -   Consente di risolvere un problema a causa del quale dovrebbe essere possibile sentire l'audio di digitazione se è stata selezionata la casella di controllo "Riproduci un suono in caso di digitazione da parte di un utente durante la visualizzazione di un messaggio istantaneo" nelle opzioni di suonerie e suoni.
@@ -695,7 +695,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
 -   **Componente aggiuntivo di modellazione del database:** Utilizzare il componente aggiuntivo per creare un modello di database relativo a un database esistente. In questo modo, è possibile pianificare un nuovo database oppure comprendere quello esistente. [Ulteriori informazioni](https://support.office.com/article/fb034862-acfc-45bc-88b2-f33d1e1f8614), [Scaricare il componente aggiuntivo](https://go.microsoft.com/fwlink/p/?linkid=835953)
 -   **Miglioramenti accessibilità:** Supporto migliorato per l'utilizzo della tastiera, Assistente vocale e altri strumenti di Assistive Technology per utilizzare le forme, modificare con altri e molto altro.
--   **Modelli di terze parti e diagrammi:** Individuare o cercare nuovi modelli e diagrammi di esempio rese disponibili da selezionare provider di contenuti di terze parti. Nome del provider di terze parti è elencato in anteprima.
+-   **Third-party templates and diagrams:** Browse or search for new templates and sample diagrams available from select third-party content providers. The third-party provider’s name is listed on the thumbnail.
 -   **Supporto input penna:** per creare disegni e inserire note con gli strumenti della nuova scheda nuovo Disegno, usare la penna o il dito.
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
@@ -710,8 +710,8 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Bollettino Microsoft sulla sicurezza [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Aggiornamento della sicurezza per Microsoft Office (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): vulnerabilità di danneggiamento della memoria di Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
--   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): vulnerabilità relativa all'esecuzione di codice remoto in Windows PDF 
--   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office  
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): vulnerabilità relativa all'esecuzione di codice remoto in Windows PDF 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office  
 
 ### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema relativo all'utilizzo della memoria quando si applicano determinate configurazioni del monitor.
@@ -740,74 +740,74 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale TraceLogging causa l'arresto anomalo di Windows 7 durante l'installazione o l'aggiornamento di Office.
 -   Consente di risolvere un problema a causa del quale, quando si disegna con l'input penna e un mouse, rilasciando il pulsante del mouse l'input penna si sposta lentamente.
 -   Consente di risolvere un problema a causa del quale, dopo aver inserito un'immagine SVG in un documento di Office, tale immagine scompare quando il documento viene salvato e riaperto.
--   Risolvere i problemi in Office visualizza il messaggio di errore durante l'attivazione per gli utenti non in lingua inglese: "la lunghezza massima del codice product key è 25 caratteri".
+-   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   Risolvere un problema con i moduli VBA che possono causare l'interruzione del funzionamento o la visualizzazione non corretta dell'ordine Z dei frame.
 -   Risolvere un problema per il quale un aggiornamento attivato da System Center Configuration Manager modifica le impostazioni di UpdateChannel nel Registro di sistema in qualcosa che non è un canale di aggiornamento valido.
 
 
 
-## <a name="version-1609-june-13"></a>Versione 1609: 13 giugno
+## <a name="version-1609-june-13"></a>Versione 1609:13 giugno
 *Versione 1609 (Build 7369.2139)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2017 febbraio. Continuerà a essere supportato e ricevere aggiornamenti di sicurezza fino al 2017 settembre. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1701 (Build 7766.2092), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile da febbraio 2017. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2017. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1701 (Build 7766,2092), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): esecuzione di codice remoto in Microsoft Office
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507): vulnerabilità di danneggiamento della memoria di Microsoft Office
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508): le funzionalità di sicurezza di Microsoft Office ignorano la vulnerabilità
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
 -   [CVE-2017-0283](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283): vulnerabilità relativa all'esecuzione di codice remoto in Windows Uniscribe
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550): vulnerabilità relativa all'esecuzione di codice remoto in Skype for Business
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
--   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): vulnerabilità relativa all'esecuzione di codice remoto in Windows PDF 
--   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office  
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): vulnerabilità relativa all'esecuzione di codice remoto in Windows PDF 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office  
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
 -   [CVE-2017-0260](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0260): esecuzione di codice remoto in Microsoft Office
 -   [CVE-2017-8510](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8510): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2017-8512](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8512): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
 
 
-## <a name="version-1609-may-9"></a>Versione 1609: Maggio 9
+## <a name="version-1609-may-9"></a>Versione 1609:9 maggio
 *Versione 1609 (Build 7369.2130)*
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): vulnerabilità di danneggiamento della memoria di Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
 -   [CVE-2017-0261](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0261): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2017-0262](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0262): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
 
 
-## <a name="version-1605-may-9"></a>Versione 1605: Maggio 9
+## <a name="version-1605-may-9"></a>Versione 1605:9 maggio
 *Versione 1605 (Build 6965.2150)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2016 ottobre. Continuerà a essere supportato e ricevere aggiornamenti di sicurezza fino al 2017 giugno. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1609 (Build 7369.2130), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile da ottobre 2016. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al 2017 giugno. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1609 (Build 7369,2130), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): vulnerabilità di danneggiamento della memoria di Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
 -   [CVE-2017-0261](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0261): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2017-0262](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0262): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
 
 
-## <a name="version-1609-april-11"></a>Versione 1609: Aprile 11
+## <a name="version-1609-april-11"></a>Versione 1609:11 aprile
 *Versione 1609 (Build 7369.2127)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
@@ -817,26 +817,26 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): le funzionalità di sicurezza di Microsoft Office ignorano la vulnerabilità
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
 -   [CVE-2017-0199](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0199): vulnerabilità relativa all'esecuzione in codice remoto con API Windows in Microsoft Office/WordPad
 
 
 
-## <a name="version-1605-april-11"></a>Versione 1605: Aprile 11
+## <a name="version-1605-april-11"></a>Versione 1605:11 aprile
 *Versione 1605 (Build 6965.2145)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2016 ottobre. Continuerà a essere supportato e ricevere aggiornamenti di sicurezza fino al 2017 giugno. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1609 (Build 7369.2127), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile da ottobre 2016. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al 2017 giugno. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1609 (Build 7369,2127), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): le funzionalità di sicurezza di Microsoft Office ignorano la vulnerabilità
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
 -   [CVE-2017-0199](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0199): vulnerabilità relativa all'esecuzione in codice remoto con API Windows in Microsoft Office/WordPad
 
 
 
-## <a name="version-1609-march-14"></a>Versione 1609: 14 marzo
+## <a name="version-1609-march-14"></a>Versione 1609:14 marzo
 *Versione 1609 (Build 7369.2120)*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
@@ -853,10 +853,10 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1605-march-14"></a>Versione 1605: 14 marzo
+## <a name="version-1605-march-14"></a>Versione 1605:14 marzo
 *Versione 1605 (Build 6965.2140)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2016 ottobre. Continuerà a essere supportato e ricevere aggiornamenti di sicurezza fino al 2017 giugno. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1609 (Build 7369.2120), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile da ottobre 2016. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al 2017 giugno. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1609 (Build 7369,2120), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Aggiornamento della sicurezza per Microsoft Office (3217868)
@@ -864,15 +864,15 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS17-013](https://technet.microsoft.com/library/security/ms17-013): aggiornamento della sicurezza per Microsoft Graphics Component (4013075)
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Aggiornamento della sicurezza per Microsoft Office (3217868)
 
 
 
-## <a name="version-1609-february-22"></a>Versione 1609: Febbraio 22
+## <a name="version-1609-february-22"></a>Versione 1609:22 febbraio
 *Versione 1609 (Build 7369.2118)*
 
-### <a name="access-feature-updates"></a>Access: Aggiornamenti delle funzionalità
+### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
 -   **Supporto dBASE:** Supporto per l'importazione o il collegamento ai dati archiviati in database dBASE (DBF). [Ulteriori informazioni](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
 
 ### <a name="access-non-security-updates"></a>Access: Aggiornamenti non della sicurezza
@@ -908,7 +908,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale Excel si arresta in modo anomalo quando si seleziona un elemento da un elenco a discesa.
 -   Consente di risolvere un problema a causa del quale l'utilizzo di un riferimento allo stile R1C1 nella funzione INDIRETTO con una versione in lingua tedesca o francese di Excel restituisce un errore \#REF! anziché il valore previsto e a cui si fa riferimento.
 -   Consente di risolvere un problema a causa del quale il tasto INVIO non funziona per separare le voci dell'elenco quando si crea un elenco di ordinamento personalizzato nella finestra di dialogo Elenchi personalizzati.
--   Risolvere problemi cui copia o lo spostamento informazioni fa sì che un messaggio di errore visualizzato, ad esempio "non riescono ad aprire negli Appunti" o "è non ha dato liberare spazio negli Appunti. Un altro programma potrebbe essere utilizzarlo direttamente."
+-   Fix an issue where copying or moving information causes an error message to appear, such as "Cannot open the Clipboard" or "We couldn't free up space on the Clipboard. Another program might be using it right now."
 -   Consente di risolvere un problema a causa del quale Excel si blocca quando si tenta di modificare una cartella di lavoro contenente numerose caselle di testo.
 -   Consente di risolvere un problema, dovuto a un aggiornamento della sicurezza recente, a causa del quale aprendo un file HTML da un percorso non attendibile viene visualizzata una schermata vuota senza errori su Excel, anziché consentire all'utente di aprire il file in Visualizzazione protetta.
 -   Consente di risolvere un problema a causa del quale viene visualizzato un messaggio di errore non corretto quando si inseriscono valori nella tabella pivot sulla base di un intervallo non valido.
@@ -927,7 +927,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 -   Consente di risolvere un problema a causa del quale OneNote si arresta in modo anomalo quando l'utente elimina una tabella.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
--   ** \@menzioni:** Verificare che i destinatari verificare se vi viene richiesto di azioni o input includendo il simbolo seguito dal nome della persona per il corpo di un elemento di posta elettronica o calendario @. Questo verrà automaticamente anche aggiungerli al campo a. [Ulteriori informazioni](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@menzioni:** Assicurarsi che i destinatari sappiano di essere stati richiesti per l'input o l'azione includendo il simbolo @ seguito dal nome della persona al corpo di un messaggio di posta elettronica o di calendario. This will also automatically add them to the To line. [More information](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Schede di riepilogo per pacchi e prenotazioni di viaggi:** Verificare e tenere traccia delle prenotazioni di viaggi e delle consegne di pacchi mediante le schede di riepilogo automaticamente create nella Posta in arrivo e nel Calendario. [Ulteriori informazioni](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Mini-anteprime per foto allegate**: quando una foto viene allegata a un messaggio di posta elettronica, in Outlook viene visualizzata una piccola anteprima della foto nel messaggio.
 -   **Collegamento Recupera Posta eliminata:** nella cartella Posta eliminata, sopra l'elenco della posta eliminata è presente il collegamento "Recupera la posta eliminata di recente da questa cartella" che, una volta selezionato, consente di visualizzare la finestra di dialogo Recupera Posta eliminata.
@@ -974,8 +974,8 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Aggiornamenti delle funzionalità
 -   **Elementi visivi aggiornati:** apportate modifiche alle icone e ai colori per migliorare l'accessibilità. [Ulteriori informazioni](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Aggiornamento dell'interfaccia utente "Condivisione":** Modificare "Presente" a "Condividere" negli elementi dell'interfaccia utente, ad esempio modifica "Desktop presente" in "Condividi il Desktop" e "Presente programma" a "Condividere una finestra".
--   **Supporto Citrix**: supporto per gli ambienti basati su Citrix Virtual Desktop Infrastructure (VDI), insieme a Citrix HDX in tempo reale Optimization Pack 2.1.
+-   **Update UI to "Share":** Change "Present" to "Share" negli elementi dell'interfaccia utente, ad esempio la modifica di "present desktop" in "Share your desktop" e "present Program" su "Share a Window".
+-   **Citrix support**: Support for Citrix-based Virtual Desktop Infrastructure (VDI) environments, along with Citrix HDX Real Time Optimization Pack 2.1.
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-097](https://technet.microsoft.com/library/security/ms16-097): aggiornamento della sicurezza per Microsoft Graphics Component (3177393)
@@ -984,7 +984,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Risolvere un problema in cui l'opzione che consente di condividere un monitor secondario non viene visualizzata con determinate configurazioni del monitor su Window 10 Versione 1607 (nota anche come Aggiornamento dell'anniversario).
 -   Risolvere un problema per il quale Skype for Business si arresta in modo anomalo quando si esegue lo zoom di contenuto condiviso se il condivisore usa un'implementazione di terze parti di RDP.
--   Risolvere i problemi a cui, se Skype per le aziende si connette a un server SIP tramite la porta 443 e un server proxy è presente, non esiste un notevole ritardo nel processo di accesso se il proxy non accetta tale connessione. La correzione è abilitata per aggiungere la voce del Registro di sistema EnableDetectProxyForAllConnections DWORD in HKEY\_corrente\_utente\\Software\\Microsoft\\UCCPlatform\\Lync e impostare il valore su 1.
+-   Fix an issue where, when Skype for Business connects to a SIP server over port 443 and a proxy server is present, there is a significant delay in the sign-in process if the proxy doesn't allow such connections. The fix is enabled by adding the EnableDetectProxyForAllConnections DWORD registry entry under HKEY\_CURRENT\_USER\\Software\\Microsoft\\UCCPlatform\\Lync, and setting the value to 1.
 -   Risolvere un problema per il quale i visualizzatori visualizzano una schermata nera quando un utente esegue Windows 7 e condivide innanzitutto il monitor principale e quindi passa a condividere un secondo monitor.
 -   Risolvere un problema in cui l'utente non riesce a connettersi a Exchange per ottenere informazioni su caselle vocali, contatti o cronologia delle conversazioni dopo la migrazione a Exchange Online.
 -   Risolvere un problema con la finestra di conversazione in cui, tentando di incollare le informazioni nella tastiera del telefono o in annotazioni di testo della lavagna in modo non corretto, vengono incollate le informazioni nella casella di testo di input della chat.
@@ -1019,7 +1019,7 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 ### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
 -   **Verifica accessibilità:** controllare il diagramma per eventuali problemi di accessibilità accedendo a File \> Info \> Verifica la presenza di errori \> Verifica accessibilità.
--   **Modelli UML:**  E tre i modelli, ovvero [componente](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074), [comunicazioni](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)e la [distribuzione](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543), ovvero che sono compatibili con il linguaggio UML (Unified Modeling) 2.5 standard.
+-   **Modelli UML:**  Tre modelli, ovvero [componente](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074), [comunicazione](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)e [distribuzione](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543), che sono conformi allo standard UML (Unified Modeling Language) 2,5.
 
 ### <a name="visio-security-updates"></a>Visio: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
@@ -1085,18 +1085,18 @@ Queste note sulla versione vengono fornite informazioni sulle nuove caratteristi
 
 
 
-## <a name="version-1605-january-10"></a>Versione 1605: 10 gennaio
+## <a name="version-1605-january-10"></a>Versione 1605:10 gennaio
 *Versione 1605 (Build 6965.2117)*
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS17-002](https://technet.microsoft.com/library/security/ms17-002): Aggiornamento della sicurezza per Microsoft Office (3214291)
 
 
 
-## <a name="version-1602-january-10"></a>Versione 1602: 10 gennaio
+## <a name="version-1602-january-10"></a>Versione 1602:10 gennaio
 *Versione 1602 (Build 6741.2105)*
 
-*Questa è la versione del canale rinviata che è stato reso disponibile dopo 2016 giugno. Continuerà a essere supportato e ricevere aggiornamenti di sicurezza fino al 2017 febbraio. Ma è ora disponibile una nuova versione rinviata canale, ovvero versione 1605 (Build 6965.2117), che include le nuove funzionalità, aggiornamenti di sicurezza e aggiornamenti non correlati alla sicurezza.*
+*Questa è la versione di Deferred Channel che è disponibile a partire dal 2016 giugno. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al febbraio 2017. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1605 (Build 6965,2117), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS17-002](https://technet.microsoft.com/library/security/ms17-002): Aggiornamento della sicurezza per Microsoft Office (3214291)
