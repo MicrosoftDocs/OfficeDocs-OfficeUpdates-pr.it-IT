@@ -1,5 +1,5 @@
 ---
-title: Note sulla versione per Office 2016 per Mac
+title: Cronologia aggiornamenti per Office 2016 per Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -10,14 +10,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni per Office 2016 per Mac a partire da settembre 2018
-ms.openlocfilehash: 607abf772306e7c98657080fdabe5e304eccb051
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 094e0654c5e92dee64d0f1ce3c74a0f9f2443b06
+ms.sourcegitcommit: 7a98878289dd61a6cfa7ea5e9a4ee90ad085b9bb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935898"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35110778"
 ---
-# <a name="release-notes-for-office-2016-for-mac"></a>Note sulla versione per Office 2016 per Mac
+# <a name="update-history-for-office-2016-for-mac"></a>Cronologia aggiornamenti per Office 2016 per Mac
 
 Office 2016 per Mac è una versione di Office disponibile come acquisto di una copia unica presso un punto vendita al dettaglio o tramite un contratto multilicenza. Sarà supportato con aggiornamenti della sicurezza e correzioni di errore, se necessario, fino al 13 ottobre 2020. La versione minima di macOS supportata per Office 2016 per Mac è la 10.10 (Yosemite).
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: f353cd54355468e4eed9cc8cde8eae2429c65236
-ms.sourcegitcommit: 44ee03955100dfadfe6bd551c5c2552d8fd371b4
+ms.openlocfilehash: 39c60b6d84ffff836a1f89735e357cbcd1901793
+ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "35585564"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601465"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -35,34 +35,43 @@ Per informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza e no
 > - Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download sarà molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB.
 
 [//]: # (NON RIMUOVERE)
-## <a name="july-8-2019"></a>8 luglio 2019
+
+## <a name="july-9-2019"></a>9 luglio 2019
+
+[//]: # (NON RIMUOVERE - INIZIO CONTENUTO - 9 luglio 2019)
 
 ### <a name="monthly-channel"></a>Canale mensile
 
-La versione prevista è la numero 1906 (Build 11727.20244).
+La versione più recente è la numero 1906 (Build 11727.20244).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
 |Versione 1906 (Build 11727.20230) <br/> |27 giugno 2019 <br/> |202<br/> |
 |Versione 1906 (Build 11727.20224) <br/> |26 giugno 2019 <br/> |51<br/> |
 
+
+
 ### <a name="semi-annual-channel"></a>Canale semestrale
 
-La versione prevista è la numero 1902 (Build 11328.20368).
+La versione più recente è la numero 1902 (Build 11328.20368).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
-|Versione 1808 (Build 10730.20348) <br/> |11 giugno 2019  <br/> |307<br/> |
-|Versione 1808 (Build 10730.20344) <br/> |14 maggio 2019  <br/> |307<br/> |
+|Versione 1808 (Build 10730.20348) <br/> |11 giugno 2019 <br/> |307<br/> |
+|Versione 1808 (Build 10730.20344) <br/> |14 maggio 2019 <br/> |307<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
 
-La versione prevista è la numero 1902 (Build 11328.20368).
-  
+La versione più recente è la numero 1902 (Build 11328.20368).
+
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
-|Versione 1902 (Build 11328.20318)  <br/> |11 giugno 2019  <br/> |71 <br/> |
-|Versione 1902 (build 11328.20286)  <br/> |14 maggio 2019  <br/> |74 <br/> |
+|Versione 1902 (Build 11328.20318) <br/> |11 giugno 2019 <br/> |71<br/> |
+|Versione 1902 (build 11328.20286) <br/> |14 maggio 2019 <br/> |74<br/> |
+
+
+[//]: # (NON RIMUOVERE - FINE CONTENUTO - 9 luglio 2019)
+
 
 ## <a name="june-27-2019"></a>27 giugno 2019
 
