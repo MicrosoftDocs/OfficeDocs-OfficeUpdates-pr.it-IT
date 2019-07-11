@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: c30fea0f6e77e25db238ead95a786ba99f69790a
-ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
+ms.openlocfilehash: 041802476192d1ca6b684a46046aefa2c9ba2a73
+ms.sourcegitcommit: 9e7d201c887af0708df6ce48fba7f414b066dcd0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605585"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35612145"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -29,8 +29,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 ## <a name="version-1902-july-09"></a>Versione 1902: 9 luglio
 *Versione 1902 (Build 11328.20368)*
-
-Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+<br/>Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
@@ -196,6 +195,26 @@ Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com
 - Risolto un problema di regressione che causa blocchi durante il download di immagini collegate.
 - Risolto un problema di sfocatura dei file EMF di grandi dimensioni incollati in Word, Excel e PowerPoint.
 - Risolto il bug nella logica di analisi della cronologia delle versioni che in alcuni casi determinava l'apertura dei documenti in sola lettura.
+
+
+## <a name="version-1808-july-09"></a>Versione 1808: 9 luglio
+*Versione 1808 (Build 10730.20360)*
+<br/>Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+
+- Prestazioni migliorate durante l'abilitazione delle parti rapide per le proprietà del documento.
+- È stato risolto un problema relativo a Rimuovi firma durante l'estrazione di un file.
+
+### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto un problema che poteva causare un arresto anomalo delle applicazioni di Office in esecuzione in Windows virtualizzato.
+
+
+## <a name="version-1803-july-09"></a>Versione 1803: 9 luglio
+*Versione 1803 (Build 9126.2428)*
+<br/>Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>Versione 1808: 11 giugno

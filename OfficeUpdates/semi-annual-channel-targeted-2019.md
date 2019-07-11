@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910396"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607360"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -27,6 +27,49 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  
 > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
+
+## <a name="version-1902-july-09"></a>Versione 1902: 9 luglio
+*Versione 1902 (Build 11328.20368)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+- È stato risolto un problema di estrema lentezza nell'eliminazione di righe filtrate di Excel.
+- È stato risolto un problema con lo scorrimento a due dita che disegnava rettangoli grigi sul foglio di lavoro bloccando Excel.
+
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+- È stato risolto un problema che causava l’inserimento da parte di Outlook di lettere pinyin inglesi invece di mantenere aperta la finestra del candidato IME per consentire la selezione delle parole cinesi.
+- È stato risolto un problema che causava la visualizzazione delle sale consigliate per le riunioni in orari al di fuori della disponibilità della sala.
+- È stato risolto un problema che causava l’apertura della serie master se si tentava di aprire un’eccezione a una serie di riunioni.
+- È stato risolto un problema che causava il calcolo errato delle date di scadenza per gli elementi contenuti nella cartella Posta eliminata.
+
+
+### <a name="teams-non-security-updates"></a>Teams: aggiornamenti non relativi alla sicurezza
+
+- Il programma di installazione di Teams ha ora dei criteri che consentono di disattivare l’avvio automatico al termine dell'installazione.
+
+
+### <a name="visio-non-security-updates"></a>Visio: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto un problema relativo alle soluzioni ActiveX per Visio che non funzionavano con Office 365, che restituiva un messaggio di errore per cui non era possibile trovare riched20.dll.
+
+
+### <a name="word--non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+
+- È stata corretta una impostazione dell’oggetto Criteri di gruppo che disabilitava la barra di ricerca del modello.
+- È stato risolto un problema per cui gli utenti perdevano le modifiche apportate offline a un documento solo nel server.
+- Prestazioni migliorate abilitando Parti rapide per le proprietà del documento.
+- È stato risolto un problema per cui il primo download della revisione dal server poteva non riuscire
+
+
+### <a name="office-suite--non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto un problema per cui i dispositivi che usavano l'attivazione di computer condivisi ripristinavano l'attivazione basata sull’utente dopo l'installazione di prodotti Office aggiuntivi o Language Pack.
+- È stato risolto un problema che impediva gli aggiornamenti di Office quando veniva eseguita l'autenticazione proxy come sistema.
+- È stato risolto un problema per cui i componenti aggiuntivi di Office scomparivano con le modifiche al profilo utente.
+
 
 ## <a name="version-1902-june-11"></a>Versione 1902: 11 giugno
 *Versione 1902 (Build 11328.20318)*
