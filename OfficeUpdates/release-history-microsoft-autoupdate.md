@@ -3,19 +3,19 @@ title: Cronologia delle versioni per Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 7/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: 77894c5325931fc3978f8113175de2a72623d8c8
-ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
+ms.openlocfilehash: e5905b289963cb91a61f2a29f3c97bd9df895610
+ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060308"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "35759396"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -29,31 +29,32 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 > - I collegamenti per il download sono disponibili solo per la versione più recente di Microsoft AutoUpdate
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
   
-## <a name="june-2019-release"></a>Rilascio di giugno 2019
+## <a name="july-2019-release"></a>Versione di luglio 2019
 
-**Data di rilascio:** 11 giugno 2019
+**Data di rilascio:** 16 luglio 2019
 
-*Microsoft AutoUpdate 4.12*
+*Aggiornamento automatico Microsoft 4.13*
 
  **Aggiornamenti delle funzionalità:**
 
-- Aggiornamenti delle differenze binarie: per i dispositivi SSD, implementazione di aggiornamenti di dimensioni inferiori, in modo da ridurre consumo della larghezza di banda dovuta agli aggiornamenti.
-- Supporto per le app per accessori: MAU supporta ora le app per accessori, come Microsoft OneDrive.
-- Miglioramenti apportati all'installazione in cloni: l'aggiornamento dei cloni è ora più solido e a prova d'errore.
+- Modifiche alla privacy per MAU: agli utenti finali verrà mostrato un avviso obbligatorio per la raccolta di dati nel rispetto della conformità.
+- Scadenza degli aggiornamenti MAU: gli amministratori Mac possono impostare una scadenza in MAU per applicare gli aggiornamenti tra gli utenti Mac.
+- Diverse correzioni di bug e miglioramenti delle prestazioni.
 
 **Collegamento dell'aggiornamento di MAU:**
 
-[Scaricare il pacchetto di Microsoft AutoUpdate 4.12](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
+[Scaricare il pacchetto di Microsoft AutoUpdate 4.13](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071500_Updater.pkg)<br/>
 <br/>
 **Hash SHA-1/SHA-256:**
 
-ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+2f86ed6bba92bb57ac1189ba561de8b5e36c90003c178d50d7c71960050ea667
 <br/><br/>
 
 ## <a name="release-history"></a>Cronologia delle versioni
 
 |**Data di rilascio**|**Versione**|**Ulteriori informazioni**||
 |:-----|:-----|:-----|:-----|
+|16 luglio 2019 <br/>|4.13 <br/> |  [Note sulla versione](release-notes-office-for-mac.md) <br/> ||
 |11 giugno 2019 <br/>|4.12 <br/> |  <br/> ||
 |14 maggio 2019 <br/>|4.11 <br/> | [Note sulla versione](release-notes-office-for-mac.md#May-2019-release) <br/> | <br/> |
 |16 aprile 2019 <br/>|4.10 <br/> | [Note sulla versione](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
