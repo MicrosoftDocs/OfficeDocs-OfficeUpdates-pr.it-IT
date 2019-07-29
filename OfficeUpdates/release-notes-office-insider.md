@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
-ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
+ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
+ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803163"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916969"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -27,6 +27,44 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
  > [!NOTE]
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="july-26-2019"></a>26 luglio 2019
+Versione 1908 (build 11916.20000)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="create-more-accessible-pdfs"></a>Creare file PDF accessibili
+
+Creare un file PDF e Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare.
+
+## <a name="notable-fixes"></a>Correzioni importanti:
+
+### <a name="all"></a>Tutto
+
+- È stato risolto un problema per il quale talvolta si poteva interrompere l’associazione del tipo di file e delle icone dopo l'aggiornamento di Office.
+
+### <a name="word"></a>Word 
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema per cui lo spostamento di un grafico poteva causare un arresto anomalo
+- È stato risolto un problema per il quale a volte si poteva verificare un errore nell’ottenere un oggetto della Cartella di lavoro dall'oggetto Grafico dopo aver modificato i tipi di grafici
+
+### <a name="powerpoint"></a>PowerPoint
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema per cui, in una barra multifunzione semplificata, un controllo disabilitato a volte poteva non essere disattivato sulla barra multifunzione
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="project"></a>Project
+- Diverse correzioni a prestazioni e stabilità
+
+</BR></BR>
 
 ## <a name="july-19-2019"></a>19 luglio 2019
 Versione 1908 (Build 11911.20000)
