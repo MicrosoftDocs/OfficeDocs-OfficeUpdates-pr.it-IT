@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 618ba47e894e43df22fced1370f24c05421d0a19
-ms.sourcegitcommit: 75261a0a6da741286e89750a6035e398c041972c
+ms.openlocfilehash: d50e91c05448279e940bc0c83eac1d1d549f7469
+ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35834256"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35924913"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -32,6 +32,22 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="july-29-2019"></a>29 luglio 2019
+
+[//]: # (NON RIMUOVERE - INIZIO CONTENUTO - 29 luglio 2019)
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1907 (Build 11901.20176).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1906 (Build 11727.20244) <br/> |9 luglio 2019 <br/> |195<br/> |
+|Versione 1906 (Build 11727.20230) <br/> |27 giugno 2019 <br/> |200<br/> |
+
+
+[//]: # (NON RIMUOVERE - FINE CONTENUTO - 29 luglio 2019)
 
 ## <a name="july-9-2019"></a>9 luglio 2019
 
