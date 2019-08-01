@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
+ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759456"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937624"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -65,8 +65,8 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 
 - **Condividere gli allegati dai file cloud:** è possibile allegare facilmente i file cloud ai messaggi di posta elettronica per migliorare la collaborazione.<br/>
-
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
+- **Supporto per la modalità scura nel riquadro di lettura:** i messaggi di posta elettronica ricevuti sono ora caratterizzati da uno sfondo scuro per agevolarne la visualizzazione in ambienti con illuminazione insufficiente. Richiede macOS Mojave. 
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): vulnerabilità relativa alla divulgazione di informazioni di Microsoft Exchange<br/><br/>
 ## <a name="june-11-2019-release"></a>Rilascio dell'11 giugno 2019
