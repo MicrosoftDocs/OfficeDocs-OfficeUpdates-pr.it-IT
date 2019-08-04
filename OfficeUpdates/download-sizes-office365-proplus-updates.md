@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: d50e91c05448279e940bc0c83eac1d1d549f7469
-ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
+ms.openlocfilehash: f6a9080906c257e6a1cc426d69b77eb1e1a64203
+ms.sourcegitcommit: 4bcb4a9e319494a6d66a3234e1295b979d73ed0a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35924913"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044998"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -27,7 +27,7 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
  
 > [!NOTE]
-> - Le dimensioni di download approssimative elencate nelle tabelle sono valide soltanto per la versione x64 en-us di Office 365 ProPlus. Per tutte le versioni precedenti al 13 marzo 2019 sono visualizzate le dimensioni per la versione x86.
+> - Le dimensioni di download approssimative elencate nelle tabelle sono valide soltanto per la versione x64 en-us di Office 365 ProPlus.
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 
@@ -305,60 +305,6 @@ La versione più recente è la numero 1903 (Build 11425.20202).
 |:-----|:-----|:-----|
 |Versione 1902 (Build 11328.20158)  <br/> |12 marzo 2019  <br/> |204<br/> |
 |Versione 1902 (Build 11328.20222)  <br/> |25 marzo 2019  <br/> |205<br/> |
-
-## <a name="march-25-2019"></a>25 marzo 2019
-
-### <a name="monthly-channel"></a>Canale mensile
-
-La versione più recente è la numero 1902 (Build 11328.20222). 
-  
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
-|:-----|:-----|:-----|
-|Versione 1902 (Build 11328.20158)  <br/> |12 marzo 2019  <br/> |67<br/> |
-|Versione 1901 (Build 11328.201460)  <br/> |4 marzo 2019  <br/> |67<br/> |
-|Versione 1901 (Build 11328.20146)  <br/> |12 febbraio 2019  <br/> |307<br/> |
-
-## <a name="march-12-2019"></a>12 marzo 2019
-
-### <a name="monthly-channel"></a>Canale mensile
-
-La versione più recente è la numero 1902 (Build 11328.20158). 
-  
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
-|:-----|:-----|:-----|
-|Versione 1901 (Build 11231.20130)  <br/> |31 gennaio 2019  <br/> |179<br/> |
-|Versione 1901 (Build 11231.20174)  <br/> |12 febbraio 2019  <br/> |177<br/> |
-|Versione 1902 (Build 11328.20146)  <br/> |4 marzo 2019  <br/> |278<br/> |
-
-### <a name="semi-annual-channel"></a>Canale semestrale
-
-La versione più recente è la numero 1808 (Build 10730.20304).
-
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
-|:-----|:-----|:-----|
-|Versione 1808 (Build 10730.20264)  <br/> |8 gennaio 2019  <br/> |84<br/> |
-|Versione 1808 (Build 10730.20280) <br/> |12 febbraio 2019  <br/> |74<br/> |
-
-### <a name="semi-annual-channel-targeted"></a>Canale semestrale (mirato)
-
-La versione più recente è la numero 1902 (Build 11328.20158).
-  
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
-|:-----|:-----|:-----|
-|Versione 1808 (Build 10730.20264)  <br/> |8 gennaio 2019  <br/> |257 <br/> |
-|Versione 1808 (Build 10730.20280)  <br/> |12 febbraio 2019  <br/> |256 <br/> |
-
-## <a name="march-4-2019"></a>4 marzo 2019
-
-### <a name="monthly-channel"></a>Canale mensile
-
-La versione più recente è la numero 1902 (Build 11328.20146). 
-  
-|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
-|:-----|:-----|:-----|
-|Versione 1901 (Build 11231.20130)  <br/> |31 gennaio 2019  <br/> |180<br/> |
-|Versione 1901 (Build 11231.20174)  <br/> |12 febbraio 2019  <br/> |178<br/> |
-
 
 ## <a name="related-topics"></a>Argomenti correlati
 

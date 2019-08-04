@@ -3,19 +3,19 @@ title: Cronologia delle versioni per Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: ff8d4ef4bf8082a1c1d40dbf7c850f29c6689f20
-ms.sourcegitcommit: bdc3b17bf45b9ce2decbcfe752b1a1bf1efdbe9b
+ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
+ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35795542"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35936347"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -40,7 +40,7 @@ Per visualizzare le note sulla versione, vedere [Note sulla versione](release-no
  **Aggiornamenti delle funzionalità:**
 
 - Modifiche alla privacy per MAU: agli utenti finali verrà mostrato un avviso obbligatorio per la raccolta di dati nel rispetto della conformità.
-- Scadenza degli aggiornamenti MAU: gli amministratori Mac possono impostare una scadenza in MAU per applicare gli aggiornamenti tra gli utenti Mac.
+- Scadenza degli aggiornamenti MAU: gli amministratori Mac possono impostare una scadenza di MAU per applicare gli aggiornamenti tra gli utenti Mac. [Altre informazioni](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
 - Diverse correzioni di bug e miglioramenti delle prestazioni.
 
 **Collegamento dell'aggiornamento di MAU:**
@@ -51,13 +51,92 @@ Per visualizzare le note sulla versione, vedere [Note sulla versione](release-no
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
+## <a name="june-2019-release"></a>Rilascio di giugno 2019
+
+**Data di rilascio:** 27 giugno 2019
+
+*Aggiornamento automatico Microsoft 4.12*
+
+ **Aggiornamenti delle funzionalità:**
+
+- Abbiamo risolto un problema con la versione beta di Apple OS che causava errori negli aggiornamenti completi di MAU. 
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto di Microsoft AutoUpdate 4.12](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19062700_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:**
+
+85ce26ece89a256711f082e61b313c1ed6a22bfc402d4789a78a08022a96f6fa
+<br/><br/>
+
+**Data di rilascio:** 9 giugno 2019
+
+*Aggiornamento automatico Microsoft 4.12*
+
+ **Aggiornamenti delle funzionalità:**
+
+- Aggiornamenti delle differenze binarie: per i dispositivi SSD, implementazione di aggiornamenti di dimensioni inferiori, in modo da ridurre consumo della larghezza di banda dovuta agli aggiornamenti.
+- Supporto per le app per accessori: MAU supporta ora le app per accessori, come Microsoft OneDrive.
+- Miglioramenti apportati all'installazione in cloni: l'aggiornamento dei cloni è ora più solido e a prova d'errore.
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto di Microsoft AutoUpdate 4.12](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:**
+
+ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+<br/><br/>
+
+
+## <a name="may-2019-release"></a>Rilascio di maggio 2019
+
+**Data di rilascio:** 14 maggio 2019
+
+*Aggiornamento automatico Microsoft 4.11*
+
+ **Aggiornamenti delle funzionalità:**
+
+- Modifiche alla privacy per MAU: agli utenti finali verrà mostrato un avviso obbligatorio per la raccolta di dati nel rispetto della conformità.
+- Scadenza degli aggiornamenti MAU: gli amministratori Mac possono impostare una scadenza di MAU per applicare gli aggiornamenti tra gli utenti Mac. [Altre informazioni](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- Diverse correzioni di bug e miglioramenti delle prestazioni.
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto di Microsoft AutoUpdate 4.11](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.11.19051201_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:**
+
+EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
+<br/><br/>
+
+## <a name="april-2019-release"></a>Versione di aprile 2019
+
+**Data di rilascio:** 16 aprile 2019
+
+*Aggiornamento automatico Microsoft 4.10*
+
+ **Aggiornamenti delle funzionalità:**
+
+- Miglioramenti apportati alla funzionalità di installazione nel clone: per i dispositivi SSD gli aggiornamenti verranno installati in cloni delle app attualmente in uso, riducendo il tempo di inattività dell'app causato dagli aggiornamenti.
+- Le ottimizzazioni dell'installazione: il processo di aggiornamento utilizzerà la clonazione parallelizzata, in modo che gli aggiornamenti di inattività dell'applicazione verranno ridotte.
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto dell’aggiornamento automatico di Microsoft 4.10](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:**
+
+FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
+<br/><br/>
 
 ## <a name="release-history"></a>Cronologia delle versioni
 
 |**Data di rilascio**|**Versione**|**Ulteriori informazioni**||
 |:-----|:-----|:-----|:-----|
 |18 luglio 2019 <br/>|4.13 <br/> |  <br/> ||
-|11 giugno 2019 <br/>|4.12 <br/> | <br/> ||
+|27 giugno 2019 <br/>9 giugno 2019|4.12 <br/> | <br/> ||
 |14 maggio 2019 <br/>|4.11 <br/> |  <br/> | <br/> |
 |16 aprile 2019 <br/>|4.10 <br/> |  <br/> |<br/> |
 |14 marzo 2019 <br/>|4.9.0 <br/> | [Note sulla versione](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
