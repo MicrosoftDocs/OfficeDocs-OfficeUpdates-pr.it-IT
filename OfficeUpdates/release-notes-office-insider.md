@@ -3,19 +3,19 @@ title: Note sulla versione per i partecipanti al programma Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/26/2019
+ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
-ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
+ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
+ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916969"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36168331"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,7 +26,98 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
 
  > [!NOTE]
-> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+[//]: # (NON RIMUOVERE)
+
+
+## <a name="august-02-2019br"></a>**2 agosto 2019**<br/>
+Versione 1908 (Build 11929.20002)<br/>
+
+### <a name="excel-feature-updates"></a>Aggiornamenti delle funzionalità di Excel:
+
+- **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
+
+
+- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+
+
+### <a name="outlook-feature-updates"></a>Aggiornamenti delle funzionalità di Outlook:
+
+- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+
+
+### <a name="powerpoint-feature-updates"></a>Aggiornamenti delle funzionalità di PowerPoint:
+
+- **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
+
+
+- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+
+
+### <a name="word-feature-updates"></a>Aggiornamenti delle funzionalità di Word:
+
+- **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
+
+
+- **La scoperta della riscrittura:** si vuole comunicarlo in un altro modo? Usare Riscrivi per visualizzare suggerimenti diversi su come comunicare il messaggio.
+
+
+- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+
+
+
+
+## <a name="non-security-updates"></a>Aggiornamenti non della sicurezza:
+
+### <a name="access"></a>Access
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema che faceva sembrare che si applicasse &quot;Ripeti tutte le etichette&quot; durante la stampa di un PDF</span></div>
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div><span>È stato risolto un problema che impediva agli utenti di aprire un documento dal desktop</span></div>
+
+- <div><span>È stato risolto un problema per cui un aggiornamento potrebbe essere impedito da un messaggio errato di errore di &quot;un'altra installazione in corso&quot;</span></div>
+
+- <div><span>È stato risolto un problema che consente a un utente di visualizzare i messaggi di errore durante l'installazione degli aggiornamenti di sicurezza</span></div>
+
+- <div><span>È stato risolto un problema che potrebbe far scomparire il cursore</span></div>
+
+- <div><span>È stato risolto un problema per cui veniva visualizzata per impostazione predefinita la scheda Disegno invece della scheda Home</span></div>
+
+- <div><span>È stato risolto un problema per cui visualizzazioni ampie degli alberi potrebbero comportare un arresto anomalo</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">È stato risolto un problema che può causare richieste ripetute di password</span>
+
+- <div><span>È stato risolto un problema che impediva l'esecuzione corretta della query di un indirizzo di posta elettronica</span></div>
+
+- <div><span>È stato risolto un problema che impediva agli utenti di aprire gli elementi del calendario creati da versioni legacy di Outlook</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>È stato risolto un problema che impediva l'avvio di alcune animazioni</span></div>
+
+### <a name="project"></a>Project
+- Diverse correzioni a prestazioni e stabilità
+
+### <a name="word"></a>Word
+
+- <div><span>È stato risolto un problema per cui le risposte ai commenti potrebbero non essere più ordinate</span></div>
+
+- <div><span>È stato risolto un problema per cui in alcune situazioni verranno visualizzati suggerimenti anziché commenti</span></div>
+
+- <div><span>È stato risolto un problema per cui potrebbe essere visualizzato il riquadro revisioni quando si prova ad aggiungere un nuovo commento</span></div>
+
+- <div><span>È stato risolto un problema che potrebbe impedire la visualizzazione dell'elenco a discesa Annulla</span></div>
+
+- <div><span>È stato risolto un problema che impediva l'aggiunta di commenti</span></div>
+
 
 ## <a name="july-26-2019"></a>26 luglio 2019
 Versione 1908 (build 11916.20000)
