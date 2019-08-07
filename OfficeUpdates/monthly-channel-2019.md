@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: f62ad82facc0ca89163cf57c774fbd2b4ae9db1c
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: b9e3c357eb120e488249f5688b2bdd72876d9508
+ms.sourcegitcommit: 953b8e82778004b820cb31152ff52fe3c8781f96
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936337"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "36204338"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -36,8 +36,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - **Possibilità di scegliere dove aprire i collegamenti:** è possibile scegliere come aprire i collegamenti ai documenti di Office, ovvero nel browser o nell'app.
 
-- **Codice rapido con i miglioramenti di Power Query:** è possibile completare rapidamente il codice con il completamento automatico e i colori della sintassi. Semplice individuazione di funzioni, colonne e parametri. 
-  [Altre informazioni](https://support.office.com/it-IT/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+- **Codice rapido con i miglioramenti di Power Query:** è possibile completare rapidamente il codice con il completamento automatico e i colori della sintassi. Semplice individuazione di funzioni, colonne e parametri.
 
 - **Creazione di un grafico a mappa:** questa funzionalità è un miglioramento destinato agli utenti che tracciano grafici a mappa colorata usando i tipi di dati geografici di Excel. Il vantaggio per gli utenti finali sarà una migliore integrazione tra le funzionalità e una maggiore accuratezza dell'area da includere nella mappa. Altri vantaggi includono la possibilità di creare mappe con poligoni di città. 
   [Altre informazioni](https://support.office.com/it-IT/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
