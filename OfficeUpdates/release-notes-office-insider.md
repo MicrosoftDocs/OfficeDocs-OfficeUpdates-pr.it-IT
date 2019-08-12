@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
+ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231601"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36285983"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -29,6 +29,60 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+
+## <a name="august-09-2019br"></a>**9 agosto 2019**<br/>
+Versione 1909 (Build 12001.20000)<br/>
+
+### <a name="excel-feature-updates"></a>Aggiornamenti delle funzionalità di Excel:
+
+- **La collaborazione è stata semplificata:** i miglioramenti apportati alla creazione condivisa indicano che, quando si usa la formattazione condizionale, gli stili cella e così via, le modifiche vengono unite perfettamente con quelle dei propri collaboratori.
+
+
+- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.
+
+
+### <a name="office-suite-feature-updates"></a>Aggiornamenti delle funzionalità della Famiglia di prodotti Office:
+
+- **Nuove icone dell’app di Office:** le icone dell'app sono state riprogettate per riflettere l'esperienza semplice, potente e intelligente di Office
+
+
+### <a name="outlook-feature-updates"></a>Aggiornamenti delle funzionalità di Outlook:
+
+- **Protezione avanzata dalle minacce:** con Office 365 Advanced Threat Protection, si è protetti dalle minacce tramite collegamenti ipertestuali negli oggetti di posta elettronica, messaggi allegati, messaggi firmati, percorsi di rete e così via.
+
+
+- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.
+
+
+### <a name="powerpoint-feature-updates"></a>Aggiornamenti delle funzionalità di PowerPoint:
+
+- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.
+
+
+### <a name="word-feature-updates"></a>Aggiornamenti delle funzionalità di Word:
+
+- Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.
+
+
+- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.
+
+
+
+
+## <a name="non-security-updates"></a>Aggiornamenti non per la sicurezza:
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>È stato risolto un problema che causava la ricezione di due notifiche da parte dei destinatari della riunione dopo l'annullamento di una riunione</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>È stato risolto un problema che causava un arresto anomalo quando l'utente ha selezionato Nessun contorno o Nessun riempimento per forme e icone</span></div>
+
+
+
 
 
 ## <a name="august-02-2019br"></a>**2 agosto 2019**<br/>
@@ -168,9 +222,6 @@ Versione 1908 (Build 11911.20000)
 
 Quando viene rilevato un acronimo, Word proverà a definirlo usando i dati dell'organizzazione.
 
-#### <a name="coauthoring-improvements"></a>Miglioramenti alla creazione condivisa
-
-L'esperienza di creazione condivisa è stata migliorata, aumentando la probabilità che gli altri utenti ricevano le modifiche apportate al contenuto in tempo reale.
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
@@ -293,6 +344,12 @@ Versione 1907 (Build 11819.20002)
 
 ## <a name="whats-new"></a>Novità:
 
+### <a name="excel"></a>Excel
+
+- **Codice rapido con i miglioramenti di Power Query:** è possibile completare rapidamente il codice con il completamento automatico e i colori della sintassi. Semplice individuazione di funzioni, colonne e parametri
+
+- **Unione di tabelle in colonne simili:** Recupera e trasforma (Power Query) ora include una logica di corrispondenza del testo approssimativa (denominata anche corrispondenza fuzzy) durante il confronto di colonne per unire le tabelle.
+ 
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint e Visio
 
 #### <a name="recommended-documents"></a>Documenti consigliati
@@ -771,6 +828,18 @@ Versione 1906 (Build 11629.20008)
 ## <a name="april-26-2019"></a>26 aprile 2019
 Versione 1905 (build 11617.20002)
 
+## <a name="new-features"></a>Nuove funzionalità
+
+### <a name="excel"></a>Excel
+
+#### <a name="coauthoring-improvements"></a>Miglioramenti alla creazione condivisa
+
+L'esperienza di creazione condivisa è stata migliorata, aumentando la probabilità che gli altri utenti ricevano le modifiche apportate al contenuto in tempo reale.
+
+### <a name="visio"></a>Visio
+
+- **Esportare elementi visivi di Visio da Power BI:** gli oggetti visivi di Visio per Power BI vengono ora visualizzati correttamente quando si esportano i report di Power BI come PDF, file di PowerPoint e altro ancora.
+
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
@@ -969,6 +1038,12 @@ Office ora supporta i modelli animati, che verranno riprodotti nell'editor e con
 
 ## <a name="march-22-2019"></a>22 marzo 2019
 Versione 1904 (build 11514.20004)
+
+## <a name="new-features"></a>Nuove funzionalità
+
+- **Controlli della privacy:** Controlli nuovi, aggiornati e migliorati per dati di diagnostica ed esperienze connesse. Altre informazioni <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Le icone di Office hanno un nuovo aspetto:** le icone di Office sono state riprogettate per riflettere l'esperienza semplice potente e intelligente di Office.
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
