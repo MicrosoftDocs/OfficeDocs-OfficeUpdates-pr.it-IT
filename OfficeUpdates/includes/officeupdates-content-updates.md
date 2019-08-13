@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Settimana del 1 ° luglio 2019
-
-
-| Data di pubblicazione |Titolo dell'argomento | Modifica |
-|------|------------|--------|
-| 7/2/2019 | [Ultimi aggiornamenti non relativi alla sicurezza per le versioni di Office che usano Windows Installer (MSI)](/OfficeUpdates/office-msi-non-security-updates) | modificato |
-| 7/5/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
-
-
 ## <a name="week-of-july-08-2019"></a>Settimana del 08 luglio 2019
 
 
@@ -90,3 +81,17 @@
 | 8/1/2019 | [Note sulle versioni per i rilasci del Canale semestrale nel 2019](/OfficeUpdates/semi-annual-channel-2019) | modificato |
 | 8/1/2019 | [Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificato |
 | 8/2/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
+
+
+## <a name="week-of-august-05-2019"></a>Settimana del 05 agosto 2019
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 8/5/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
+| 8/6/2019 | [Cronologia degli aggiornamenti per Office Insider Channel](/OfficeUpdates/update-history-office-insider) | modificato |
+| 8/6/2019 | [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificato |
+| 8/6/2019 | [Note sulle versioni per i rilasci del Canale mensile nel 2019](/OfficeUpdates/monthly-channel-2019) | modificato |
+| 8/6/2019 | [Ultimi aggiornamenti non relativi alla sicurezza per le versioni di Office che usano Windows Installer (MSI)](/OfficeUpdates/office-msi-non-security-updates) | modificato |
+| 8/7/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
+| 8/9/2019 | [Note sulla versione per i partecipanti al programma Office Insider](/OfficeUpdates/release-notes-office-insider) | modificato |
