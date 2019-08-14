@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
-ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
+ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36285983"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302485"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -62,7 +62,7 @@ Versione 1909 (Build 12001.20000)<br/>
 
 ### <a name="word-feature-updates"></a>Aggiornamenti delle funzionalità di Word:
 
-- Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.
+- **Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.
 
 
 - **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.
@@ -295,6 +295,10 @@ Versione 1907 (Build 11901.20018)
 #### <a name="sketchy-shapes"></a>Forme Schizzo
 
 Se si sta lavorando a una bozza di presentazione, è possibile applicare lo stile Schizzo per indicare che non è ancora finale. Questo stile consente di conferire un tocco personale agli oggetti senza trasformarli in forme libere, disegnate a mano.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **L'impostazione per la stampa dei numeri di diapositiva in stampati è stata spostata nel menu Stampa per semplificare l'accesso:** trovarla nell'elenco a discesa Stampa > layout di stampa quando è selezionato un layout Stampati. L'opzione consente inoltre di attivare o disattivare facilmente la presentazione. 
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 

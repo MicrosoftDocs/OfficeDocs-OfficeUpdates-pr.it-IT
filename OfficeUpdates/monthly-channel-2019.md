@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
-ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
+ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36222964"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302475"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -58,6 +58,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - **Creazione di un grafico a mappa:** questa funzionalità è un miglioramento destinato agli utenti che tracciano grafici a mappa colorata usando i tipi di dati geografici di Excel. Il vantaggio per gli utenti finali sarà una migliore integrazione tra le funzionalità e una maggiore accuratezza dell'area da includere nella mappa. Altri vantaggi includono la possibilità di creare mappe con poligoni di città. 
   [Altre informazioni](https://support.office.com/it-IT/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **L'impostazione per la stampa dei numeri di diapositiva in stampati è stata spostata nel menu Stampa per semplificare l'accesso:** trovarla nell'elenco a discesa Stampa > layout di stampa quando è selezionato un layout Stampati. L'opzione consente inoltre di attivare o disattivare facilmente la presentazione. 
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 
@@ -311,6 +313,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 
 - **Insights in Excel:** offre vantaggi a una serie di utenti. Insights fornisce un approccio più delicato per l'analisi dei dati e in altri casi fornisce un punto di vista diverso sui dati. [Altre informazioni](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
+
 - **Aumentare l'efficacia del contenuto:** rendere accessibili i fogli di calcolo Consentire allo strumento di verifica accessibilità di tenerli sotto controllo senza intralciare il lavoro. Per provare, fare clic su Revisione > Verifica accessibilità. Se verranno trovati elementi da consultare, verrà visualizzato un avviso nella barra di stato.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
@@ -320,6 +323,10 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 - **Aumentare l'efficacia del contenuto:** rendere accessibili le presentazioni Consentire allo strumento di verifica accessibilità di tenerli sotto controllo senza intralciare il lavoro. Per provare, fare clic su Revisione > Verifica accessibilità. Se verranno trovati elementi da consultare, verrà visualizzato un avviso nella barra di stato.
 
 - **Perché reinventare quando è possibile riutilizzare?**  È possibile risparmiare tempo riutilizzando le diapositive che sono state create o che altri hanno condiviso.
+
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+
+- È stato risolto un problema di conflitto di unione in Excel che potrebbe comportare la richiesta di riaprire la cartella di lavoro.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
 
