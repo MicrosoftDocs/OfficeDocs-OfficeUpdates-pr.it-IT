@@ -3,19 +3,19 @@ title: Cronologia delle versioni per Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/31/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: 6f9c5e78135b3311077445c6de6fb593b5796875
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936347"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396590"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -31,6 +31,25 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).<br/><br/>
 
+## <a name="august-2019-release"></a>Rilascio di agosto 2019
+
+**Data di rilascio:** 13 agosto 2019
+
+*Aggiornamento automatico Microsoft 4.14*
+
+ **Aggiornamenti delle funzionalità:**
+
+- Sono stati risolti vari problemi per migliorare le traduzioni voice over, aggiornare le prestazioni e l'interfaccia utente.
+- Sono state aggiunte le correzioni per la risoluzione dei problemi e la telemetria.
+
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto dell'aggiornamento automatico di Microsoft 4.14](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.14.19081202_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:**
+
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
 ## <a name="july-2019-release"></a>Rilascio di luglio 2019
 
 **Data di rilascio:** 18 luglio 2019
