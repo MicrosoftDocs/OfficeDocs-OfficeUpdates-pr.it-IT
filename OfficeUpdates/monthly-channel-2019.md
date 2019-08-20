@@ -3,19 +3,18 @@ title: Note sulle versioni per i rilasci del Canale mensile nel 2019
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: a4ebd3ab963cc4f4b31a2b957347c957ccff5f51
+ms.sourcegitcommit: 65ea2540b23e2c9fe58f14d25ef1e393936df8e2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302475"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404480"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -27,6 +26,18 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
  > [!NOTE]
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="version-1907-august-13"></a>Versione 1907: 13 agosto
+*Versione 1907 (Build 11901.20218)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+
+ - È stato risolto un problema per cui è stato modificato il modo in cui una tabella pivot viene ordinata e aggiornata durante una sessione di creazione condivisa con altri utenti.
+
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+  - È stato risolto un problema per cui gli utenti che hanno eseguito l'aggiornamento della cassetta postale dall'autenticazione di base a quella moderna si sono ritrovati con l'account errato associato al proprio profilo Outlook.
 
 ## <a name="version-1907-july-29"></a>Versione 1907: 29 luglio
 *Versione 1907 (Build 11901.20176)*
@@ -60,6 +71,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
   [Altre informazioni](https://support.office.com/it-IT/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **L'impostazione per la stampa dei numeri di diapositiva in stampati è stata spostata nel menu Stampa per semplificare l'accesso:** trovarla nell'elenco a discesa Stampa > layout di stampa quando è selezionato un layout Stampati. L'opzione consente inoltre di attivare o disattivare facilmente la presentazione. 
+  [Altre informazioni](https://support.office.com/it-IT/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 
@@ -282,6 +294,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
 - Risolto un problema di scorretta identificazione del nome della nuova era "Reiwa" in caratteri Hiragana e Kanji come espressione con errori di ortografia o grammatica.
+
+- È stato risolto un problema che impediva gli aggiornamenti di Office quando veniva eseguita l'autenticazione proxy come sistema.
 
 ## <a name="version-1903-april-23"></a>Versione 1903: 23 aprile
 *Versione 1903 (Build 11425.20244)*
