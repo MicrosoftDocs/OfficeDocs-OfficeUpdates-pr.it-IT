@@ -30,6 +30,8 @@
 ### [Cronologia degli aggiornamenti per il canale mensile (mirato)](update-history-monthly-channel-targeted.md)
 ###[Note sulla versione per il canale Insider](release-notes-office-insider.md)
 
+## [Cronologia delle versioni per ODT](ODT-release-history.md)
+
 # Office per Mac
 ## [Cronologia degli aggiornamenti (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Note sulla versione (Office 365, 2019)](release-notes-office-for-mac.md)
