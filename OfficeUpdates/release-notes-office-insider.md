@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
+ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393221"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620525"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -28,6 +28,122 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+
+## <a name="august-23-2019br"></a>**23 agosto 2019**<br/>
+Versione 1909 (Build 12015.20004)<br/>
+
+
+
+## <a name="non-security-updates"></a>Aggiornamenti non della sicurezza:
+
+### <a name="excel"></a>Excel
+
+- <div><span>Sono state notevolmente migliorate le prestazioni di eliminazione delle colonne con celle unite</span></div>
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div><span>È stato risolto un problema che poteva impedire la visualizzazione di alcuni caratteri Unicode all'interno di un browser</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>È stato risolto un problema che poteva impedire il salvataggio di file in una posizione WebDAV</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>È stato risolto un problema per cui un utente faceva clic su un commento, ma veniva selezionato un altro commento</span></div>
+
+
+
+
+
+## <a name="august-16-2019br"></a>**16 agosto 2019**<br/>
+Versione 1909 (Build 12013.20000)<br/>
+
+### <a name="powerpoint-feature-updates"></a>Aggiornamenti delle funzionalità di PowerPoint:
+
+- **Stampa dei numeri delle diapositive negli stampati:** i numeri delle diapositive vengono inclusi automaticamente negli stampati. Lasciarli attivati o disattivarli è a discrezione dell'utente.
+
+
+
+
+## <a name="non-security-updates"></a>Aggiornamenti non della sicurezza:
+
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema che causava l'abilitazione del salvataggio automatico</span></div>
+
+
+- <div>È stato risolto un problema che poteva comportare una misurazione inesatta delle altezze delle celle</div>
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div><span>È stato risolto un problema che migliora significativamente le prestazioni della funzionalità Commenti</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva causare un arresto anomalo usando i tasti di direzione durante una ricerca</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva impedire di creare una @menzione se il simbolo @ veniva inserito dopo determinati caratteri</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva causare un arresto anomalo quando si eliminavano @menzioni</span></div>
+
+
+- <div><span>È stato risolto un problema che impediva la visualizzazione corretta delle emoji nelle schede commento</span></div>
+
+
+- <div><span>È stato risolto un problema per cui lo stato attivo degli Appunti poteva causare un arresto anomalo</span></div>
+
+
+- <div><span>È stato risolto un problema che causava il mancato funzionamento dei pulsanti della barra di accesso rapido</span></div>
+
+
+- <div><span>È stato risolto un problema che impediva all'anteprima della formattazione del documento di passare allo sfondo</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- È stato risolto un problema per cui i nomi delle sezioni appaiono vuoti nell'elenco a discesa della sezione quando il tema di Office è impostato su nero.
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>È stato risolto un problema con l'invio di eventi per cui Outlook poteva assumere e perdere ripetutamente lo stato attivo</span></div>
+
+
+- <div><span>È stato risolto un problema che impediva il funzionamento della scelta rapida da tastiera Inserisci risposta nella cartella</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>È stato risolto un problema con la visualizzazione protetta che talvolta causava errori durante la collaborazione</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva impedire la visualizzazione corretta delle attività nei riquadri dei commenti</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva causare un arresto anomalo durante l'inserimento di nuove diapositive</span></div>
+
+
+### <a name="user-lifecycle"></a>Ciclo di vita degli utenti
+
+- <div><span>È stato risolto un problema che a volte comportava la scomparsa delle funzionalità in abbonamento</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>È stato risolto un problema per cui i collegamenti ipertestuali potevano non funzionare se contenevano determinati caratteri</span></div>
+
+
+- <div><span>È stato risolto un problema per cui, visualizzando un commento per un'immagine, questa poteva essere ridimensionata in modo errato</span></div>
+
+
+- <div><span>È stato risolto un problema con il menu a discesa degli elenchi puntati che poteva causare un arresto anomalo</span></div>
+
+
+
 
 
 ## <a name="august-09-2019br"></a>**9 agosto 2019**<br/>
