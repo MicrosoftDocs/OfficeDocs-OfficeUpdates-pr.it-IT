@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
+ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396600"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36567206"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -30,8 +30,7 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 > - Se si è un partecipante al programma Office Insider, vedere [Note sulla versione per le build Insider Fast di Office 2016 per Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - A partire dal rilascio 16.17 di settembre 2018, queste note sulla versione si applicano anche a Office 2019 per Mac, che è una versione di Office per Mac disponibile come acquisto di una copia unica da un punto vendita o tramite un contratto multilicenza. Tuttavia, alcune funzionalità elencate nelle note sulla versione sono disponibili solo se si dispone di una sottoscrizione a Office 365.
 > - Le note sulla versione 16.16 e sulle versioni precedenti si applicano anche a Office 2016 per Mac, un’altra versione di Office per Mac disponibile come acquisto di una copia unica. Le versioni precedenti, fino alla versione 16.16 compresa, possono essere attivati con un contratto multilicenza di Office 2016 per Mac. Non è possibile attivare la versione 16.17 o versioni successive con un contratto multilicenza di Office 2016 per Mac. Per informazioni sulle versioni di Office 2016 per Mac da settembre in poi, vedere le [Note sulla versione di Office 2016 per Mac](release-notes-office-2016-mac.md).
-> 
-> 
+> > 
 > - Spesso le funzionalità vengono implementate (e a volte corrette) nel canale mensile per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
@@ -39,7 +38,6 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 ## <a name="august-13-2019-release"></a>Rilascio del 13 agosto 2019
 *Versione 16.28 (Build 19081202)*
-
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 
@@ -52,18 +50,11 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 - [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Word
 - [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Word
 
-
-
-
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 
 - **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nella presentazione, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
 - **Concentrarsi su ciò che resta da fare:** selezionare Risolvi per comprimere i commenti e far risaltare gli oggetti aperti.
 - **Grafici a mappa migliorati:** i grafici a mappa sono stati migliorati integrandoli con i tipi di dati geografici di Excel, che possono rivelare informazioni dettagliate sulle posizioni mappate. [Altre informazioni](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
-
-
-
-
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 
@@ -71,12 +62,12 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 - **Input penna persistente durante la presentazione**: se si disegna nelle diapositive durante una presentazione, la penna rimarrà attiva fino alla fine e verranno salvate anche le annotazioni. [Altre informazioni](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
 - **Grafici a mappa migliorati:** i grafici a mappa sono stati migliorati integrandoli con i tipi di dati geografici di Excel, che possono rivelare informazioni dettagliate sulle posizioni mappate. [Altre informazioni](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-
-
-
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 
 - **Condividere gli allegati dai file cloud:** è possibile allegare facilmente i file cloud ai messaggi di posta elettronica per migliorare la collaborazione. [Altre informazioni](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
+- **Controlli della privacy:** Controlli nuovi, aggiornati e migliorati per dati di diagnostica ed esperienze connesse. [Altre informazioni](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 
