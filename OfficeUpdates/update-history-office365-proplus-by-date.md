@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: d67b2233ee605a43993548a8cc13a89d3ef1aa93
-ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
+ms.openlocfilehash: 33c5882494fc6dc407eb9cd1438d65008935173d
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35924943"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631230"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
@@ -31,11 +31,11 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile<br/>|1907<br/>|11901.20176<br/>|29 luglio 2019<br/>|Viene rilasciata la versione 1908<br/>|
-|Semestrale<br/>|1902<br/>|11328.20368<br/>|9 luglio 2019<br/>|8 settembre 2020<br/>|
-|Semestrale (mirato)<br/>|1902<br/>|11328.20368<br/>|9 luglio 2019<br/>|10 settembre 2019<br/>|
-|Semestrale<br/>|1808<br/>|10730.20360<br/>|9 luglio 2019<br/>|10 marzo 2020<br/>|
-|Semestrale<br/>|1803<br/>|9126.2428<br/>|9 luglio 2019<br/>|10 settembre 2019<br/>|
+|Mensile<br/>|1908<br/>|11929.20254<br/>|26 agosto 2019<br/>|Viene rilasciata la versione 1909<br/>|
+|Semestrale (mirato)<br/>|1902<br/>|11328.20392<br/>|13 agosto 2019<br/>|10 settembre 2019<br/>|
+|Semestrale<br/>|1902<br/>|11328.20392<br/>|13 agosto 2019<br/>|8 settembre 2020<br/>|
+|Semestrale<br/>|1808<br/>|10730.20370<br/>|13 agosto 2019<br/>|10 marzo 2020<br/>|
+|Semestrale<br/>|1803<br/>|9126.2432<br/>|13 agosto 2019<br/>|10 settembre 2019<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -48,6 +48,8 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|26 agosto|[Versione 1908 (Build 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | |
+|2019|13 agosto|[Versione 1907 (Build 11901.20218)](monthly-channel-2019.md#version-1907-august-13)|[Versione 1902 (Build 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[Versione 1902 (Build 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[Versione 1808 (Build 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[Versione 1803 (Build 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
 |2019|29 luglio|[Versione 1907 (Build 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | |
 |2019|9 luglio|[Versione 1906 (Build 11727.20244)](monthly-channel-2019.md#version-1906-july-9)|[Versione 1902 (Build 11328.20368)](semi-annual-channel-targeted-2019.md#version-1902-july-9)|[Versione 1902 (Build 11328.20368)](semi-annual-channel-2019.md#version-1902-july-9)<br/>[Versione 1808 (Build 10730.20360)](semi-annual-channel-2019.md#version-1902-july-9)<br/>[Versione 1803 (Build 9126.2428)](semi-annual-channel-2019.md#version-1902-july-9)|
 |2019|27 giugno|[Versione 1906 (Build 11727.20230)](monthly-channel-2019.md#version-1906-june-27)| | |

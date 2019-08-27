@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
-ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
+ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36473446"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631237"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -25,6 +25,48 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
   [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, gli aggiornamenti a Office 365 ProPlus (e Office 365 Business) includeranno Microsoft Teams.  La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
+
+## <a name="version-1908-august-26"></a>Versione 1908: 26 agosto
+*Versione 1908 (Build 11929.20254)*
+* Diverse correzioni di bug e miglioramenti delle prestazioni.
+
+### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
+
+- **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nella cartella di lavoro, in modo che sembrino disegnate a mano. 
+  [Altre informazioni](https://support.office.com/it-IT/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate. 
+  [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **Concentrarsi su ciò che resta da fare:** selezionare Risolvi per comprimere i commenti e far risaltare gli oggetti aperti.
+
+### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
+
+- **Le icone di Office hanno un nuovo aspetto:** le icone di Office sono state riprogettate per riflettere l'esperienza semplice potente e intelligente di Office.
+
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+
+- **Ottenere suggerimenti per il luogo:** Iniziare a digitare in Posizione durante la pianificazione di appuntamenti e riunioni. Outlook suggerirà sale, indirizzi e altre posizioni recenti. 
+  [Altre informazioni](https://support.office.com/it-IT/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate. 
+  [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+
+- **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nella presentazione, in modo che sembrino disegnate a mano. 
+  [Altre informazioni](https://support.office.com/it-IT/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate. 
+  [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
+
+- **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nel documento, in modo che sembrino disegnate a mano. 
+  [Altre informazioni](https://support.office.com/it-IT/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate. 
+  [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>Versione 1907: 13 agosto
 *Versione 1907 (Build 11901.20218)*
