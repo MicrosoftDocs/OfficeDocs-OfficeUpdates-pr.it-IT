@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
-ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
+ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
+ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36488509"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672906"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
 Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non della sicurezza inclusi negli aggiornamenti del Canale semestrale per Office 365 ProPlus nel 2019, Visio Pro per Office 365, Project Online Desktop Client e Office 365 Business.
 
 > [!NOTE]
-> - Spesso le funzionalità vengono implementate (e a volte corrette) al Canale semestrale un periodo di tempo. Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. 
+> - Spesso le funzionalità (e talvolta persino le correzioni) vengono distribuite nel Canale semestrale in un certo arco di tempo. Se una funzionalità descritta di seguito non è ancora disponibile, non c'è da preoccuparsi. Arriverà a breve. 
   [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 non sarà incluso per impostazione predefinita quando un utente del canale semestrale scarica e installa Office 365 in Windows 10 dal portale di Office.
 
@@ -31,18 +31,18 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
-- È stato risolto un problema in cui l’icona cancella filtro veniva visualizzato sia per gli Slicer filtrati che non filtrati nelle tabelle.
+- È stato risolto un problema per cui l'icona di cancellazione del filtro veniva visualizzata sia per i filtri dei dati filtrati che per quelli non filtrati nelle tabelle.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
-- È stato risolto un problema per cui gli utenti che hanno eseguito l'aggiornamento della cassetta postale dall'autenticazione di base a quella moderna si sono ritrovati con l'account errato associato 
+- È stato risolto un problema per cui gli utenti che hanno eseguito l'aggiornamento della cassetta postale dall'autenticazione di base a quella moderna si sono ritrovati con l'account errato associato al proprio profilo Outlook.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
-- È stato risolto un problema in cui l’applicazione poteva terminare in modo imprevisto mentre si lavorava a un documento con altri utenti.
+- È stato risolto un problema che causava una chiusura imprevista dell'applicazione mentre si collaborava a un documento con altri utenti.
 
 ### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
-- È stato risolto un problema in cui i campi di aggiornamento VBA erano lenti.
-- È stato risolto un problema in cui il file DOC, durante l’apertura, risultava danneggiato. 
-- È stato risolto un problema in cui l’applicazione poteva terminare in modo imprevisto mentre si lavorava a un documento con altri utenti.
+- È stato risolto un problema per cui i campi di aggiornamento VBA risultavano lenti.
+- È stato risolto un problema per cui alcuni file DOC venivano indicati come danneggiati all'apertura.
+- È stato risolto un problema che causava una chiusura imprevista dell'applicazione mentre si collaborava a un documento con altri utenti.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
 - È stato risolto un problema in cui l’impostazione API non funzionava nella raccolta di JavaScript per Office in determinati scenari [Altre informazioni](https://support.microsoft.com/it-IT/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -62,7 +62,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
-- È stato risolto un problema in cui l’impostazione API non funzionava nella raccolta di JavaScript per Office in determinati scenari [Altre informazioni](https://support.microsoft.com/it-IT/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- È stato risolto un problema per cui l'API impostazione nella libreria JavaScript di Office non funzionava in determinati scenari. [Altre informazioni](https://support.microsoft.com/it-IT/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1902-july-09"></a>Versione 1902: 9 luglio
