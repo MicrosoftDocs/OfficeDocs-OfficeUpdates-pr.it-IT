@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
-ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
+ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
+ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620525"
+ms.lasthandoff: 08/30/2019
+ms.locfileid: "36693883"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -27,8 +27,104 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
  > [!NOTE]
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
-[//]: # (NON RIMUOVERE)
+[//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1909-august-30"></a>Versione 1909: 30 agosto
+*Versione 1909 (Build 12026.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvare un'illustrazione in formato SVG:** è possibile salvare un grafico, una forma o un'altra illustrazione in formato SVG (Scalable Vector Graphic), che può essere ridimensionato senza perdita di qualità dell'immagine. 
+  [Altre informazioni](https://support.office.com/it-IT/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema in cui il suggerimento tasto di scelta per &nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">Sensibilità </span>era&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">in conflitto con un altro suggerimento tasto di scelta.</span></span></div>
+
+- <div><span>È stato risolto un problema che si verificava quando si cercava di salvare una cartella di lavoro condivisa in fase di modifica.</span></div>
+
+- <div><span>È stato risolto un problema per cui Excel elencava solo i primi 16 componenti aggiuntivi presenti nei valori '\Excel\Add-in Manager' del Registro di sistema.<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></div>
+
+
+- <div><span>È stato risolto un problema per cui la funzione Frequency() restituiva risultati errati.</span></div>
+
+
+- <div><span>Le prestazioni del filtro per colore sono state notevolmente migliorate.</span></div>
+
+
+- <div><span>È stato risolto un problema relativo agli utenti di Surface in cui lo spostamento del mouse poteva essere interpretato come un evento clic del mouse.</span></div>
+
+
+- <div><span>È stato risolto un problema che impediva gli spostamenti da tastiera nella finestra di dialogo Trova/Sostituisci.</span></div>
+
+
+- <div><span>È stato risolto un problema per cui il nome di alcuni tipi di carattere non venivano visualizzati correttamente.</span></div>
+
+
+- <div><span>È stato risolto un problema che impediva la visualizzazione del formato CSV nei tipi di file supportati.</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>È stato risolto un problema per cui gli utenti potevano ricevere un errore di &quot;stato incoerente&quot; durante l'uso di un database condiviso.</div>
+
+
+- <div><span>È stato risolto un problema per cui il controllo selezione data veniva visualizzato per errore.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>È stato risolto un problema che impediva la visualizzazione di contenuto HTML per alcuni utenti POP3.</span></div>
+
+
+- <div><span>È stato risolto un problema relativo alla rimozione del collegamento 'Planner' non funzionante dal menu riversamento nella scheda contatto durante l'uso in ambienti in cui non era disponibile.</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- <div><span>È stato risolto un problema in cui la sincronizzazione in background di&nbsp;OneNote talvolta acquisiva erroneamente lo stato attivo.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>È stato risolto un problema che influiva sull'orientamento della rotazione di un effetto Giravolta 3D.</span></div>
+
+- <div><span>È stato risolto un problema che impediva il corretto funzionamento di alcuni collegamenti ipertestuali se contenevano caratteri speciali.</span></div>
+
+- <div><span>È stato risolto un problema che causava l'apertura simultanea di più riquadri commenti.</span></div>
+
+### <a name="project"></a>Project
+
+- <div><span>È stato risolto un problema che poteva talvolta causare un arresto anomalo del sistema durante la stampa di una visualizzazione di Pianificazione team.</span></div>
+
+### <a name="word"></a>Word
+
+- <div><span>È stato risolto un problema per cui i caratteri multibyte in una casella di testo verticale venivano visualizzati sovrapposti nella visualizzazione di lettura.<br></span></div>
+
+- <div><span>È&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">stato risolto un problema per cui le risorse dei componenti aggiuntivi correlate a cartoline o biglietti di auguri giapponesi non venivano trovate quando l'utente eseguiva un'azione nella procedura guidata dei componenti aggiuntivi.</span></span></div>
+
+- <div><span>È stato risolto un problema che poteva causare problemi relativi all'interfaccia utente della barra del titolo in visualizzazione protetta.</span></div>
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> È stato risolto un problema di file danneggiato quando si esegue Cambia forma su una selezione che contiene sia una forma normale che una forma connettore.</span></span></div>
+
+- <div><span>È stato risolto un problema che <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">causava un problema nelle applicazioni durante il collegamento o lo scollegamento da più monitor esterni. </span></span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="august-23-2019br"></a>**23 agosto 2019**<br/>
 Versione 1909 (Build 12015.20004)<br/>
@@ -1038,6 +1134,14 @@ Questa funzionalità è un miglioramento destinato agli utenti che tracciano gra
 
 ## <a name="april-12-2019"></a>12 aprile 2019
 Versione 1905 (Build 11601.20042)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="access"></a>Access
+
+#### <a name="get-smart-with-microsoft-graph"></a>Suggerimenti intelligenti per Microsoft Graph
+
+Importare o collegare dati intelligenti e reinventare il database desktop con la tecnologia intelligente.
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
