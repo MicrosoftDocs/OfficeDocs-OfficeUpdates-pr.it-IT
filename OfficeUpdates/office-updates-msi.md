@@ -54,14 +54,11 @@ Utilizzare i collegamenti in questa pagina per ottenere ulteriori informazioni e
 
 [Aggiornamenti per la sicurezza e di altro tipo per giugno 2019: KB4505743](https://support.microsoft.com/help/4505743)
 
+[Aggiornamenti per la sicurezza o di altro tipo per maggio 2019: KB4501270](https://support.microsoft.com/it-IT/help/4501270)
 
-  [Aggiornamenti per la sicurezza o di altro tipo per maggio 2019: KB4501270](https://support.microsoft.com/it-IT/help/4501270)
+[Aggiornamenti per la sicurezza e di altro tipo per aprile 2019: KB4495300](https://support.microsoft.com/it-IT/help/4495300)
 
-
-  [Aggiornamenti per la sicurezza e di altro tipo per aprile 2019: KB4495300](https://support.microsoft.com/it-IT/help/4495300)
-
-
-  [Aggiornamenti per la sicurezza o di altro tipo per marzo 2019: KB4491754](https://support.microsoft.com/it-IT/help/4491754) 
+[Aggiornamenti per la sicurezza o di altro tipo per marzo 2019: KB4491754](https://support.microsoft.com/it-IT/help/4491754) 
 
 [Aggiornamenti per la sicurezza o di altro tipo per febbraio 2019: KB4488446](https://support.microsoft.com/help/4488446)
 
