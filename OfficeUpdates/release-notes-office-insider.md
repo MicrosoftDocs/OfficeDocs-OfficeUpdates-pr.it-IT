@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
-ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
+ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
+ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "36693883"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "36785413"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -27,8 +27,62 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
  > [!NOTE]
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
-[//]: # (DO NOT REMOVE)
+[//]: # (NON RIMUOVERE)
 
+
+## <a name="version-1910-september-06"></a>Versione 1910: 6 settembre
+*Versione 1910 (Build 12030.20004)*
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare. [Altre informazioni](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare. [Altre informazioni](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare. [Altre informazioni](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema che poteva comportare una differenza tra il nome del carattere sulla barra multifunzione e il carattere utilizzato</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>È stato risolto un problema che poteva comportare il consumo inappropriato delle risorse da parte di Outlook quando la Modalità protetta era disabilitata per i siti con restrizioni in Internet Explorer</span></div>
+
+
+- <div><span>È stato risolto un problema che a volte poteva causare la comparsa di caratteri Unicode quando si incolla il testo da un'origine ANSI</span></div>
+
+
+- <div><span>È stato risolto un problema per cui alcuni utenti risultavano offline per errore in una visualizzazione della pianificazione di gruppo</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>È stato risolto un problema che poteva comportare la perdita della formattazione della tabella</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva compromettere la scelta rapida da tastiera CTRL+V</span></div>
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-1909-august-30"></a>Versione 1909: 30 agosto
 *Versione 1909 (Build 12026.20000)*
