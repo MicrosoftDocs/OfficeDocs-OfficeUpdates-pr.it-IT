@@ -3,19 +3,19 @@ title: Note sulla versione per Office per Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
-ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
+ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36758210"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838243"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -34,6 +34,31 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 > - Spesso le funzionalità vengono implementate (e a volte corrette) nel canale mensile per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Nota:** le informazioni sulle versioni di Microsoft AutoUpdate (MAU) sono state spostate nella pagina [Cronologia delle versioni per Microsoft AutoUpdate (MAU)](https://docs.microsoft.com/it-IT/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="september-10-2019-release"></a>Rilascio del 10 settembre 2019
+*Versione 16.29 (Build 19090802)*
+
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
+
+- Risolti vari problemi di prestazioni.
+### <a name="excel--feature-updates"></a>Excel: aggiornamenti delle funzionalità
+
+- **Schede dei fogli a colori**: quando si sceglie un colore di scheda per il foglio di lavoro, la scheda viene riempita per intero così da risultare più facile da vedere.
+
+- **Aggiornare i dati dai file locali su Mac:** è possibile aggiornare le query di Power Query su Mac da file di testo, CSV, XLSX, XML e JSON. 
+
+ ### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+
+- [CVE-2019-1263](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1263): vulnerabilità relativa alla divulgazione di informazioni di Microsoft Excel
+- [CVE-2019-1297](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1297): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+
+- Risolti vari problemi di prestazioni.
+
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+
+- Risolti vari problemi di prestazioni.
 
 ## <a name="august-13-2019-release"></a>Rilascio del 13 agosto 2019
 *Versione 16.28 (Build 19081202)*

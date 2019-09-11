@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
-ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
+ms.openlocfilehash: 9d7decd6b91045b9a7669428749c4fc3d7b3cc0d
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672906"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838297"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -23,6 +23,45 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 > [!NOTE]
 > - Spesso le funzionalità (e talvolta persino le correzioni) vengono distribuite nel Canale semestrale in un certo arco di tempo. Se una funzionalità descritta di seguito non è ancora disponibile, non c'è da preoccuparsi. Arriverà a breve. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 non sarà incluso per impostazione predefinita quando un utente del canale semestrale scarica e installa Office 365 in Windows 10 dal portale di Office.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+
+## <a name="version-1902-september-10"></a>Versione 1902: 10 settembre
+*Versione 1902 (Build 11328.20420)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="access"></a>Access
+
+- È stato risolto un problema che causava l'esecuzione di determinate query che rallentavano il funzionamento di Microsoft Access rispetto alle build precedenti.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema temporaneo del servizio che presentava agli utenti un messaggio di errore "Impossibile trovare il file. Verificare che il percorso e il nome file siano corretti" quando si usano allegati cloud. [Altre informazioni](https://support.office.com/it-IT/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+
+- È stato risolto un problema che presentava agli utenti i file caricati da Outlook a OneDrive o SharePoint con il nome del file cambiato con diversi caratteri sostituiti da caratteri di sottolineatura.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema che presentava agli utenti dei messaggi di errore durante la collaborazione con altri utenti in un documento di Word.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+
+## <a name="version-1808-september-10"></a>Versione 1808: 10 settembre
+*Versione 1808 (Build 10730.20380)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="access"></a>Access
+
+- È stato risolto un problema che causava l'esecuzione di determinate query che rallentavano il funzionamento di Microsoft Access rispetto alle build precedenti.
 
 ## <a name="version-1902-august-13"></a>Versione 1902: 13 agosto
 *Versione 1902 (Build 11328.20392)*
