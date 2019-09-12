@@ -465,8 +465,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-0950): vulnerabilità della divulgazione delle informazioni di Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-1026): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-1030): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
--   
-  **Attivazione bloccata dei controlli Flash, Silverlight e Shockwave in Office per motivi di sicurezza:** per motivi di sicurezza, nuove build di Microsoft Office per Office 365 in Windows bloccano l'attivazione dei controlli Flash, Silverlight e Shockwave. Altre informazioni [qui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) e [qui](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+-   **Attivazione bloccata dei controlli Flash, Silverlight e Shockwave in Office per motivi di sicurezza:** per motivi di sicurezza, nuove build di Microsoft Office per Office 365 in Windows bloccano l'attivazione dei controlli Flash, Silverlight e Shockwave. Altre informazioni [qui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) e [qui](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="version-1803-march-27"></a>Versione 1803: 27 marzo
 *Versione 1803 (Build 9126.2116)*
