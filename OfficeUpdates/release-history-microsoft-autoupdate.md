@@ -3,19 +3,19 @@ title: Cronologia delle versioni per Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
-ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
+ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36429940"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838186"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -31,6 +31,26 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).<br/><br/>
 
+## <a name="september-2019-release"></a>Rilascio di settembre 2019
+
+**Data di rilascio:** 10 settembre 2019
+
+*Aggiornamento automatico Microsoft 4.15*
+
+ **Aggiornamenti delle funzionalità:**
+
+- Le notifiche della scadenza degli aggiornamenti MAU visualizzano la data e l'ora della scadenza per gli utenti finali nel formato data/ora del dispositivo locale.
+- MAU AU Daemon viene ora chiamato Microsoft Update Assistant.
+- È stato risolto un problema per cui lo stato attivo passava all'app in primo piano quando si eseguiva il comando 'msupdate'.
+
+
+**Collegamento dell'aggiornamento MAU:**
+
+[Scaricare il pacchetto di Microsoft AutoUpdate 4.15](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Hash SHA-256:**
+
+E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 ## <a name="august-2019-release"></a>Rilascio di agosto 2019
 
 **Data di rilascio:** 13 agosto 2019
@@ -49,7 +69,7 @@ Per visualizzare le note sulla versione, vedere [Note sulla versione](release-no
 <br/>
 **Hash SHA-256:**
 
-76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
 ## <a name="july-2019-release"></a>Rilascio di luglio 2019
 
 **Data di rilascio:** 18 luglio 2019
@@ -154,6 +174,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 
 |**Data di rilascio**|**Versione**|**Ulteriori informazioni**||
 |:-----|:-----|:-----|:-----|
+|10 settembre 2019 <br/>|4.15 <br/> |  <br/> ||
+|13 agosto 2019 <br/>|4.14 <br/> |  <br/> ||
 |18 luglio 2019 <br/>|4.13 <br/> |  <br/> ||
 |27 giugno 2019 <br/>9 giugno 2019|4.12 <br/> | <br/> ||
 |14 maggio 2019 <br/>|4.11 <br/> |  <br/> | <br/> |
