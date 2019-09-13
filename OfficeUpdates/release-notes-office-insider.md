@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
-ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
+ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "36785413"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972857"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -91,6 +91,11 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+
+### <a name="access"></a>Access
+
+- **Trovare velocemente le tabelle collegate:** la nostra nuova casella di ricerca rende molto più facile trovare le tabelle collegate.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Salvare un'illustrazione in formato SVG:** è possibile salvare un grafico, una forma o un'altra illustrazione in formato SVG (Scalable Vector Graphic), che può essere ridimensionato senza perdita di qualità dell'immagine. [Altre informazioni](https://support.office.com/it-IT/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
@@ -560,9 +565,18 @@ Versione 1907 (Build 11901.20018)
 
 Se si sta lavorando a una bozza di presentazione, è possibile applicare lo stile Schizzo per indicare che non è ancora finale. Questo stile consente di conferire un tocco personale agli oggetti senza trasformarli in forme libere, disegnate a mano.
 
+### <a name="excel"></a>Excel
+
+- **Condivisione dei file più rapida**: è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.
 ### <a name="powerpoint"></a>PowerPoint
 
 - **L'impostazione per la stampa dei numeri di diapositiva in stampati è stata spostata nel menu Stampa per semplificare l'accesso:** trovarla nell'elenco a discesa Stampa > layout di stampa quando è selezionato un layout Stampati. L'opzione consente inoltre di attivare o disattivare facilmente la presentazione. [Altre informazioni](https://support.office.com/it-IT/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.
+
+### <a name="word"></a>Word
+
+- **Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
@@ -617,6 +631,10 @@ Versione 1907 (Build 11819.20002)
 - **Codice rapido con i miglioramenti di Power Query:** è possibile completare rapidamente il codice con il completamento automatico e i colori della sintassi. Semplice individuazione di funzioni, colonne e parametri
 
 - **Unione di tabelle in colonne simili:** Recupera e trasforma (Power Query) ora include una logica di corrispondenza del testo approssimativa (denominata anche corrispondenza fuzzy) durante il confronto di colonne per unire le tabelle.
+
+### <a name="word"></a>Word
+
+- **Miglioramenti alla creazione condivisa:** affidabilità migliore durante la creazione condivisa.
  
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint e Visio
 
@@ -1036,6 +1054,12 @@ Passare alla scheda Disegno. Selezionare la penna. Disegnare un tratto input pen
 ## <a name="may-10-2019"></a>10 maggio 2019
 Versione 1906 (Build 11702.20000)
 
+## <a name="whats-new"></a>Novità:
+
+### <a name="outlook"></a>Outlook
+
+**Possibilità di visualizzare più messaggi sullo schermo:** Selezionare Visualizza > Usa spazio più stretto per regolare la spaziatura tra i messaggi.
+
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="all"></a>Tutto
@@ -1063,6 +1087,12 @@ Versione 1906 (Build 11702.20000)
 
 ## <a name="may-3-2019"></a>3 maggio 2019
 Versione 1906 (Build 11629.20008)
+
+## <a name="whats-new"></a>Novità:
+
+### <a name="outlook"></a>Outlook
+
+**Tutte le opzioni di crittografia in un'unica posizione:** basta passare a Opzioni > Crittografa per scegliere come proteggere il messaggio di posta elettronica.
 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
@@ -1097,6 +1127,10 @@ Versione 1906 (Build 11629.20008)
 Versione 1905 (build 11617.20002)
 
 ## <a name="new-features"></a>Nuove funzionalità
+
+### <a name="outlook"></a>Outlook
+
+**Gli aggiornamenti dei calendari condivisi sono più veloci:** Outlook può aggiornare i calendari condivisi in Office 365 usando l'API REST. Attivare l'anteprima per aggiornamenti più rapidi e affidabili ai calendari condivisi.
 
 ### <a name="excel"></a>Excel
 
@@ -1135,6 +1169,10 @@ L'esperienza di creazione condivisa è stata migliorata, aumentando la probabili
 Versione 1905 (build 11609.20002)
 
 ## <a name="whats-new"></a>Novità:
+
+### <a name="outlook"></a>Outlook
+
+**Suggerimenti di posta elettronica per cercare una persona:** quando si digita il nome di una persona nella casella di ricerca, i messaggi di posta elettronica più importanti saranno inclusi nei suggerimenti di ricerca.
 
 ### <a name="excel"></a>Excel
 

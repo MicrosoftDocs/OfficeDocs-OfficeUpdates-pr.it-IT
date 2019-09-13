@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 6f03d240a0d61521398f37a4a813bd1e89a7a6ac
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
+ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838287"
+ms.locfileid: "36841045"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -22,6 +22,9 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
  
 > [!NOTE]
 > - Spesso le funzionalità (e talvolta persino le correzioni) vengono distribuite nel Canale semestrale (mirato) in un certo arco di tempo. Se una funzionalità descritta di seguito non è ancora disponibile, non c'è da preoccuparsi. Arriverà a breve. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+ > [!NOTE]
+> - Microsoft Teams è incluso nelle nuove installazioni del Canale semestrale (mirato), a partire dalla versione 1902. Teams verrà aggiunto alle installazioni esistenti del Canale semestrale (mirato) quando queste verranno aggiornate alla versione 1908 o successiva. Per altre informazioni, vedere [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
  
 ## <a name="version-1908-september-10"></a>Versione 1908: 10 settembre
@@ -139,6 +142,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 - **Addio alle distrazioni:** una delle funzionalità preferite del Mac è ora disponibile in Windows. Passare alla modalità focus nel menu Visualizza per rimuovere elementi di distrazione e concentrarsi sul lavoro. [Altre informazioni](https://support.office.com/it-IT/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- **Installazione di Microsoft Teams**: Teams viene aggiunto alle installazioni esistenti di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/deployoffice/teams-install)
 
 - **Condividere e caricare i documenti con i nuovi pulsanti esposti nell'area informazioni:** i pulsanti Condividi, Copia percorso in appunti e Apri percorso file erano prima accessibili solo dietro al percorso di salvataggio del documento. Ora sono pulsanti visualizzabili chiaramente nell’area delle informazioni. Passare a File > Informazioni per visualizzare i pulsanti nuovi.
 
@@ -475,7 +480,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 ### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
 
 - **Possibilità di inserire il supporto per SVG tramite le applicazioni di terze parti per Office con l'API Office.js:** le applicazioni di terze parti, note anche come componenti aggiuntivi in Office, ora possono inserire SVG. Gli utenti possono connettere la propria raccolta personale di SVG a Office, mentre gli sviluppatori possono usare l'API Office.js per implementare questa funzionalità.
-- **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle NUOVE installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/DeployOffice/teams-install)
+- **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle NUOVE installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/deployoffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: aggiornamenti delle funzionalità
 
