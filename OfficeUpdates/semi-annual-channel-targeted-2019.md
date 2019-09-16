@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
-ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
+ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36841045"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972817"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -220,6 +220,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 ### <a name="word"></a>Word
 
 - È stato risolto un problema che presentava agli utenti dei messaggi di errore durante la collaborazione con altri utenti in un documento di Word.
+
+- È stato risolto un problema che causava la visualizzazione del messaggio: "C'è un problema che impedisce la condivisione di questo elemento" quando si provava a condividere i file archiviati in SharePoint 2016.
 
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
