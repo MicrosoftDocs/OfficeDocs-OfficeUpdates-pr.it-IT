@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
+ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972857"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980452"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -29,6 +29,44 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
+
+## <a name="version-1910-september-13"></a>Versione 1910: 13 settembre
+*Versione 1910 (Build 12105.20000)*
+
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO DETTAGLI DEL BUG)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema che poteva impedire a un utente di incollare collegamenti ipertestuali in alcuni fogli protetti</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>È stato risolto un problema per cui l'interfaccia utente poteva rimanere bloccata in una visualizzazione compatta</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>È stato risolto un problema per cui poteva verificarsi un errore durante la stampa in formato PDF</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>È stato risolto un problema per cui <span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">le modifiche apportate a un valore di lavoro per un'attività di riepilogo potevano causare un arresto anomalo se era abilitato il lavoro protetto</span></span></div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">È stato risolto un problema che poteva impedire la sincronizzazione degli eventi con i calendari dell'organizzazione</font>
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div><span>È stato risolto un problema che poteva comportare un avviso ripetuto per l'eliminazione delle versioni locali di un file</span></div>
+
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEL BUG)
 
 ## <a name="version-1910-september-06"></a>Versione 1910: 6 settembre
 *Versione 1910 (Build 12030.20004)*
