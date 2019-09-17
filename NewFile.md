@@ -1,1 +1,0 @@
-Contenuto del test
