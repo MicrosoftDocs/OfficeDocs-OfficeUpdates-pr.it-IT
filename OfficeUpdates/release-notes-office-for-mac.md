@@ -3,19 +3,19 @@ title: Note sulla versione per Office per Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 9/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
+ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838243"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "37040694"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -34,6 +34,21 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 > - Spesso le funzionalità vengono implementate (e a volte corrette) nel canale mensile per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Nota:** le informazioni sulle versioni di Microsoft AutoUpdate (MAU) sono state spostate nella pagina [Cronologia delle versioni per Microsoft AutoUpdate (MAU)](https://docs.microsoft.com/it-IT/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="september-18-2019-release"></a>Rilascio del 18 settembre 2019
+*Versione 16.29.1 (Build 19091700)*
+
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
+
+- È stato risolto un problema che veniva riscontrato con l'elenco dei documenti aperti di recente quando non era stato effettuato l'accesso a Office.
+
+### <a name="excel--feature-updates"></a>Excel: aggiornamenti delle funzionalità
+
+- È stato risolto un problema che veniva riscontrato con l'elenco dei documenti aperti di recente quando non era stato effettuato l'accesso a Office.
+
+ ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+
+- È stato risolto un problema che veniva riscontrato con l'elenco dei documenti aperti di recente quando non era stato effettuato l'accesso a Office.<br/><br/>
 
 ## <a name="september-10-2019-release"></a>Rilascio del 10 settembre 2019
 *Versione 16.29 (Build 19090802)*
