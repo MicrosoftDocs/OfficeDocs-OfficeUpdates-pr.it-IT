@@ -33,31 +33,31 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nella cartella di lavoro, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/it-IT/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate. [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Cercare è più facile:** abbiamo aggiunto la funzionalità di ricerca in Inserisci icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono selezionate. [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-- **Concentrarsi su ciò che resta da fare:** selezionare Risolvi per comprimere i commenti e far risaltare gli oggetti aperti.
+- **Organizzare i commenti:** selezionare Risolvi per comprimere i commenti ed evidenziare quelli ancora non risolti.
 
-### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
+### <a name="office-suite-feature-updates"></a>Applicazioni Office: aggiornamenti delle funzionalità
 
-- **Le icone di Office hanno un nuovo aspetto:** le icone di Office sono state riprogettate per riflettere l'esperienza semplice potente e intelligente di Office.
+- **Le nuove icone di Office:** l’aspetto delle icone di Office è cambiato per riflettere l'esperienza semplice, potente e intelligente di Office.
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 
-- **Ottenere suggerimenti per il luogo:** Iniziare a digitare in Posizione durante la pianificazione di appuntamenti e riunioni. Outlook suggerirà sale, indirizzi e altre posizioni recenti. [Altre informazioni](https://support.office.com/it-IT/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+- **Suggerimenti per il luogo delle riunioni:** è sufficiente iniziare a scrivere nella riga Luogo durante la pianificazione di appuntamenti e riunioni e Outlook suggerirà sale, indirizzi e altri luoghi recenti. [Altre informazioni](https://support.office.com/it-IT/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
-- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate. [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Cercare è più facile:** abbiamo aggiunto la funzionalità di ricerca in Inserisci icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono selezionate. [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 
 - **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nella presentazione, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/it-IT/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate. [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Cercare è più facile:** abbiamo aggiunto la funzionalità di ricerca in Inserisci icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono selezionate. [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 
 - **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nel documento, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/it-IT/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate. [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Cercare è più facile:** abbiamo aggiunto la funzionalità di ricerca in Inserisci icone per trovare più facilmente l'icona desiderata. E quando si seleziona, il pulsante Inserisci indica quante icone sono selezionate. [Altre informazioni](https://support.office.com/it-IT/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>Versione 1907: 13 agosto
 *Versione 1907 (Build 11901.20218)*
