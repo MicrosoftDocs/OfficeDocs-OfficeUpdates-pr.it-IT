@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
+ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631237"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "37011676"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -24,6 +24,37 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 >- Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo.  Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, gli aggiornamenti a Office 365 ProPlus (e Office 365 Business) includeranno Microsoft Teams.  La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
+## <a name="version-1908-september-10"></a>Versione 1908: 10 settembre
+*Versione 1908 (Build 11929.20300)*
+
+Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non relativi alla sicurezza
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che impediva agli utenti di accedere ai suggerimenti per la posizione con un'utilità per la lettura dello schermo.
+
+- È stato risolto un problema che causava la visualizzazione di errori di autenticazione per alcuni utenti quando provavano a recuperare le impostazioni del cloud per Outlook.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema relativo al ripristino del nome accessibile per i controlli video di PowerPoint.
+
+- È stato risolto un problema che impediva l'avvio di alcune animazioni.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema che causava la visualizzazione del messaggio: "C'è un problema che impedisce la condivisione di questo elemento" quando si provava a condividere i file archiviati in SharePoint 2016.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui le visualizzazioni ad albero di grandi dimensioni causavano un errore.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-august-26"></a>Versione 1908: 26 agosto
 *Versione 1908 (Build 11929.20254)*
@@ -96,6 +127,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 - **Una nuova casa per i video online:** è possibile salvare un video in Microsoft Stream per consentire a tutti gli utenti dell'organizzazione di visualizzarlo, nonché inserire il collegamento del video e ottenere una presentazione multimediale di dimensioni notevolmente ridotte rispetto a quelle del file. [Altre informazioni](https://support.office.com/it-IT/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **Creazione di un grafico a mappa:** questa funzionalità è un miglioramento destinato agli utenti che tracciano grafici a mappa colorata usando i tipi di dati geografici di Excel. Il vantaggio per gli utenti finali sarà una migliore integrazione tra le funzionalità e una maggiore accuratezza dell'area da includere nella mappa. Altri vantaggi includono la possibilità di creare mappe con poligoni di città. [Altre informazioni](https://support.office.com/it-IT/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **Aggiungere i titoli delle diapositive per rendere accessibili le presentazioni:** Verifica accessibilità consente di individuare e correggere i titoli delle diapositive mancanti. [Altre informazioni](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
 - **L'impostazione per la stampa dei numeri di diapositiva in stampati è stata spostata nel menu Stampa per semplificare l'accesso:** trovarla nell'elenco a discesa Stampa > layout di stampa quando è selezionato un layout Stampati. L'opzione consente inoltre di attivare o disattivare facilmente la presentazione. [Altre informazioni](https://support.office.com/it-IT/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
