@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
-ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
+ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
+ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980452"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37300493"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -27,8 +27,94 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
  > [!NOTE]
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
-[//]: # (NON RIMUOVERE)
+[//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1910-september-27"></a>Versione 1910: 27 settembre
+*Versione 1910 (Build 12119.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema che poteva causare il rendering non corretto dei grafici a linee o a dispersione modificando la raccolta serie</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>È stato risolto un problema che poteva causare la segnalazione di errori di autorizzazione durante l'interazione con cartelle di calendari condivisi</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva impedire agli utenti di aggiungere allegati ai calendari</span></div>
+
+
+- <div><span>È stato risolto un problema che causava la visualizzazione di messaggi di errore rispondendo a un messaggio con firma digitale</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>È stato risolto un problema che poteva causare problemi di ridimensionamento durante la stampa su stampanti Deskjet</span></div>
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div><span>È stato risolto un problema per cui il testo in grassetto medio poteva essere reso con lo stile errato</span></div>
+
+
+- <div><span>È stato risolto un problema per cui l'utente poteva ricevere un messaggio di errore non corretto alla chiusura di un file con caricamento in sospeso</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1910-september-20"></a>Versione 1910: 20 settembre
+*Versione 1910 (Build 12112.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema per cui Excel poteva talvolta bloccarsi all'avvio</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Sono state notevolmente migliorate le prestazioni di selezione della sala quando sono disponibili numerose sale</span></div>
+
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">È stato risolto un problema che può impedire la sincronizzazione della cassetta postale per i clienti che hanno più cassette postali di Outlook quando si esegue la migrazione all'autenticazione moderna in Office 365.</span><br></div>
+
+
+- <div><span>È stato risolto un problema per cui alcuni caratteri nelle etichette delle firme non vengono visualizzati nel menu a discesa</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>È stato risolto un problema che poteva causare un arresto anomalo sostituendo una risorsa dell'organizzazione con una risorsa locale</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>È stato risolto un problema che poteva impedire il funzionamento corretto dello scorrimento sincrono in visualizzazione Bozza</span></div>
+
+
+- <div>È stato risolto un problema che poteva impedire la visualizzazione corretta delle descrizioni comandi dopo aver salvato un documento per la prima volta</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-september-13"></a>Versione 1910: 13 settembre
 *Versione 1910 (Build 12105.20000)*
@@ -856,7 +942,7 @@ La finestra di dialogo usata per contattare il supporto verrà ora visualizzata 
 
 #### <a name="open-document-links-in-word"></a>Aprire i collegamenti ai documenti in Word
 
-Quando si fa clic su un collegamento a un documento in Office, è possibile aggiornare la preferenza in modo da aprire l'app Word per impostazione predefinita.  Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/it-IT/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Quando si fa clic su un collegamento a un documento in Office, è possibile aggiornare la preferenza in modo da aprire l'app Word per impostazione predefinita.  Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Guida introduttiva:
 
@@ -877,7 +963,7 @@ Per attivare l'esperienza di scelta, aprire un collegamento a un documento di Wo
 
 #### <a name="open-presentation-links-in-powerpoint"></a>Aprire i collegamenti alle presentazioni in PowerPoint
 
-Quando si fa clic su un collegamento a una presentazione in Office, è possibile aggiornare la preferenza in modo da aprire l'app PowerPoint per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/it-IT/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Quando si fa clic su un collegamento a una presentazione in Office, è possibile aggiornare la preferenza in modo da aprire l'app PowerPoint per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Guida introduttiva:
 
@@ -898,7 +984,7 @@ Per attivare l'esperienza di scelta, aprire un collegamento a una presentazione 
 
 #### <a name="open-workbook-links-in-excel"></a>Aprire i collegamenti alle cartelle di lavoro in Excel
 
-Quando si fa clic su un collegamento a una cartella di lavoro in Office, è possibile aggiornare la preferenza in modo da aprire l'app Excel per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/it-IT/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Quando si fa clic su un collegamento a una cartella di lavoro in Office, è possibile aggiornare la preferenza in modo da aprire l'app Excel per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Guida introduttiva:
 
