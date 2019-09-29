@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Sono disponibili informazioni sui problemi noti di Office 365 ProPlus
-ms.openlocfilehash: a8b385e197a6f61c10797bf160101cdd70285aaf
-ms.sourcegitcommit: a6d8dba3ee51727c2d3a2dad89cb986595c1a7b8
+ms.openlocfilehash: 7c24098c7a160c3d6391bc8e8e51a73d69c44b0c
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068056"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275497"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemi noti di Office 365 ProPlus
 
@@ -31,13 +31,17 @@ Questa tabella offre un riepilogo dei problemi attuali attivi e dei problemi che
 
 |Riepilogo|In analisi|Risolti|
 |:-------------------------------------------------------------------------------------|:-----|:-----|
+|**Excel**
+È stato rilevato un problema che non consentiva di incollare collegamenti ipertestuali in alcuni fogli protetti.|Canale mensile e SACT versione 1908 e SAC versione 1902||
+È stato rilevato un problema nella funzionalità Idee di Excel. Si verifica un errore durante il caricamento del componente aggiuntivo quando si fa clic sul pulsante idee nel client Win32.|Versione mensile 1908||
+È stato rilevato un problema per cui vengono visualizzati solo 16 componenti aggiuntivi durante l'esplorazione in Gestione componenti aggiuntivi.|Canale mensile e SACT versione 1908||
 |**Outlook**
 È stato rinvenuto un problema che poteva impedire il salvataggio di file in una posizione WebDAV.|Versione mensile 1909||
 |**Project**
-Si prenda in considerazione il seguente scenario. Aprire un progetto. Fare clic sul menu File, poi su Esporta e ancora sul pulsante Crea PDF/XPS. Nella finestra di dialogo Sfoglia si immette un nome file e fare clic su OK. In questa situazione, si noterà che il file PDF di XPS non è stato creato. |Versione SAC 1902||
+È stato rilevato un problema che ha impedito la creazione di un file PDF/XPS dal menu File. |SAC versione 1902||
 |**Word**
 È stato rilevato un problema che poteva influire sull’apertura di un file da parte degli utenti.|Versione mensile 1908||
-Per i file di Office sincronizzati con il motore di sincronizzazione di OneDrive, i metadati del documento, come ad esempio i requisiti Richiedi proprietà e Tipo di contenuto, non vengono più convalidati al momento di fare clic su Salva e Salva con nome.|Versione SAC 1902||
+È stato rilevato un errore relativo ai file di Office sincronizzati con il motore di sincronizzazione di OneDrive. I metadati del documento, ad esempio i requisiti Richiedi proprietà e Tipo di contenuto, non vengono più convalidati quando si fa clic su Salva e Salva con nome.|SAC versione 1902||
 
 ## <a name="may-2019---sample"></a>Maggio 2019 - ESEMPIO
 
