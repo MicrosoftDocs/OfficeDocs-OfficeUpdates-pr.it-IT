@@ -9,22 +9,114 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
-ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
+ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
+ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37011676"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37329254"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
 Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non della sicurezza inclusi negli aggiornamenti del Canale mensile per Office 365 ProPlus nel 2019, Visio Pro per Office 365, Project Online Desktop Client e Office 365 Business.
  
  > [!NOTE]
->- Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo.  Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, gli aggiornamenti a Office 365 ProPlus (e Office 365 Business) includeranno Microsoft Teams.  La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni, fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+>- Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo.  Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, gli aggiornamenti a Office 365 ProPlus (e Office 365 Business) includeranno Microsoft Teams.  La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
-## <a name="version-1908-september-10"></a>Versione 1908: 10 settembre
+## <a name="version-1909-september-30"></a>Versione 1909: 30 settembre
+*Versione 1909 (Build 12026.20264)*
+* Diverse correzioni di bug e miglioramenti delle prestazioni.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="access"></a>Access
+
+- **Trovare velocemente le tabelle collegate:** la nostra nuova casella di ricerca rende molto più facile trovare le tabelle collegate. [Altre informazioni](https://support.office.com/it-IT/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a>Excel
+
+- **Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.
+
+### <a name="outlook"></a>Outlook
+
+- **Il menu Inserisci collegamento in Outlook inserisce un collegamento con l'autorizzazione definita dall'amministratore tenant:** un collegamento dall'elenco dei file usati di recenti in Inserisci collegamento in Outlook inseriva un collegamento che funzionava solo per gli utenti che avevano già le relative autorizzazioni. Questo causava spesso uno scambio di messaggi tra gli utenti per richiedere l'accesso a un documento. Questa esperienza è stata aggiornata in modo tale che il collegamento venga inserito con l'autorizzazione predefinita impostata dall'amministratore tenant.
+
+- **Aggiornamento visivo di Outlook:** fa parte dell'aggiornamento visivo delle esperienze principali in Outlook, con aggiornamento del layout dei messaggi di posta elettronica nel riquadro di lettura e Inspector.
+
+- **Gli aggiornamenti dei calendari condivisi sono più veloci:** Outlook può aggiornare i calendari condivisi in Office 365 usando l'API REST. Attivare l'anteprima per aggiornamenti più rapidi e affidabili ai calendari condivisi.
+
+- **Visualizza i messaggi rilevanti nei risultati della ricerca:** Outlook analizza i termini di ricerca e visualizza i messaggi di posta elettronica più importanti nella parte superiore dei risultati della ricerca. I risultati saranno ordinati anche per data nella sezione Risultati principali.
+
+- **Invio dei messaggi alle persone giuste:** basta fare clic nella riga A: e scegliere tra i contatti suggeriti. Un'immagine e un indicatore di presenza aiuteranno a scegliere la persona giusta.
+
+- **Protezione avanzata dalle minacce:** con Office 365 Advanced Threat Protection, si è protetti dalle minacce tramite collegamenti ipertestuali negli oggetti di posta elettronica, messaggi allegati, messaggi firmati, percorsi di rete e così via.
+
+- **Vedere i messaggi sotto una luce diversa:** usare il pulsante Sole/Luna per utilizzare lo sfondo chiaro o lo sfondo scuro nel riquadro di lettura. [Altre informazioni](https://support.office.com/it-IT/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvare un'illustrazione in formato SVG:** è possibile salvare un grafico, una forma o un'altra illustrazione in formato SVG (Scalable Vector Graphic), che può essere ridimensionato senza perdita di qualità dell'immagine. [Altre informazioni](https://support.office.com/it-IT/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Replay immediato:** è possibile animare un disegno a penna in modo che venga riprodotto in avanti o all'indietro durante la presentazione. [Altre informazioni](https://support.office.com/it-IT/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.
+
+### <a name="word"></a>Word
+
+- **Dirlo in altre parole:** se si vuole dirlo in altre parole, è possibile riscriverlo. La riscrittura offre alternative per rifinire le frasi.
+
+- **Miglioramenti alla creazione condivisa:** maggiore affidabilità durante la creazione condivisa.
+
+- **Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.
+
+- **Gli altri utenti possono vedere rapidamente le modifiche:** grazie ai miglioramenti apportati alla creazione condivisa, i collaboratori possono vedere le modifiche in modo più veloce che mai.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">È stato risolto un problema che non consentiva di incollare collegamenti ipertestuali in alcuni fogli protetti.</span><br></div>
+
+
+- <div>Sono stati abilitati più di 16 componenti aggiuntivi da visualizzare &nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">durante l'esplorazione in Gestione componenti aggiuntivi.</span></div>
+
+
+### <a name="insights-services"></a>Servizi Insights
+
+- <div>È stato corretto un problema nella funzionalità Idee di Excel che provocava un errore durante il caricamento del componente aggiuntivo facendo clic sul pulsante Idee nel client Win32.&nbsp;</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>È stato corretto un problema che causava la mancata visualizzazione degli URL al passaggio del mouse per alcuni collegamenti sicuri.</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">È stata aggiornata la logica di blocco degli allegati in Outlook in modo da bloccare anche gli allegati Python.</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">È stato risolto un problema per cui gli utenti notavano una perdita di memoria nel processo di Outlook.</span>
+
+- È stato risolto un problema che poteva impedire il salvataggio di file in una posizione WebDAV.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">È stato risolto un problema che si verificava all'apertura di un file.</p></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1908-september-10"></a>Versione 1908: 10 September
 *Versione 1908 (Build 11929.20300)*
 
 Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
