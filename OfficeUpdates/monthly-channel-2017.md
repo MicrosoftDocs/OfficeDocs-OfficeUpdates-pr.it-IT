@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale mensile per Office 365 ProPlus in 2017
-ms.openlocfilehash: 517ba74ece85e4a4386189d7787f5fb46f8050a4
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
+ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350257"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37375822"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Note sulla versione per i rilasci mensili del canale in 2017
 
@@ -455,7 +455,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Suoni utili per migliorare l'accessibilità:** attivare gli avvisi audio per ottenere assistenza durante il lavoro. Sono disponibili in File \> Opzioni \> Accessibilità. Non sono necessari componenti aggiuntivi. [Ulteriori informazioni](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Percorsi dei file per account:** Quando si apre o si salva un file, l'elenco dei percorsi è organizzato in base all'account associato.
 
-### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 -   **Download degli allegati cloud:** quando si salvano oppure trascinano gli allegati di OneDrive nel computer, il file viene scaricato automaticamente.
 -   **Suoni utili per migliorare l'accessibilità:** attivare gli avvisi audio per ottenere assistenza durante il lavoro. Sono disponibili in File \> Opzioni \> Accessibilità. Non sono necessari componenti aggiuntivi. [Ulteriori informazioni](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 
@@ -472,7 +472,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Suoni utili per migliorare l'accessibilità:** attivare gli avvisi audio per ottenere assistenza durante il lavoro. Sono disponibili in File \> Opzioni \> Accessibilità. Non sono necessari componenti aggiuntivi. [Ulteriori informazioni](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Percorsi dei file per account:** Quando si apre o si salva un file, l'elenco dei percorsi è organizzato in base all'account associato.
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per il quale il lavoro effettivo viene erroneamente trasferito a una risorsa aziendale quando sostituisce una risorsa locale e il lavoro protetto è abilitato.
 -   Consente di risolvere un problema per il quale Project si arresta in modo anomalo nel caso in cui si disponga di una tabella in cui la prima colonna, è Nome attività, la colonna è bloccata e si seleziona un'attività.
 -   Consente di risolvere un problema per il quale è possibile assegnare la stessa risorsa più volte alla stessa attività attraverso la visualizzazione Gestione attività.
@@ -539,17 +539,15 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Inserimento di immagini online:** La nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
 -   **Connettore Azure Data Lake Store:** Gli utenti possono ora importare dati da Azure Data Lake Store.
 -   **Miglioramenti di "Aggiungi colonna da esempi":** Supporta suggerimenti, ulteriori operazioni su data/ora e trasformazioni aggiuntive.
-- **Accessibilità sviluppata direttamente in** Consente di trovare facilmente le impostazioni per rendere più accessibili le app in opzioni > accesso facilitato.
 
-### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Configurazione di nuovi account:** Impostare nuovi account con una nuova procedura guidata che richiede meno passaggi manuali.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
 -   **Pen customization:** Choose a personal set of pens and highlighters for inking. Your customized set is available on all your Windows PCs.
 -   **Inserimento di immagini online:** La nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
-- **Accessibilità sviluppata direttamente in** Consente di trovare facilmente le impostazioni per rendere più accessibili le app in opzioni > accesso facilitato.
 
-### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
+### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale i valori di base rapportati alla scala cronologica non corrispondono ai valori iniziali quando si salva un progetto in formato di file XML.
 -   Consente di risolvere un problema a causa del quale non è possibile aprire un progetto nel client di Project poiché il progetto in realtà non viene estratto.
 -   Consente di risolvere un problema in modo che i file Project da un file server ad alta latenza vengano aperti più velocemente.
@@ -567,12 +565,6 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
 - **Pen customization:** Choose a personal set of pens and highlighters for inking. Your customized set is available on all your Windows PCs.
 - **Inserimento di immagini online:** La nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
-- **Accessibilità sviluppata direttamente in** Consente di trovare facilmente le impostazioni per rendere più accessibili le app in opzioni > accesso facilitato.
-
-### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
-- **Rimanere protetti da collegamenti dannosi nei documenti di Office** Safelinks è una funzionalità aziendale che fornisce il tempo di fare clic su protezione per i collegamenti Web (http/https) nei documenti di Office.
-
-
 
 ## <a name="version-1705-june-13"></a>Versione 1705:13 giugno
 *Versione 1705 (Build 8201.2102)*
@@ -625,8 +617,6 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Sottotitoli codificati per i video:** Aggiungere sottotitoli codificati a un video per renderlo più accessibile. [Ulteriori informazioni](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Miglioramenti per la progettazione:** La finestra di progettazione suggerisce ora idee di progettazione per i grafici aggiunti alle diapositive.
 -   **Supporto per Windows Information Protection (WIP):**    PowerPoint è ora un'app illuminata e può distinguere tra dati aziendali e personali, determinando in modo corretto quali proteggere, in base ai criteri configurati.   [Altre informazioni](https://aka.ms/wiptechnet)
-- **Rendere le immagini più accessibili** I servizi intelligenti generano testo alternativo per le immagini per rendere i documenti più accessibili per gli utenti con problemi visivi.
-- **La finestra di progettazione di PowerPoint trasforma più tipi di diapositive** La finestra di progettazione suggerisce ora idee di progettazione per i grafici aggiunti alle diapositive.
 
 ### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di correggere la finestra di dialogo Crea sito di progetto che visualizza la posizione corretta del sito ora che in Project Online ogni Enterprise Project Template (EPT) ha il proprio URL per i siti di progetto.
@@ -657,9 +647,6 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Assistenza alla scrittura migliorata con il riquadro Editor:** Utilizzare il riquadro Editor per consigli avanzati su ortografia, grammatica e stile di scrittura. È stato creato per essere accessibile con supporto migliorato per assistive technology.
 -   **Creazione di testo alternativo:** un servizio basato su cloud genera automaticamente testo alternativo per le immagini di un documento.
 -   **Supporto per Windows Information Protection (WIP):**    Word è ora un'app illuminata e può distinguere tra dati aziendali e personali, determinando correttamente quali proteggere, in base ai criteri configurati.   [Altre informazioni](https://aka.ms/wiptechnet)
-- **Rendere le immagini più accessibili** I servizi intelligenti generano testo alternativo per le immagini per rendere i documenti più accessibili per gli utenti con problemi visivi.
-
-
 
 ## <a name="version-1704-june-1"></a>Versione 1704:1 ° giugno
 *Versione 1704 (Build 8067.2157)*
@@ -683,7 +670,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Distribuzione centralizzata dei componenti aggiuntivi**: gli amministratori possono distribuire e aggiornare i componenti aggiuntivi per utenti o gruppi dall'interfaccia di amministrazione di Office 365. [Ulteriori informazioni](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Personalizzazione della barra di accesso rapido:** è possibile aggiungere le icone per indice inferiore e indice superiore alla barra di accesso rapido.
 
-### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 -   **Posta in arrivo evidenziata:** La cartella Posta in arrivo è suddivisa in due schede: Evidenziata e Altro. I messaggi vengono ordinati in base al contenuto del messaggio e in base a con quali utenti si interagisce maggiormente. [Ulteriori informazioni](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
 -   **Accedere rapidamente ai gruppi più utilizzati:** I gruppi con i quali è più probabile che si interagirà ora vengono visualizzati nella parte superiore dell'elenco in Gruppi nel riquadro delle cartelle.
 -   **Inserire collegamenti recenti:** È possibile allegare i collegamenti ipertestuali ai file o siti Web basati sul cloud recenti e creare nomi visualizzati significativi per gli utenti che utilizzano utilità per la lettura dello schermo. [Ulteriori informazioni](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
@@ -755,7 +742,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
 -   **What’s New dialog:** A dialog box that highlights new Access features appears when Access is opened after Access is updated with new features. The dialog box is also available by going to File \> Account \> What’s New.
 
-### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
+### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
 -   **Attività di un file condiviso:** selezionare il pulsante Attività nell'angolo superiore destro del file per visualizzare quando un file condiviso in OneDrive for Business o SharePoint è stato condiviso, modificato, rinominato o ripristinato.
 -   **Miglioramenti di visualizzazione e trasformazione:** rilevamento automatico del carattere di delimitazione durante la separazione di colonne mediante l'editor di query; selezionare quale file di esempio utilizzare con Combina binari e specificare la raccolta di pacchetti cui connettersi quando si utilizza il connettore per DB2.
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -764,7 +751,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale le nuove funzioni introdotto dopo la pubblicazione di Office 2016 (ad esempio, TEXTJOIN, CONCAT, IFS, MAXIFS e MINIFS) sono mancanti.
 
-### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Accesso guest ai gruppi di Office 365:** collaborare con utenti esterni all'organizzazione autorizzandoli ad accedere alle conversazioni dei gruppi, ai file, agli inviti al calendario e al blocco appunti dei gruppi. [Ulteriori informazioni](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 
@@ -794,7 +781,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Creazione di diagrammi dai dati in Excel:** consente di creare automaticamente un diagramma di flusso di base o un diagramma di flusso interfunzionale partendo dai dati in Excel con i nuovi modelli di Visualizzatore dati. [Ulteriori informazioni](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 -   **Safe links:** When a user clicks on a link, Office 365 Advanced Threat Protection (ATP) inspects the link to see if it’s malicious. If the link is deemed malicious, the user is redirected to a warning page instead of the original target URL. [More information](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
+### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 -   **Attività di un file condiviso:** selezionare il pulsante Attività nell'angolo superiore destro del file per visualizzare quando un file condiviso in OneDrive for Business o SharePoint è stato condiviso, modificato, rinominato o ripristinato.
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Safe links:** When a user clicks on a link, Office 365 Advanced Threat Protection (ATP) inspects the link to see if it’s malicious. If the link is deemed malicious, the user is redirected to a warning page instead of the original target URL. [More information](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
@@ -854,7 +841,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Rimozione dello sfondo:** consente di rimuovere un'immagine di sfondo con uno strumento di disegno a mano libera.
 -   **Miglioramenti di visualizzazione e trasformazione:** consente di utilizzare "Selezione tabelle correlate" nella finestra di dialogo dello strumento di spostamento con i connettori ODCB e OLEDB, di unire più file direttamente dalla finestra di dialogo Anteprima dati della cartella e di usare una nuova opzione del menu di scelta rapida nella finestra Editor query per inserire nuovi passaggi nelle query esistenti.
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale Excel potrebbe arrestarsi in modo anomalo quando si inseriscono i collegamenti ipertestuali.
 -   Consente di risolvere un problema a causa del quale Excel non funziona in modo corretto quando si aggiungono mapping XML.
 -   Consente di risolvere un problema a causa del quale il pulsante di comando per un componente aggiuntivo non funziona dopo l'aggiornamento del componente aggiuntivo o dopo la rimozione o il download del componente aggiuntivo dall'Office Store.
@@ -910,7 +897,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale l'assistente vocale annuncia informazioni non corrette quando l'utente si sposta nella finestra del contenuto.
 -   Consente di risolvere un problema a causa del quale i nomi di autore e modificatore non vengono visualizzati quando si passa il puntatore su un'annotazione su una lavagna.
 
-### <a name="visio-feature-updates"></a>Visio: aggiornamenti delle funzionalità
+### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
 -   **Frammenti di diapositiva:** consente di creare frammenti di un disegno di Visio ed esportarli come diapositive di PowerPoint. [Ulteriori informazioni](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
@@ -973,7 +960,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
 -   **Componente aggiuntivo di modellazione del database:** Utilizzare il componente aggiuntivo per creare un modello di database relativo a un database esistente. In questo modo, è possibile pianificare un nuovo database oppure comprendere quello esistente. [Ulteriori informazioni](https://support.office.com/article/fb034862-acfc-45bc-88b2-f33d1e1f8614), [Scaricare il componente aggiuntivo](https://go.microsoft.com/fwlink/p/?linkid=835953)
 
-### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
+### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
 -   **Usare una penna per selezionare e modificare gli oggetti:** Catturare i punti di controllo dell'oggetto con una penna digitale per ridimensionare, ruotare, spostare e altro.
 
 ### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
@@ -991,7 +978,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business: Aggiornamenti non relativi alla sicurezza
 -   Risolvere un problema in cui, se non è possibile caricare correttamente GrooveIntlResource.dll (situazione improbabile in condizioni normali), potrebbe verificarsi l’arresto anomalo di un’app Office se l'utente tenta di aprire o salvare un file in una cartella sincronizzata; oppure potrebbe verificarsi l’arresto anomalo di Esplora risorse se l'utente passa a una cartella sincronizzata utilizzando Esplora risorse.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema in cui Skype for Business si blocca quando sono aperte più finestre di conversazione contemporaneamente.
 
 
@@ -1047,7 +1034,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale un'opzione di ripristino viene visualizzata in modo errato quando l'utente controlla un'attività che ha un'assegnazione oltre il problema dell'unità massima.
 -   Consente di risolvere un problema a causa del quale non è possibile modificare il valore di un campo Codice struttura dopo la pubblicazione del progetto.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale la finestra dell'ultima conversazione diventa vuota una volta che tutte le altre schede vengono chiuse.
 -   Consente di risolvere un problema a causa del quale lo stato attivo predefinito non è presente nell'area di input della chat quando le conversazioni a schede sono disabilitate.
 -   Consente di risolvere un problema a causa del quale il collegamento "PIN di accesso dimenticato?" non viene visualizzato nell'invito alla riunione.
