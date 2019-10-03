@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 0996cd0e78e8c04af4323a41d85cbee106f4eeab
-ms.sourcegitcommit: bceb0947711b9919ad002bf0901af77e285cebc7
+ms.openlocfilehash: 5c8a5e252be302622dab9f041bfd84b4b511f8f2
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "33568606"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350277"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale mensile nel 2018
 
@@ -25,8 +25,6 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 > - Di seguito vengono fornite informazioni sulle nuove caratteristiche, sugli aggiornamenti della sicurezza e non della sicurezza per Visio Pro per Office 365 e Project Online Desktop Client.
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
 > - Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md). 
 
 ## <a name="version-1811-december-11"></a>Versione 1811: 11 dicembre
@@ -60,7 +58,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Scegliere e applicare lo zoom:** Invece di modificare lo zoom ogni volta che si legge un messaggio, scegliere un'impostazione predefinita da utilizzare per tutti i messaggi. [Altre informazioni](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Continuare a lavorare durante lo spostamento di messaggi:** ora Outlook sposta i messaggi in background, di conseguenza è possibile continuare a lavorare durante lo spostamento di grandi quantità di messaggi tra le cartelle.
 - **Perfezionate le esperienze di Posta in arrivo evidenziata attivata e disattivata:** per i clienti che non usano Posta in arrivo evidenziata, abbiamo ripristinato la scheda Non letti nell’elenco dei messaggi in tutte le cartelle. Abbiamo aggiunto anche la possibilità di ordinare in base allo stato del contrassegno per individuare più facilmente gli elementi contrassegnati. Infine, la Posta in arrivo evidenziata ha un migliore modello interazione con la ricerca: la Posta in arrivo evidenziata rimane finché non viene avviata una ricerca e viene visualizzato il testo “Risultati” dopo il completamento di una ricerca.
-- **Bloccare il download di contenuti esterni per impostazione predefinita nei messaggi di posta elettronica con firma e crittografia SMIME:** a causa di una vulnerabilità nel protocollo SMIME, Outlook bloccherà il download dei contenuti esterni sui messaggi che sono stati firmati o crittografati tramite SMIME. Per evitare la vulnerabilità di protezione, gli utenti non potranno scaricare con un singolo clic i contenuti esterni tramite l'interfaccia utente di Outlook. È presente una nuova opzione nella finestra di dialogo Opzioni che consente agli utenti di ripristinare il comportamento precedente. 
+- **Bloccare il download di contenuti esterni per impostazione predefinita nei messaggi di posta elettronica con firma e crittografia SMIME:** a causa di una vulnerabilità nel protocollo SMIME, Outlook bloccherà il download dei contenuti esterni sui messaggi che sono stati firmati o crittografati tramite SMIME. Per evitare la vulnerabilità di protezione, gli utenti non potranno scaricare con un singolo clic i contenuti esterni tramite l'interfaccia utente di Outlook. È presente una nuova opzione nella finestra di dialogo Opzioni che consente agli utenti di ripristinare il comportamento precedente.
+- **Visualizzare i dettagli degli utenti di LinkedIn in Outlook:** adesso, quando si apre una scheda profilo di un contatto, è possibile ottenere maggiori informazioni visualizzando il suo profilo LinkedIn.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 
@@ -180,6 +179,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 - **Ricerca rapida** CERCA.VERT, CERCA.ORIZZ e CONFRONTA sono state implementate per trovare più rapidamente le risposte. [Altre informazioni](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **Sostenitori delle funzionalità per chiamare tutti e di visualizzazione e trasformazione** Chi usa spesso la funzionalità di visualizzazione e trasformazione, sarà lieto di apprendere che Colonna da esempi è stata migliorata. Inoltre, sono stati migliorati anche molti connettori. [Altre informazioni](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Iniziare subito a usare i file di Office e a crearli e aprirli facilmente con l'esperienza di avvio aggiornata** Le pagine di avvio di Office per Word, PowerPoint ed Excel sono state riprogettate e consentono ora di iniziare più facilmente a usare i nuovi documenti, riprendere la modifica di documenti usati di recente dal punto in cui si era lasciato e trovare documenti condivisi per collaborare con altri utenti.
 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 - **Visualizzare cosa sarà disponibile a breve** Possibilità di provare le nuove funzionalità prima del rilascio e di inviare commenti e suggerimenti. [Altre informazioni](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
@@ -190,13 +190,15 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 - **Guardare le diapositive prendere vita:** inserire grafici 3D animati per visualizzare cuori pulsanti, pianeti in orbita e la furia di un T-Rex sullo schermo. [Altre informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Fare domande al pubblico con un test o un sondaggio:** inserire un test o un sondaggio in una diapositiva. Office raccoglie e archivia le risposte. [Ulteriori informazioni](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Proporre un test o un sondaggio al gruppo di destinatari** È possibile inserire un test o un sondaggio in una diapositiva. Le risposte verranno raccolte e archiviate direttamente da Office. [Altre informazioni](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Iniziare subito a usare i file di Office e a crearli e aprirli facilmente con l'esperienza di avvio aggiornata** Le pagine di avvio di Office per Word, PowerPoint ed Excel sono state riprogettate e consentono ora di iniziare più facilmente a usare i nuovi documenti, riprendere la modifica di documenti usati di recente dal punto in cui si era lasciato e trovare documenti condivisi per collaborare con altri utenti.
 
 ### <a name="word-feature-updates"></a>Word: aggiornamenti delle funzionalità
 - **Ottenere l'attenzione tramite \@menzioni** Utilizzare @menzioni nei commenti per informare i collaboratori quando c'è bisogno del loro input. [Altre informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Le icone della barra multifunzione hanno un nuovo aspetto**, ma non c’è da temere, perché tutto funziona come sempre. Inoltre, verranno visualizzate perfettamente su schermi di qualsiasi dimensione. [Altre informazioni](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Convertitore di Equation Editor** Il convertitore consente di convertire le equazioni create usando Microsoft Equation Editor in formato MathML di Office per consentire la modifica.
-- **Trasformare il documento da statico a sorprendente:** trasformare il documento in una pagina web interattiva, facile da condividere che si adatta perfettamente a qualsiasi dispositivo. [Altre informazioni](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Trasformare i documenti da statici a sorprendenti** È possibile trasformare un documento in una pagina Web interattiva, facilmente condivisibile e adattabile a qualsiasi dispositivo. [Altre informazioni](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Iniziare subito a usare i file di Office e a crearli e aprirli facilmente con l'esperienza di avvio aggiornata** Le pagine di avvio di Office per Word, PowerPoint ed Excel sono state riprogettate e consentono ora di iniziare più facilmente a usare i nuovi documenti, riprendere la modifica di documenti usati di recente dal punto in cui si era lasciato e trovare documenti condivisi per collaborare con altri utenti.
 
 ## <a name="version-1808-september-11"></a>Versione 1808: 11 settembre
 *Versione 1808 (Build 10730.20102)*
@@ -265,6 +267,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
 - **Avvisi relativi ai componenti aggiuntivi di Outlook:** occasionalmente un componente aggiuntivo COM di Outlook può incontrare problemi che rallentano il resto di Outlook. Questi problemi potrebbero essere dovuti alla latenza di eventi quali il passaggio tra cartelle di Outlook, l'arrivo di nuove e-mail, l'apertura di elementi del Calendario e così via. Quando si verificano tali problemi, Outlook visualizza un avviso nella barra di notifica.
 - **Partecipare alle riunioni di Teams dalla finestra di dialogo Promemoria di Outlook:** quando Outlook ricorda agli utenti una riunione imminente, mostra il pulsante Partecipa a riunione online se la riunione imminente è una riunione online di Teams. L'esperienza è analoga alla partecipazione a una riunione di Skype for Business dalla finestra di dialogo Promemoria di Outlook.
+- **Miglioramento delle notifiche dei componenti aggiuntivi** Miglioramento delle notifiche dei componenti aggiuntivi
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
  - **Collegamenti ipertestuali a colori:** i collegamenti ipertestuali non sono più solamente blu. Ora è possibile scegliere il colore del carattere. [Ulteriori informazioni](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
@@ -296,21 +299,22 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2018-8281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
-
 ## <a name="version-1806-june-25"></a>Versione 1806: 25 giugno
 *Versione 1806 (Build 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
- - **Cella e barra della formula per apportare modifiche migliorate:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato anche migliorato il supporto di emoji e caratteri complessi. [Altre informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Cella e barra della formula per apportare modifiche migliorate:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato anche migliorato il supporto di emoji e caratteri complessi. [Altre informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
- - **Impostazione predefinita di Ricorrenza:** nella finestra di dialogo Ricorrenza appuntamento (in "Intervallo di ricorrenza"), "Termina entro" è l'impostazione predefinita (anziché "Nessuna data di fine") ed è la prima impostazione elencata; viene impostata una data di fine predefinita.
- - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **Impostazione predefinita di Ricorrenza:** nella finestra di dialogo Ricorrenza appuntamento (in "Intervallo di ricorrenza"), "Termina entro" è l'impostazione predefinita (anziché "Nessuna data di fine") ed è la prima impostazione elencata; viene impostata una data di fine predefinita.
+- **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili i messaggi. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **Miglioramento delle stringhe per il comando 'Segui' per un gruppo nella versione desktop di Outlook** Le stringhe relative ai gruppi in Outlook verranno modificate e l'attuale dicitura "Iscriviti/Annulla iscrizione" diventerà "Segui/Smetti di seguire".
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
- - **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
- - **Indicare le diapositive con una penna:** utilizzare la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Ulteriori informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Supporto SVG migliorato:** è ora possibile inserire SVG con filtri. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Indicare le diapositive con una penna:** utilizzare la penna per evidenziare un titolo, PowerPoint lo convertirà poi in testo. [Altre informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Apertura incrementale dei file di grandi dimensioni:** è ora possibile scaricare, aprire e interagire con presentazioni di PowerPoint di grandi dimensioni anche se il download di alcune parti della presentazione, ad esempio video o immagini, non è stato ancora completato.
 
 
 ### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
@@ -432,8 +436,9 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   **Non perdere nessun promemoria:** è possibile impostare l'apertura di pop up relativi ai promemoria nelle finestre in esecuzione oppure Outlook lampeggerà sulla barra delle applicazioni per attirare l'attenzione dell'utente. [Altre informazioni](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Contrassegnare gli elementi eliminati come già letti:** è ora possibile impostare tutti i messaggi eliminati come già letti. Scegliere facendo clic su File \> Opzioni \> Posta \> Altro.
 -   **Opzione di crittografia:** gli utenti di Crittografia messaggi di Office 365 possono crittografare un messaggio e inviarlo a tutti gli utenti, all'interno o all'esterno dell'organizzazione. L'opzione di crittografia è disponibile in Opzioni \> Autorizzazioni durante la creazione di un messaggio. [Altre informazioni](https://aka.ms/omeoverview)
+- **Supporto per la visualizzazione di tutti i gruppi aggiunti nella Visualizzazione Calendario** Questo miglioramento consente a un utente di visualizzare tutti i gruppi moderni aggiunti nel riquadro di spostamento sinistro della Visualizzazione Calendario, in modo da sovrapporre facilmente il calendario di un gruppo con quello personale di un altro utente o quello di un altro gruppo. In precedenza in questo elenco venivano visualizzati solo gruppi preferiti aggiunti a Preferiti.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 -   **Convertire l'input penna:** è possibile creare disegni e note a mano libera e convertirli in testo leggibile e forme nitide per creare una presentazione professionale. [Altre informazioni](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
 ### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
