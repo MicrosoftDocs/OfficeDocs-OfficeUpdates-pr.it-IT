@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
-ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
+ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37300493"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37400145"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -27,8 +27,80 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
  > [!NOTE]
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
-[//]: # (DO NOT REMOVE)
+[//]: # (NON RIMUOVERE)
 
+
+## <a name="version-1910-october-04"></a>Versione 1910: 4 ottobre
+*Versione 1910 (Build 12126.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Componente aggiuntivo Visualizzatore dati:** creazione rapida di diagrammi di flusso di Visio da Excel. [Altre informazioni](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema per cui l'area di stampa in anteprima di stampa non era corretta</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva impedire l'aggiornamento delle tabelle pivot durante una sessione di creazione condivisa</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>È stato risolto un problema per cui gli utenti potevano ricevere un errore di &quot;stato incoerente&quot; durante l'uso di un database condiviso.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>È stato risolto un problema che poteva causare la duplicazione delle cartelle di posta elettronica</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva causare un messaggio di errore non corretto tentando di inviare posta con crittografia S/MIME</span></div>
+
+
+- <div><span>È stato risolto un problema per cui la ricezione di un messaggio di "Conversazione non effettuata" da Skype poteva causare un arresto anomalo</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva causare la perdita di memoria</span></div>
+
+
+- <div><span>È stato risolto un problema che poteva causare la modifica del nome del mittente al salvataggio del messaggio come bozza</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div>È stato risolto un problema che causava il danneggiamento degli intervalli di testo dopo aver incollato testo nei segnaposto intestazione/piè di pagina/numero diapositiva in schema diapositiva e layout diapositiva
+
+
+- <div><span></span></div>È stato risolto un problema che impediva la creazione del collegamento ipertestuale incollando testo con un collegamento ipertestuale
+
+
+- <div>È stato risolto un problema che impediva il corretto funzionamento delle statistiche</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>È stato risolto un problema per cui i colori dei tipi di carattere non venivano applicati</span></div>
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div>È stato risolto un problema per cui poteva essere offerta la cronologia delle versioni anche se la funzionalità era disabilitata</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-september-27"></a>Versione 1910: 27 settembre
 *Versione 1910 (Build 12119.20000)*

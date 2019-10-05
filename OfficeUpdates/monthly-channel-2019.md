@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: aebb9804268114f6716f3d283ac516b26c25c211
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391300"
+ms.locfileid: "37400135"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -612,7 +612,9 @@ Solo aggiornamenti non relativi alla sicurezza, rivolti ai problemi correlati al
 
 - **Addio ai collegamenti interrotti di Excel:** impossibile trovare la cartella di lavoro di Excel collegata al diagramma del Visualizzatore dati? Collegarla di nuovo per riprendere l’attività. [Altre informazioni](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
+### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: aggiornamenti delle funzionalità
 
+- **Riquadro Novità:** l'esperienza Novità è stata spostata nel riquadro della Guida e ora è più semplice accedervi e mantenersi aggiornati sugli ultimi aggiornamenti.
 
 > [!NOTE]
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
