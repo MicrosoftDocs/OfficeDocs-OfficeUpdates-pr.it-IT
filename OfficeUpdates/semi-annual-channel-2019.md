@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
+ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391320"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453586"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -24,7 +24,40 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 > - Spesso le funzionalità (e talvolta persino le correzioni) vengono distribuite nel Canale semestrale in un certo arco di tempo. Se una funzionalità descritta di seguito non è ancora disponibile, non c'è da preoccuparsi. Arriverà a breve. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 non sarà incluso per impostazione predefinita quando un utente del canale semestrale scarica e installa Office 365 in Windows 10 dal portale di Office.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1902-october-08"></a>Versione 1902: 8 ottobre
+*Versione 1902 (Build 11328.20438)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che non consentiva di incollare collegamenti ipertestuali in alcuni fogli protetti.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema di mancata creazione del file PDF o XPS nello scenario seguente:</div><ul><li>Si apre un progetto.</li><li>Si fa clic sul menu File, poi su Esporta e quindi sul pulsante <b>Crea PDF/XPS</b>.</li><li>Nella finestra di dialogo Sfoglia si immette un nome file e si fa clic su OK.</li></ul>
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui JAWS nelle build correnti di Windows non riproduce alcuna parola quando si usa MAIUSC+freccia DESTRA.
+
+### <a name="office-suite"></a>Applicazioni Office
+
+- Gli utenti ora potranno salvare i file di Office sincronizzati dal client di sincronizzazione di OneDrive in assenza di proprietà richieste. Le proprietà del documento saranno comunque disponibili per la visualizzazione e la modifica attraverso la visualizzazione Backstage del documento, selezionando File > Informazioni. Questa modifica porterà miglioramenti delle prestazioni.
+
+- È stato corretto un problema per cui la notifica relativa alla richiesta di &quot;correzione dell'account&quot; non scompare dopo avere eseguito l'accesso.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1808-october-08"></a>Versione 1808: 8 ottobre
+*Versione 1808 (Build 10730.20386)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
 
 ## <a name="version-1902-september-10"></a>Versione 1902: 10 settembre
 *Versione 1902 (Build 11328.20420)*

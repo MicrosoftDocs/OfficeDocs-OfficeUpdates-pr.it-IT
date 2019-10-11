@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: e1c05275ea6d0cfafde0c0fd253757480bc94d39
-ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
+ms.openlocfilehash: a992b6c832e82aac563b22354cb18a1c9176632d
+ms.sourcegitcommit: 29f758e10f808e181cc1fbe487023103353672a8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37329234"
+ms.lasthandoff: 10/08/2019
+ms.locfileid: "37423891"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -29,6 +29,45 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="october-8-2019"></a>8 ottobre 2019
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1909 (Build 12026.20320).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1909 (Build 12026.20264) <br/> |30 settembre 2019 <br/> |66<br/> |
+|Versione 1908 (Build 11929.20300) <br/> |10 settembre 2019 <br/> |148<br/> |
+
+### <a name="semi-annual-channel"></a>Canale semestrale
+
+La versione più recente è la numero 1902 (Build 11328.20438).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1902 (Build 11328.20420) <br/> |10 settembre 2019 <br/> |65<br/> |
+|Versione 1902 (Build 11328.20392) <br/> |13 agosto 2019 <br/> |66<br/> |
+
+[//]: # (NON RIMUOVERE - INIZIO CONTENUTO - 8 ottobre 2019)
+
+### <a name="semi-annual-targeted-channel"></a>Canale semestrale (mirato)
+
+La versione più recente è la numero 1908 (Build 11929.20388).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1908 (Build 11929.20300) <br/> |10 settembre 2019 <br/> |69<br/> |
+|Versione 1902 (Build 11328.20392) <br/> |13 agosto 2019 <br/> |340<br/> |
+
+
+[//]: # (NON RIMUOVERE - FINE CONTENUTO - 8 ottobre 2019)
+
+## <a name="october-1-2019"></a>1 ottobre 2019
+
+
+
 
 ## <a name="september-30-2019"></a>30 settembre 2019
 

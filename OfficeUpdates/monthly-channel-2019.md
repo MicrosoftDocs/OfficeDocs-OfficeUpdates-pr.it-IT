@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: aebb9804268114f6716f3d283ac516b26c25c211
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400135"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427686"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -24,10 +24,31 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 >- Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo.  Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, gli aggiornamenti a Office 365 ProPlus (e Office 365 Business) includeranno Microsoft Teams.  La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
 
+## <a name="version-1909-october-08"></a>Versione 1909: 8 ottobre
+*Versione 1909 (Build 12026.20320)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non relativi alla sicurezza
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema con la logica di blocco degli allegati in Outlook in modo da bloccare anche gli allegati Python.
+
+- È stato risolto un problema che impediva agli utenti di aprire alcune istanze di elementi ricorrenti del calendario.
+
+- È stato risolto un problema per cui gli utenti notavano una perdita di memoria nel processo di Outlook.
+
+- È stato risolto un problema che causava un arresto anomalo durante la creazione del profilo.
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-1909-september-30"></a>Versione 1909: 30 settembre
 *Versione 1909 (Build 12026.20264)*
 * Diverse correzioni di bug e miglioramenti delle prestazioni.
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -240,7 +261,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 
 ### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 
- - Risolve un problema a causa del quale non era talvolta possibile eseguire la ricerca della cartella corrente.
+- Risolve un problema a causa del quale non era talvolta possibile eseguire la ricerca della cartella corrente.
 
 ## <a name="version-1906-june-27"></a>Versione 1906: 27 giugno
 *Versione 1906 (Build 11727.20230)*
