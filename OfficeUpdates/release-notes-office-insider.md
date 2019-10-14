@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
+ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400145"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37471331"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -29,6 +29,51 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
+
+## <a name="version-1910-october-11"></a>Versione 1910: 11 ottobre
+*Versione 1910 (Build 12130.20112)*
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div>È stato risolto un problema relativo all'inserimento di file come oggetti da OneDrive</div>
+
+
+- <div>È stato risolto un problema per cui era possibile che il formato collegamento ipertestuale non venisse applicato correttamente a determinati tipi di contenuto</div>
+
+
+- <div>È stato risolto un problema per cui le formule che contenevano riferimenti assoluti strutturati potevano essere adattate in modo non corretto</div>
+
+
+- <div>È stato risolto un problema per cui le cartelle di lavoro create in versioni precedenti di Office potevano causare il blocco di Excel se aperte nelle versioni correnti di Office</div>
+
+
+- <div>È stato risolto un problema per cui il contenuto copiato da Excel poteva risultare non corretto se incollato in altre applicazioni di Office</div>
+
+
+- <div>Correzione per risolvere un problema relativo ai colori usati nelle anteprime quando si inseriscono grafici usando modelli di grafico</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>È stato rilevato un problema per cui i dispositivi ARC potrebbero perdere la connessione se in esecuzione in AirSpace WinComp</div>
+
+
+### <a name="word"></a>Word
+
+- <div>È stato risolto un problema relativo all'inserimento di file come oggetti da OneDrive</div>
+
+
+- <div>Sono stati migliorati i passaggi per la <span>risoluzione di un problema che causava l'eliminazione del contenuto grafico dai thread di posta elettronica.&nbsp;</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-october-04"></a>Versione 1910: 4 ottobre
 *Versione 1910 (Build 12126.20000)*
