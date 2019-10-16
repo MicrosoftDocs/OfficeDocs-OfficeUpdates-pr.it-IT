@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: 33c5882494fc6dc407eb9cd1438d65008935173d
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: f7555a84f2e95d03eec5d438678deb69a186a464
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631230"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508871"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
@@ -25,22 +25,20 @@ Office 365 ProPlus viene aggiornato regolarmente con nuove funzionalità, aggior
 > - La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima. 
 > - Per ulteriori informazioni sui canali di aggiornamento, vedere [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-Nella tabella seguente viene elencata la versione supportata e il numero di build più recente per ogni canale di aggiornamento. 
+Nella tabella seguente viene elencata la versione supportata e il numero di build più recente per ogni canale di aggiornamento.
 
 [//]: # (EOSTABLESTART)
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile<br/>|1908<br/>|11929.20254<br/>|26 agosto 2019<br/>|Viene rilasciata la versione 1909<br/>|
-|Semestrale (mirato)<br/>|1902<br/>|11328.20392<br/>|13 agosto 2019<br/>|10 settembre 2019<br/>|
-|Semestrale<br/>|1902<br/>|11328.20392<br/>|13 agosto 2019<br/>|8 settembre 2020<br/>|
-|Semestrale<br/>|1808<br/>|10730.20370<br/>|13 agosto 2019<br/>|10 marzo 2020<br/>|
-|Semestrale<br/>|1803<br/>|9126.2432<br/>|13 agosto 2019<br/>|10 settembre 2019<br/>|
+|Mensile<br/>|1909<br/>|12026.20334<br/>|14 ottobre 2019<br/>|Viene rilasciata la versione 1910<br/>|
+|Semestrale (mirato)<br/>|1908<br/>|11929.20396<br/>|14 ottobre 2019<br/>|10 marzo 2020<br/>|
+|Semestrale<br/>|1902<br/>|11328.20438<br/>|8 ottobre 2019<br/>|8 settembre 2020<br/>|
+|Semestrale<br/>|1808<br/>|10730.20386<br/>|8 ottobre 2019<br/>|10 marzo 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
 Per informazioni sulle dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Office 365 ProPlus, vedere [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
-
 
 La tabella seguente fornisce un elenco di numeri di versione e build per ciascun aggiornamento a Office 365 ProPlus rilasciato nei seguenti canali di aggiornamento: mensile, semestrale (mirato) e semestrale. Ogni voce nella tabella reindirizza direttamente alle note sulle versioni di tale rilascio. Le note sulle versioni forniscono informazioni sulle funzionalità, aggiornamenti della sicurezza e non della sicurezza che sono inclusi nell'aggiornamento a Office 365 ProPlus.  
 
@@ -48,6 +46,10 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|14 ottobre|[Versione 1909 (Build 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[Versione 1908 (Build 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
+|2019|8 ottobre|[Versione 1909 (Build 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[Versione 1908 (Build 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[Versione 1902 (Build 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[Versione 1808 (Build 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|
+|2019|30 settembre|[Versione 1909 (Build 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | |
+|2019|10 settembre|[Versione 1908 (Build 11929.20300)](monthly-channel-2019.md#version-1908-september-10)|[Versione 1908 (Build 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[Versione 1902 (Build 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[Versione 1808 (Build 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
 |2019|26 agosto|[Versione 1908 (Build 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | |
 |2019|13 agosto|[Versione 1907 (Build 11901.20218)](monthly-channel-2019.md#version-1907-august-13)|[Versione 1902 (Build 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[Versione 1902 (Build 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[Versione 1808 (Build 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[Versione 1803 (Build 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
 |2019|29 luglio|[Versione 1907 (Build 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | |

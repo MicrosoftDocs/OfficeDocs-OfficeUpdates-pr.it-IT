@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: 42f7f28eb5b37681cdc5a39259230c4928e2e99b
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427686"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508861"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -23,6 +23,16 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  > [!NOTE]
 >- Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo.  Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, gli aggiornamenti a Office 365 ProPlus (e Office 365 Business) includeranno Microsoft Teams.  La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="version-1909-october-14"></a>Versione 1909: 14 ottobre
+*Versione 1909 (Build 12026.20334)*
+
+### <a name="non-security-updates"></a>Aggiornamenti non relativi alla sicurezza
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui gli utenti non potevano salvare documenti di Word, Excel e PowerPoint.  Questo problema interessa gli utenti che creano un nuovo file e visualizzano la finestra di dialogo "Salva come modello" dopo aver fatto clic sull'icona Salva o aver premuto CTRL+S.
+
 
 ## <a name="version-1909-october-08"></a>Versione 1909: 8 ottobre
 *Versione 1909 (Build 12026.20320)*

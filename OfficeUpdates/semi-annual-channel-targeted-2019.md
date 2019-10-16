@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
-ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
+ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "37437668"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508851"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -23,6 +23,25 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 > [!NOTE]
 > - Spesso le funzionalità (e talvolta persino le correzioni) vengono distribuite nel Canale semestrale (mirato) in un certo arco di tempo. Se una funzionalità descritta di seguito non è ancora disponibile, non c'è da preoccuparsi. Arriverà a breve. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams è incluso nelle nuove installazioni del Canale semestrale (mirato), a partire dalla versione 1902. Teams verrà aggiunto alle installazioni esistenti del Canale semestrale (mirato) quando queste verranno aggiornate alla versione 1908 o successiva. Per altre informazioni, vedere [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="version-1908-october-14"></a>Versione 1908: 14 ottobre
+*Versione 1908 (Build 11929.20396)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div>È stato risolto un problema nell'opzione Trova e sostituisci per cui lo stato attivo veniva spostato nella finestra di dialogo dopo l'individuazione della prima occorrenza.</div>
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui gli utenti non potevano salvare documenti di Word, Excel e PowerPoint.  Questo problema interessa gli utenti che creano un nuovo file e visualizzano la finestra di dialogo "Salva come modello" dopo aver fatto clic sull'icona Salva o aver premuto CTRL+S.
+
+- È stato risolto un problema per cui, in alcuni casi, i tasti di scelta rapida di Office scompaiono dopo un aggiornamento.  Questo aggiornamento migliora l'affidabilità durante la pubblicazione dei tasti scelta rapida di Office.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-october-08"></a>Versione 1908: 8 ottobre
 *Versione 1908 (Build 11929.20388)*
