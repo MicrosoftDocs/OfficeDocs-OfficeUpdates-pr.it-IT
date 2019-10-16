@@ -3,19 +3,19 @@ title: Note sulla versione per Office per Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/19/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
-ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
+ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2019
-ms.locfileid: "37040694"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523142"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -31,9 +31,36 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 > - A partire dal rilascio 16.17 di settembre 2018, queste note sulla versione si applicano anche a Office 2019 per Mac, che è una versione di Office per Mac disponibile come acquisto di una copia unica da un punto vendita o tramite un contratto multilicenza. Tuttavia, alcune funzionalità elencate nelle note sulla versione sono disponibili solo se si dispone di una sottoscrizione a Office 365.
 > - Le note sulla versione 16.16 e sulle versioni precedenti si applicano anche a Office 2016 per Mac, un’altra versione di Office per Mac disponibile come acquisto di una copia unica. Le versioni precedenti, fino alla versione 16.16 compresa, possono essere attivati con un contratto multilicenza di Office 2016 per Mac. Non è possibile attivare la versione 16.17 o versioni successive con un contratto multilicenza di Office 2016 per Mac. Per informazioni sulle versioni di Office 2016 per Mac da settembre in poi, vedere le [Note sulla versione di Office 2016 per Mac](release-notes-office-2016-mac.md).
 > > 
-> - Spesso le funzionalità vengono implementate (e a volte corrette) nel canale mensile per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/it-IT/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Spesso le funzionalità vengono implementate (e a volte corrette) nel canale mensile per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Nota:** le informazioni sulle versioni di Microsoft AutoUpdate (MAU) sono state spostate nella pagina [Cronologia delle versioni per Microsoft AutoUpdate (MAU)](https://docs.microsoft.com/it-IT/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="october-15-2019-release"></a>Rilascio del 15 ottobre 2019
+*Versione 16.30 (Build 19101301)*
+
+### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
+
+- **Modificare il PDF in Word:** è possibile aprire un file PDF, convertirlo in un documento di Word e modificarlo.
+### <a name="excel--feature-updates"></a>Excel: aggiornamenti delle funzionalità
+
+- **Componente aggiuntivo di Excel Visualizzatore dati di Visio:** consente di visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+
+ ### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+
+- [CVE-2019-1327](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1327): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
+- [CVE-2019-1331](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1331): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+
+- **Replay immediato:** è possibile animare un disegno a penna in modo che venga riprodotto in avanti o all'indietro durante la presentazione. [Altre informazioni](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
+)
+
+
+### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+
+- Risolti vari problemi di prestazioni.<br/><br/>
 
 ## <a name="september-18-2019-release"></a>Rilascio del 18 settembre 2019
 *Versione 16.29.1 (Build 19091700)*
