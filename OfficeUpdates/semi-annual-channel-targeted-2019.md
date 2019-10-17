@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 1416d7cfba623a37b0f206790e445b11d4be87e7
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508851"
+ms.locfileid: "37523131"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -23,6 +23,14 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 > [!NOTE]
 > - Spesso le funzionalità (e talvolta persino le correzioni) vengono distribuite nel Canale semestrale (mirato) in un certo arco di tempo. Se una funzionalità descritta di seguito non è ancora disponibile, non c'è da preoccuparsi. Arriverà a breve. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams è incluso nelle nuove installazioni del Canale semestrale (mirato), a partire dalla versione 1902. Teams verrà aggiunto alle installazioni esistenti del Canale semestrale (mirato) quando queste verranno aggiornate alla versione 1908 o successiva. Per altre informazioni, vedere [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="version-1909-october-15"></a>Versione 1909: 15 ottobre
+*Versione 1908 (Build 11929.20396)*
+
+### <a name="non-security-updates"></a>Aggiornamenti non relativi alla sicurezza
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+- Abbiamo temporaneamente disabilitato la finestra di dialogo Salva nel cloud per risolvere il problema di salvataggio pubblicato il 14 ottobre 2019. Questa funzionalità verrà riabilitata una volta trascorso il periodo di tempo della cache di 7 giorni.
 
 ## <a name="version-1908-october-14"></a>Versione 1908: 14 ottobre
 *Versione 1908 (Build 11929.20396)*
@@ -37,7 +45,7 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
 
-- È stato risolto un problema per cui gli utenti non potevano salvare documenti di Word, Excel e PowerPoint.  Questo problema interessa gli utenti che creano un nuovo file e visualizzano la finestra di dialogo "Salva come modello" dopo aver fatto clic sull'icona Salva o aver premuto CTRL+S.
+- È stato risolto un problema per cui gli utenti non potevano salvare documenti di Word, Excel e PowerPoint.  Questo problema interessa gli utenti che creano un nuovo file e visualizzano la finestra di dialogo "Salva con nome" dopo aver fatto clic sull'icona Salva o aver premuto CTRL+S.
 
 - È stato risolto un problema per cui, in alcuni casi, i tasti di scelta rapida di Office scompaiono dopo un aggiornamento.  Questo aggiornamento migliora l'affidabilità durante la pubblicazione dei tasti scelta rapida di Office.
 
