@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Sono disponibili informazioni sui problemi noti di Office 365 ProPlus
-ms.openlocfilehash: f27b398126d58c9d5eec42641a21418d943a3f64
-ms.sourcegitcommit: 4ba28e050cec1970fa1a81e79dc03bfa881780e9
+ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
+ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37520070"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37574374"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemi noti di Office 365 ProPlus
 
@@ -32,7 +32,9 @@ Questa tabella offre un riepilogo dei problemi attuali attivi e dei problemi che
 
 |Riepilogo|Applicazioni interessate|
 |:-------------------------------------------------------------------------------------|:---------------------|
-|È stato identificato un problema nell'opzione Trova e sostituisci per cui lo stato attivo viene spostato nella finestra di dialogo dopo l'individuazione della prima occorrenza. <br><br> **Stato**: In analisi|Excel<br><br>
+|È stato identificato un problema nell'opzione Trova e sostituisci per cui lo stato attivo viene spostato nella finestra di dialogo dopo l'individuazione della prima occorrenza. <br><br> **Versione con soluzione**: <br> Versione SACT 1908 (16.0.11929.20396)|Excel<br><br>
+|È stato rilevato un problema che causava un errore di autorizzazione dell’utente durante la copia di elementi dal calendario principale a un calendario di gruppo.<br><br> **Stato**: In analisi|Outlook<br><br>
+|È stato individuato un problema di prestazione in Win7 per cui la raccolta Inserisci forme sulla barra multifunzione di tutte le app richiedeva circa 4 secondi per apparire.<br><br> **Versione con soluzione**: <br>Versione mensile 1909 (16.0.12026.20264) <br> Versione SACT 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |È stato identificato un problema per cui, in alcuni casi, i tasti di scelta rapida di Office scompaiono dopo un aggiornamento.  <br><br> **Stato**: In analisi|Famiglia di prodotti Office<br><br>
 |Abbiamo identificato un problema per cui gli utenti non potevano salvare documenti di Word, Excel e PowerPoint.  Questo problema interessa gli utenti che creano un nuovo file e visualizzano la finestra di dialogo "Salva come modello" dopo aver fatto clic sull'icona Salva o aver premuto CTRL+S.<br><br> **Versione con soluzione**: <br>Versione mensile 1909 (16.0.12026.20334) <br> Versione SACT 1908 (16.0.11929.20396)|Famiglia di prodotti Office<br><br>
 |
@@ -54,7 +56,7 @@ Questa tabella offre un riepilogo dei problemi attuali attivi e dei problemi che
 |È stato identificato un problema che poteva causare la perdita di dati in sessioni che implicavano sia la creazione condivisa che la modifica offline in PowerPoint.<br><br>**Versione con soluzione**: <br>Versione mensile 1909 (16.0.12026.20264)<br>Versione SACT 1908 (16.0.11929.20370) |PowerPoint<br><br>
 |È stato identificato un problema che ha impedito la creazione di un file PDF/XPS dal menu File. <br><br>**Versione con soluzione**: <br>Versione SAC 1908 (16.0.11328.20428)|Project<br><br>
 |È stato identificato un problema che poteva influire sull'apertura di un file da parte degli utenti.<br><br>**Versione con soluzione**: <br>Versione mensile 1909 (16.0.12026.20264) <br> Versione SACT 1908 (16.0.11929.20340)|Word<br><br>
-|È stato identificato un errore relativo ai file di Office sincronizzati con il motore di sincronizzazione di OneDrive. I metadati del documento, ad esempio i requisiti Richiedi proprietà e Tipo di contenuto, non vengono più convalidati quando si fa clic su Salva e Salva con nome.<br><br>**Versione con soluzione**: <br> Versione mensile 1906 (16.0.11727.20210)<br>Versione SAC 1902 (16.0.11328.20426)|Word<br><br>
+|È stato identificato un errore relativo ai file di Office sincronizzati con il motore di sincronizzazione di OneDrive. I metadati del documento, ad esempio i requisiti Richiedi proprietà e Tipo di contenuto, non vengono più convalidati quando si fa clic su Salva e Salva con nome.<br><br>**Versione con soluzione**: <br> Versione mensile 1906 (16.0.11727.20210)<br>Versione SAC 1902 (16.0.11328.20438)|Word<br><br>
 |È stato identificato un problema per cui JAWS nelle build correnti di Windows non riproduce alcuna parola quando si usa MAIUSC+freccia DESTRA.<br><br>**Versione con soluzione**: <br>Versione mensile 1904 (16.0.11601.20144)<br>Versione SAC 1902 (16.0.11328.20438)|Word<br><br>
 |È stato identificato un problema durante il download degli aggiornamenti di Office quando si riprendono download che potrebbero essere stati interrotti in precedenza.<br><br>**Versione con soluzione**: <br> Versione SACT 1908 (16.0.11929.20380)|Famiglia di prodotti Office<br><br>
 |È stato identificato un problema per cui la notifica relativa alla richiesta di correzione dell'account non scompare dopo avere eseguito l'accesso.<br><br>**Versione con soluzione**: <br>Versione SAC 1902 (16.0.11328.20438)|Famiglia di prodotti Office<br><br>
