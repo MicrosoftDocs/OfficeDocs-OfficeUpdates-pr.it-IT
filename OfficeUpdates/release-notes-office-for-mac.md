@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
+ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523142"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37564757"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -43,11 +43,11 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 - **Modificare il PDF in Word:** è possibile aprire un file PDF, convertirlo in un documento di Word e modificarlo.
 ### <a name="excel--feature-updates"></a>Excel: aggiornamenti delle funzionalità
 
-- **Componente aggiuntivo di Excel Visualizzatore dati di Visio:** consente di visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- Risolti vari problemi di prestazioni.
 
 
 
- ### <a name="excel-security-updates"></a>Excel: aggiornamenti della sicurezza
+ ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 
 - [CVE-2019-1327](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1327): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 - [CVE-2019-1331](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1331): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
