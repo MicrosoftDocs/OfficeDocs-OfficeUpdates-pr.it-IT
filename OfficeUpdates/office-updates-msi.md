@@ -3,19 +3,19 @@ title: Ultimi aggiornamenti per le versioni di Office che utilizzano Windows Ins
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 10/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: 55d0cf2ea2c21e7774d9d2e14b496e21e4b26889
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: e3b4c53e69a575cbd8bae2c01d7172fc1ec331ab
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594495"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37424051"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Office che utilizzano Windows Installer (MSI)
 
@@ -32,23 +32,29 @@ Utilizzare i collegamenti in questa pagina per ottenere ulteriori informazioni e
 
 |**Versioni e prodotti**|**Service Pack (SP) più recente**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Aggiornamento pubblico di luglio 2019  <br/> [KB4509295](https://support.microsoft.com/help/4509295) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Aggiornamento pubblico di ottobre 2019  <br/> [KB4522242](https://support.microsoft.com/help/4522242) <br/> |
    
 ## <a name="office-2013-updates"></a>Aggiornamenti di Office 2013
 
 |**Versioni e prodotti**|**Service Pack (SP) più recente**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP 1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Aggiornamento pubblico di luglio 2019  <br/> [KB4509295](https://support.microsoft.com/help/4509295) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP 1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Aggiornamento pubblico di ottobre 2019  <br/> [KB4522242 ](https://support.microsoft.com/help/4522242 ) <br/> |
    
 ## <a name="office-2010-updates"></a>Aggiornamenti di Office 2010
 
 |**Versioni e prodotti**|**Service Pack (SP) più recente**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Famiglie di prodotti Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Server Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Prodotti SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Aggiornamento pubblico di luglio 2019  <br/> [KB4509295](https://support.microsoft.com/help/4509295) <br/>|
+|**2010** <br/> Famiglie di prodotti Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Server Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Prodotti SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Aggiornamento pubblico di ottobre 2019  <br/> [KB4522242 ](https://support.microsoft.com/help/4522242 ) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Aggiornamenti rilasciati negli ultimi 12 mesi
+
+[Aggiornamenti per la sicurezza o di altro tipo per ottobre 2019: KB4522242](https://support.microsoft.com/help/4522242)
+
+[Aggiornamenti per la sicurezza o di altro tipo per settembre 2019: KB4517986](https://support.microsoft.com/help/4517986 )
+
+[Aggiornamenti per la sicurezza o di altro tipo per agosto 2019: KB4514418](https://support.microsoft.com/help/4514418)
 
 [Aggiornamenti per la sicurezza e di altro tipo per luglio 2019: KB4509295](https://support.microsoft.com/help/4509295)
 
@@ -68,11 +74,11 @@ Utilizzare i collegamenti in questa pagina per ottenere ulteriori informazioni e
 
 [Aggiornamenti per la sicurezza o di altro tipo per novembre 2018: KB4469617](https://support.microsoft.com/help/4469617)
 
-[Aggiornamenti per la sicurezza o di altro tipo per ottobre 2018: KB4464656](https://support.microsoft.com/help/4464656)
 
-[Aggiornamenti per la sicurezza o di altro tipo per settembre 2018: KB4459402](https://support.microsoft.com/help/4459402) 
 
-[Aggiornamenti per la sicurezza o di altro tipo per agosto 2018: KB4346823](https://support.microsoft.com/help/4346823)   
+ 
+
+   
 
    
 

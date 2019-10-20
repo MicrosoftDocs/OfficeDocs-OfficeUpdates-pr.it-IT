@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Sono disponibili informazioni sui problemi noti di Office 365 ProPlus
-ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
-ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
+ms.openlocfilehash: 8872d045698d314bcd2d911df744a696cbd60c5f
+ms.sourcegitcommit: d0863aa4ffd223e663bbbf4be0182192b127795e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574374"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37593777"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemi noti di Office 365 ProPlus
 
@@ -33,6 +33,7 @@ Questa tabella offre un riepilogo dei problemi attuali attivi e dei problemi che
 |Riepilogo|Applicazioni interessate|
 |:-------------------------------------------------------------------------------------|:---------------------|
 |È stato identificato un problema nell'opzione Trova e sostituisci per cui lo stato attivo viene spostato nella finestra di dialogo dopo l'individuazione della prima occorrenza. <br><br> **Versione con soluzione**: <br> Versione SACT 1908 (16.0.11929.20396)|Excel<br><br>
+|È stato identificato un problema relativo alle prestazioni del filtro in base al colore. <br><br> **Versione con soluzione**: <br>Versione mensile 1909 (16.0.12026.20264) <br>|Excel<br><br>
 |È stato rilevato un problema che causava un errore di autorizzazione dell’utente durante la copia di elementi dal calendario principale a un calendario di gruppo.<br><br> **Stato**: In analisi|Outlook<br><br>
 |È stato individuato un problema di prestazione in Win7 per cui la raccolta Inserisci forme sulla barra multifunzione di tutte le app richiedeva circa 4 secondi per apparire.<br><br> **Versione con soluzione**: <br>Versione mensile 1909 (16.0.12026.20264) <br> Versione SACT 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |È stato identificato un problema per cui, in alcuni casi, i tasti di scelta rapida di Office scompaiono dopo un aggiornamento.  <br><br> **Stato**: In analisi|Famiglia di prodotti Office<br><br>

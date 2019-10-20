@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco delle versioni più recenti per Office 365 ProPlus per ciascun canale di aggiornamenti e collegamenti alle note sulle versioni e alla cronologia degli aggiornamenti
-ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
-ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
+ms.openlocfilehash: 4743df1d8d437972d0ec8800e2a2e232d7eda7b1
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35823955"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36444569"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
 
@@ -44,6 +44,10 @@ Per un elenco completo delle note sulle versioni per canale di aggiornamento e a
  - Semestrale (mirato): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - Semestrale: [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
+ ## <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
+ Per un elenco completo delle versioni dello Strumento di distribuzione di Office, vedere l'articolo seguente:
+ - [Cronologia delle versioni per lo Strumento di distribuzione di Office](ODT-release-history.md)
+
 ## <a name="office-for-mac-release-information"></a>Informazioni sulle versioni di Office per Mac
 
 Per informazioni sugli aggiornamenti a Office per Mac, che è incluso in qualsiasi piano di sottoscrizione di Office 365 contenente Office 365 ProPlus, vedere gli articoli seguenti:
@@ -54,7 +58,7 @@ Per informazioni sugli aggiornamenti a Office per Mac, che è incluso in qualsia
 
 ## <a name="related-topics"></a>Argomenti correlati
 
-- [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Distribuzione di Office](https://docs.microsoft.com/deployoffice/)
 - [Novità di Office 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Roadmap di Office 365](https://products.office.com/business/office-365-roadmap)
