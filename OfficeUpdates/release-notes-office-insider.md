@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
-ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
+ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37471331"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595324"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -29,6 +29,92 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
+
+## <a name="version-1911-october-18"></a>Versione 1911: 18 ottobre
+*Versione 1911 (Build 12209.20010)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Invio di messaggi accessibili a chi ne ha bisogno:** in Outlook viene visualizzato un suggerimento per i messaggi che consente di assicurarne l'accessibilità dei contenuti durante l'invio a un utente che preferisce contenuti accessibili
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Ottimizzazione della presentazione per tutti:** Verifica accessibilità consente di organizzare gli oggetti nelle diapositive tenendo in considerazione le utilità per la lettura dello schermo.
+
+### <a name="office-suite"></a>Applicazioni Office
+
+- **L'Upload Center verrà sostituito dall'esperienza File che richiedono attenzione:** l'Upload Center sarà sostituito dall'esperienza File che richiedono attenzione visualizzata all'interno delle applicazioni Office in File > Apri. Questa nuova esperienza è più moderna, integrata e meno intrusiva rispetto all'Upload Center.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>Aggiornamenti non della sicurezza
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema per cui i controlli delle caselle di controllo potevano ridursi quando veniva usato l'adattamento automatico per regolare l'altezza delle righe</span></div>
+
+
+- <div><span>È stato risolto un problema per cui selezionare una cella dopo lo scorrimento poteva comportare la selezione della cella sbagliata</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>È stato rilevato un problema che causava il danneggiamento della firma digitale quando si firmava un messaggio di posta elettronica con un allegato con firma digitale</span></div>
+
+
+- <div><span>È stato rilevato un problema per cui i nomi file lunghi venivano troncati dopo il trascinamento e il rilascio nel corpo del messaggio</span></div>
+
+
+- <div>È stato rilevato un problema per cui la casella di ricerca spariva quando la barra multifunzione era impostata su Nascondi automaticamente</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">È stato rilevato un problema per cui le proporzioni dell'anteprima delle presentazioni non venivano bloccate/sbloccate correttamente</span>
+
+
+### <a name="security"></a>Sicurezza
+
+- <div><span>È stato rilevato un problema per cui un messaggio di benvenuto conteneva un collegamento non valido</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div>È stato rilevato un problema per cui le note venivano cancellate se aggiunte durante operazioni di aggiornamento<br></div>
+
+
+- <div>È stato rilevato un problema per cui un file poteva venire bloccato da un utente, ma nel messaggio di errore non veniva visualizzato alcun nome utente</div>
+
+
+- <div><span>È stato rilevato un problema per cui gli utenti visualizzavano diversi messaggi quando aprivano un progetto di sola lettura</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>È stato rilevato un problema durante la visualizzazione dei commenti con un'utilità per la lettura dello schermo</span></div>
+
+
+- <div><span>È stato rilevato un problema per cui alcune critiche venivano identificate come errori di ortografia o grammatica</span></div>
+
+
+- <div><span>È stato rilevato un problema per cui una nuova finestra di dialogo commento poteva non ottenere lo stato attivo</span></div>
+
+
+### <a name="office-suite"></a>Applicazioni Office
+
+- <div><span>È stato risolto un problema per cui un aggiornamento potrebbe essere impedito da un messaggio errato di errore di &quot;un'altra installazione in corso&quot;</span></div>
+
+- <div><span>È stato rilevato problema che poteva influire sulla sincronizzazione di una risorsa locale con una risorsa cloud</span></div>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-october-11"></a>Versione 1910: 11 ottobre
 *Versione 1910 (Build 12130.20112)*
