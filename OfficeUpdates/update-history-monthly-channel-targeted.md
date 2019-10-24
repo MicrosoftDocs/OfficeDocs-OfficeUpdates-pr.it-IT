@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 830179b4afed238c40bccaaa22d873cac227915a
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: cddcd92805a9abeeb0ab31fe2822a251335ef87f
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508881"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644137"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -34,13 +34,16 @@ Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come In
 
 [//]: # (NON RIMUOVERE)
 
+**22 ottobre 2019**<br/>
+Versione 1910 (Build 12130,20210)<br/>
+
 **14 ottobre 2019**<br/>
 Versione 1910 (Build 12130,20184)<br/>
 
 **14 ottobre 2019**<br/>
 Versione 1910 (Build 12130,20178)<br/>
 
-**2019 ottobre 08**<br/>
+**8 ottobre 2019**<br/>
 Versione 1909 (Build 12026.20320)<br/>
 
 **28 settembre 2019**<br/>
@@ -174,8 +177,7 @@ Versione 1903 (Build 11425.20204)<br/>
 **Office Insider su Twitter**<br/> Su @OfficeInsider vengono pubblicati frequentemente post su versioni Insider e vengono ospitati eventi speciali per gli utenti di Insider.<br/> 
 [Seguici su Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![Immagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
