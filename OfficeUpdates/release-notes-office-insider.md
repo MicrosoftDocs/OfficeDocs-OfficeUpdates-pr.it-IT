@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
+ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595324"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37653439"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -78,13 +78,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">È stato rilevato un problema per cui le proporzioni dell'anteprima delle presentazioni non venivano bloccate/sbloccate correttamente</span>
-
-
-### <a name="security"></a>Sicurezza
-
-- <div><span>È stato rilevato un problema per cui un messaggio di benvenuto conteneva un collegamento non valido</span></div>
-
+- <div><span>È stato rilevato un problema per cui le proporzioni dell'anteprima delle diapositive non venivano bloccate/sbloccate correttamente</span></div>
 
 ### <a name="project"></a>Project
 
@@ -113,6 +107,9 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 - <div><span>È stato risolto un problema per cui un aggiornamento potrebbe essere impedito da un messaggio errato di errore di &quot;un'altra installazione in corso&quot;</span></div>
 
 - <div><span>È stato rilevato problema che poteva influire sulla sincronizzazione di una risorsa locale con una risorsa cloud</span></div>
+
+- <div><span>È stato rilevato un problema per cui un messaggio di benvenuto conteneva un collegamento non valido</span></div>
+
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 

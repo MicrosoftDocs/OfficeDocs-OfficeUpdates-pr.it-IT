@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: f7555a84f2e95d03eec5d438678deb69a186a464
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 8a335b131dae72d251d409aa15c413dd58bff91c
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508871"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644177"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
@@ -22,7 +22,7 @@ Office 365 ProPlus viene aggiornato regolarmente con nuove funzionalità, aggior
 
 > [!NOTE]
 > - Questi numeri di versione e build si applicano anche a Office 365 Business, Visio Pro per Office 365 e Project Online Desktop Client. Office 365 Business è la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.
-> - La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima. 
+> - La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima.
 > - Per ulteriori informazioni sui canali di aggiornamento, vedere [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 Nella tabella seguente viene elencata la versione supportata e il numero di build più recente per ogni canale di aggiornamento.
@@ -31,7 +31,7 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile<br/>|1909<br/>|12026.20334<br/>|14 ottobre 2019<br/>|Viene rilasciata la versione 1910<br/>|
+|Mensile<br/>|1909<br/>|12026.20344<br/>|22 ottobre 2019<br/>|Viene rilasciata la versione 1910<br/>|
 |Semestrale (mirato)<br/>|1908<br/>|11929.20396<br/>|14 ottobre 2019<br/>|10 marzo 2020<br/>|
 |Semestrale<br/>|1902<br/>|11328.20438<br/>|8 ottobre 2019<br/>|8 settembre 2020<br/>|
 |Semestrale<br/>|1808<br/>|10730.20386<br/>|8 ottobre 2019<br/>|10 marzo 2020<br/>|
@@ -46,6 +46,7 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|22 ottobre|[Versione 1909 (Build 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | |
 |2019|14 ottobre|[Versione 1909 (Build 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[Versione 1908 (Build 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019|8 ottobre|[Versione 1909 (Build 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[Versione 1908 (Build 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[Versione 1902 (Build 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[Versione 1808 (Build 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|
 |2019|30 settembre|[Versione 1909 (Build 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | |
