@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
-ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
+ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37653439"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733010"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -29,6 +29,97 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
+
+## <a name="version-1911-october-25"></a>Versione 1911: 25 ottobre
+*Versione 1911 (Build 12215.20006)*
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="visio"></a>Visio
+
+- **Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Miglioramenti apportati alla creazione condivisa:** l'esperienza di creazione condivisa è stata migliorata aumentando la probabilità che gli altri utenti ricevano in tempo reale le modifiche apportate al contenuto.
+
+- **Visualizzazione rapida delle modifiche di altri utenti:** grazie ai miglioramenti della creazione condivisa, i collaboratori possono visualizzare le modifiche ancor più velocemente.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- <div><span>Il conteggio record potrebbe non essere corretto</span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div><span>Sono state notevolmente migliorate le prestazioni di eliminazione delle colonne con celle unite</span></div>
+
+
+- <div><span>Era possibile che gli utenti non riuscissero a salvare in formato cartella di lavoro Excel in Office 365</span></div>
+
+
+- <div><span>Le caselle di controllo non venivano eseguite correttamente</span></div>
+
+
+- <div><span>Non era possibile salvare le modifiche apportate alle dimensioni di un grafico</span></div>
+
+
+- <div><span>Alcune funzioni VBA restituivano un errore nei nuovi tipi di grafico</span></div>
+
+
+- <div><span>Alcune finestre di dialogo delle origini dati non facevano distinzione tra maiuscole e minuscole per alcuni campi</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Non era possibile salvare le modifiche apportate alle dimensioni di un grafico</span></div>
+
+
+### <a name="publisher"></a>Publisher
+
+- <div><span>Le forme potevano essere visualizzate fuori dal bordo dell'elemento grafico</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Le forme potevano essere visualizzate fuori dal bordo dell'elemento grafico</span></div>
+
+
+- <div><span>Evidenziare il testo poteva risultare problematico</span></div>
+
+
+- <div><span>Poteva non essere possibile passare a un singolo elemento nell'editor</span></div>
+
+
+- <div><span>Alcuni errori grammaticali o ortografici potevano non essere segnalati</span></div>
+
+
+- <div><span>Non era possibile salvare le modifiche apportate alle dimensioni di un grafico</span></div>
+
+
+- <div><span>Poteva risultare impossibile aprire una scheda contatto dopo aver applicato la formattazione a una @menzione</span></div>
+
+
+- <div><span>È stato risolto un problema per cui può non essere possibile salvare documenti Word, Excel e PowerPoint.&nbsp; Questo problema interessa gli utenti che creano un nuovo file e visualizzano la finestra di dialogo &quot;Salva come modello&quot; dopo aver fatto clic sull'icona Salva o aver premuto CTRL+S.</span></div>
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div><span>Problema di prestazioni correlato all'uso delle forme in Windows 7</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1911-october-18"></a>Versione 1911: 18 ottobre
 *Versione 1911 (Build 12209.20010)*
