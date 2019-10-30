@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 64ecf80779831fc0f036e37e30436b0d47e7938a
-ms.sourcegitcommit: 23ba33ee213c0321adcffd12fea37e6fd119a40a
+ms.openlocfilehash: b094b6a52b72a1eb0ab37231aa43a7d4b42283c5
+ms.sourcegitcommit: 0d87cddebea5866c31827bb1dd7636c1743deb73
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37663632"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37772559"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -34,8 +34,11 @@ Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come In
 
 [//]: # (NON RIMUOVERE)
 
+**2019 ottobre 28**<br/>
+Versione 1910 (Build 12130,20272)<br/>
+
 **24 ottobre 2019**<br/>
-Versione 1910 (Build 12130,20238)<br/>
+Versione 1910 (Build 12130.20238)<br/>
 
 **22 ottobre 2019**<br/>
 Versione 1910 (Build 12130,20210)<br/>
