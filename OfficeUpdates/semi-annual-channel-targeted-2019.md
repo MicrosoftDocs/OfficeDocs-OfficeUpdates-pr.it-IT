@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37732994"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890035"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -131,8 +131,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 - **Avere un momento di respiro tra una riunione e l'altra:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che terminino per impostazione predefinita 5-10 minuti in anticipo.
 
 - **Utilizzo di meme:** quando testo o immagini statiche non bastano, si può usare una GIF animata per esprimere il proprio pensiero. [Altre informazioni](https://support.office.com/it-IT/article/114bb251-861f-41cd-b20f-7e7289630c5b)
-
-- **Impostazioni di Posta in arrivo evidenziata invariate nei vari dispositivi:** le preferenze della Posta in arrivo evidenziata vengono archiviate nel cloud. È quindi ora possibile usufruire della stessa esperienza quando si usa Outlook per Windows in qualsiasi computer e in Outlook sul web. [Altre informazioni](https://support.office.com/it-IT/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **Aggiornamento dell'esperienza utente di Outlook:** è finalmente accessibile a tutti un'esperienza semplificata, in precedenza disponibile in anteprima con Prossimamente, progettata per consentire all'utente di concentrarsi sugli aspetti più importanti. [Altre informazioni](https://support.office.com/it-IT/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
