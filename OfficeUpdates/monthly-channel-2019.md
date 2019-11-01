@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644187"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890025"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -23,6 +23,55 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
  > [!NOTE]
 >- Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo.  Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, gli aggiornamenti a Office 365 ProPlus (e Office 365 Business) includeranno Microsoft Teams.  La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="version-1910-october-30"></a>Versione 1910: 30 ottobre
+*Versione 1910 (Build 12130.20272)*
+* Diverse correzioni di bug e miglioramenti delle prestazioni.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+
+
+### <a name="excel"></a>Excel
+
+- **Creare PDF più accessibili:** quando si crea un file PDF, la funzione Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare. [Altre informazioni](https://support.office.com/it-IT/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
+
+- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+
+### <a name="outlook"></a>Outlook
+
+- **Viene ricevuta una richiesta di aggiornamento di Outlook dopo un errore:** quando Outlook rileva un errore che viene risolto in una versione successiva, chiede ai clienti di eseguire l'aggiornamento e la ricezione della correzione
+
+- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Creare PDF più accessibili:** quando si crea un file PDF, la funzione Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare. [Altre informazioni](https://support.office.com/it-IT/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
+
+- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+
+### <a name="word"></a>Word
+
+- **Miglioramenti alla creazione condivisa**: prestazioni migliorate per la creazione condivisa nei documenti di Word con revisioni.
+
+- **Creare PDF più accessibili:** quando si crea un file PDF, la funzione Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare. [Altre informazioni](https://support.office.com/it-IT/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
+
+- **È stato risolto un problema di danneggiamento di un documento causato dall'unione di oggetti 3D.** È stato risolto un problema di danneggiamento di un documento causato dall'unione di oggetti 3D.
+
+- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- **Installare Microsoft Teams in installazioni esistenti di Office 365 ProPlus: ** a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a Distribuire Microsoft Teams con Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/deployoffice/teams-install)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-1909-october-22"></a>Versione 1909: 22 ottobre
 *Versione 1909 (Build 12026.20344)*
