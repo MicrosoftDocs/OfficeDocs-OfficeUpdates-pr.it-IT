@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: 1622ddf9a89767c2d0e456737362eecf4123b3fd
-ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
+ms.openlocfilehash: 65dbad6110d38fd98fb7b6df94c2a54df2f89459
+ms.sourcegitcommit: 6570d42ebb04c11b9aa40dac7825ae8da9694e10
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275487"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37902402"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -28,6 +28,14 @@ Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È
  **Istruzioni di installazione**: scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="october-31-2019"></a>31 ottobre 2019
+
+Versione 16.0.12130.20272
+- Risolve un problema per consentire l'installazione di Skype for Business Basic 2019 con prodotti con contratto multilicenza enterprise perpetua 2019
+- Risolve un problema che può causare l'interruzione imprevista della modalità di download ODT in determinate circostanze quando viene usato un proxy
+- Nuova funzionalità che consente il download nella modalità di download ODT tramite HTTP usando una porta diversa dalla porta 80
 
 
 ## <a name="july-10-2019"></a>10 luglio 2019
