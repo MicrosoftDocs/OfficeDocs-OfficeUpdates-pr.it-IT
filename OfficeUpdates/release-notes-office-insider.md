@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
+ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733010"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37931910"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -29,6 +29,132 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
+
+## <a name="version-1911-november-01"></a>Versione 1911: 1° novembre
+*Versione 1911 (Build 12228.20020)*
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office
+
+- **Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office
+
+- **Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.
+
+### <a name="visio"></a>Visio
+
+- **Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.
+
+- **Miglioramenti apportati alla creazione condivisa:** l'esperienza di creazione condivisa è stata migliorata, aumentando la probabilità che gli altri utenti ricevano in tempo reale le modifiche apportate al contenuto.
+
+- **Visualizzazione rapida delle modifiche di altri utenti:** grazie ai miglioramenti della creazione condivisa, i collaboratori possono visualizzare le modifiche ancor più velocemente.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- <div><span>È stato risolto un problema che poteva causare l'arresto anomalo di Excel durante la modifica di un file protetto da una condivisione di rete non attendibile</span></div>
+
+
+- <div>È stato risolto un problema per cui l'eliminazione di fogli contenenti grafici sparkline che fanno riferimento a un altro foglio poteva far sì che il file venisse identificato come corrotto in fase di riapertura.</div>
+
+
+- <div>È stato risolto un problema per cui potevano essere ottenuti risultati non corretti durante la conversione di filtri rapporto con il resto della Tabella pivot per le query ai server tabulari SQL.</span></div>
+
+
+- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
+
+
+- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Un messaggio di posta elettronica inoltrato potrebbe essere privo di immagini incorporate</div>
+
+
+- <div><span>Lo strumento Ricerca sala potrebbe mostrare &quot;Nessuna&quot; per le sale disponibili</span></div>
+
+
+- <div><span>Gli utenti potrebbero non riuscire a creare profili di Outlook con restrizioni rigorose del tenant</div></span>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>L'utente non è in grado di contrassegnare un'attività come completata e tale attività viene impostata su 99%</span></div>
+
+
+- <div>Le sovrassegnazioni non vengono risolte dal livellamento</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
+
+
+- <div><span>L'apertura di documenti legacy e il successivo passaggio alla scheda Informazioni può causare un arresto anomalo</span></div>
+
+
+- <div><span>I suggerimenti degli strumenti di correzione non vengono visualizzati nei menu di scelta rapida</span></div>
+
+
+- <div><span>I criteri di contenuto vengono applicati ai commenti in modo errato</span></div>
+
+
+- <div><span>I commenti legacy scritti con testo scuro non sono visibili in modalità scura</span></div>
+
+
+- <div><span>Potrebbero essere visualizzati dei caratteri errati quando si usa la correzione automatica coreano/inglese</span></div>
+
+
+- <div><span>Potrebbero essere applicate etichette criteri inferiori quando dovrebbe avere la priorità un'etichetta criteri di livello superiore</div></span>
+
+
+- <div><span>I collegamenti di immagini cid: dai messaggi di Outlook&nbsp;ora possono essere interrotti quando richiesto.</div></span>
+
+
+- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
+
+
+- <div><span>La ricerca dal riquadro di spostamento potrebbe non riuscire</span></div>
+
+
+### <a name="office-suite"></a>Applicazioni Office
+
+- <div><span>Alcuni disegni potrebbero non essere visualizzati in anteprima o nelle presentazioni</span></div>
+
+
+- <div><span>Alcuni caratteri katakana potrebbero non essere visualizzati correttamente in una casella di testo verticale</span></div>
+
+
+- <div>Se si tenta di salvare un file in una condivisione di rete disconnessa, potrebbe verificarsi un arresto anomalo</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1911-october-25"></a>Versione 1911: 25 ottobre
 *Versione 1911 (Build 12215.20006)*

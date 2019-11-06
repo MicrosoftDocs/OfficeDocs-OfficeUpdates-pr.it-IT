@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 12534eb79781d02ff630097794273fd27fcc51dc
+ms.sourcegitcommit: 22e6c32930facc482cd61e5d2dcf00728e112806
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890025"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37929643"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -40,13 +40,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
 
-- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+- **Applicare etichette di riservatezza ai documenti e ai messaggi di posta elettronica:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione. [Altre informazioni](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
 
 - **Viene ricevuta una richiesta di aggiornamento di Outlook dopo un errore:** quando Outlook rileva un errore che viene risolto in una versione successiva, chiede ai clienti di eseguire l'aggiornamento e la ricezione della correzione
 
-- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+- **Applicare etichette di riservatezza ai documenti e ai messaggi di posta elettronica:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione. [Altre informazioni](https://aka.ms/officemipdocs)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -54,7 +54,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
 
-- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+- **Applicare etichette di riservatezza ai documenti e ai messaggi di posta elettronica:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione. [Altre informazioni](https://aka.ms/officemipdocs)
 
 ### <a name="word"></a>Word
 
@@ -66,7 +66,8 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - **È stato risolto un problema di danneggiamento di un documento causato dall'unione di oggetti 3D.** È stato risolto un problema di danneggiamento di un documento causato dall'unione di oggetti 3D.
 
-- **Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.
+- **Applicare etichette di riservatezza ai documenti e ai messaggi di posta elettronica:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione. [Altre informazioni](https://aka.ms/officemipdocs)
+
 ### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - **Installare Microsoft Teams in installazioni esistenti di Office 365 ProPlus: ** a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a Distribuire Microsoft Teams con Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/deployoffice/teams-install)
