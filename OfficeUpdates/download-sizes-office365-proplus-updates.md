@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 4fd321cdbdaffb3b8e9407d4db4c9106c1bc64c9
-ms.sourcegitcommit: 5659a229b4a2e3bf3ba2f047565ab238e3bb398f
+ms.openlocfilehash: 9aed6048b81cf6e4bfd750875b8bc7608e0a251e
+ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37887088"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37993711"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="november-5-2019"></a>5 novembre 2019
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+
+### <a name="semi-annual-channel"></a>Canale semestrale
+
+<i>La versione prevista è la numero 1902 (Build 11328.20468).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1902 (Build 11328.20438) <br/> |8 ottobre 2019 <br/> |69<br/> |
+|Versione 1902 (Build 11328.20420) <br/> |10 settembre 2019 <br/> |70<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canale semestrale (mirato)
+
+<i>La versione prevista è la numero 1908 (Build 11929.20436).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1908 (Build 11929.20396) <br/> |14 ottobre 2019 <br/> |64<br/> |
+|Versione 1908 (Build 11929.20388) <br/> |8 ottobre 2019 <br/> |66<br/> |
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DELLA PREVISIONE)
 
 ## <a name="october-30-2019"></a>30 Ottobre 2019
 

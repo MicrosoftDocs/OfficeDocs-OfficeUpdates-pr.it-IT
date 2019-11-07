@@ -3,19 +3,19 @@ title: Ultimi aggiornamenti non relativi alla sicurezza per le versioni di Offic
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/02/2019
+ms.date: 11/06/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti non relativi alla sicurezza delle versioni con licenza perpetua di Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: 59b615d4abf9e6af5dd69d242900648f659992b5
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: dfb3e62d922774dce989bc6fadca93e1b80bc126
+ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37342769"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37993701"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Ultimi aggiornamenti non relativi alla sicurezza per le versioni di Office che usano Windows Installer (MSI)
 
@@ -26,6 +26,19 @@ Questa pagina elenca gli aggiornamenti non relativi alla sicurezza per Office, c
 > - Le informazioni contenute in questo articolo non si applicano alle versioni Office 365, ad esempio Office 365 ProPlus.
 > - Per ulteriori informazioni sull'installazione degli aggiornamenti di Office, vedere [Installare gli aggiornamenti di Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="november-5-2019"></a>5 novembre 2019
+
+**Office 2016**<br/>
+Aggiornamento per Microsoft Access 2016 ([KB4475539](https://support.microsoft.com/help/4475539)) <br/>
+Aggiornamento per Microsoft Office 2016 ([KB4484138](https://support.microsoft.com/help/4484138)) <br/>
+Aggiornamento per Microsoft Office 2016 ([KB4484137](https://support.microsoft.com/help/4484137)) <br/>
+Aggiornamento per Microsoft Office 2016 ([KB4475588](https://support.microsoft.com/help/4475588)) <br/>
+Aggiornamento per Microsoft Office 2016 ([KB4475552](https://support.microsoft.com/help/4475552)) <br/>
+Aggiornamento per Microsoft Office 2016 ([KB4484145](https://support.microsoft.com/help/4484145)) <br/>
+Aggiornamento per Microsoft Outlook 2016 ([KB4484139](https://support.microsoft.com/help/4484139)) <br/>
+Aggiornamento per Microsoft PowerPoint 2016 ([KB4484134](https://support.microsoft.com/help/4484134)) <br/>
+Aggiornamento per Microsoft Word 2016 ([KB4484135](https://support.microsoft.com/help/4484135)) <br/>
 
 ## <a name="october-1-2019"></a>1 ottobre 2019
 
@@ -118,29 +131,3 @@ Aggiornamento per Skype for Business 2016  ([KB4464576](https://support.microsof
 **Office 2013**<br/>
 Aggiornamento per Skype for Business 2015  ([KB4464593](https://support.microsoft.com/help/4464593))<br/>
 <br/>
-## <a name="may-7-2019"></a>7 maggio 2019
-
-**Office 2016**<br/>
-Aggiornamento per Microsoft Excel 2016 ([KB4464550](https://support.microsoft.com/help/4464550))<br/>
-Aggiornamento per Microsoft Office 2016 ([KB2920717](https://support.microsoft.com/help/2920717))<br/>
-Aggiornamento per Microsoft Office 2016 ([KB4461441](https://support.microsoft.com/help/4461441))<br/>
-Aggiornamento per Microsoft Office 2016 ([KB4461477](https://support.microsoft.com/help/4461477))<br/>
-Aggiornamento per Microsoft Office 2016 ([KB4462119](https://support.microsoft.com/help/4462119))<br/>
-Aggiornamento per Microsoft Office 2016 ([KB4462243](https://support.microsoft.com/help/4462243))<br/>
-Aggiornamento per Microsoft Office 2016 ([KB4464538](https://support.microsoft.com/help/4464538))<br/>
-Aggiornamento per Microsoft Office 2016 ([KB4464552](https://support.microsoft.com/help/4464552))<br/>
-Aggiornamento per Microsoft Office 2016 Language Interface Pack ([KB4464537](https://support.microsoft.com/help/4464537))<br/>
-Aggiornamento per Microsoft Outlook 2016 ([KB4464540](https://support.microsoft.com/help/4464540))<br/>
-Aggiornamento per Microsoft PowerPoint 2016 ([KB4464533](https://support.microsoft.com/help/4464533))<br/>
-Aggiornamento per Microsoft Project 2016 ([KB4464541](https://support.microsoft.com/help/4464541))<br/>
-Aggiornamento per Microsoft Visio 2016 ([KB4462113](https://support.microsoft.com/help/4462113))<br/>
-Aggiornamento per Skype for Business 2016 ([KB4464532](https://support.microsoft.com/help/4464532))<br/>
-
-**Office 2013**<br/>
-Aggiornamento per Microsoft Office 2013 ([KB4011677](https://support.microsoft.com/help/4011677))<br/>
-Aggiornamento per Microsoft Outlook 2013 ([KB4464546](https://support.microsoft.com/help/4464546))<br/>
-Aggiornamento per Microsoft Word 2013 ([KB4464545](https://support.microsoft.com/help/4464545))<br/>
-Aggiornamento per Skype for Business 2015 ([KB4464547](https://support.microsoft.com/help/4464547))<br/>
-
-**Office 2010**<br/>
-Aggiornamento per Microsoft Outlook 2010 ([KB4464524](https://support.microsoft.com/help/4464524))
