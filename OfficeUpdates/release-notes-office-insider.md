@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
-ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
+ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
+ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2019
-ms.locfileid: "37931910"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076420"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -29,6 +29,42 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
+
+## <a name="version-1912-november-08"></a>Versione 1912: 8 novembre
+*Versione 1912 (Build 12231.20000)*
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="user-lifecycle"></a>Ciclo di vita degli utenti
+
+- **Miglioramenti dell'esperienza utente per l'attivazione AFO:** aggiornamenti delle schermate che vengono visualizzate quando si attiva Office fornito con il nuovo PC
+
+### <a name="word"></a>Word
+
+- **Esperienza video online nuova e migliorata in Word :** esperienza video online nuova e più sicura, consente di inserire nuovi video e di riprodurre video esistenti in Word
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- <div><span>Arresto anomalo intermittente associato al recupero di contenuto delle cartelle</span></div>
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- <div><span>L'incollamento di un grafico da Excel a PowerPoint che riduceva le dimensioni del grafico</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1911-november-01"></a>Versione 1911: 1° novembre
 *Versione 1911 (Build 12228.20020)*
