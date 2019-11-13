@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: b094b6a52b72a1eb0ab37231aa43a7d4b42283c5
-ms.sourcegitcommit: 0d87cddebea5866c31827bb1dd7636c1743deb73
+ms.openlocfilehash: 70e61e0157e1fa50194801b5ba43fe54245fa1f7
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37772559"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289856"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -27,15 +27,16 @@ Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come In
 
 > [!NOTE]
 > - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
-> - Le note sulla versione vengono aggiornate con minore frequenza e gli aggiornamenti per più build possono essere combinati fino al numero di build per cui vengono pubblicate le note sulla versione
-
- > [!NOTE]
+> - Le note sulla versione vengono aggiornate con minore frequenza e gli aggiornamenti per più build possono essere combinati fino al numero di build per cui vengono pubblicate le note sulla versione.
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
 
+**12 novembre 2019**<br/>
+Versione 1911 (Build 12228,20120)<br/>
+
 **2019 ottobre 28**<br/>
-Versione 1910 (Build 12130,20272)<br/>
+Versione 1910 (Build 12130.20272)<br/>
 
 **24 ottobre 2019**<br/>
 Versione 1910 (Build 12130.20238)<br/>
