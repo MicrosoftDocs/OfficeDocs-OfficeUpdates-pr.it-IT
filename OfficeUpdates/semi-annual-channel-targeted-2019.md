@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890035"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289836"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -23,6 +23,57 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 > [!NOTE]
 > - Spesso le funzionalità (e talvolta persino le correzioni) vengono distribuite nel Canale semestrale (mirato) in un certo arco di tempo. Se una funzionalità descritta di seguito non è ancora disponibile, non c'è da preoccuparsi. Arriverà a breve. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams è incluso nelle nuove installazioni del Canale semestrale (mirato), a partire dalla versione 1902. Teams verrà aggiunto alle installazioni esistenti del Canale semestrale (mirato) quando queste verranno aggiornate alla versione 1908 o successiva. Per altre informazioni, vedere [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+
+## <a name="version-1908-november-12"></a>Versione 1908: 12 novembre
+*Versione 1908 (Build 11929.20436)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+
+### <a name="excel"></a>Excel
+
+- Correzione per risolvere un problema relativo ai colori usati nelle anteprime quando si inseriscono grafici usando modelli di grafico.
+- È stato risolto un problema che poteva causare il rendering non corretto dei grafici a linee o a dispersione modificando la raccolta serie.
+- È stato risolto un problema che causava interruzioni della creazione condivisa quando si modificavano le proprietà personalizzate durante l'esecuzione delle macro.
+- È stato risolto un problema di prestazioni relativo alle funzioni asincrone definite dall'utente che causava l'esecuzione sincrona di tali funzioni.
+- Sono state notevolmente migliorate le prestazioni del filtro per colore.
+- È stato risolto un problema per cui le cartelle di lavoro create in versioni precedenti di Office potevano causare il blocco di Excel se aperte nelle versioni correnti di Office.
+- I collegamenti di immagini cid: dai messaggi di Outlook ora possono essere interrotti quando richiesto.
+
+### <a name="outlook"></a>Outlook
+
+- I collegamenti di immagini cid: dai messaggi di Outlook ora possono essere interrotti quando richiesto.
+- È stato risolto un problema che causava un errore di autorizzazione degli utenti durante la copia di elementi dal calendario principale a un calendario di gruppo.
+- È stato risolto un problema che causava una perdita di memoria in caso di sessioni di Outlook molto lunghe.
+- È stato risolto un problema che causava un errore di Outlook durante l'interazione con determinati collegamenti sicuri.
+- È stato risolto un problema che causava un errore durante l'elaborazione delle risposte del servizio di individuazione automatica.
+- È stato risolto un problema per cui venivano visualizzate cartelle speciali duplicate create durante l'aggiunta di un account di Exchange secondario.
+- È stato risolto un problema che causava il blocco dell'esperienza di Feedback sulla ricerca.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- I collegamenti di immagini cid: dai messaggi di Outlook ora possono essere interrotti quando richiesto.</div>
+- Correzione per l'affidabilità: è stato risolto un problema per cui il componente aggiuntivo di terze parti causava un errore in PowerPoint.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui il comando Livella tutto non risolveva adeguatamente una sovrassegnazione delle risorse.
+- È stato risolto un problema per cui in caso di un'assegnazione con nessun lavoro su un'attività, non era possibile contrassegnare l'attività come completata e veniva visualizzata sempre al 99% del completamento.
+- È stato rilevato un problema per cui gli utenti visualizzavano diversi messaggi quando aprivano un progetto di sola lettura.
+
+### <a name="word"></a>Word
+
+- I collegamenti di immagini cid: dai messaggi di Outlook ora possono essere interrotti quando richiesto.
+- Sono stati risolti diversi problemi che causavano il blocco dell'app durante la chiusura. Sono stati risolti anche alcuni problemi correlati ai componenti aggiuntivi.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Sono stati risolti dei problemi relativi alla proprietà di adattamento automatico della Casella di testo/Forma nei plug-in di terze parti.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="october-15"></a>15 ottobre
 
