@@ -29,6 +29,7 @@
 ### [Cronologia degli aggiornamenti per il canale Insider](update-history-office-insider.md)
 ### [Cronologia degli aggiornamenti per il canale mensile (mirato)](update-history-monthly-channel-targeted.md)
 ###[Note sulla versione per il canale Insider](release-notes-office-insider.md)
+### [Note sulla versione per il Canale mensile (mirato)](release-notes-monthly-channel-targeted.md)
 
 ## [Cronologia delle versioni per ODT](ODT-release-history.md)
 
