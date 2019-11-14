@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulla versione gli aggiornamenti della sicurezza di Office 365 ProPlus
-ms.openlocfilehash: 3aba613d5ecbe9bf2b9c2de29e4356248980db89
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 76e51f729663364d3c1ff68ba0c9a4c1ad5bd20c
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424061"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289664"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Note sulla versione per gli aggiornamenti della sicurezza di Office 365 ProPlus
 
@@ -25,6 +25,22 @@ Le note sulla versione forniscono informazioni sulle correzioni per la sicurezza
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.  
 
 [//]: # (NON ELIMINARE LA RIGA SOPRA, viene usata per la spaziatura)  
+
+## <a name="november-12-2019"></a>12 novembre 2019
+Canale mensile: versione 1910 (Build 12130.20344)  
+Canale semestrale (mirato): versione 1908 (Build 11929.20436)  
+Canale semestrale: versione 1902 (Build 11328.20468)  
+Canale semestrale: versione 1808 (Build 10730.20416)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1448](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1448)
+-   [CVE-2019-1446](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1446)
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+-   [CVE-2019-1449](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1449)
+-   [CVE-2019-1402](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1402)
 
 ## <a name="october-08-2019"></a>8 ottobre 2019
 Canale mensile: versione 1909 (Build 12026.20320)  

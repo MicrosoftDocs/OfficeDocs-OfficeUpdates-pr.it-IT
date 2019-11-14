@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
-ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
+ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37453586"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289816"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -23,6 +23,57 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 > [!NOTE]
 > - Spesso le funzionalità (e talvolta persino le correzioni) vengono distribuite nel Canale semestrale in un certo arco di tempo. Se una funzionalità descritta di seguito non è ancora disponibile, non c'è da preoccuparsi. Arriverà a breve. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 non sarà incluso per impostazione predefinita quando un utente del canale semestrale scarica e installa Office 365 in Windows 10 dal portale di Office.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1902-november-12"></a>Versione 1902: 12 novembre
+*Versione 1902 (Build 11328.20468)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che causava ritardi nella visualizzazione dei valori digitati dopo l'eliminazione di un intervallo.
+- È stato risolto un problema per cui le cartelle di lavoro create in versioni precedenti di Office potevano causare il blocco di Excel se aperte nelle versioni correnti di Office.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava perdite di memoria quando erano abilitate le notifiche di tipo avviso popup.
+- È stato risolto un problema che causava perdite di memoria in Outlook.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correzione per l'affidabilità: risolto un problema per cui il componente aggiuntivo di terze parti causava un errore in PowerPoint.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema di prestazioni in Windows 7 per cui la raccolta Inserisci forme sulla barra multifunzione in tutte le app veniva visualizzata dopo circa 4 secondi.
+- È stato risolto un problema per cui i collegamenti del menu Start e le estensioni dei file di Office scomparivano inaspettatamente dopo un aggiornamento.
+- Per proteggere la sicurezza dei clienti di Office, gli aggiornamenti di Microsoft Office sono ora firmati esclusivamente con l'algoritmo SHA-2.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1808-november-12"></a>Versione 1808: 12 novembre
+*Versione 1808 (Build 10730.20416)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la perdita dei dati con l'opzione "Posta da mantenere offline" impostata su un valore diverso da "Tutta" quando si spostavano gli elementi all'esterno della finestra di sincronizzazione da un archivio locale a una cassetta postale di Exchange Online.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Per proteggere la sicurezza dei clienti di Office, gli aggiornamenti di Microsoft Office sono ora firmati esclusivamente con l'algoritmo SHA-2.
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 

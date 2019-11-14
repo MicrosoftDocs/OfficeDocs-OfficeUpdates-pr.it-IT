@@ -3,19 +3,19 @@ title: Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows In
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Outlook 2016, Outlook 2013, e Outlook 2010
-ms.openlocfilehash: 5fcb6c3015de755fec1775415dff93994f683d25
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 1c17cbf662737c4e45f7ff13336e7fba770f66d1
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424021"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289674"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows Installer (MSI)
 
@@ -44,7 +44,7 @@ La compatibilità di Outlook con Office 365 e con l'ambiente locale dipende dai 
 
 |**Service Pack (SP) più recente**|**Aggiornamento minimo richiesto**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Aggiornamento pubblico di ottobre 2019 <br/>[KB4484107](https://support.microsoft.com/help/4484107) 
+|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Novembre 2019 (PU) <br/>[KB4484139](https://support.microsoft.com/help/4484139) 
 
 ## <a name="outlook-2013-updates"></a>Aggiornamenti di Outlook 2013
 

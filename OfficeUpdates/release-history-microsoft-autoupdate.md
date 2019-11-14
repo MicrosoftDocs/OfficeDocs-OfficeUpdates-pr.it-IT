@@ -3,19 +3,19 @@ title: Cronologia delle versioni per Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523102"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289654"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -30,6 +30,26 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="november-2019-release"></a>Rilascio di novembre 2019
+
+**Data di rilascio:** 12 novembre 2019
+
+*Microsoft AutoUpdate 4.17*
+
+ **Aggiornamenti delle funzionalità:**
+
+- Le novità di ogni aggiornamento principale possono ora essere visualizzate nel dashboard di Microsoft AutoUpdate.
+- I requisiti minimi del sistema operativo per gli aggiornamenti di Office 2019 sono cambiati in macOS 10.13 con il rilascio di Catalina e stiamo avvisando gli utenti di eseguire l'aggiornamento per ottenere gli aggiornamenti di Office più recenti.
+
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto di Microsoft AutoUpdate 4.17](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Hash SHA-256:**
+
+0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
 
 ## <a name="october-2019-release"></a>Rilascio di ottobre 2019
 
