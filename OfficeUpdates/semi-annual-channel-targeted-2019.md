@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289836"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312136"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -256,8 +256,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 ### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - **Installazione di Microsoft Teams**: Teams viene aggiunto alle installazioni esistenti di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/it-IT/deployoffice/teams-install)
-
-- **Condividere e caricare i documenti con i nuovi pulsanti esposti nell'area informazioni:** i pulsanti Condividi, Copia percorso in appunti e Apri percorso file erano prima accessibili solo dietro al percorso di salvataggio del documento. Ora sono pulsanti visualizzabili chiaramente nell’area delle informazioni. Passare a File > Informazioni per visualizzare i pulsanti nuovi.
 
 - **Salvare le modifiche non appena vengono apportate:** caricare i file in OneDrive per assicurarsi che tutti gli aggiornamenti vengano salvati automaticamente.
 
