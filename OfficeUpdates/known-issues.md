@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Sono disponibili informazioni sui problemi noti di Office 365 ProPlus
-ms.openlocfilehash: f863015cbf8680697509fdaf0bbd5c7000e4c142
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 721c9a600b079b3214fa798a39a8ed728c89de93
+ms.sourcegitcommit: 7c1759a0e733ade767da00175afc1c43e8d07e3a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282164"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640825"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemi noti di Office 365 ProPlus
 
@@ -32,6 +32,22 @@ Questa tabella offre un riepilogo dei problemi attuali attivi e dei problemi che
 ### <a name="last-updated-november-12-2019"></a>Ultimo aggiornamento 12 novembre 2019
 
 ### <a name="excel"></a>Excel
+
+- I controlli delle caselle di controllo potevano ridursi quando veniva usato l'adattamento automatico per regolare l'altezza delle righe<br><br>**In analisi**: mensile, SACT
+
+- Problema di prestazioni relativo alle funzioni asincrone definite dall'utente che causava l'esecuzione sincrona di tali funzioni.<br><br>**Risolto**: Versione SACT 1908 (11929.20436) 
+
+- Era possibile che gli utenti non riuscissero a salvare in formato cartella di lavoro Excel in Office 365<br><br>**Risolto**: Versione SACT 1908 (11929.20436)
+
+
+- Problema di prestazioni lente quando si fa clic sul pulsante Colore carattere in un file con formattazione condizionale estesa.<br><br>**Risolto**: Versione SACT 1908 (11929.20436)
+
+- Sono state notevolmente migliorate le prestazioni di eliminazione delle colonne con celle unite<br><br>**In analisi**: SACT<br>**Risolto**: Versione mensile 1910 (12130.20272)
+
+- Risultati non corretti ottenuti durante la conversione dei filtri dei report con il resto della Tabella pivot per le query ai server tabulari SQL.<br><br>**In analisi**: mensile
+
+- Correzione per risolvere un problema relativo ai colori usati nelle anteprime quando si inseriscono grafici usando modelli di grafico<br><br>**Risolto**: Versione mensile 1910 (12130.20272), versione SACT 1908 (11929.20436)
+
 
 - È stato rilevato un problema relativo all'inserimento di file come oggetti da OneDrive.<br><br> **Risolto**: Versione mensile 1910 (12130.20272)
 
@@ -71,6 +87,9 @@ Questa tabella offre un riepilogo dei problemi attuali attivi e dei problemi che
 
 ### <a name="powerpoint"></a>PowerPoint
 
+- Alcuni caratteri katakana potrebbero non essere visualizzati correttamente in una casella di testo verticale.<br><br>
+**In analisi**: mensile
+
 - È stato rilevato un problema che impediva la creazione di un collegamento ipertestuale quando si incollava il testo con tale collegamento. <br><br>**Risolto**: Versione mensile 1910 (12130.20272)
 
 - È stato rilevato un problema che causava il danneggiamento dei TextRanges dopo aver incollato il testo nei segnaposto intestazione/piè di pagina/numero nello schema diapositiva e layout di diapositiva. <br><br>**Risolto**: Versione mensile 1910 (12130.20272)
@@ -80,11 +99,25 @@ Questa tabella offre un riepilogo dei problemi attuali attivi e dei problemi che
 
 ### <a name="project"></a>Project
 
+- In caso di un'assegnazione con nessun lavoro su un'attività, non era possibile contrassegnare l'attività come completata e veniva visualizzata sempre al 99% del completamento.<br><br>
+**In analisi**: mensile<br>
+**Risolto**: Versione SACT 1908 (11929.20436)
+
+- Le sovrassegnazioni non vengono risolte dal livellamento<br><br>
+**In analisi**: mensile
+
 - È stato rilevato un problema per cui gli utenti visualizzavano diversi messaggi quando aprivano un progetto di sola lettura.<br><br>
 **Risolto**: Versione mensile 1910 (12130.20344), versione SACT 1908 (11929.20436)
 
 ### <a name="word"></a>Word
+
+- La ricerca dal riquadro di spostamento potrebbe non riuscire<br><br>
+**In analisi**: mensile
+
 - È stato rilevato un problema relativo all'inserimento di file come oggetti da OneDrive.<br><br> **Risolto**: Versione mensile 1910 (12130.20272)
+
+### <a name="office-suite"></a>Applicazioni Office
+- Se si tenta di salvare un file in una condivisione di rete disconnessa, potrebbero verificarsi dei problemi **In analisi**: mensile
 
 
 

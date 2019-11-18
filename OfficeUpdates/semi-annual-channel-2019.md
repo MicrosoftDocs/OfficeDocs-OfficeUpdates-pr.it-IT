@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289816"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402442"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -304,7 +304,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 ### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 
 - È stato risolto un problema che causava la scomparsa delle attività dei clienti quando si aggiungeva una seconda condizione a "Raggruppa per".
-- È stato risolto un problema che impediva ai clienti di poter modificare alcuni campi di elementi dei quali era stata eseguita la migrazione. 
+- È stato risolto un problema che impediva ai clienti di poter modificare alcuni campi di elementi dei quali era stata eseguita la migrazione.
 - Risolto un problema per cui le finestre non venivano visualizzate nella posizione corretta quando la barra delle applicazioni del sistema era posizionata a sinistra o nella parte superiore dello schermo.
 - Risolve un problema che determinava un arresto anomalo durante il caricamento di immagini nella scheda contatto.
 - Risolve un problema che determinava un arresto anomalo all'avvio delle applicazioni di Office.
