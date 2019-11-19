@@ -9,37 +9,37 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669835"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704495"
 ---
-# <a name="release-notes-for-office-insiders"></a><span data-ttu-id="78ede-103">Note sulla versione per i partecipanti al programma Office Insider</span><span class="sxs-lookup"><span data-stu-id="78ede-103">Release Notes for Office Insiders</span></span>
+# <a name="release-notes-for-office-insiders"></a><span data-ttu-id="bee9b-103">Note sulla versione per i partecipanti al programma Office Insider</span><span class="sxs-lookup"><span data-stu-id="bee9b-103">Release Notes for Office Insiders</span></span>
 
-<span data-ttu-id="78ede-104">Questo articolo contiene le note sulla versione per le build Insider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop.</span><span class="sxs-lookup"><span data-stu-id="78ede-104">This article contains release notes for Insider builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop.</span></span> <span data-ttu-id="78ede-105">Ogni settimana vengono evidenziate nuove funzionalità interessanti, correzioni critiche e problemi significativi di cui è importante essere a conoscenza.</span><span class="sxs-lookup"><span data-stu-id="78ede-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="78ede-106">Spesso in un determinato periodo di tempo vengono distribuite funzionalità, e a volte anche correzioni, ai partecipanti al programma Insider.</span><span class="sxs-lookup"><span data-stu-id="78ede-106">Note that we often roll out features (and sometimes even fixes) to Insiders over a period of time.</span></span> <span data-ttu-id="78ede-107">Ciò consente di verificare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio.</span><span class="sxs-lookup"><span data-stu-id="78ede-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="78ede-108">Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.</span><span class="sxs-lookup"><span data-stu-id="78ede-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
+<span data-ttu-id="bee9b-104">Questo articolo contiene le note sulla versione per le build Insider di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop.</span><span class="sxs-lookup"><span data-stu-id="bee9b-104">This article contains release notes for Insider builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop.</span></span> <span data-ttu-id="bee9b-105">Ogni settimana vengono evidenziate nuove funzionalità interessanti, correzioni critiche e problemi significativi di cui è importante essere a conoscenza.</span><span class="sxs-lookup"><span data-stu-id="bee9b-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="bee9b-106">Spesso in un determinato periodo di tempo vengono distribuite funzionalità, e a volte anche correzioni, ai partecipanti al programma Insider.</span><span class="sxs-lookup"><span data-stu-id="bee9b-106">Note that we often roll out features (and sometimes even fixes) to Insiders over a period of time.</span></span> <span data-ttu-id="bee9b-107">Ciò consente di verificare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio.</span><span class="sxs-lookup"><span data-stu-id="bee9b-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="bee9b-108">Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.</span><span class="sxs-lookup"><span data-stu-id="bee9b-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
 
 > [!NOTE]
-> - <span data-ttu-id="78ede-109">Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.</span><span class="sxs-lookup"><span data-stu-id="78ede-109">Release notes are posted weekly and may be a compilation of multiple builds</span></span>
-> - <span data-ttu-id="78ede-110">La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build</span><span class="sxs-lookup"><span data-stu-id="78ede-110">The release notes publication date may not match the actual build release date</span></span>
+> - <span data-ttu-id="bee9b-109">Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.</span><span class="sxs-lookup"><span data-stu-id="bee9b-109">Release notes are posted weekly and may be a compilation of multiple builds</span></span>
+> - <span data-ttu-id="bee9b-110">La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build</span><span class="sxs-lookup"><span data-stu-id="bee9b-110">The release notes publication date may not match the actual build release date</span></span>
 
  > [!NOTE]
-> - <span data-ttu-id="78ede-111">Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni.</span><span class="sxs-lookup"><span data-stu-id="78ede-111">Microsoft Teams on existing installations of Office 365 ProPlus - Beginning in late June, Microsoft Teams will be included in existing installations of Office 365 ProPlus (and Office 365 Business) upon updates of these installations.</span></span> <span data-ttu-id="78ede-112">La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato.</span><span class="sxs-lookup"><span data-stu-id="78ede-112">The date when Teams will be added depends on which update channel you're using.</span></span> <span data-ttu-id="78ede-113">Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).</span><span class="sxs-lookup"><span data-stu-id="78ede-113">Please refer to [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install) for additional information.</span></span>
+> - <span data-ttu-id="bee9b-111">Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni.</span><span class="sxs-lookup"><span data-stu-id="bee9b-111">Microsoft Teams on existing installations of Office 365 ProPlus - Beginning in late June, Microsoft Teams will be included in existing installations of Office 365 ProPlus (and Office 365 Business) upon updates of these installations.</span></span> <span data-ttu-id="bee9b-112">La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato.</span><span class="sxs-lookup"><span data-stu-id="bee9b-112">The date when Teams will be added depends on which update channel you're using.</span></span> <span data-ttu-id="bee9b-113">Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).</span><span class="sxs-lookup"><span data-stu-id="bee9b-113">Please refer to [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install) for additional information.</span></span>
 
 [//]: # (NON RIMUOVERE)
 
 
-## <a name="version-1912-november-15"></a><span data-ttu-id="78ede-115">Versione 1912: 15 novembre</span><span class="sxs-lookup"><span data-stu-id="78ede-115">Version 1912: November 08</span></span>
-<span data-ttu-id="78ede-116">*Versione 1912 (Build 12307.20000)*</span><span class="sxs-lookup"><span data-stu-id="78ede-116">*Version 1912 (Build 12307.20000)*</span></span>
+## <a name="version-1912-november-15"></a><span data-ttu-id="bee9b-115">Versione 1912: 15 novembre</span><span class="sxs-lookup"><span data-stu-id="bee9b-115">Version 1912: November 15</span></span>
+<span data-ttu-id="bee9b-116">*Versione 1912 (Build 12307.20000)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-116">*Version 1912 (Build 12307.20000)*</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-### <a name="feature-updates"></a><span data-ttu-id="78ede-118">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-118">Feature updates</span></span>
-### <a name="insights-services"></a><span data-ttu-id="78ede-119">Servizi Insights</span><span class="sxs-lookup"><span data-stu-id="78ede-119">Insights Services</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="bee9b-118">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-118">Feature updates</span></span>
+### <a name="insights-services"></a><span data-ttu-id="bee9b-119">Servizi Insights</span><span class="sxs-lookup"><span data-stu-id="bee9b-119">Insights Services</span></span>
 
-- <span data-ttu-id="78ede-120">**Query in linguaggio naturale in Idee in Excel:** nuova caratteristica in Idee di Excel per porre domande in linguaggio naturale sui dati</span><span class="sxs-lookup"><span data-stu-id="78ede-120">**Natural Language Queries in Ideas in Excel:** Excel Ideas's new capability to ask a natural language question about your data</span></span>
+- <span data-ttu-id="bee9b-120">**Query in linguaggio naturale in Idee in Excel:** nuova caratteristica in Idee di Excel per porre domande in linguaggio naturale sui dati</span><span class="sxs-lookup"><span data-stu-id="bee9b-120">**Natural Language Queries in Ideas in Excel:** Excel Ideas's new capability to ask a natural language question about your data</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -48,75 +48,75 @@ ms.locfileid: "38669835"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a><span data-ttu-id="78ede-123">Problemi risolti</span><span class="sxs-lookup"><span data-stu-id="78ede-123">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-124">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-124">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="bee9b-123">Problemi risolti</span><span class="sxs-lookup"><span data-stu-id="bee9b-123">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-124">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-124">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-125"><span>La funzionalità Testo in colonne può avere esito negativo per alcune localizzazioni</span></span><span class="sxs-lookup"><span data-stu-id="78ede-125"><span>Text to Column functionality may fail for some localizations</span></span></span></div>
-
-
-- <h5><span data-ttu-id="78ede-126">La modifica delle formule di matrice dinamica all'interno di una cella può comportare l'allineamento del testo all'esterno del contorno della cella</span><span class="sxs-lookup"><span data-stu-id="78ede-126">Editing dynamic array formulas within a cell may result in text being aligned outside of the boundary of the cell</span></span><br></h5>
+- <div><span data-ttu-id="bee9b-125"><span>La funzionalità Testo in colonne può avere esito negativo per alcune localizzazioni</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-125"><span>Text to Column functionality may fail for some localizations</span></span></span></div>
 
 
-### <a name="outlook"></a><span data-ttu-id="78ede-127">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-127">Outlook</span></span>
-
-- <div><span data-ttu-id="78ede-128">Aggiunta della funzionalità di applicazione della configurazione S/MIME tramite Criteri di gruppo</span><span class="sxs-lookup"><span data-stu-id="78ede-128">Added the ability to enforce S/MIME configuration via group policy</span></span></div>
+- <div><span data-ttu-id="bee9b-126">La modifica delle formule di matrice dinamica all'interno di una cella può comportare l'allineamento del testo all'esterno del contorno della cella</span><span class="sxs-lookup"><span data-stu-id="bee9b-126">Editing dynamic array formulas within a cell may result in text being aligned outside of the boundary of the cell</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-129"><span>Le immagini incorporate potrebbero apparire più piccole del previsto</span></span><span class="sxs-lookup"><span data-stu-id="78ede-129"><span>Embedded images may appear smaller than expected</span></span></span></div>
+### <a name="outlook"></a><span data-ttu-id="bee9b-127">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-127">Outlook</span></span>
+
+- <div><span data-ttu-id="bee9b-128">Aggiunta della funzionalità di applicazione della configurazione S/MIME tramite Criteri di gruppo</span><span class="sxs-lookup"><span data-stu-id="bee9b-128">Added the ability to enforce S/MIME configuration via group policy</span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-130">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-130">PowerPoint</span></span>
-
-- <div><span data-ttu-id="78ede-131"><span>Il cursore potrebbe sparire dopo aver spostato lo stato attivo dal testo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-131"><span>Cursor may disappear after moving focus from text</span></span></span></div>
+- <div><span data-ttu-id="bee9b-129"><span>Le immagini incorporate potrebbero apparire più piccole del previsto</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-129"><span>Embedded images may appear smaller than expected</span></span></span></div>
 
 
-### <a name="project"></a><span data-ttu-id="78ede-132">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-132">Project</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-130">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-130">PowerPoint</span></span>
 
-- <div><span data-ttu-id="78ede-133"><span>È possibile che gli utenti riscontrino un errore di licenza</span></span><span class="sxs-lookup"><span data-stu-id="78ede-133"><span>Users may experience an error regarding licensing</span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-134"><span>Il pulsante Oggi nel controllo di selezione data può talvolta impostare la data non corretta</span></span><span class="sxs-lookup"><span data-stu-id="78ede-134"><span>The Today button in the date picker may sometimes set the incorrect date</span></span></span></div>
+- <div><span data-ttu-id="bee9b-131"><span>Il cursore potrebbe sparire dopo aver spostato lo stato attivo dal testo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-131"><span>Cursor may disappear after moving focus from text</span></span></span></div>
 
 
-### <a name="word"></a><span data-ttu-id="78ede-135">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-135">Word</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-132">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-132">Project</span></span>
 
-- <div><span data-ttu-id="78ede-136"><span>Talvolta, facendo clic con il pulsante destro del mouse non viene selezionata l'intera parola</span></span><span class="sxs-lookup"><span data-stu-id="78ede-136"><span>Right-clicking can sometimes not result in selecting the whole word</span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-137">Il cursore potrebbe rimanere attivo all'interno di un oggetto dopo la conversione in un formato consigliato</span><span class="sxs-lookup"><span data-stu-id="78ede-137">The cursor may remain active within an object after converting to a suggested format</span></span></div>
+- <div><span data-ttu-id="bee9b-133"><span>È possibile che gli utenti riscontrino un errore di licenza</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-133"><span>Users may experience an error regarding licensing</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-138">Le immagini nei messaggi potrebbero essere ridimensionate in modo non corretto in alcuni scenari</span><span class="sxs-lookup"><span data-stu-id="78ede-138">Images in messages may be incorrectly scaled in some scenarios</span></span></div>
+- <div><span data-ttu-id="bee9b-134"><span>Il pulsante Oggi nel controllo di selezione data può talvolta impostare la data non corretta</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-134"><span>The Today button in the date picker may sometimes set the incorrect date</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-139">Alcuni temi potrebbero rendere difficile determinare quale commento è selezionato</span><span class="sxs-lookup"><span data-stu-id="78ede-139">Some themes may make it difficult to determine which comment is selected</span></span></div>
+### <a name="word"></a><span data-ttu-id="bee9b-135">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-135">Word</span></span>
+
+- <div><span data-ttu-id="bee9b-136"><span>Talvolta, facendo clic con il pulsante destro del mouse non viene selezionata l'intera parola</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-136"><span>Right-clicking can sometimes not result in selecting the whole word</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-140"><span>Selezionando un indicatore del commento ora dovrebbe essere visualizzato il riquadro commenti moderni, se nascosto</span></span><span class="sxs-lookup"><span data-stu-id="78ede-140"><span>Selecting a comment hint should now show the modern comments pane when hidden in pane switcher</span></span></span></div>
+- <div><span data-ttu-id="bee9b-137">Il cursore potrebbe rimanere attivo all'interno di un oggetto dopo la conversione in un formato consigliato</span><span class="sxs-lookup"><span data-stu-id="bee9b-137">The cursor may remain active within an object after converting to a suggested format</span></span></div>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-141">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-141">Office Suite</span></span>
+- <div><span data-ttu-id="bee9b-138">Le immagini nei messaggi potrebbero essere ridimensionate in modo non corretto in alcuni scenari</span><span class="sxs-lookup"><span data-stu-id="bee9b-138">Images in messages may be incorrectly scaled in some scenarios</span></span></div>
 
-- <div><span data-ttu-id="78ede-142"><span>Rispondendo a un commento, la casella di testo potrebbe espandersi in verticale oltre il bordo del riquadro</span></span><span class="sxs-lookup"><span data-stu-id="78ede-142"><span>Replying to a comment may cause the textbox to expand vertically beyond the edge of the pane</span></span></span></div>
+
+- <div><span data-ttu-id="bee9b-139">Alcuni temi potrebbero rendere difficile determinare quale commento è selezionato</span><span class="sxs-lookup"><span data-stu-id="bee9b-139">Some themes may make it difficult to determine which comment is selected</span></span></div>
+
+
+- <div><span data-ttu-id="bee9b-140"><span>Selezionando un indicatore del commento ora dovrebbe essere visualizzato il riquadro commenti moderni, se nascosto</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-140"><span>Selecting a comment hint should now show the modern comments pane when hidden in pane switcher</span></span></span></div>
+
+
+### <a name="office-suite"></a><span data-ttu-id="bee9b-141">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-141">Office Suite</span></span>
+
+- <div><span data-ttu-id="bee9b-142"><span>Rispondendo a un commento, la casella di testo potrebbe espandersi in verticale oltre il bordo del riquadro</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-142"><span>Replying to a comment may cause the textbox to expand vertically beyond the edge of the pane</span></span></span></div>
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1912-november-08"></a><span data-ttu-id="78ede-144">Versione 1912: 8 novembre</span><span class="sxs-lookup"><span data-stu-id="78ede-144">Version 1912: November 08</span></span>
-<span data-ttu-id="78ede-145">*Versione 1912 (Build 12231.20000)*</span><span class="sxs-lookup"><span data-stu-id="78ede-145">*Version 1912 (Build 12231.20000)*</span></span>
+## <a name="version-1912-november-08"></a><span data-ttu-id="bee9b-144">Versione 1912: 8 novembre</span><span class="sxs-lookup"><span data-stu-id="bee9b-144">Version 1912: November 08</span></span>
+<span data-ttu-id="bee9b-145">*Versione 1912 (Build 12231.20000)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-145">*Version 1912 (Build 12231.20000)*</span></span>
 
 
 [//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
-### <a name="feature-updates"></a><span data-ttu-id="78ede-147">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-147">Feature updates</span></span>
-### <a name="user-lifecycle"></a><span data-ttu-id="78ede-148">Ciclo di vita degli utenti</span><span class="sxs-lookup"><span data-stu-id="78ede-148">User Lifecycle</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="bee9b-147">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-147">Feature updates</span></span>
+### <a name="user-lifecycle"></a><span data-ttu-id="bee9b-148">Ciclo di vita degli utenti</span><span class="sxs-lookup"><span data-stu-id="bee9b-148">User Lifecycle</span></span>
 
-- <span data-ttu-id="78ede-149">**Miglioramenti dell'esperienza utente per l'attivazione AFO:** aggiornamenti delle schermate che vengono visualizzate quando si attiva Office fornito con il nuovo PC</span><span class="sxs-lookup"><span data-stu-id="78ede-149">**Experience improvements for AFO activation:** Updates to the screens customers see when activating Office that comes bundled with their new PC</span></span>
+- <span data-ttu-id="bee9b-149">**Miglioramenti dell'esperienza utente per l'attivazione AFO:** aggiornamenti delle schermate che vengono visualizzate quando si attiva Office fornito con il nuovo PC</span><span class="sxs-lookup"><span data-stu-id="bee9b-149">**Experience improvements for AFO activation:** Updates to the screens customers see when activating Office that comes bundled with their new PC</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-150">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-150">Word</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-150">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-150">Word</span></span>
 
-- <span data-ttu-id="78ede-151">**Esperienza video online nuova e migliorata in Word :** esperienza video online nuova e più sicura, consente di inserire nuovi video e di riprodurre video esistenti in Word</span><span class="sxs-lookup"><span data-stu-id="78ede-151">**New and improved online video experience in Word:** New and more secure online video experience to help you insert new videos and play existing videos in Word</span></span>
+- <span data-ttu-id="bee9b-151">**Esperienza video online nuova e migliorata in Word :** esperienza video online nuova e più sicura, consente di inserire nuovi video e di riprodurre video esistenti in Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-151">**New and improved online video experience in Word:** New and more secure online video experience to help you insert new videos and play existing videos in Word</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -125,50 +125,50 @@ ms.locfileid: "38669835"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a><span data-ttu-id="78ede-154">Problemi risolti</span><span class="sxs-lookup"><span data-stu-id="78ede-154">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="78ede-155">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-155">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="bee9b-154">Problemi risolti</span><span class="sxs-lookup"><span data-stu-id="bee9b-154">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-155">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-155">Outlook</span></span>
 
-- <div><span data-ttu-id="78ede-156"><span>Arresto anomalo intermittente associato al recupero di contenuto delle cartelle</span></span><span class="sxs-lookup"><span data-stu-id="78ede-156"><span>Intermittent crash involving cross folder content</span></span></span></div>
+- <div><span data-ttu-id="bee9b-156"><span>Arresto anomalo intermittente associato al recupero di contenuto delle cartelle</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-156"><span>Intermittent crash involving cross folder content</span></span></span></div>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-157">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-157">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="bee9b-157">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-157">Office Suite</span></span>
 
-- <div><span data-ttu-id="78ede-158"><span>L'incollamento di un grafico da Excel a PowerPoint che riduceva le dimensioni del grafico</span></span><span class="sxs-lookup"><span data-stu-id="78ede-158"><span>Pasting a chart from Excel to PowerPoint can reduce the size of the chart</span></span></span></div>
+- <div><span data-ttu-id="bee9b-158"><span>L'incollamento di un grafico da Excel a PowerPoint che riduceva le dimensioni del grafico</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-158"><span>Pasting a chart from Excel to PowerPoint can reduce the size of the chart</span></span></span></div>
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1911-november-01"></a><span data-ttu-id="78ede-160">Versione 1911: 1° novembre</span><span class="sxs-lookup"><span data-stu-id="78ede-160">Version 1911: November 01</span></span>
-<span data-ttu-id="78ede-161">*Versione 1911 (Build 12228.20020)*</span><span class="sxs-lookup"><span data-stu-id="78ede-161">*Version 1911 (Build 12228.20020)*</span></span>
+## <a name="version-1911-november-01"></a><span data-ttu-id="bee9b-160">Versione 1911: 1° novembre</span><span class="sxs-lookup"><span data-stu-id="bee9b-160">Version 1911: November 01</span></span>
+<span data-ttu-id="bee9b-161">*Versione 1911 (Build 12228.20020)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-161">*Version 1911 (Build 12228.20020)*</span></span>
 
 
 [//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
-### <a name="feature-updates"></a><span data-ttu-id="78ede-163">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-163">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-164">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-164">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="bee9b-163">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-163">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-164">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-164">Excel</span></span>
 
-- <span data-ttu-id="78ede-165">**Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office</span><span class="sxs-lookup"><span data-stu-id="78ede-165">**Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office</span></span>
+- <span data-ttu-id="bee9b-165">**Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-165">**Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office</span></span>
 
-- <span data-ttu-id="78ede-166">**Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.</span><span class="sxs-lookup"><span data-stu-id="78ede-166">**See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.</span></span>
+- <span data-ttu-id="bee9b-166">**Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.</span><span class="sxs-lookup"><span data-stu-id="bee9b-166">**See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-167">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-167">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-167">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-167">PowerPoint</span></span>
 
-- <span data-ttu-id="78ede-168">**Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office</span><span class="sxs-lookup"><span data-stu-id="78ede-168">**Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office</span></span>
+- <span data-ttu-id="bee9b-168">**Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-168">**Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office</span></span>
 
-- <span data-ttu-id="78ede-169">**Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.</span><span class="sxs-lookup"><span data-stu-id="78ede-169">**See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.</span></span>
+- <span data-ttu-id="bee9b-169">**Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.</span><span class="sxs-lookup"><span data-stu-id="bee9b-169">**See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.</span></span>
 
-### <a name="visio"></a><span data-ttu-id="78ede-170">Visio</span><span class="sxs-lookup"><span data-stu-id="78ede-170">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="bee9b-170">Visio</span><span class="sxs-lookup"><span data-stu-id="bee9b-170">Visio</span></span>
 
-- <span data-ttu-id="78ede-171">**Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel.</span><span class="sxs-lookup"><span data-stu-id="78ede-171">**Make polished Visio diagrams in Excel:** Quickly and easily visualize your data into polished Visio diagrams within Excel.</span></span> [<span data-ttu-id="78ede-172">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-172">Learn more</span></span>](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- <span data-ttu-id="bee9b-171">**Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel.</span><span class="sxs-lookup"><span data-stu-id="bee9b-171">**Make polished Visio diagrams in Excel:** Quickly and easily visualize your data into polished Visio diagrams within Excel.</span></span> [<span data-ttu-id="bee9b-172">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-172">Learn more</span></span>](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-### <a name="word"></a><span data-ttu-id="78ede-173">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-173">Word</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-173">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-173">Word</span></span>
 
-- <span data-ttu-id="78ede-174">**Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.</span><span class="sxs-lookup"><span data-stu-id="78ede-174">**See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.</span></span>
+- <span data-ttu-id="bee9b-174">**Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.</span><span class="sxs-lookup"><span data-stu-id="bee9b-174">**See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.</span></span>
 
-- <span data-ttu-id="78ede-175">**Miglioramenti apportati alla creazione condivisa:** l'esperienza di creazione condivisa è stata migliorata, aumentando la probabilità che gli altri utenti ricevano in tempo reale le modifiche apportate al contenuto.</span><span class="sxs-lookup"><span data-stu-id="78ede-175">**Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.</span></span>
+- <span data-ttu-id="bee9b-175">**Miglioramenti apportati alla creazione condivisa:** l'esperienza di creazione condivisa è stata migliorata, aumentando la probabilità che gli altri utenti ricevano in tempo reale le modifiche apportate al contenuto.</span><span class="sxs-lookup"><span data-stu-id="bee9b-175">**Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.</span></span>
 
-- <span data-ttu-id="78ede-176">**Visualizzazione rapida delle modifiche di altri utenti:** grazie ai miglioramenti della creazione condivisa, i collaboratori possono visualizzare le modifiche ancor più velocemente.</span><span class="sxs-lookup"><span data-stu-id="78ede-176">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+- <span data-ttu-id="bee9b-176">**Visualizzazione rapida delle modifiche di altri utenti:** grazie ai miglioramenti della creazione condivisa, i collaboratori possono visualizzare le modifiche ancor più velocemente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-176">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -177,110 +177,110 @@ ms.locfileid: "38669835"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a><span data-ttu-id="78ede-179">Problemi risolti</span><span class="sxs-lookup"><span data-stu-id="78ede-179">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-180">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-180">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="bee9b-179">Problemi risolti</span><span class="sxs-lookup"><span data-stu-id="bee9b-179">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-180">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-180">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-181"><span>È stato risolto un problema che poteva causare l'arresto anomalo di Excel durante la modifica di un file protetto da una condivisione di rete non attendibile</span></span><span class="sxs-lookup"><span data-stu-id="78ede-181"><span>Resolved an issue where Excel may crash when editing a protected file from an untrusted network share</span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-182">È stato risolto un problema per cui l'eliminazione di fogli contenenti grafici sparkline che fanno riferimento a un altro foglio poteva far sì che il file venisse identificato come corrotto in fase di riapertura.</span><span class="sxs-lookup"><span data-stu-id="78ede-182">Resolved an issue where deleting sheets containing sparklines referencing data on another sheet could cause the file to be identified as corrupted when re-opened.</span></span></div>
+- <div><span data-ttu-id="bee9b-181"><span>È stato risolto un problema che poteva causare l'arresto anomalo di Excel durante la modifica di un file protetto da una condivisione di rete non attendibile</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-181"><span>Resolved an issue where Excel may crash when editing a protected file from an untrusted network share</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-183">È stato risolto un problema per cui potevano essere ottenuti risultati non corretti durante la conversione di filtri rapporto con il resto della Tabella pivot per le query ai server tabulari SQL.</span><span class="sxs-lookup"><span data-stu-id="78ede-183">Resolved an Issue where you may get incorrect results when converting report filters along with the rest of the PivotTable for queries to SQL tabular servers.</span></span></span></div>
+- <div><span data-ttu-id="bee9b-182">È stato risolto un problema per cui l'eliminazione di fogli contenenti grafici sparkline che fanno riferimento a un altro foglio poteva far sì che il file venisse identificato come corrotto in fase di riapertura.</span><span class="sxs-lookup"><span data-stu-id="bee9b-182">Resolved an issue where deleting sheets containing sparklines referencing data on another sheet could cause the file to be identified as corrupted when re-opened.</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-184"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-184"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
+- <div><span data-ttu-id="bee9b-183">È stato risolto un problema per cui potevano essere ottenuti risultati non corretti durante la conversione di filtri rapporto con il resto della Tabella pivot per le query ai server tabulari SQL.</span><span class="sxs-lookup"><span data-stu-id="bee9b-183">Resolved an Issue where you may get incorrect results when converting report filters along with the rest of the PivotTable for queries to SQL tabular servers.</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-185"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-185"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
+- <div><span data-ttu-id="bee9b-184"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-184"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
 
 
-### <a name="outlook"></a><span data-ttu-id="78ede-186">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-186">Outlook</span></span>
-
-- <div><span data-ttu-id="78ede-187">Un messaggio di posta elettronica inoltrato potrebbe essere privo di immagini incorporate</span><span class="sxs-lookup"><span data-stu-id="78ede-187">A forwarded e-mail may be missing embedded images</span></span></div>
+- <div><span data-ttu-id="bee9b-185"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-185"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-188"><span>Lo strumento Ricerca sala potrebbe mostrare &quot;Nessuna&quot; per le sale disponibili</span></span><span class="sxs-lookup"><span data-stu-id="78ede-188"><span>Room Finder tool may be displaying &quot;None&quot; for available rooms</span></span></span></div>
+### <a name="outlook"></a><span data-ttu-id="bee9b-186">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-186">Outlook</span></span>
+
+- <div><span data-ttu-id="bee9b-187">Un messaggio di posta elettronica inoltrato potrebbe essere privo di immagini incorporate</span><span class="sxs-lookup"><span data-stu-id="bee9b-187">A forwarded e-mail may be missing embedded images</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-189"><span>Gli utenti potrebbero non riuscire a creare profili di Outlook con restrizioni rigorose del tenant</span><span class="sxs-lookup"><span data-stu-id="78ede-189"><span>Users may not be able to create Outlook profiles with strict tenant restriction</span></span></div></span>
+- <div><span data-ttu-id="bee9b-188"><span>Lo strumento Ricerca sala potrebbe mostrare &quot;Nessuna&quot; per le sale disponibili</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-188"><span>Room Finder tool may be displaying &quot;None&quot; for available rooms</span></span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-190">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-190">PowerPoint</span></span>
-
-- <div><span data-ttu-id="78ede-191"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-191"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
+- <div><span data-ttu-id="bee9b-189"><span>Gli utenti potrebbero non riuscire a creare profili di Outlook con restrizioni rigorose del tenant</span><span class="sxs-lookup"><span data-stu-id="bee9b-189"><span>Users may not be able to create Outlook profiles with strict tenant restriction</span></span></div></span>
 
 
-### <a name="project"></a><span data-ttu-id="78ede-192">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-192">Project</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-190">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-190">PowerPoint</span></span>
 
-- <div><span data-ttu-id="78ede-193"><span>L'utente non è in grado di contrassegnare un'attività come completata e tale attività viene impostata su 99%</span></span><span class="sxs-lookup"><span data-stu-id="78ede-193"><span>User is unable to mark a task as complete, and it gets set to 99%</span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-194">Le sovrassegnazioni non vengono risolte dal livellamento</span><span class="sxs-lookup"><span data-stu-id="78ede-194">Overallocations are not resolved by leveling</span></span></div>
+- <div><span data-ttu-id="bee9b-191"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-191"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
 
 
-### <a name="word"></a><span data-ttu-id="78ede-195">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-195">Word</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-192">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-192">Project</span></span>
 
-- <div><span data-ttu-id="78ede-196"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-196"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-197"><span>L'apertura di documenti legacy e il successivo passaggio alla scheda Informazioni può causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-197"><span>Opening legacy documents and then going to the Info tab can cause a crash</span></span></span></div>
+- <div><span data-ttu-id="bee9b-193"><span>L'utente non è in grado di contrassegnare un'attività come completata e tale attività viene impostata su 99%</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-193"><span>User is unable to mark a task as complete, and it gets set to 99%</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-198"><span>I suggerimenti degli strumenti di correzione non vengono visualizzati nei menu di scelta rapida</span></span><span class="sxs-lookup"><span data-stu-id="78ede-198"><span>Proofing suggestins are not displaying in contextual menus</span></span></span></div>
+- <div><span data-ttu-id="bee9b-194">Le sovrassegnazioni non vengono risolte dal livellamento</span><span class="sxs-lookup"><span data-stu-id="bee9b-194">Overallocations are not resolved by leveling</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-199"><span>I criteri di contenuto vengono applicati ai commenti in modo errato</span></span><span class="sxs-lookup"><span data-stu-id="78ede-199"><span>Content policies are being incorrectly applied to comments</span></span></span></div>
+### <a name="word"></a><span data-ttu-id="bee9b-195">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-195">Word</span></span>
+
+- <div><span data-ttu-id="bee9b-196"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-196"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-200"><span>I commenti legacy scritti con testo scuro non sono visibili in modalità scura</span></span><span class="sxs-lookup"><span data-stu-id="78ede-200"><span>Legacy comments written with dark text is not visible in Dark Mode</span></span></span></div>
+- <div><span data-ttu-id="bee9b-197"><span>L'apertura di documenti legacy e il successivo passaggio alla scheda Informazioni può causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-197"><span>Opening legacy documents and then going to the Info tab can cause a crash</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-201"><span>Potrebbero essere visualizzati dei caratteri errati quando si usa la correzione automatica coreano/inglese</span></span><span class="sxs-lookup"><span data-stu-id="78ede-201"><span>Incorrect characters may appear when using Korean/English autocorrect</span></span></span></div>
+- <div><span data-ttu-id="bee9b-198"><span>I suggerimenti degli strumenti di correzione non vengono visualizzati nei menu di scelta rapida</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-198"><span>Proofing suggestins are not displaying in contextual menus</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-202"><span>Potrebbero essere applicate etichette criteri inferiori quando dovrebbe avere la priorità un'etichetta criteri di livello superiore</span><span class="sxs-lookup"><span data-stu-id="78ede-202"><span>Lower policy labels may be applied when a higher policy label should have taken priority</span></span></div></span>
+- <div><span data-ttu-id="bee9b-199"><span>I criteri di contenuto vengono applicati ai commenti in modo errato</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-199"><span>Content policies are being incorrectly applied to comments</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-203"><span>I collegamenti di immagini cid: dai messaggi di Outlook&nbsp;ora possono essere interrotti quando richiesto.</span><span class="sxs-lookup"><span data-stu-id="78ede-203"><span>The links of cid: images from Outlook messages&nbsp;can now be successfully broken when requested.</span></span></div></span>
+- <div><span data-ttu-id="bee9b-200"><span>I commenti legacy scritti con testo scuro non sono visibili in modalità scura</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-200"><span>Legacy comments written with dark text is not visible in Dark Mode</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-204"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-204"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
+- <div><span data-ttu-id="bee9b-201"><span>Potrebbero essere visualizzati dei caratteri errati quando si usa la correzione automatica coreano/inglese</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-201"><span>Incorrect characters may appear when using Korean/English autocorrect</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-205"><span>La ricerca dal riquadro di spostamento potrebbe non riuscire</span></span><span class="sxs-lookup"><span data-stu-id="78ede-205"><span>Searching from the Navigation pane may fail</span></span></span></div>
+- <div><span data-ttu-id="bee9b-202"><span>Potrebbero essere applicate etichette criteri inferiori quando dovrebbe avere la priorità un'etichetta criteri di livello superiore</span><span class="sxs-lookup"><span data-stu-id="bee9b-202"><span>Lower policy labels may be applied when a higher policy label should have taken priority</span></span></div></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-206">Applicazioni Office</span><span class="sxs-lookup"><span data-stu-id="78ede-206">Office Suite</span></span>
-
-- <div><span data-ttu-id="78ede-207"><span>Alcuni disegni potrebbero non essere visualizzati in anteprima o nelle presentazioni</span></span><span class="sxs-lookup"><span data-stu-id="78ede-207"><span>Some drawings may not display in preview or slide shows</span></span></span></div>
+- <div><span data-ttu-id="bee9b-203"><span>I collegamenti di immagini cid: dai messaggi di Outlook&nbsp;ora possono essere interrotti quando richiesto.</span><span class="sxs-lookup"><span data-stu-id="bee9b-203"><span>The links of cid: images from Outlook messages&nbsp;can now be successfully broken when requested.</span></span></div></span>
 
 
-- <div><span data-ttu-id="78ede-208"><span>Alcuni caratteri katakana potrebbero non essere visualizzati correttamente in una casella di testo verticale</span></span><span class="sxs-lookup"><span data-stu-id="78ede-208"><span>Some katakana characters may display incorrectly in a vertical text box</span></span></span></div>
+- <div><span data-ttu-id="bee9b-204"><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-204"><span>Using Narrator and Magnifier at the same time may result in a crash</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-209">Se si tenta di salvare un file in una condivisione di rete disconnessa, potrebbe verificarsi un arresto anomalo</span><span class="sxs-lookup"><span data-stu-id="78ede-209">Attempting to save a file to a disconnected network share may result in a crash</span></span></div>
+- <div><span data-ttu-id="bee9b-205"><span>La ricerca dal riquadro di spostamento potrebbe non riuscire</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-205"><span>Searching from the Navigation pane may fail</span></span></span></div>
+
+
+### <a name="office-suite"></a><span data-ttu-id="bee9b-206">Applicazioni Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-206">Office Suite</span></span>
+
+- <div><span data-ttu-id="bee9b-207"><span>Alcuni disegni potrebbero non essere visualizzati in anteprima o nelle presentazioni</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-207"><span>Some drawings may not display in preview or slide shows</span></span></span></div>
+
+
+- <div><span data-ttu-id="bee9b-208"><span>Alcuni caratteri katakana potrebbero non essere visualizzati correttamente in una casella di testo verticale</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-208"><span>Some katakana characters may display incorrectly in a vertical text box</span></span></span></div>
+
+
+- <div><span data-ttu-id="bee9b-209">Se si tenta di salvare un file in una condivisione di rete disconnessa, potrebbe verificarsi un arresto anomalo</span><span class="sxs-lookup"><span data-stu-id="bee9b-209">Attempting to save a file to a disconnected network share may result in a crash</span></span></div>
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1911-october-25"></a><span data-ttu-id="78ede-211">Versione 1911: 25 ottobre</span><span class="sxs-lookup"><span data-stu-id="78ede-211">Version 1911: October 25</span></span>
-<span data-ttu-id="78ede-212">*Versione 1911 (Build 12215.20006)*</span><span class="sxs-lookup"><span data-stu-id="78ede-212">*Version 1911 (Build 12215.20006)*</span></span>
+## <a name="version-1911-october-25"></a><span data-ttu-id="bee9b-211">Versione 1911: 25 ottobre</span><span class="sxs-lookup"><span data-stu-id="bee9b-211">Version 1911: October 25</span></span>
+<span data-ttu-id="bee9b-212">*Versione 1911 (Build 12215.20006)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-212">*Version 1911 (Build 12215.20006)*</span></span>
 
 
 [//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
-### <a name="feature-updates"></a><span data-ttu-id="78ede-214">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-214">Feature updates</span></span>
-### <a name="visio"></a><span data-ttu-id="78ede-215">Visio</span><span class="sxs-lookup"><span data-stu-id="78ede-215">Visio</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="bee9b-214">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-214">Feature updates</span></span>
+### <a name="visio"></a><span data-ttu-id="bee9b-215">Visio</span><span class="sxs-lookup"><span data-stu-id="bee9b-215">Visio</span></span>
 
-- <span data-ttu-id="78ede-216">**Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel.</span><span class="sxs-lookup"><span data-stu-id="78ede-216">**Make polished Visio diagrams in Excel:** Quickly and easily visualize your data into polished Visio diagrams within Excel.</span></span> [<span data-ttu-id="78ede-217">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-217">Learn more</span></span>](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- <span data-ttu-id="bee9b-216">**Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel.</span><span class="sxs-lookup"><span data-stu-id="bee9b-216">**Make polished Visio diagrams in Excel:** Quickly and easily visualize your data into polished Visio diagrams within Excel.</span></span> [<span data-ttu-id="bee9b-217">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-217">Learn more</span></span>](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-### <a name="word"></a><span data-ttu-id="78ede-218">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-218">Word</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-218">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-218">Word</span></span>
 
-- <span data-ttu-id="78ede-219">**Miglioramenti apportati alla creazione condivisa:** l'esperienza di creazione condivisa è stata migliorata aumentando la probabilità che gli altri utenti ricevano in tempo reale le modifiche apportate al contenuto.</span><span class="sxs-lookup"><span data-stu-id="78ede-219">**Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.</span></span>
+- <span data-ttu-id="bee9b-219">**Miglioramenti apportati alla creazione condivisa:** l'esperienza di creazione condivisa è stata migliorata aumentando la probabilità che gli altri utenti ricevano in tempo reale le modifiche apportate al contenuto.</span><span class="sxs-lookup"><span data-stu-id="bee9b-219">**Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.</span></span>
 
-- <span data-ttu-id="78ede-220">**Visualizzazione rapida delle modifiche di altri utenti:** grazie ai miglioramenti della creazione condivisa, i collaboratori possono visualizzare le modifiche ancor più velocemente.</span><span class="sxs-lookup"><span data-stu-id="78ede-220">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+- <span data-ttu-id="bee9b-220">**Visualizzazione rapida delle modifiche di altri utenti:** grazie ai miglioramenti della creazione condivisa, i collaboratori possono visualizzare le modifiche ancor più velocemente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-220">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -289,91 +289,91 @@ ms.locfileid: "38669835"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a><span data-ttu-id="78ede-223">Problemi risolti</span><span class="sxs-lookup"><span data-stu-id="78ede-223">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="78ede-224">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-224">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="bee9b-223">Problemi risolti</span><span class="sxs-lookup"><span data-stu-id="bee9b-223">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-224">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-224">Access</span></span>
 
-- <div><span data-ttu-id="78ede-225"><span>Il conteggio record potrebbe non essere corretto</span></span><span class="sxs-lookup"><span data-stu-id="78ede-225"><span>The record count could be incorrect</span></span></span></div>
-
-
-### <a name="excel"></a><span data-ttu-id="78ede-226">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-226">Excel</span></span>
-
-- <div><span data-ttu-id="78ede-227"><span>Sono state notevolmente migliorate le prestazioni di eliminazione delle colonne con celle unite</span></span><span class="sxs-lookup"><span data-stu-id="78ede-227"><span>We significantly improved the performance of deleting columns with merged cells</span></span></span></div>
+- <div><span data-ttu-id="bee9b-225"><span>Il conteggio record potrebbe non essere corretto</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-225"><span>The record count could be incorrect</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-228"><span>Era possibile che gli utenti non riuscissero a salvare in formato cartella di lavoro Excel in Office 365</span></span><span class="sxs-lookup"><span data-stu-id="78ede-228"><span>Users could be prevented from saving in Office 365 Excel Workbook format</span></span></span></div>
+### <a name="excel"></a><span data-ttu-id="bee9b-226">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-226">Excel</span></span>
+
+- <div><span data-ttu-id="bee9b-227"><span>Sono state notevolmente migliorate le prestazioni di eliminazione delle colonne con celle unite</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-227"><span>We significantly improved the performance of deleting columns with merged cells</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-229"><span>Le caselle di controllo non venivano eseguite correttamente</span></span><span class="sxs-lookup"><span data-stu-id="78ede-229"><span>Checkboxes could not render correctly</span></span></span></div>
+- <div><span data-ttu-id="bee9b-228"><span>Era possibile che gli utenti non riuscissero a salvare in formato cartella di lavoro Excel in Office 365</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-228"><span>Users could be prevented from saving in Office 365 Excel Workbook format</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-230"><span>Non era possibile salvare le modifiche apportate alle dimensioni di un grafico</span></span><span class="sxs-lookup"><span data-stu-id="78ede-230"><span>Changes to a chart size could not be saved</span></span></span></div>
+- <div><span data-ttu-id="bee9b-229"><span>Le caselle di controllo non venivano eseguite correttamente</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-229"><span>Checkboxes could not render correctly</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-231"><span>Alcune funzioni VBA restituivano un errore nei nuovi tipi di grafico</span></span><span class="sxs-lookup"><span data-stu-id="78ede-231"><span>Some VBA functions would return an error on new chart types</span></span></span></div>
+- <div><span data-ttu-id="bee9b-230"><span>Non era possibile salvare le modifiche apportate alle dimensioni di un grafico</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-230"><span>Changes to a chart size could not be saved</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-232"><span>Alcune finestre di dialogo delle origini dati non facevano distinzione tra maiuscole e minuscole per alcuni campi</span></span><span class="sxs-lookup"><span data-stu-id="78ede-232"><span>Select Data Source dialogs were not case sensitive for some fields</span></span></span></div>
+- <div><span data-ttu-id="bee9b-231"><span>Alcune funzioni VBA restituivano un errore nei nuovi tipi di grafico</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-231"><span>Some VBA functions would return an error on new chart types</span></span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-233">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-233">PowerPoint</span></span>
-
-- <div><span data-ttu-id="78ede-234"><span>Non era possibile salvare le modifiche apportate alle dimensioni di un grafico</span></span><span class="sxs-lookup"><span data-stu-id="78ede-234"><span>Changes to a chart size could not be saved</span></span></span></div>
+- <div><span data-ttu-id="bee9b-232"><span>Alcune finestre di dialogo delle origini dati non facevano distinzione tra maiuscole e minuscole per alcuni campi</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-232"><span>Select Data Source dialogs were not case sensitive for some fields</span></span></span></div>
 
 
-### <a name="publisher"></a><span data-ttu-id="78ede-235">Publisher</span><span class="sxs-lookup"><span data-stu-id="78ede-235">Publisher</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-233">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-233">PowerPoint</span></span>
 
-- <div><span data-ttu-id="78ede-236"><span>Le forme potevano essere visualizzate fuori dal bordo dell'elemento grafico</span></span><span class="sxs-lookup"><span data-stu-id="78ede-236"><span>Shapes could appear outside of the graphics border</span></span></span></div>
-
-
-### <a name="word"></a><span data-ttu-id="78ede-237">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-237">Word</span></span>
-
-- <div><span data-ttu-id="78ede-238"><span>Le forme potevano essere visualizzate fuori dal bordo dell'elemento grafico</span></span><span class="sxs-lookup"><span data-stu-id="78ede-238"><span>Shapes could appear outside of the graphics border</span></span></span></div>
+- <div><span data-ttu-id="bee9b-234"><span>Non era possibile salvare le modifiche apportate alle dimensioni di un grafico</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-234"><span>Changes to a chart size could not be saved</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-239"><span>Evidenziare il testo poteva risultare problematico</span></span><span class="sxs-lookup"><span data-stu-id="78ede-239"><span>Highlighting text could be challenging</span></span></span></div>
+### <a name="publisher"></a><span data-ttu-id="bee9b-235">Publisher</span><span class="sxs-lookup"><span data-stu-id="bee9b-235">Publisher</span></span>
+
+- <div><span data-ttu-id="bee9b-236"><span>Le forme potevano essere visualizzate fuori dal bordo dell'elemento grafico</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-236"><span>Shapes could appear outside of the graphics border</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-240"><span>Poteva non essere possibile passare a un singolo elemento nell'editor</span></span><span class="sxs-lookup"><span data-stu-id="78ede-240"><span>A user could be prevented from navigating to an individual item in the editor</span></span></span></div>
+### <a name="word"></a><span data-ttu-id="bee9b-237">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-237">Word</span></span>
+
+- <div><span data-ttu-id="bee9b-238"><span>Le forme potevano essere visualizzate fuori dal bordo dell'elemento grafico</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-238"><span>Shapes could appear outside of the graphics border</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-241"><span>Alcuni errori grammaticali o ortografici potevano non essere segnalati</span></span><span class="sxs-lookup"><span data-stu-id="78ede-241"><span>Grammar or spelling errors might not be highlighted</span></span></span></div>
+- <div><span data-ttu-id="bee9b-239"><span>Evidenziare il testo poteva risultare problematico</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-239"><span>Highlighting text could be challenging</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-242"><span>Non era possibile salvare le modifiche apportate alle dimensioni di un grafico</span></span><span class="sxs-lookup"><span data-stu-id="78ede-242"><span>Changes to a chart size could not be saved</span></span></span></div>
+- <div><span data-ttu-id="bee9b-240"><span>Poteva non essere possibile passare a un singolo elemento nell'editor</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-240"><span>A user could be prevented from navigating to an individual item in the editor</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-243"><span>Poteva risultare impossibile aprire una scheda contatto dopo aver applicato la formattazione a una @menzione</span></span><span class="sxs-lookup"><span data-stu-id="78ede-243"><span>A contact card could be prevented from opening after apply formatting to an @ mention</span></span></span></div>
+- <div><span data-ttu-id="bee9b-241"><span>Alcuni errori grammaticali o ortografici potevano non essere segnalati</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-241"><span>Grammar or spelling errors might not be highlighted</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-244"><span>È stato risolto un problema per cui può non essere possibile salvare documenti Word, Excel e PowerPoint.&nbsp; Questo problema interessa gli utenti che creano un nuovo file e visualizzano la finestra di dialogo &quot;Salva come modello&quot; dopo aver fatto clic sull'icona Salva o aver premuto CTRL+S.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-244"><span>Resolvedan issue where users may be unable to save Word, Excel, and PowerPoint documents.&nbsp; This issue affects users that create a new file and bring up the &quot;Save as Model Dialog&quot; option after clicking on the Save icon or pressing Ctrl + S.</span></span></span></div>
+- <div><span data-ttu-id="bee9b-242"><span>Non era possibile salvare le modifiche apportate alle dimensioni di un grafico</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-242"><span>Changes to a chart size could not be saved</span></span></span></div>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-245">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-245">Office Suite</span></span>
+- <div><span data-ttu-id="bee9b-243"><span>Poteva risultare impossibile aprire una scheda contatto dopo aver applicato la formattazione a una @menzione</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-243"><span>A contact card could be prevented from opening after apply formatting to an @ mention</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-246"><span>Problema di prestazioni correlato all'uso delle forme in Windows 7</span></span><span class="sxs-lookup"><span data-stu-id="78ede-246"><span>Performance issue when using Shapes on Windows 7</span></span></span></div>
+
+- <div><span data-ttu-id="bee9b-244"><span>È stato risolto un problema per cui può non essere possibile salvare documenti Word, Excel e PowerPoint.&nbsp; Questo problema interessa gli utenti che creano un nuovo file e visualizzano la finestra di dialogo &quot;Salva come modello&quot; dopo aver fatto clic sull'icona Salva o aver premuto CTRL+S.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-244"><span>Resolvedan issue where users may be unable to save Word, Excel, and PowerPoint documents.&nbsp; This issue affects users that create a new file and bring up the &quot;Save as Model Dialog&quot; option after clicking on the Save icon or pressing Ctrl + S.</span></span></span></div>
+
+
+### <a name="office-suite"></a><span data-ttu-id="bee9b-245">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-245">Office Suite</span></span>
+
+- <div><span data-ttu-id="bee9b-246"><span>Problema di prestazioni correlato all'uso delle forme in Windows 7</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-246"><span>Performance issue when using Shapes on Windows 7</span></span></span></div>
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1911-october-18"></a><span data-ttu-id="78ede-248">Versione 1911: 18 ottobre</span><span class="sxs-lookup"><span data-stu-id="78ede-248">Version 1911: October 18</span></span>
-<span data-ttu-id="78ede-249">*Versione 1911 (Build 12209.20010)*</span><span class="sxs-lookup"><span data-stu-id="78ede-249">*Version 1911 (Build 12209.20010)*</span></span>
+## <a name="version-1911-october-18"></a><span data-ttu-id="bee9b-248">Versione 1911: 18 ottobre</span><span class="sxs-lookup"><span data-stu-id="bee9b-248">Version 1911: October 18</span></span>
+<span data-ttu-id="bee9b-249">*Versione 1911 (Build 12209.20010)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-249">*Version 1911 (Build 12209.20010)*</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-### <a name="feature-updates"></a><span data-ttu-id="78ede-251">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-251">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="78ede-252">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-252">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="bee9b-251">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-251">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-252">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-252">Outlook</span></span>
 
-- <span data-ttu-id="78ede-253">**Invio di messaggi accessibili a chi ne ha bisogno:** in Outlook viene visualizzato un suggerimento per i messaggi che consente di assicurarne l'accessibilità dei contenuti durante l'invio a un utente che preferisce contenuti accessibili</span><span class="sxs-lookup"><span data-stu-id="78ede-253">**Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content</span></span>
+- <span data-ttu-id="bee9b-253">**Invio di messaggi accessibili a chi ne ha bisogno:** in Outlook viene visualizzato un suggerimento per i messaggi che consente di assicurarne l'accessibilità dei contenuti durante l'invio a un utente che preferisce contenuti accessibili</span><span class="sxs-lookup"><span data-stu-id="bee9b-253">**Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-254">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-254">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-254">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-254">PowerPoint</span></span>
 
-- <span data-ttu-id="78ede-255">**Ottimizzazione della presentazione per tutti:** Verifica accessibilità consente di organizzare gli oggetti nelle diapositive tenendo in considerazione le utilità per la lettura dello schermo.</span><span class="sxs-lookup"><span data-stu-id="78ede-255">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
+- <span data-ttu-id="bee9b-255">**Ottimizzazione della presentazione per tutti:** Verifica accessibilità consente di organizzare gli oggetti nelle diapositive tenendo in considerazione le utilità per la lettura dello schermo.</span><span class="sxs-lookup"><span data-stu-id="bee9b-255">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-256">Applicazioni Office</span><span class="sxs-lookup"><span data-stu-id="78ede-256">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="bee9b-256">Applicazioni Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-256">Office Suite</span></span>
 
-- <span data-ttu-id="78ede-257">**L'Upload Center verrà sostituito dall'esperienza File che richiedono attenzione:** l'Upload Center sarà sostituito dall'esperienza File che richiedono attenzione visualizzata all'interno delle applicazioni Office in File > Apri.</span><span class="sxs-lookup"><span data-stu-id="78ede-257">**The Upload Center is being replaced by the Files Needing Attention experience:** The Upload Center is being replaced by the Files Needing Attention experience that will show up inside the Office applications under File > Open.</span></span> <span data-ttu-id="78ede-258">Questa nuova esperienza è più moderna, integrata e meno intrusiva rispetto all'Upload Center.</span><span class="sxs-lookup"><span data-stu-id="78ede-258">This new experience is more modern, integrated, and less intrusive compared to the Upload Center.</span></span>
+- <span data-ttu-id="bee9b-257">**L'Upload Center verrà sostituito dall'esperienza File che richiedono attenzione:** l'Upload Center sarà sostituito dall'esperienza File che richiedono attenzione visualizzata all'interno delle applicazioni Office in File > Apri.</span><span class="sxs-lookup"><span data-stu-id="bee9b-257">**The Upload Center is being replaced by the Files Needing Attention experience:** The Upload Center is being replaced by the Files Needing Attention experience that will show up inside the Office applications under File > Open.</span></span> <span data-ttu-id="bee9b-258">Questa nuova esperienza è più moderna, integrata e meno intrusiva rispetto all'Upload Center.</span><span class="sxs-lookup"><span data-stu-id="bee9b-258">This new experience is more modern, integrated, and less intrusive compared to the Upload Center.</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -382,118 +382,118 @@ ms.locfileid: "38669835"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="non-security-updates"></a><span data-ttu-id="78ede-261">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="78ede-261">Non-security updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-262">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-262">Excel</span></span>
+### <a name="non-security-updates"></a><span data-ttu-id="bee9b-261">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="bee9b-261">Non-security updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-262">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-262">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-263"><span>È stato risolto un problema per cui i controlli delle caselle di controllo potevano ridursi quando veniva usato l'adattamento automatico per regolare l'altezza delle righe</span></span><span class="sxs-lookup"><span data-stu-id="78ede-263"><span>Resolved an issue where check box controls could shrink when using autofit to adjust row height</span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-264"><span>È stato risolto un problema per cui selezionare una cella dopo lo scorrimento poteva comportare la selezione della cella sbagliata</span></span><span class="sxs-lookup"><span data-stu-id="78ede-264"><span>Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected</span></span></span></div>
+- <div><span data-ttu-id="bee9b-263"><span>È stato risolto un problema per cui i controlli delle caselle di controllo potevano ridursi quando veniva usato l'adattamento automatico per regolare l'altezza delle righe</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-263"><span>Resolved an issue where check box controls could shrink when using autofit to adjust row height</span></span></span></div>
 
 
-### <a name="outlook"></a><span data-ttu-id="78ede-265">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-265">Outlook</span></span>
-
-- <div><span data-ttu-id="78ede-266"><span>È stato rilevato un problema che causava il danneggiamento della firma digitale quando si firmava un messaggio di posta elettronica con un allegato con firma digitale</span></span><span class="sxs-lookup"><span data-stu-id="78ede-266"><span>Identified an issue which could cause digital signatures to become broken when signing an e-mail with a digitally signed attachment</span></span></span></div>
+- <div><span data-ttu-id="bee9b-264"><span>È stato risolto un problema per cui selezionare una cella dopo lo scorrimento poteva comportare la selezione della cella sbagliata</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-264"><span>Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-267"><span>È stato rilevato un problema per cui i nomi file lunghi venivano troncati dopo il trascinamento e il rilascio nel corpo del messaggio</span></span><span class="sxs-lookup"><span data-stu-id="78ede-267"><span>Identified an issue where long filenames were truncated after draging and droping to the message body</span></span></span></div>
+### <a name="outlook"></a><span data-ttu-id="bee9b-265">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-265">Outlook</span></span>
+
+- <div><span data-ttu-id="bee9b-266"><span>È stato rilevato un problema che causava il danneggiamento della firma digitale quando si firmava un messaggio di posta elettronica con un allegato con firma digitale</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-266"><span>Identified an issue which could cause digital signatures to become broken when signing an e-mail with a digitally signed attachment</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-268">È stato rilevato un problema per cui la casella di ricerca spariva quando la barra multifunzione era impostata su Nascondi automaticamente</span><span class="sxs-lookup"><span data-stu-id="78ede-268">Identified an issue where the search box could disappear when the ribbon is set to hide automatically</span></span></div>
+- <div><span data-ttu-id="bee9b-267"><span>È stato rilevato un problema per cui i nomi file lunghi venivano troncati dopo il trascinamento e il rilascio nel corpo del messaggio</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-267"><span>Identified an issue where long filenames were truncated after draging and droping to the message body</span></span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-269">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-269">PowerPoint</span></span>
-
-- <div><span data-ttu-id="78ede-270"><span>È stato rilevato un problema per cui le proporzioni dell'anteprima delle diapositive non venivano bloccate/sbloccate correttamente</span></span><span class="sxs-lookup"><span data-stu-id="78ede-270"><span>Identified an issuewhere aspect ratio for the slide preview was not being properly locked/unlocked</span></span></span></div>
-
-### <a name="project"></a><span data-ttu-id="78ede-271">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-271">Project</span></span>
-
-- <div><span data-ttu-id="78ede-272">È stato rilevato un problema per cui le note venivano cancellate se aggiunte durante operazioni di aggiornamento</span><span class="sxs-lookup"><span data-stu-id="78ede-272">Identified an issue where notes might not persist if entered while doing update tasks</span></span><br></div>
+- <div><span data-ttu-id="bee9b-268">È stato rilevato un problema per cui la casella di ricerca spariva quando la barra multifunzione era impostata su Nascondi automaticamente</span><span class="sxs-lookup"><span data-stu-id="bee9b-268">Identified an issue where the search box could disappear when the ribbon is set to hide automatically</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-273">È stato rilevato un problema per cui un file poteva venire bloccato da un utente, ma nel messaggio di errore non veniva visualizzato alcun nome utente</span><span class="sxs-lookup"><span data-stu-id="78ede-273">Identified an issue where a file could be locked by a user, but no username would be displayed in the error message</span></span></div>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-269">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-269">PowerPoint</span></span>
+
+- <div><span data-ttu-id="bee9b-270"><span>È stato rilevato un problema per cui le proporzioni dell'anteprima delle diapositive non venivano bloccate/sbloccate correttamente</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-270"><span>Identified an issuewhere aspect ratio for the slide preview was not being properly locked/unlocked</span></span></span></div>
+
+### <a name="project"></a><span data-ttu-id="bee9b-271">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-271">Project</span></span>
+
+- <div><span data-ttu-id="bee9b-272">È stato rilevato un problema per cui le note venivano cancellate se aggiunte durante operazioni di aggiornamento</span><span class="sxs-lookup"><span data-stu-id="bee9b-272">Identified an issue where notes might not persist if entered while doing update tasks</span></span><br></div>
 
 
-- <div><span data-ttu-id="78ede-274"><span>È stato rilevato un problema per cui gli utenti visualizzavano diversi messaggi quando aprivano un progetto di sola lettura</span></span><span class="sxs-lookup"><span data-stu-id="78ede-274"><span>Identified an issue where users could get several messages when opening a read-only project</span></span></span></div>
+- <div><span data-ttu-id="bee9b-273">È stato rilevato un problema per cui un file poteva venire bloccato da un utente, ma nel messaggio di errore non veniva visualizzato alcun nome utente</span><span class="sxs-lookup"><span data-stu-id="bee9b-273">Identified an issue where a file could be locked by a user, but no username would be displayed in the error message</span></span></div>
 
 
-### <a name="word"></a><span data-ttu-id="78ede-275">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-275">Word</span></span>
-
-- <div><span data-ttu-id="78ede-276"><span>È stato rilevato un problema durante la visualizzazione dei commenti con un'utilità per la lettura dello schermo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-276"><span>Identified an issue when viewing comments while using a screen reader</span></span></span></div>
+- <div><span data-ttu-id="bee9b-274"><span>È stato rilevato un problema per cui gli utenti visualizzavano diversi messaggi quando aprivano un progetto di sola lettura</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-274"><span>Identified an issue where users could get several messages when opening a read-only project</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-277"><span>È stato rilevato un problema per cui alcune critiche venivano identificate come errori di ortografia o grammatica</span></span><span class="sxs-lookup"><span data-stu-id="78ede-277"><span>Identified an issue where some critiques were misidentified as being spelling or grammar critiques</span></span></span></div>
+### <a name="word"></a><span data-ttu-id="bee9b-275">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-275">Word</span></span>
+
+- <div><span data-ttu-id="bee9b-276"><span>È stato rilevato un problema durante la visualizzazione dei commenti con un'utilità per la lettura dello schermo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-276"><span>Identified an issue when viewing comments while using a screen reader</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-278"><span>È stato rilevato un problema per cui una nuova finestra di dialogo commento poteva non ottenere lo stato attivo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-278"><span>Identified an issue where a new comment dialog could sometimes not obtain focus</span></span></span></div>
+- <div><span data-ttu-id="bee9b-277"><span>È stato rilevato un problema per cui alcune critiche venivano identificate come errori di ortografia o grammatica</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-277"><span>Identified an issue where some critiques were misidentified as being spelling or grammar critiques</span></span></span></div>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-279">Applicazioni Office</span><span class="sxs-lookup"><span data-stu-id="78ede-279">Office Suite</span></span>
+- <div><span data-ttu-id="bee9b-278"><span>È stato rilevato un problema per cui una nuova finestra di dialogo commento poteva non ottenere lo stato attivo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-278"><span>Identified an issue where a new comment dialog could sometimes not obtain focus</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-280"><span>È stato risolto un problema per cui un aggiornamento potrebbe essere impedito da un messaggio errato di errore di &quot;un'altra installazione in corso&quot;</span></span><span class="sxs-lookup"><span data-stu-id="78ede-280"><span>We fixed an issue where an upgrade could be prevented by a incorrect error message of &quot;Another install in progress&quot;</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-281"><span>È stato rilevato problema che poteva influire sulla sincronizzazione di una risorsa locale con una risorsa cloud</span></span><span class="sxs-lookup"><span data-stu-id="78ede-281"><span>Identified an issue which could affect syncing from a local resource to a cloud resource</span></span></span></div>
+### <a name="office-suite"></a><span data-ttu-id="bee9b-279">Applicazioni Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-279">Office Suite</span></span>
 
-- <div><span data-ttu-id="78ede-282"><span>È stato rilevato un problema per cui un messaggio di benvenuto conteneva un collegamento non valido</span></span><span class="sxs-lookup"><span data-stu-id="78ede-282"><span>Identified an issue where a welcome message contained an invalid link</span></span></span></div>
+- <div><span data-ttu-id="bee9b-280"><span>È stato risolto un problema per cui un aggiornamento potrebbe essere impedito da un messaggio errato di errore di &quot;un'altra installazione in corso&quot;</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-280"><span>We fixed an issue where an upgrade could be prevented by a incorrect error message of &quot;Another install in progress&quot;</span></span></span></div>
+
+- <div><span data-ttu-id="bee9b-281"><span>È stato rilevato problema che poteva influire sulla sincronizzazione di una risorsa locale con una risorsa cloud</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-281"><span>Identified an issue which could affect syncing from a local resource to a cloud resource</span></span></span></div>
+
+- <div><span data-ttu-id="bee9b-282"><span>È stato rilevato un problema per cui un messaggio di benvenuto conteneva un collegamento non valido</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-282"><span>Identified an issue where a welcome message contained an invalid link</span></span></span></div>
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1910-october-11"></a><span data-ttu-id="78ede-284">Versione 1910: 11 ottobre</span><span class="sxs-lookup"><span data-stu-id="78ede-284">Version 1910: October 11</span></span>
-<span data-ttu-id="78ede-285">*Versione 1910 (Build 12130.20112)*</span><span class="sxs-lookup"><span data-stu-id="78ede-285">*Version 1910 (Build 12130.20112)*</span></span>
+## <a name="version-1910-october-11"></a><span data-ttu-id="bee9b-284">Versione 1910: 11 ottobre</span><span class="sxs-lookup"><span data-stu-id="bee9b-284">Version 1910: October 11</span></span>
+<span data-ttu-id="bee9b-285">*Versione 1910 (Build 12130.20112)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-285">*Version 1910 (Build 12130.20112)*</span></span>
 
 
 [//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="non-security-updates"></a><span data-ttu-id="78ede-289">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="78ede-289">Non-security updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-290">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-290">Excel</span></span>
+### <a name="non-security-updates"></a><span data-ttu-id="bee9b-289">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="bee9b-289">Non-security updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-290">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-290">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-291">È stato risolto un problema relativo all'inserimento di file come oggetti da OneDrive</span><span class="sxs-lookup"><span data-stu-id="78ede-291">Resolved an issue in inserting files as object from OneDrive</span></span></div>
-
-
-- <div><span data-ttu-id="78ede-292">È stato risolto un problema per cui era possibile che il formato collegamento ipertestuale non venisse applicato correttamente a determinati tipi di contenuto</span><span class="sxs-lookup"><span data-stu-id="78ede-292">Resolved an issue where the hyperlink format could not be properly applied to some content</span></span></div>
+- <div><span data-ttu-id="bee9b-291">È stato risolto un problema relativo all'inserimento di file come oggetti da OneDrive</span><span class="sxs-lookup"><span data-stu-id="bee9b-291">Resolved an issue in inserting files as object from OneDrive</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-293">È stato risolto un problema per cui le formule che contenevano riferimenti assoluti strutturati potevano essere adattate in modo non corretto</span><span class="sxs-lookup"><span data-stu-id="78ede-293">Resolved an issue where formulas containing structured absolute references may be adjusted incorrectly</span></span></div>
+- <div><span data-ttu-id="bee9b-292">È stato risolto un problema per cui era possibile che il formato collegamento ipertestuale non venisse applicato correttamente a determinati tipi di contenuto</span><span class="sxs-lookup"><span data-stu-id="bee9b-292">Resolved an issue where the hyperlink format could not be properly applied to some content</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-294">È stato risolto un problema per cui le cartelle di lavoro create in versioni precedenti di Office potevano causare il blocco di Excel se aperte nelle versioni correnti di Office</span><span class="sxs-lookup"><span data-stu-id="78ede-294">Resolved an issue where workbooks created in earlier versions of Office could cause Excel to hang when opened in current versions of Office</span></span></div>
+- <div><span data-ttu-id="bee9b-293">È stato risolto un problema per cui le formule che contenevano riferimenti assoluti strutturati potevano essere adattate in modo non corretto</span><span class="sxs-lookup"><span data-stu-id="bee9b-293">Resolved an issue where formulas containing structured absolute references may be adjusted incorrectly</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-295">È stato risolto un problema per cui il contenuto copiato da Excel poteva risultare non corretto se incollato in altre applicazioni di Office</span><span class="sxs-lookup"><span data-stu-id="78ede-295">Resolved an issue where content copied from Excel could appear incorrect when pasted into other Office applications</span></span></div>
+- <div><span data-ttu-id="bee9b-294">È stato risolto un problema per cui le cartelle di lavoro create in versioni precedenti di Office potevano causare il blocco di Excel se aperte nelle versioni correnti di Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-294">Resolved an issue where workbooks created in earlier versions of Office could cause Excel to hang when opened in current versions of Office</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-296">Correzione per risolvere un problema relativo ai colori usati nelle anteprime quando si inseriscono grafici usando modelli di grafico</span><span class="sxs-lookup"><span data-stu-id="78ede-296">Fix to correct colors used in previews when inserting charts using chart templates</span></span></div>
+- <div><span data-ttu-id="bee9b-295">È stato risolto un problema per cui il contenuto copiato da Excel poteva risultare non corretto se incollato in altre applicazioni di Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-295">Resolved an issue where content copied from Excel could appear incorrect when pasted into other Office applications</span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-297">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-297">PowerPoint</span></span>
-
-- <div><span data-ttu-id="78ede-298">È stato rilevato un problema per cui i dispositivi ARC potrebbero perdere la connessione se in esecuzione in AirSpace WinComp</span><span class="sxs-lookup"><span data-stu-id="78ede-298">Identified an issue where ARC Devices could lose connection when running under AirSpace WinComp</span></span></div>
+- <div><span data-ttu-id="bee9b-296">Correzione per risolvere un problema relativo ai colori usati nelle anteprime quando si inseriscono grafici usando modelli di grafico</span><span class="sxs-lookup"><span data-stu-id="bee9b-296">Fix to correct colors used in previews when inserting charts using chart templates</span></span></div>
 
 
-### <a name="word"></a><span data-ttu-id="78ede-299">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-299">Word</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-297">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-297">PowerPoint</span></span>
 
-- <div><span data-ttu-id="78ede-300">È stato risolto un problema relativo all'inserimento di file come oggetti da OneDrive</span><span class="sxs-lookup"><span data-stu-id="78ede-300">Resolved an issue in inserting files as object from OneDrive</span></span></div>
+- <div><span data-ttu-id="bee9b-298">È stato rilevato un problema per cui i dispositivi ARC potrebbero perdere la connessione se in esecuzione in AirSpace WinComp</span><span class="sxs-lookup"><span data-stu-id="bee9b-298">Identified an issue where ARC Devices could lose connection when running under AirSpace WinComp</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-301">Sono stati migliorati i passaggi per la <span>risoluzione di un problema che causava l'eliminazione del contenuto grafico dai thread di posta elettronica.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="78ede-301">Improved our recovery steps to f<span>ix an issue that caused graphical content to get deleted from email threads.&nbsp;</span></span></span></div>
+### <a name="word"></a><span data-ttu-id="bee9b-299">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-299">Word</span></span>
+
+- <div><span data-ttu-id="bee9b-300">È stato risolto un problema relativo all'inserimento di file come oggetti da OneDrive</span><span class="sxs-lookup"><span data-stu-id="bee9b-300">Resolved an issue in inserting files as object from OneDrive</span></span></div>
+
+
+- <div><span data-ttu-id="bee9b-301">Sono stati migliorati i passaggi per la <span>risoluzione di un problema che causava l'eliminazione del contenuto grafico dai thread di posta elettronica.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-301">Improved our recovery steps to f<span>ix an issue that caused graphical content to get deleted from email threads.&nbsp;</span></span></span></div>
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1910-october-04"></a><span data-ttu-id="78ede-303">Versione 1910: 4 ottobre</span><span class="sxs-lookup"><span data-stu-id="78ede-303">Version 1910: October 04</span></span>
-<span data-ttu-id="78ede-304">*Versione 1910 (Build 12126.20000)*</span><span class="sxs-lookup"><span data-stu-id="78ede-304">*Version 1910 (Build 12126.20000)*</span></span>
+## <a name="version-1910-october-04"></a><span data-ttu-id="bee9b-303">Versione 1910: 4 ottobre</span><span class="sxs-lookup"><span data-stu-id="bee9b-303">Version 1910: October 04</span></span>
+<span data-ttu-id="bee9b-304">*Versione 1910 (Build 12126.20000)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-304">*Version 1910 (Build 12126.20000)*</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-### <a name="feature-updates"></a><span data-ttu-id="78ede-306">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-306">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-307">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-307">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="bee9b-306">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-306">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-307">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-307">Excel</span></span>
 
-- <span data-ttu-id="78ede-308">**Componente aggiuntivo Visualizzatore dati:** creazione rapida di diagrammi di flusso di Visio da Excel.</span><span class="sxs-lookup"><span data-stu-id="78ede-308">**Data visualizer add-in:** Quickly create Visio flowcharts from Excel.</span></span> [<span data-ttu-id="78ede-309">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-309">Learn more</span></span>](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- <span data-ttu-id="bee9b-308">**Componente aggiuntivo Visualizzatore dati:** creazione rapida di diagrammi di flusso di Visio da Excel.</span><span class="sxs-lookup"><span data-stu-id="bee9b-308">**Data visualizer add-in:** Quickly create Visio flowcharts from Excel.</span></span> [<span data-ttu-id="bee9b-309">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-309">Learn more</span></span>](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -501,104 +501,104 @@ ms.locfileid: "38669835"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="non-security-updates"></a><span data-ttu-id="78ede-312">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="78ede-312">Non-security updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-313">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-313">Excel</span></span>
+### <a name="non-security-updates"></a><span data-ttu-id="bee9b-312">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="bee9b-312">Non-security updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-313">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-313">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-314"><span>È stato risolto un problema per cui l'area di stampa in anteprima di stampa non era corretta</span></span><span class="sxs-lookup"><span data-stu-id="78ede-314"><span>We fixed an issue where the print area in print preview was not correct</span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-315"><span>È stato risolto un problema che poteva impedire l'aggiornamento delle tabelle pivot durante una sessione di creazione condivisa</span></span><span class="sxs-lookup"><span data-stu-id="78ede-315"><span>We fixed an issue which could have prevented pivot tables from being refreshed during a co-authoring session</span></span></span></div>
+- <div><span data-ttu-id="bee9b-314"><span>È stato risolto un problema per cui l'area di stampa in anteprima di stampa non era corretta</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-314"><span>We fixed an issue where the print area in print preview was not correct</span></span></span></div>
 
 
-### <a name="access"></a><span data-ttu-id="78ede-316">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-316">Access</span></span>
-
-- <div><span data-ttu-id="78ede-317">È stato risolto un problema per cui gli utenti potevano ricevere un errore di &quot;stato incoerente&quot; durante l'uso di un database condiviso.</span><span class="sxs-lookup"><span data-stu-id="78ede-317">We fixed an issue where users could receive an &quot;inconsistent state&quot; error when using a shared database.</span></span></div>
+- <div><span data-ttu-id="bee9b-315"><span>È stato risolto un problema che poteva impedire l'aggiornamento delle tabelle pivot durante una sessione di creazione condivisa</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-315"><span>We fixed an issue which could have prevented pivot tables from being refreshed during a co-authoring session</span></span></span></div>
 
 
-### <a name="outlook"></a><span data-ttu-id="78ede-318">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-318">Outlook</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-316">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-316">Access</span></span>
 
-- <div><span data-ttu-id="78ede-319"><span>È stato risolto un problema che poteva causare la duplicazione delle cartelle di posta elettronica</span></span><span class="sxs-lookup"><span data-stu-id="78ede-319"><span>We fixed an issue which could have caused duplication of mail folders</span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-320"><span>È stato risolto un problema che poteva causare un messaggio di errore non corretto tentando di inviare posta con crittografia S/MIME</span></span><span class="sxs-lookup"><span data-stu-id="78ede-320"><span>We fixed an issue which could have caused an incorrect error message when attempting to send s/MIME encrypted e-mail</span></span></span></div>
+- <div><span data-ttu-id="bee9b-317">È stato risolto un problema per cui gli utenti potevano ricevere un errore di &quot;stato incoerente&quot; durante l'uso di un database condiviso.</span><span class="sxs-lookup"><span data-stu-id="bee9b-317">We fixed an issue where users could receive an &quot;inconsistent state&quot; error when using a shared database.</span></span></div>
 
 
-- <div><span data-ttu-id="78ede-321"><span>È stato risolto un problema per cui la ricezione di un messaggio di "Conversazione non effettuata" da Skype poteva causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-321"><span>We fixed an issue which could sometimes result in a crash when a user receives a 'Missed Conversation' message from Skype</span></span></span></div>
+### <a name="outlook"></a><span data-ttu-id="bee9b-318">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-318">Outlook</span></span>
+
+- <div><span data-ttu-id="bee9b-319"><span>È stato risolto un problema che poteva causare la duplicazione delle cartelle di posta elettronica</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-319"><span>We fixed an issue which could have caused duplication of mail folders</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-322"><span>È stato risolto un problema che poteva causare la perdita di memoria</span></span><span class="sxs-lookup"><span data-stu-id="78ede-322"><span>We fixed an issue which could have resulted in a memory leak</span></span></span></div>
+- <div><span data-ttu-id="bee9b-320"><span>È stato risolto un problema che poteva causare un messaggio di errore non corretto tentando di inviare posta con crittografia S/MIME</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-320"><span>We fixed an issue which could have caused an incorrect error message when attempting to send s/MIME encrypted e-mail</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-323"><span>È stato risolto un problema che poteva causare la modifica del nome del mittente al salvataggio del messaggio come bozza</span></span><span class="sxs-lookup"><span data-stu-id="78ede-323"><span>We fixed an issue which could have caused the senders name to change when saved as a draft</span></span></span></div>
+- <div><span data-ttu-id="bee9b-321"><span>È stato risolto un problema per cui la ricezione di un messaggio di "Conversazione non effettuata" da Skype poteva causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-321"><span>We fixed an issue which could sometimes result in a crash when a user receives a 'Missed Conversation' message from Skype</span></span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-324">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-324">PowerPoint</span></span>
-
-- <div><span></span></div><span data-ttu-id="78ede-325">È stato risolto un problema che causava il danneggiamento degli intervalli di testo dopo aver incollato testo nei segnaposto intestazione/piè di pagina/numero diapositiva in schema diapositiva e layout diapositiva</span><span class="sxs-lookup"><span data-stu-id="78ede-325">We fixed an issue which could cause TextRanges to become broken after pasting text into the header/footer/slide number placeholders on slide master and slide layout</span></span>
+- <div><span data-ttu-id="bee9b-322"><span>È stato risolto un problema che poteva causare la perdita di memoria</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-322"><span>We fixed an issue which could have resulted in a memory leak</span></span></span></div>
 
 
-- <div><span></span></div><span data-ttu-id="78ede-326">È stato risolto un problema che impediva la creazione del collegamento ipertestuale incollando testo con un collegamento ipertestuale</span><span class="sxs-lookup"><span data-stu-id="78ede-326">We fixed an issue which prevented hyperlink from being created when pasting text with hyperlink</span></span>
+- <div><span data-ttu-id="bee9b-323"><span>È stato risolto un problema che poteva causare la modifica del nome del mittente al salvataggio del messaggio come bozza</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-323"><span>We fixed an issue which could have caused the senders name to change when saved as a draft</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-327">È stato risolto un problema che impediva il corretto funzionamento delle statistiche</span><span class="sxs-lookup"><span data-stu-id="78ede-327">We fixed an issue which would prevent statistics from working correctly</span></span></div>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-324">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-324">PowerPoint</span></span>
+
+- <div><span></span></div><span data-ttu-id="bee9b-325">È stato risolto un problema che causava il danneggiamento degli intervalli di testo dopo aver incollato testo nei segnaposto intestazione/piè di pagina/numero diapositiva in schema diapositiva e layout diapositiva</span><span class="sxs-lookup"><span data-stu-id="bee9b-325">We fixed an issue which could cause TextRanges to become broken after pasting text into the header/footer/slide number placeholders on slide master and slide layout</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="78ede-328">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-328">Word</span></span>
-
-- <div><span data-ttu-id="78ede-329"><span>È stato risolto un problema per cui i colori dei tipi di carattere non venivano applicati</span></span><span class="sxs-lookup"><span data-stu-id="78ede-329"><span>We fixed an issue where font colors were not being committed</span></span></span></div>
+- <div><span></span></div><span data-ttu-id="bee9b-326">È stato risolto un problema che impediva la creazione del collegamento ipertestuale incollando testo con un collegamento ipertestuale</span><span class="sxs-lookup"><span data-stu-id="bee9b-326">We fixed an issue which prevented hyperlink from being created when pasting text with hyperlink</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-330">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-330">Office Suite</span></span>
+- <div><span data-ttu-id="bee9b-327">È stato risolto un problema che impediva il corretto funzionamento delle statistiche</span><span class="sxs-lookup"><span data-stu-id="bee9b-327">We fixed an issue which would prevent statistics from working correctly</span></span></div>
 
-- <div><span data-ttu-id="78ede-331">È stato risolto un problema per cui poteva essere offerta la cronologia delle versioni anche se la funzionalità era disabilitata</span><span class="sxs-lookup"><span data-stu-id="78ede-331">We fixed an issue which could offer version history when that feature was disabled</span></span></div>
+
+### <a name="word"></a><span data-ttu-id="bee9b-328">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-328">Word</span></span>
+
+- <div><span data-ttu-id="bee9b-329"><span>È stato risolto un problema per cui i colori dei tipi di carattere non venivano applicati</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-329"><span>We fixed an issue where font colors were not being committed</span></span></span></div>
+
+
+### <a name="office-suite"></a><span data-ttu-id="bee9b-330">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-330">Office Suite</span></span>
+
+- <div><span data-ttu-id="bee9b-331">È stato risolto un problema per cui poteva essere offerta la cronologia delle versioni anche se la funzionalità era disabilitata</span><span class="sxs-lookup"><span data-stu-id="bee9b-331">We fixed an issue which could offer version history when that feature was disabled</span></span></div>
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1910-september-27"></a><span data-ttu-id="78ede-333">Versione 1910: 27 settembre</span><span class="sxs-lookup"><span data-stu-id="78ede-333">Version 1910: September 27</span></span>
-<span data-ttu-id="78ede-334">*Versione 1910 (Build 12119.20000)*</span><span class="sxs-lookup"><span data-stu-id="78ede-334">*Version 1910 (Build 12119.20000)*</span></span>
+## <a name="version-1910-september-27"></a><span data-ttu-id="bee9b-333">Versione 1910: 27 settembre</span><span class="sxs-lookup"><span data-stu-id="bee9b-333">Version 1910: September 27</span></span>
+<span data-ttu-id="bee9b-334">*Versione 1910 (Build 12119.20000)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-334">*Version 1910 (Build 12119.20000)*</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="non-security-updates"></a><span data-ttu-id="78ede-338">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="78ede-338">Non-security updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-339">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-339">Excel</span></span>
+### <a name="non-security-updates"></a><span data-ttu-id="bee9b-338">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="bee9b-338">Non-security updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-339">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-339">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-340"><span>È stato risolto un problema che poteva causare il rendering non corretto dei grafici a linee o a dispersione modificando la raccolta serie</span></span><span class="sxs-lookup"><span data-stu-id="78ede-340"><span>We fixed an issue which could have caused scatter line charts from rendering properly when changing the series collection</span></span></span></div>
-
-
-### <a name="outlook"></a><span data-ttu-id="78ede-341">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-341">Outlook</span></span>
-
-- <div><span data-ttu-id="78ede-342"><span>È stato risolto un problema che poteva causare la segnalazione di errori di autorizzazione durante l'interazione con cartelle di calendari condivisi</span></span><span class="sxs-lookup"><span data-stu-id="78ede-342"><span>We fixed an issue which could have reported permission errors when interacting with shared calendar folders</span></span></span></div>
+- <div><span data-ttu-id="bee9b-340"><span>È stato risolto un problema che poteva causare il rendering non corretto dei grafici a linee o a dispersione modificando la raccolta serie</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-340"><span>We fixed an issue which could have caused scatter line charts from rendering properly when changing the series collection</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-343"><span>È stato risolto un problema che poteva impedire agli utenti di aggiungere allegati ai calendari</span></span><span class="sxs-lookup"><span data-stu-id="78ede-343"><span>We fixed an issue which could have prevented users from adding attachments to calendars</span></span></span></div>
+### <a name="outlook"></a><span data-ttu-id="bee9b-341">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-341">Outlook</span></span>
+
+- <div><span data-ttu-id="bee9b-342"><span>È stato risolto un problema che poteva causare la segnalazione di errori di autorizzazione durante l'interazione con cartelle di calendari condivisi</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-342"><span>We fixed an issue which could have reported permission errors when interacting with shared calendar folders</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-344"><span>È stato risolto un problema che causava la visualizzazione di messaggi di errore rispondendo a un messaggio con firma digitale</span></span><span class="sxs-lookup"><span data-stu-id="78ede-344"><span>We fixed an issue which caused error messages to display when replying to a digitally signed message</span></span></span></div>
+- <div><span data-ttu-id="bee9b-343"><span>È stato risolto un problema che poteva impedire agli utenti di aggiungere allegati ai calendari</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-343"><span>We fixed an issue which could have prevented users from adding attachments to calendars</span></span></span></div>
 
 
-### <a name="word"></a><span data-ttu-id="78ede-345">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-345">Word</span></span>
-
-- <div><span data-ttu-id="78ede-346"><span>È stato risolto un problema che poteva causare problemi di ridimensionamento durante la stampa su stampanti Deskjet</span></span><span class="sxs-lookup"><span data-stu-id="78ede-346"><span>We fixed an issue which could have caused scaling issues when printing to Deskjet printers</span></span></span></div>
+- <div><span data-ttu-id="bee9b-344"><span>È stato risolto un problema che causava la visualizzazione di messaggi di errore rispondendo a un messaggio con firma digitale</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-344"><span>We fixed an issue which caused error messages to display when replying to a digitally signed message</span></span></span></div>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-347">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-347">Office Suite</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-345">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-345">Word</span></span>
 
-- <div><span data-ttu-id="78ede-348"><span>È stato risolto un problema per cui il testo in grassetto medio poteva essere reso con lo stile errato</span></span><span class="sxs-lookup"><span data-stu-id="78ede-348"><span>We fixed an issue where medium bold text could be incorrectly styled</span></span></span></div>
+- <div><span data-ttu-id="bee9b-346"><span>È stato risolto un problema che poteva causare problemi di ridimensionamento durante la stampa su stampanti Deskjet</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-346"><span>We fixed an issue which could have caused scaling issues when printing to Deskjet printers</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-349"><span>È stato risolto un problema per cui l'utente poteva ricevere un messaggio di errore non corretto alla chiusura di un file con caricamento in sospeso</span></span><span class="sxs-lookup"><span data-stu-id="78ede-349"><span>We fixed an issue where a user could be given an incorrect error message when closing a file with a pending upload</span></span></span></div>
+### <a name="office-suite"></a><span data-ttu-id="bee9b-347">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-347">Office Suite</span></span>
+
+- <div><span data-ttu-id="bee9b-348"><span>È stato risolto un problema per cui il testo in grassetto medio poteva essere reso con lo stile errato</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-348"><span>We fixed an issue where medium bold text could be incorrectly styled</span></span></span></div>
+
+
+- <div><span data-ttu-id="bee9b-349"><span>È stato risolto un problema per cui l'utente poteva ricevere un messaggio di errore non corretto alla chiusura di un file con caricamento in sospeso</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-349"><span>We fixed an issue where a user could be given an incorrect error message when closing a file with a pending upload</span></span></span></div>
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1910-september-20"></a><span data-ttu-id="78ede-351">Versione 1910: 20 settembre</span><span class="sxs-lookup"><span data-stu-id="78ede-351">Version 1910: September 20</span></span>
-<span data-ttu-id="78ede-352">*Versione 1910 (Build 12112.20000)*</span><span class="sxs-lookup"><span data-stu-id="78ede-352">*Version 1910 (Build 12112.20000)*</span></span>
+## <a name="version-1910-september-20"></a><span data-ttu-id="bee9b-351">Versione 1910: 20 settembre</span><span class="sxs-lookup"><span data-stu-id="bee9b-351">Version 1910: September 20</span></span>
+<span data-ttu-id="bee9b-352">*Versione 1910 (Build 12112.20000)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-352">*Version 1910 (Build 12112.20000)*</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -610,94 +610,94 @@ ms.locfileid: "38669835"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="non-security-updates"></a><span data-ttu-id="78ede-356">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="78ede-356">Non-security updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-357">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-357">Excel</span></span>
+### <a name="non-security-updates"></a><span data-ttu-id="bee9b-356">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="bee9b-356">Non-security updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-357">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-357">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-358"><span>È stato risolto un problema per cui Excel poteva talvolta bloccarsi all'avvio</span></span><span class="sxs-lookup"><span data-stu-id="78ede-358"><span>We fixed an issue where Excel could sometimes hang at launch</span></span></span></div>
+- <div><span data-ttu-id="bee9b-358"><span>È stato risolto un problema per cui Excel poteva talvolta bloccarsi all'avvio</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-358"><span>We fixed an issue where Excel could sometimes hang at launch</span></span></span></div>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-359">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-359">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-359">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-359">Outlook</span></span>
 
-- <div><span data-ttu-id="78ede-360"><span>Sono state notevolmente migliorate le prestazioni di selezione della sala quando sono disponibili numerose sale</span></span><span class="sxs-lookup"><span data-stu-id="78ede-360"><span>We significantly improved the performance of room selection when there are a large number of rooms available</span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-361"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">È stato risolto un problema che può impedire la sincronizzazione della cassetta postale per i clienti che hanno più cassette postali di Outlook quando si esegue la migrazione all'autenticazione moderna in Office 365.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-361"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">We fixed an issue that can prevent mailbox sync for customers with multiple mailboxes in Outlook when migrating to modern authentication in Office 365.</span></span></span><br></div>
+- <div><span data-ttu-id="bee9b-360"><span>Sono state notevolmente migliorate le prestazioni di selezione della sala quando sono disponibili numerose sale</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-360"><span>We significantly improved the performance of room selection when there are a large number of rooms available</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-362"><span>È stato risolto un problema per cui alcuni caratteri nelle etichette delle firme non vengono visualizzati nel menu a discesa</span></span><span class="sxs-lookup"><span data-stu-id="78ede-362"><span>We fixed an issue where some characters in signature labels would not display in the dropdown menu</span></span></span></div>
+- <div><span data-ttu-id="bee9b-361"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">È stato risolto un problema che può impedire la sincronizzazione della cassetta postale per i clienti che hanno più cassette postali di Outlook quando si esegue la migrazione all'autenticazione moderna in Office 365.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-361"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">We fixed an issue that can prevent mailbox sync for customers with multiple mailboxes in Outlook when migrating to modern authentication in Office 365.</span></span></span><br></div>
 
 
-### <a name="project"></a><span data-ttu-id="78ede-363">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-363">Project</span></span>
-
-- <div><span data-ttu-id="78ede-364"><span>È stato risolto un problema che poteva causare un arresto anomalo sostituendo una risorsa dell'organizzazione con una risorsa locale</span></span><span class="sxs-lookup"><span data-stu-id="78ede-364"><span>We fixed an issue which could cause a crash when replacing an enterprise resource with a local resource</span></span></span></div>
+- <div><span data-ttu-id="bee9b-362"><span>È stato risolto un problema per cui alcuni caratteri nelle etichette delle firme non vengono visualizzati nel menu a discesa</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-362"><span>We fixed an issue where some characters in signature labels would not display in the dropdown menu</span></span></span></div>
 
 
-### <a name="word"></a><span data-ttu-id="78ede-365">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-365">Word</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-363">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-363">Project</span></span>
 
-- <div><span data-ttu-id="78ede-366"><span>È stato risolto un problema che poteva impedire il funzionamento corretto dello scorrimento sincrono in visualizzazione Bozza</span></span><span class="sxs-lookup"><span data-stu-id="78ede-366"><span>We fixed an issue which could prevent synchronous scrolling from working properly in draft view</span></span></span></div>
+- <div><span data-ttu-id="bee9b-364"><span>È stato risolto un problema che poteva causare un arresto anomalo sostituendo una risorsa dell'organizzazione con una risorsa locale</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-364"><span>We fixed an issue which could cause a crash when replacing an enterprise resource with a local resource</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-367">È stato risolto un problema che poteva impedire la visualizzazione corretta delle descrizioni comandi dopo aver salvato un documento per la prima volta</span><span class="sxs-lookup"><span data-stu-id="78ede-367">We fixed an issue which could prevent Tool Tips from displaying properly after saving a document for the first time</span></span></div>
+### <a name="word"></a><span data-ttu-id="bee9b-365">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-365">Word</span></span>
+
+- <div><span data-ttu-id="bee9b-366"><span>È stato risolto un problema che poteva impedire il funzionamento corretto dello scorrimento sincrono in visualizzazione Bozza</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-366"><span>We fixed an issue which could prevent synchronous scrolling from working properly in draft view</span></span></span></div>
+
+
+- <div><span data-ttu-id="bee9b-367">È stato risolto un problema che poteva impedire la visualizzazione corretta delle descrizioni comandi dopo aver salvato un documento per la prima volta</span><span class="sxs-lookup"><span data-stu-id="bee9b-367">We fixed an issue which could prevent Tool Tips from displaying properly after saving a document for the first time</span></span></div>
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1910-september-13"></a><span data-ttu-id="78ede-369">Versione 1910: 13 settembre</span><span class="sxs-lookup"><span data-stu-id="78ede-369">Version 1910: September 13</span></span>
-<span data-ttu-id="78ede-370">*Versione 1910 (Build 12105.20000)*</span><span class="sxs-lookup"><span data-stu-id="78ede-370">*Version 1910 (Build 12105.20000)*</span></span>
+## <a name="version-1910-september-13"></a><span data-ttu-id="bee9b-369">Versione 1910: 13 settembre</span><span class="sxs-lookup"><span data-stu-id="bee9b-369">Version 1910: September 13</span></span>
+<span data-ttu-id="bee9b-370">*Versione 1910 (Build 12105.20000)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-370">*Version 1910 (Build 12105.20000)*</span></span>
 
 
 [//]: # (NON RIMUOVERE INIZIO CONTENUTO DETTAGLI DEL BUG)
 
-### <a name="non-security-updates"></a><span data-ttu-id="78ede-372">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="78ede-372">Non-security updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-373">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-373">Excel</span></span>
+### <a name="non-security-updates"></a><span data-ttu-id="bee9b-372">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="bee9b-372">Non-security updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-373">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-373">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-374"><span>È stato risolto un problema che poteva impedire a un utente di incollare collegamenti ipertestuali in alcuni fogli protetti</span></span><span class="sxs-lookup"><span data-stu-id="78ede-374"><span>We fixed an issue which could prevent a user from pasting hyperlinks in some protected sheets</span></span></span></div>
-
-
-### <a name="outlook"></a><span data-ttu-id="78ede-375">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-375">Outlook</span></span>
-
-- <div><span data-ttu-id="78ede-376"><span>È stato risolto un problema per cui l'interfaccia utente poteva rimanere bloccata in una visualizzazione compatta</span></span><span class="sxs-lookup"><span data-stu-id="78ede-376"><span>We fixed an issue where the UI could get stuck in a compact view</span></span></span></div>
+- <div><span data-ttu-id="bee9b-374"><span>È stato risolto un problema che poteva impedire a un utente di incollare collegamenti ipertestuali in alcuni fogli protetti</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-374"><span>We fixed an issue which could prevent a user from pasting hyperlinks in some protected sheets</span></span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-377">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-377">PowerPoint</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-375">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-375">Outlook</span></span>
 
-- <div><span data-ttu-id="78ede-378"><span>È stato risolto un problema per cui poteva verificarsi un errore durante la stampa in formato PDF</span></span><span class="sxs-lookup"><span data-stu-id="78ede-378"><span>We fixed an issue where a user could experience an error upon printing to PDF</span></span></span></div>
-
-
-### <a name="project"></a><span data-ttu-id="78ede-379">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-379">Project</span></span>
-
-- <div><span data-ttu-id="78ede-380"><span>È stato risolto un problema per cui <span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">le modifiche apportate a un valore di lavoro per un'attività di riepilogo potevano causare un arresto anomalo se era abilitato il lavoro protetto</span></span></span><span class="sxs-lookup"><span data-stu-id="78ede-380"><span>We fixed an issue where <span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">changes to a work value on a summary task could cause a crash if protected work is enabled</span></span></span></span></div>
+- <div><span data-ttu-id="bee9b-376"><span>È stato risolto un problema per cui l'interfaccia utente poteva rimanere bloccata in una visualizzazione compatta</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-376"><span>We fixed an issue where the UI could get stuck in a compact view</span></span></span></div>
 
 
-- <span data-ttu-id="78ede-381"><font size=2 style="background-color:rgb(255, 255, 255);">È stato risolto un problema che poteva impedire la sincronizzazione degli eventi con i calendari dell'organizzazione</font></span><span class="sxs-lookup"><span data-stu-id="78ede-381"><font size=2 style="background-color:rgb(255, 255, 255);">We fixed an issue which could inhibit the ability to sync events with enterprise calendars</font></span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-377">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-377">PowerPoint</span></span>
+
+- <div><span data-ttu-id="bee9b-378"><span>È stato risolto un problema per cui poteva verificarsi un errore durante la stampa in formato PDF</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-378"><span>We fixed an issue where a user could experience an error upon printing to PDF</span></span></span></div>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-382">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-382">Office Suite</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-379">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-379">Project</span></span>
 
-- <div><span data-ttu-id="78ede-383"><span>È stato risolto un problema che poteva comportare un avviso ripetuto per l'eliminazione delle versioni locali di un file</span></span><span class="sxs-lookup"><span data-stu-id="78ede-383"><span>We fixed an issue which could cause a repeated warning to discard local versions of a file</span></span></span></div>
+- <div><span data-ttu-id="bee9b-380"><span>È stato risolto un problema per cui <span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">le modifiche apportate a un valore di lavoro per un'attività di riepilogo potevano causare un arresto anomalo se era abilitato il lavoro protetto</span></span></span><span class="sxs-lookup"><span data-stu-id="bee9b-380"><span>We fixed an issue where <span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">changes to a work value on a summary task could cause a crash if protected work is enabled</span></span></span></span></div>
+
+
+- <span data-ttu-id="bee9b-381"><font size=2 style="background-color:rgb(255, 255, 255);">È stato risolto un problema che poteva impedire la sincronizzazione degli eventi con i calendari dell'organizzazione</font></span><span class="sxs-lookup"><span data-stu-id="bee9b-381"><font size=2 style="background-color:rgb(255, 255, 255);">We fixed an issue which could inhibit the ability to sync events with enterprise calendars</font></span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="bee9b-382">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-382">Office Suite</span></span>
+
+- <div><span data-ttu-id="bee9b-383"><span>È stato risolto un problema che poteva comportare un avviso ripetuto per l'eliminazione delle versioni locali di un file</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-383"><span>We fixed an issue which could cause a repeated warning to discard local versions of a file</span></span></span></div>
 
 
 
 [//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEL BUG)
 
-## <a name="version-1910-september-06"></a><span data-ttu-id="78ede-385">Versione 1910: 6 settembre</span><span class="sxs-lookup"><span data-stu-id="78ede-385">Version 1910: September 06</span></span>
-<span data-ttu-id="78ede-386">*Versione 1910 (Build 12030.20004)*</span><span class="sxs-lookup"><span data-stu-id="78ede-386">*Version 1910 (Build 12030.20004)*</span></span>
+## <a name="version-1910-september-06"></a><span data-ttu-id="bee9b-385">Versione 1910: 6 settembre</span><span class="sxs-lookup"><span data-stu-id="bee9b-385">Version 1910: September 06</span></span>
+<span data-ttu-id="bee9b-386">*Versione 1910 (Build 12030.20004)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-386">*Version 1910 (Build 12030.20004)*</span></span>
 
 
 [//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
-### <a name="feature-updates"></a><span data-ttu-id="78ede-388">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-388">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-389">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-389">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="bee9b-388">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-388">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-389">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-389">Excel</span></span>
 
-- <span data-ttu-id="78ede-390">**Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare.</span><span class="sxs-lookup"><span data-stu-id="78ede-390">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="78ede-391">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-391">Learn more</span></span>](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- <span data-ttu-id="bee9b-390">**Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare.</span><span class="sxs-lookup"><span data-stu-id="bee9b-390">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="bee9b-391">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-391">Learn more</span></span>](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-392">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-392">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-392">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-392">PowerPoint</span></span>
 
-- <span data-ttu-id="78ede-393">**Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare.</span><span class="sxs-lookup"><span data-stu-id="78ede-393">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="78ede-394">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-394">Learn more</span></span>](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- <span data-ttu-id="bee9b-393">**Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare.</span><span class="sxs-lookup"><span data-stu-id="bee9b-393">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="bee9b-394">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-394">Learn more</span></span>](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-### <a name="word"></a><span data-ttu-id="78ede-395">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-395">Word</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-395">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-395">Word</span></span>
 
-- <span data-ttu-id="78ede-396">**Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare.</span><span class="sxs-lookup"><span data-stu-id="78ede-396">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="78ede-397">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-397">Learn more</span></span>](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- <span data-ttu-id="bee9b-396">**Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare.</span><span class="sxs-lookup"><span data-stu-id="bee9b-396">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="bee9b-397">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-397">Learn more</span></span>](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -706,49 +706,49 @@ ms.locfileid: "38669835"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="non-security-updates"></a><span data-ttu-id="78ede-400">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="78ede-400">Non-security updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-401">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-401">Excel</span></span>
+### <a name="non-security-updates"></a><span data-ttu-id="bee9b-400">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="bee9b-400">Non-security updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-401">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-401">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-402"><span>È stato risolto un problema che poteva comportare una differenza tra il nome del carattere sulla barra multifunzione e il carattere utilizzato</span></span><span class="sxs-lookup"><span data-stu-id="78ede-402"><span>We fixed an issue which could cause the font name in the ribbon to be different from the font being used</span></span></span></div>
-
-
-### <a name="outlook"></a><span data-ttu-id="78ede-403">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-403">Outlook</span></span>
-
-- <div><span data-ttu-id="78ede-404"><span>È stato risolto un problema che poteva comportare il consumo inappropriato delle risorse da parte di Outlook quando la Modalità protetta era disabilitata per i siti con restrizioni in Internet Explorer</span></span><span class="sxs-lookup"><span data-stu-id="78ede-404"><span>We fixed an issue that could result in inappropriate resource consumption by Outlook when Protected Mode is disabled for Restricted Sites in Internet Explorer</span></span></span></div>
+- <div><span data-ttu-id="bee9b-402"><span>È stato risolto un problema che poteva comportare una differenza tra il nome del carattere sulla barra multifunzione e il carattere utilizzato</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-402"><span>We fixed an issue which could cause the font name in the ribbon to be different from the font being used</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-405"><span>È stato risolto un problema che a volte poteva causare la comparsa di caratteri Unicode quando si incolla il testo da un'origine ANSI</span></span><span class="sxs-lookup"><span data-stu-id="78ede-405"><span>We fixed an issue which could sometimes cause Unicode characters to appear when pasting text from an ANSI source</span></span></span></div>
+### <a name="outlook"></a><span data-ttu-id="bee9b-403">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-403">Outlook</span></span>
+
+- <div><span data-ttu-id="bee9b-404"><span>È stato risolto un problema che poteva comportare il consumo inappropriato delle risorse da parte di Outlook quando la Modalità protetta era disabilitata per i siti con restrizioni in Internet Explorer</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-404"><span>We fixed an issue that could result in inappropriate resource consumption by Outlook when Protected Mode is disabled for Restricted Sites in Internet Explorer</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-406"><span>È stato risolto un problema per cui alcuni utenti risultavano offline per errore in una visualizzazione della pianificazione di gruppo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-406"><span>We fixed an issue where some users would incorrectly appear as Offline in a Group Schedule view</span></span></span></div>
+- <div><span data-ttu-id="bee9b-405"><span>È stato risolto un problema che a volte poteva causare la comparsa di caratteri Unicode quando si incolla il testo da un'origine ANSI</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-405"><span>We fixed an issue which could sometimes cause Unicode characters to appear when pasting text from an ANSI source</span></span></span></div>
 
 
-### <a name="word"></a><span data-ttu-id="78ede-407">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-407">Word</span></span>
-
-- <div><span data-ttu-id="78ede-408"><span>È stato risolto un problema che poteva comportare la perdita della formattazione della tabella</span></span><span class="sxs-lookup"><span data-stu-id="78ede-408"><span>We fixed an issue where table formatting could be lost</span></span></span></div>
+- <div><span data-ttu-id="bee9b-406"><span>È stato risolto un problema per cui alcuni utenti risultavano offline per errore in una visualizzazione della pianificazione di gruppo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-406"><span>We fixed an issue where some users would incorrectly appear as Offline in a Group Schedule view</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-409"><span>È stato risolto un problema che poteva compromettere la scelta rapida da tastiera CTRL+V</span></span><span class="sxs-lookup"><span data-stu-id="78ede-409"><span>We fixed an issue which could break the ctrl+v keyboard shortcut</span></span></span></div>
+### <a name="word"></a><span data-ttu-id="bee9b-407">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-407">Word</span></span>
+
+- <div><span data-ttu-id="bee9b-408"><span>È stato risolto un problema che poteva comportare la perdita della formattazione della tabella</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-408"><span>We fixed an issue where table formatting could be lost</span></span></span></div>
+
+
+- <div><span data-ttu-id="bee9b-409"><span>È stato risolto un problema che poteva compromettere la scelta rapida da tastiera CTRL+V</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-409"><span>We fixed an issue which could break the ctrl+v keyboard shortcut</span></span></span></div>
 
 
 
 [//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
-## <a name="version-1909-august-30"></a><span data-ttu-id="78ede-411">Versione 1909: 30 agosto</span><span class="sxs-lookup"><span data-stu-id="78ede-411">Version 1909: August 30</span></span>
-<span data-ttu-id="78ede-412">*Versione 1909 (Build 12026.20000)*</span><span class="sxs-lookup"><span data-stu-id="78ede-412">*Version 1909 (Build 12026.20000)*</span></span>
+## <a name="version-1909-august-30"></a><span data-ttu-id="bee9b-411">Versione 1909: 30 agosto</span><span class="sxs-lookup"><span data-stu-id="bee9b-411">Version 1909: August 30</span></span>
+<span data-ttu-id="bee9b-412">*Versione 1909 (Build 12026.20000)*</span><span class="sxs-lookup"><span data-stu-id="bee9b-412">*Version 1909 (Build 12026.20000)*</span></span>
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-### <a name="feature-updates"></a><span data-ttu-id="78ede-414">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-414">Feature updates</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="bee9b-414">Aggiornamenti delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-414">Feature updates</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-415">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-415">Access</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-415">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-415">Access</span></span>
 
-- <span data-ttu-id="78ede-416">**Trovare velocemente le tabelle collegate:** la nostra nuova casella di ricerca rende molto più facile trovare le tabelle collegate.</span><span class="sxs-lookup"><span data-stu-id="78ede-416">**Find linked tables fast:** Our new search box makes finding linked tables a breeze.</span></span>
+- <span data-ttu-id="bee9b-416">**Trovare velocemente le tabelle collegate:** la nostra nuova casella di ricerca rende molto più facile trovare le tabelle collegate.</span><span class="sxs-lookup"><span data-stu-id="bee9b-416">**Find linked tables fast:** Our new search box makes finding linked tables a breeze.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-417">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-417">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-417">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-417">PowerPoint</span></span>
 
-- <span data-ttu-id="78ede-418">**Salvare un'illustrazione in formato SVG:** è possibile salvare un grafico, una forma o un'altra illustrazione in formato SVG (Scalable Vector Graphic), che può essere ridimensionato senza perdita di qualità dell'immagine.</span><span class="sxs-lookup"><span data-stu-id="78ede-418">**Save an illustration as SVG:** Save a chart, shape, or other illustration as a scalable vector graphic, which can be resized with no loss of image quality.</span></span> [<span data-ttu-id="78ede-419">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-419">Learn more</span></span>](https://support.office.com/it-IT/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- <span data-ttu-id="bee9b-418">**Salvare un'illustrazione in formato SVG:** è possibile salvare un grafico, una forma o un'altra illustrazione in formato SVG (Scalable Vector Graphic), che può essere ridimensionato senza perdita di qualità dell'immagine.</span><span class="sxs-lookup"><span data-stu-id="bee9b-418">**Save an illustration as SVG:** Save a chart, shape, or other illustration as a scalable vector graphic, which can be resized with no loss of image quality.</span></span> [<span data-ttu-id="bee9b-419">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-419">Learn more</span></span>](https://support.office.com/it-IT/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -756,1589 +756,1589 @@ ms.locfileid: "38669835"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="non-security-updates"></a><span data-ttu-id="78ede-422">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="78ede-422">Non-security updates</span></span>
-### <a name="excel"></a><span data-ttu-id="78ede-423">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-423">Excel</span></span>
+### <a name="non-security-updates"></a><span data-ttu-id="bee9b-422">Aggiornamenti non della sicurezza</span><span class="sxs-lookup"><span data-stu-id="bee9b-422">Non-security updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-423">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-423">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-424"><span>È stato risolto un problema in cui il suggerimento tasto di scelta per &nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">Sensibilità </span>era&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">in conflitto con un altro suggerimento tasto di scelta.</span></span></span><span class="sxs-lookup"><span data-stu-id="78ede-424"><span>We fixed an issue where the keytip for&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">Sensitivity </span>was&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">conflicting with another keytip.</span></span></span></span></div>
+- <div><span data-ttu-id="bee9b-424"><span>È stato risolto un problema in cui il suggerimento tasto di scelta per &nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">Sensibilità </span>era&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">in conflitto con un altro suggerimento tasto di scelta.</span></span></span><span class="sxs-lookup"><span data-stu-id="bee9b-424"><span>We fixed an issue where the keytip for&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">Sensitivity </span>was&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">conflicting with another keytip.</span></span></span></span></div>
 
-- <div><span data-ttu-id="78ede-425"><span>È stato risolto un problema che si verificava quando si cercava di salvare una cartella di lavoro condivisa in fase di modifica.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-425"><span>We fixed an issue that occurred while working on a shared workbook when trying to save.</span></span></span></div>
+- <div><span data-ttu-id="bee9b-425"><span>È stato risolto un problema che si verificava quando si cercava di salvare una cartella di lavoro condivisa in fase di modifica.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-425"><span>We fixed an issue that occurred while working on a shared workbook when trying to save.</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-426"><span>È stato risolto un problema per cui Excel elencava solo i primi 16 componenti aggiuntivi presenti nei valori '\Excel\Add-in Manager' del Registro di sistema.<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></span><span class="sxs-lookup"><span data-stu-id="78ede-426"><span>We fixed an issue where Excel only lists the first 16 addins located in the '\Excel\Add-in Manager' registry values.<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></span></span></div>
-
-
-- <div><span data-ttu-id="78ede-427"><span>È stato risolto un problema per cui la funzione Frequency() restituiva risultati errati.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-427"><span>We fixed an issue where the function Frequency() returns incorrect results.</span></span></span></div>
+- <div><span data-ttu-id="bee9b-426"><span>È stato risolto un problema per cui Excel elencava solo i primi 16 componenti aggiuntivi presenti nei valori '\Excel\Add-in Manager' del Registro di sistema.<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></span><span class="sxs-lookup"><span data-stu-id="bee9b-426"><span>We fixed an issue where Excel only lists the first 16 addins located in the '\Excel\Add-in Manager' registry values.<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-428"><span>Le prestazioni del filtro per colore sono state notevolmente migliorate.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-428"><span>We have significantly improved the performance of filtering by color.</span></span></span></div>
+- <div><span data-ttu-id="bee9b-427"><span>È stato risolto un problema per cui la funzione Frequency() restituiva risultati errati.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-427"><span>We fixed an issue where the function Frequency() returns incorrect results.</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-429"><span>È stato risolto un problema relativo agli utenti di Surface in cui lo spostamento del mouse poteva essere interpretato come un evento clic del mouse.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-429"><span>We fixed an issue for Surface users where moving the mouse could be interpreted as a mouse click event.</span></span></span></div>
+- <div><span data-ttu-id="bee9b-428"><span>Le prestazioni del filtro per colore sono state notevolmente migliorate.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-428"><span>We have significantly improved the performance of filtering by color.</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-430"><span>È stato risolto un problema che impediva gli spostamenti da tastiera nella finestra di dialogo Trova/Sostituisci.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-430"><span>We fixed an issue which prevented keyboard navigation in the Find/Replace dialog</span></span></span></div>
+- <div><span data-ttu-id="bee9b-429"><span>È stato risolto un problema relativo agli utenti di Surface in cui lo spostamento del mouse poteva essere interpretato come un evento clic del mouse.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-429"><span>We fixed an issue for Surface users where moving the mouse could be interpreted as a mouse click event.</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-431"><span>È stato risolto un problema per cui il nome di alcuni tipi di carattere non venivano visualizzati correttamente.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-431"><span>We fixed an issue where the name of some fonts were not displayed correctly</span></span></span></div>
+- <div><span data-ttu-id="bee9b-430"><span>È stato risolto un problema che impediva gli spostamenti da tastiera nella finestra di dialogo Trova/Sostituisci.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-430"><span>We fixed an issue which prevented keyboard navigation in the Find/Replace dialog</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-432"><span>È stato risolto un problema che impediva la visualizzazione del formato CSV nei tipi di file supportati.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-432"><span>We fixed an issue which prevented CSV from appearing as a supported file type</span></span></span></div>
+- <div><span data-ttu-id="bee9b-431"><span>È stato risolto un problema per cui il nome di alcuni tipi di carattere non venivano visualizzati correttamente.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-431"><span>We fixed an issue where the name of some fonts were not displayed correctly</span></span></span></div>
 
 
-### <a name="access"></a><span data-ttu-id="78ede-433">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-433">Access</span></span>
-
-- <div><span data-ttu-id="78ede-434">È stato risolto un problema per cui gli utenti potevano ricevere un errore di &quot;stato incoerente&quot; durante l'uso di un database condiviso.</span><span class="sxs-lookup"><span data-stu-id="78ede-434">We fixed an issue where users could receive an &quot;inconsistent state&quot; error when using a shared database.</span></span></div>
+- <div><span data-ttu-id="bee9b-432"><span>È stato risolto un problema che impediva la visualizzazione del formato CSV nei tipi di file supportati.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-432"><span>We fixed an issue which prevented CSV from appearing as a supported file type</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-435"><span>È stato risolto un problema per cui il controllo selezione data veniva visualizzato per errore.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-435"><span>We fixed an issue which could cause the date picker to appear when it shouldn't</span></span></span></div>
+### <a name="access"></a><span data-ttu-id="bee9b-433">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-433">Access</span></span>
+
+- <div><span data-ttu-id="bee9b-434">È stato risolto un problema per cui gli utenti potevano ricevere un errore di &quot;stato incoerente&quot; durante l'uso di un database condiviso.</span><span class="sxs-lookup"><span data-stu-id="bee9b-434">We fixed an issue where users could receive an &quot;inconsistent state&quot; error when using a shared database.</span></span></div>
 
 
-### <a name="outlook"></a><span data-ttu-id="78ede-436">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-436">Outlook</span></span>
-
-- <div><span data-ttu-id="78ede-437"><span>È stato risolto un problema che impediva la visualizzazione di contenuto HTML per alcuni utenti POP3.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-437"><span>We fixed an issue which prevented HTML content from appearing for some POP3 users</span></span></span></div>
+- <div><span data-ttu-id="bee9b-435"><span>È stato risolto un problema per cui il controllo selezione data veniva visualizzato per errore.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-435"><span>We fixed an issue which could cause the date picker to appear when it shouldn't</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-438"><span>È stato risolto un problema relativo alla rimozione del collegamento 'Planner' non funzionante dal menu riversamento nella scheda contatto durante l'uso in ambienti in cui non era disponibile.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-438"><span>We fixed an issue to remove non-functional 'Planner' link from the overflow menu in the contact card when working in environments where it is not available.</span></span></span></div>
+### <a name="outlook"></a><span data-ttu-id="bee9b-436">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-436">Outlook</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="78ede-439">OneNote</span><span class="sxs-lookup"><span data-stu-id="78ede-439">OneNote</span></span>
-
-- <div><span data-ttu-id="78ede-440"><span>È stato risolto un problema in cui la sincronizzazione in background di&nbsp;OneNote talvolta acquisiva erroneamente lo stato attivo.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-440"><span>We fixed an issue where&nbsp;OneNote background sync was sometimes stealing focus.</span></span></span></div>
+- <div><span data-ttu-id="bee9b-437"><span>È stato risolto un problema che impediva la visualizzazione di contenuto HTML per alcuni utenti POP3.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-437"><span>We fixed an issue which prevented HTML content from appearing for some POP3 users</span></span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-441">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-441">PowerPoint</span></span>
+- <div><span data-ttu-id="bee9b-438"><span>È stato risolto un problema relativo alla rimozione del collegamento 'Planner' non funzionante dal menu riversamento nella scheda contatto durante l'uso in ambienti in cui non era disponibile.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-438"><span>We fixed an issue to remove non-functional 'Planner' link from the overflow menu in the contact card when working in environments where it is not available.</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-442"><span>È stato risolto un problema che influiva sull'orientamento della rotazione di un effetto Giravolta 3D.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-442"><span>We fixed an issue which would affect the rotation orientation of a 3D Turntable.</span></span></span></div>
+### <a name="onenote"></a><span data-ttu-id="bee9b-439">OneNote</span><span class="sxs-lookup"><span data-stu-id="bee9b-439">OneNote</span></span>
 
-- <div><span data-ttu-id="78ede-443"><span>È stato risolto un problema che impediva il corretto funzionamento di alcuni collegamenti ipertestuali se contenevano caratteri speciali.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-443"><span>We fixed an issue which prevented some hyperlinks from working if they contained special characters.</span></span></span></div>
+- <div><span data-ttu-id="bee9b-440"><span>È stato risolto un problema in cui la sincronizzazione in background di&nbsp;OneNote talvolta acquisiva erroneamente lo stato attivo.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-440"><span>We fixed an issue where&nbsp;OneNote background sync was sometimes stealing focus.</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-444"><span>È stato risolto un problema che causava l'apertura simultanea di più riquadri commenti.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-444"><span>We fixed an issue which caused multiple comment panes to open at the same time.</span></span></span></div>
 
-### <a name="project"></a><span data-ttu-id="78ede-445">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-445">Project</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-441">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-441">PowerPoint</span></span>
 
-- <div><span data-ttu-id="78ede-446"><span>È stato risolto un problema che poteva talvolta causare un arresto anomalo del sistema durante la stampa di una visualizzazione di Pianificazione team.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-446"><span>We fixed an issue which could sometimes cause a crash after printing a Team Planner view.</span></span></span></div>
+- <div><span data-ttu-id="bee9b-442"><span>È stato risolto un problema che influiva sull'orientamento della rotazione di un effetto Giravolta 3D.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-442"><span>We fixed an issue which would affect the rotation orientation of a 3D Turntable.</span></span></span></div>
 
-### <a name="word"></a><span data-ttu-id="78ede-447">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-447">Word</span></span>
+- <div><span data-ttu-id="bee9b-443"><span>È stato risolto un problema che impediva il corretto funzionamento di alcuni collegamenti ipertestuali se contenevano caratteri speciali.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-443"><span>We fixed an issue which prevented some hyperlinks from working if they contained special characters.</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-448"><span>È stato risolto un problema per cui i caratteri multibyte in una casella di testo verticale venivano visualizzati sovrapposti nella visualizzazione di lettura.</span><span class="sxs-lookup"><span data-stu-id="78ede-448">We f<span>ixed an issue where multi-byte characters in vertical text box are shown overlapped in reading view.</span></span><br></span></div>
+- <div><span data-ttu-id="bee9b-444"><span>È stato risolto un problema che causava l'apertura simultanea di più riquadri commenti.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-444"><span>We fixed an issue which caused multiple comment panes to open at the same time.</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-449"><span>È&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">stato risolto un problema per cui le risorse dei componenti aggiuntivi correlate a cartoline o biglietti di auguri giapponesi non venivano trovate quando l'utente eseguiva un'azione nella procedura guidata dei componenti aggiuntivi.</span></span></span><span class="sxs-lookup"><span data-stu-id="78ede-449"><span>We&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">fixed an issue where Japanese post card and greeting card related addin resources are not found when the user takes action in the addin wizard.</span></span></span></span></div>
+### <a name="project"></a><span data-ttu-id="bee9b-445">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-445">Project</span></span>
 
-- <div><span data-ttu-id="78ede-450"><span>È stato risolto un problema che poteva causare problemi relativi all'interfaccia utente della barra del titolo in visualizzazione protetta.</span></span><span class="sxs-lookup"><span data-stu-id="78ede-450"><span>We fixed an issue which could cause issues with the Title Bar User Interface when in Protected View</span></span></span></div>
+- <div><span data-ttu-id="bee9b-446"><span>È stato risolto un problema che poteva talvolta causare un arresto anomalo del sistema durante la stampa di una visualizzazione di Pianificazione team.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-446"><span>We fixed an issue which could sometimes cause a crash after printing a Team Planner view.</span></span></span></div>
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-451">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-451">Office Suite</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-447">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-447">Word</span></span>
 
-- <div><span data-ttu-id="78ede-452"><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> È stato risolto un problema di file danneggiato quando si esegue Cambia forma su una selezione che contiene sia una forma normale che una forma connettore.</span></span></span><span class="sxs-lookup"><span data-stu-id="78ede-452"><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> We fixed a corrupt file issue when you Change Shape on a selection that contains both a normal shape and a connector shape.</span></span></span></span></div>
+- <div><span data-ttu-id="bee9b-448"><span>È stato risolto un problema per cui i caratteri multibyte in una casella di testo verticale venivano visualizzati sovrapposti nella visualizzazione di lettura.</span><span class="sxs-lookup"><span data-stu-id="bee9b-448">We f<span>ixed an issue where multi-byte characters in vertical text box are shown overlapped in reading view.</span></span><br></span></div>
 
-- <div><span data-ttu-id="78ede-453"><span>È stato risolto un problema che <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">causava un problema nelle applicazioni durante il collegamento o lo scollegamento da più monitor esterni. </span></span></span><span class="sxs-lookup"><span data-stu-id="78ede-453"><span>We fixed an issue that <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">caused a problem in applications when using dock/undock from multiple external displays. </span></span></span></span></div>
+- <div><span data-ttu-id="bee9b-449"><span>È&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">stato risolto un problema per cui le risorse dei componenti aggiuntivi correlate a cartoline o biglietti di auguri giapponesi non venivano trovate quando l'utente eseguiva un'azione nella procedura guidata dei componenti aggiuntivi.</span></span></span><span class="sxs-lookup"><span data-stu-id="bee9b-449"><span>We&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">fixed an issue where Japanese post card and greeting card related addin resources are not found when the user takes action in the addin wizard.</span></span></span></span></div>
+
+- <div><span data-ttu-id="bee9b-450"><span>È stato risolto un problema che poteva causare problemi relativi all'interfaccia utente della barra del titolo in visualizzazione protetta.</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-450"><span>We fixed an issue which could cause issues with the Title Bar User Interface when in Protected View</span></span></span></div>
+
+### <a name="office-suite"></a><span data-ttu-id="bee9b-451">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-451">Office Suite</span></span>
+
+- <div><span data-ttu-id="bee9b-452"><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> È stato risolto un problema di file danneggiato quando si esegue Cambia forma su una selezione che contiene sia una forma normale che una forma connettore.</span></span></span><span class="sxs-lookup"><span data-stu-id="bee9b-452"><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> We fixed a corrupt file issue when you Change Shape on a selection that contains both a normal shape and a connector shape.</span></span></span></span></div>
+
+- <div><span data-ttu-id="bee9b-453"><span>È stato risolto un problema che <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">causava un problema nelle applicazioni durante il collegamento o lo scollegamento da più monitor esterni. </span></span></span><span class="sxs-lookup"><span data-stu-id="bee9b-453"><span>We fixed an issue that <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">caused a problem in applications when using dock/undock from multiple external displays. </span></span></span></span></div>
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="august-23-2019br"></a><span data-ttu-id="78ede-455">**23 agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="78ede-455">**August 23, 2019**</span></span><br/>
-<span data-ttu-id="78ede-456">Versione 1909 (Build 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="78ede-456">Version 1909 (Build 12015.20004)</span></span><br/>
+## <a name="august-23-2019br"></a><span data-ttu-id="bee9b-455">**23 agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="bee9b-455">**August 23, 2019**</span></span><br/>
+<span data-ttu-id="bee9b-456">Versione 1909 (Build 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="bee9b-456">Version 1909 (Build 12015.20004)</span></span><br/>
 
 
 
-## <a name="non-security-updates"></a><span data-ttu-id="78ede-457">Aggiornamenti non della sicurezza:</span><span class="sxs-lookup"><span data-stu-id="78ede-457">Non-security updates:</span></span>
+## <a name="non-security-updates"></a><span data-ttu-id="bee9b-457">Aggiornamenti non della sicurezza:</span><span class="sxs-lookup"><span data-stu-id="bee9b-457">Non-security updates:</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-458">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-458">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-458">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-458">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-459"><span>Sono state notevolmente migliorate le prestazioni di eliminazione delle colonne con celle unite</span></span><span class="sxs-lookup"><span data-stu-id="78ede-459"><span>We significantly improved the performance of deleting columns with merged cells</span></span></span></div>
+- <div><span data-ttu-id="bee9b-459"><span>Sono state notevolmente migliorate le prestazioni di eliminazione delle colonne con celle unite</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-459"><span>We significantly improved the performance of deleting columns with merged cells</span></span></span></div>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-460">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-460">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="bee9b-460">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-460">Office Suite</span></span>
 
-- <div><span data-ttu-id="78ede-461"><span>È stato risolto un problema che poteva impedire la visualizzazione di alcuni caratteri Unicode all'interno di un browser</span></span><span class="sxs-lookup"><span data-stu-id="78ede-461"><span>We fixed an issue which could prevent some Unicode characters from being displayed when viewed in a browser</span></span></span></div>
+- <div><span data-ttu-id="bee9b-461"><span>È stato risolto un problema che poteva impedire la visualizzazione di alcuni caratteri Unicode all'interno di un browser</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-461"><span>We fixed an issue which could prevent some Unicode characters from being displayed when viewed in a browser</span></span></span></div>
 
 
-### <a name="outlook"></a><span data-ttu-id="78ede-462">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-462">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-462">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-462">Outlook</span></span>
 
-- <div><span data-ttu-id="78ede-463"><span>È stato risolto un problema che poteva impedire il salvataggio di file in una posizione WebDAV</span></span><span class="sxs-lookup"><span data-stu-id="78ede-463"><span>We fixed an issue which could have prevented files from being saved to a WebDAV location</span></span></span></div>
+- <div><span data-ttu-id="bee9b-463"><span>È stato risolto un problema che poteva impedire il salvataggio di file in una posizione WebDAV</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-463"><span>We fixed an issue which could have prevented files from being saved to a WebDAV location</span></span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-464">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-464">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-464">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-464">PowerPoint</span></span>
 
-- <div><span data-ttu-id="78ede-465"><span>È stato risolto un problema per cui un utente faceva clic su un commento, ma veniva selezionato un altro commento</span></span><span class="sxs-lookup"><span data-stu-id="78ede-465"><span>We fixed an issue where a user would click on one comment, but another comment would be selected</span></span></span></div>
+- <div><span data-ttu-id="bee9b-465"><span>È stato risolto un problema per cui un utente faceva clic su un commento, ma veniva selezionato un altro commento</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-465"><span>We fixed an issue where a user would click on one comment, but another comment would be selected</span></span></span></div>
 
 
 
 
 
-## <a name="august-16-2019br"></a><span data-ttu-id="78ede-466">**16 agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="78ede-466">**August 16, 2019**</span></span><br/>
-<span data-ttu-id="78ede-467">Versione 1909 (Build 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="78ede-467">Version 1909 (Build 12013.20000)</span></span><br/>
+## <a name="august-16-2019br"></a><span data-ttu-id="bee9b-466">**16 agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="bee9b-466">**August 16, 2019**</span></span><br/>
+<span data-ttu-id="bee9b-467">Versione 1909 (Build 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="bee9b-467">Version 1909 (Build 12013.20000)</span></span><br/>
 
-### <a name="powerpoint-feature-updates"></a><span data-ttu-id="78ede-468">Aggiornamenti delle funzionalità di PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="78ede-468">PowerPoint Feature updates:</span></span>
+### <a name="powerpoint-feature-updates"></a><span data-ttu-id="bee9b-468">Aggiornamenti delle funzionalità di PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="bee9b-468">PowerPoint Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-469">**Stampa dei numeri delle diapositive negli stampati:** i numeri delle diapositive vengono inclusi automaticamente negli stampati.</span><span class="sxs-lookup"><span data-stu-id="78ede-469">**Print slide numbers on handouts:** Slide numbers are included on your handouts automatically.</span></span> <span data-ttu-id="78ede-470">Lasciarli attivati o disattivarli è a discrezione dell'utente.</span><span class="sxs-lookup"><span data-stu-id="78ede-470">Leave them on, turn them off, it's all up to you.</span></span>
+- <span data-ttu-id="bee9b-469">**Stampa dei numeri delle diapositive negli stampati:** i numeri delle diapositive vengono inclusi automaticamente negli stampati.</span><span class="sxs-lookup"><span data-stu-id="bee9b-469">**Print slide numbers on handouts:** Slide numbers are included on your handouts automatically.</span></span> <span data-ttu-id="bee9b-470">Lasciarli attivati o disattivarli è a discrezione dell'utente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-470">Leave them on, turn them off, it's all up to you.</span></span>
 
 
 
 
-## <a name="non-security-updates"></a><span data-ttu-id="78ede-471">Aggiornamenti non della sicurezza:</span><span class="sxs-lookup"><span data-stu-id="78ede-471">Non-security updates:</span></span>
+## <a name="non-security-updates"></a><span data-ttu-id="bee9b-471">Aggiornamenti non della sicurezza:</span><span class="sxs-lookup"><span data-stu-id="bee9b-471">Non-security updates:</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-472">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-472">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-472">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-472">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-473"><span>È stato risolto un problema che causava l'abilitazione del salvataggio automatico</span></span><span class="sxs-lookup"><span data-stu-id="78ede-473"><span>We fixed an issue which could cause AutoSave to become enabled</span></span></span></div>
+- <div><span data-ttu-id="bee9b-473"><span>È stato risolto un problema che causava l'abilitazione del salvataggio automatico</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-473"><span>We fixed an issue which could cause AutoSave to become enabled</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-474">È stato risolto un problema che poteva comportare una misurazione inesatta delle altezze delle celle</span><span class="sxs-lookup"><span data-stu-id="78ede-474">We fixed an issue which could result in cell heights being measured inaccurately</span></span></div>
+- <div><span data-ttu-id="bee9b-474">È stato risolto un problema che poteva comportare una misurazione inesatta delle altezze delle celle</span><span class="sxs-lookup"><span data-stu-id="bee9b-474">We fixed an issue which could result in cell heights being measured inaccurately</span></span></div>
 
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-475">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-475">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="bee9b-475">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-475">Office Suite</span></span>
 
-- <div><span data-ttu-id="78ede-476"><span>È stato risolto un problema che migliora significativamente le prestazioni della funzionalità Commenti</span></span><span class="sxs-lookup"><span data-stu-id="78ede-476"><span>We fixed an issue which significantly improves the performance of the Comments feature</span></span></span></div>
+- <div><span data-ttu-id="bee9b-476"><span>È stato risolto un problema che migliora significativamente le prestazioni della funzionalità Commenti</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-476"><span>We fixed an issue which significantly improves the performance of the Comments feature</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-477"><span>È stato risolto un problema che poteva causare un arresto anomalo usando i tasti di direzione durante una ricerca</span></span><span class="sxs-lookup"><span data-stu-id="78ede-477"><span>We fixed an issue which could cause a crash when using arrow keys while in search</span></span></span></div>
+- <div><span data-ttu-id="bee9b-477"><span>È stato risolto un problema che poteva causare un arresto anomalo usando i tasti di direzione durante una ricerca</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-477"><span>We fixed an issue which could cause a crash when using arrow keys while in search</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-478"><span>È stato risolto un problema che poteva impedire di creare una @menzione se il simbolo @ veniva inserito dopo determinati caratteri</span></span><span class="sxs-lookup"><span data-stu-id="78ede-478"><span>We fixed an issue which could prevent an @ mention if the @ symbol was placed after certain characters</span></span></span></div>
+- <div><span data-ttu-id="bee9b-478"><span>È stato risolto un problema che poteva impedire di creare una @menzione se il simbolo @ veniva inserito dopo determinati caratteri</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-478"><span>We fixed an issue which could prevent an @ mention if the @ symbol was placed after certain characters</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-479"><span>È stato risolto un problema che poteva causare un arresto anomalo quando si eliminavano @menzioni</span></span><span class="sxs-lookup"><span data-stu-id="78ede-479"><span>We fixed an issue which could sometimes cause a crash when deleting @ mentions</span></span></span></div>
+- <div><span data-ttu-id="bee9b-479"><span>È stato risolto un problema che poteva causare un arresto anomalo quando si eliminavano @menzioni</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-479"><span>We fixed an issue which could sometimes cause a crash when deleting @ mentions</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-480"><span>È stato risolto un problema che impediva la visualizzazione corretta delle emoji nelle schede commento</span></span><span class="sxs-lookup"><span data-stu-id="78ede-480"><span>We fixed an issue which prevented emojis from displaying correctly in comment cards</span></span></span></div>
+- <div><span data-ttu-id="bee9b-480"><span>È stato risolto un problema che impediva la visualizzazione corretta delle emoji nelle schede commento</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-480"><span>We fixed an issue which prevented emojis from displaying correctly in comment cards</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-481"><span>È stato risolto un problema per cui lo stato attivo degli Appunti poteva causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-481"><span>We fixed an issue with Active Clipboard which could sometimes result in a crash</span></span></span></div>
+- <div><span data-ttu-id="bee9b-481"><span>È stato risolto un problema per cui lo stato attivo degli Appunti poteva causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-481"><span>We fixed an issue with Active Clipboard which could sometimes result in a crash</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-482"><span>È stato risolto un problema che causava il mancato funzionamento dei pulsanti della barra di accesso rapido</span></span><span class="sxs-lookup"><span data-stu-id="78ede-482"><span>We fixed an issue which could cause the Quick Access Toolbar buttons to stop working</span></span></span></div>
+- <div><span data-ttu-id="bee9b-482"><span>È stato risolto un problema che causava il mancato funzionamento dei pulsanti della barra di accesso rapido</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-482"><span>We fixed an issue which could cause the Quick Access Toolbar buttons to stop working</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-483"><span>È stato risolto un problema che impediva all'anteprima della formattazione del documento di passare allo sfondo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-483"><span>We fixed an issue which could prevent the Document Formatting Preview from switching to the background</span></span></span></div>
+- <div><span data-ttu-id="bee9b-483"><span>È stato risolto un problema che impediva all'anteprima della formattazione del documento di passare allo sfondo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-483"><span>We fixed an issue which could prevent the Document Formatting Preview from switching to the background</span></span></span></div>
 
-### <a name="onenote"></a><span data-ttu-id="78ede-484">OneNote</span><span class="sxs-lookup"><span data-stu-id="78ede-484">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="bee9b-484">OneNote</span><span class="sxs-lookup"><span data-stu-id="bee9b-484">OneNote</span></span>
 
-- <span data-ttu-id="78ede-485">È stato risolto un problema per cui i nomi delle sezioni appaiono vuoti nell'elenco a discesa della sezione quando il tema di Office è impostato su nero.</span><span class="sxs-lookup"><span data-stu-id="78ede-485">We fixed an issue where the names of sections appear blank in the section dropdown list when Office Theme is set to Black.</span></span>
+- <span data-ttu-id="bee9b-485">È stato risolto un problema per cui i nomi delle sezioni appaiono vuoti nell'elenco a discesa della sezione quando il tema di Office è impostato su nero.</span><span class="sxs-lookup"><span data-stu-id="bee9b-485">We fixed an issue where the names of sections appear blank in the section dropdown list when Office Theme is set to Black.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-486">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-486">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-486">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-486">Outlook</span></span>
 
-- <div><span data-ttu-id="78ede-487"><span>È stato risolto un problema con l'invio di eventi per cui Outlook poteva assumere e perdere ripetutamente lo stato attivo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-487"><span>We fixed an issue with Send Events which could cause Outlook to repeatedly gain and lose focus</span></span></span></div>
+- <div><span data-ttu-id="bee9b-487"><span>È stato risolto un problema con l'invio di eventi per cui Outlook poteva assumere e perdere ripetutamente lo stato attivo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-487"><span>We fixed an issue with Send Events which could cause Outlook to repeatedly gain and lose focus</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-488"><span>È stato risolto un problema che impediva il funzionamento della scelta rapida da tastiera Inserisci risposta nella cartella</span></span><span class="sxs-lookup"><span data-stu-id="78ede-488"><span>We fixed an issue which prevented the Post Reply to Folder shortcut from working</span></span></span></div>
+- <div><span data-ttu-id="bee9b-488"><span>È stato risolto un problema che impediva il funzionamento della scelta rapida da tastiera Inserisci risposta nella cartella</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-488"><span>We fixed an issue which prevented the Post Reply to Folder shortcut from working</span></span></span></div>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-489">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-489">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-489">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-489">PowerPoint</span></span>
 
-- <div><span data-ttu-id="78ede-490"><span>È stato risolto un problema con la visualizzazione protetta che talvolta causava errori durante la collaborazione</span></span><span class="sxs-lookup"><span data-stu-id="78ede-490"><span>We fixed an issue with Protected View which could sometimes cause problems when collaborating</span></span></span></div>
+- <div><span data-ttu-id="bee9b-490"><span>È stato risolto un problema con la visualizzazione protetta che talvolta causava errori durante la collaborazione</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-490"><span>We fixed an issue with Protected View which could sometimes cause problems when collaborating</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-491"><span>È stato risolto un problema che poteva impedire la visualizzazione corretta delle attività nei riquadri dei commenti</span></span><span class="sxs-lookup"><span data-stu-id="78ede-491"><span>We fixed an issue which could prevent tasks in comment panes from displaying properly</span></span></span></div>
+- <div><span data-ttu-id="bee9b-491"><span>È stato risolto un problema che poteva impedire la visualizzazione corretta delle attività nei riquadri dei commenti</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-491"><span>We fixed an issue which could prevent tasks in comment panes from displaying properly</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-492"><span>È stato risolto un problema che poteva causare un arresto anomalo durante l'inserimento di nuove diapositive</span></span><span class="sxs-lookup"><span data-stu-id="78ede-492"><span>We fixed an issue which could cause a crash when inserting new slides</span></span></span></div>
+- <div><span data-ttu-id="bee9b-492"><span>È stato risolto un problema che poteva causare un arresto anomalo durante l'inserimento di nuove diapositive</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-492"><span>We fixed an issue which could cause a crash when inserting new slides</span></span></span></div>
 
 
-### <a name="user-lifecycle"></a><span data-ttu-id="78ede-493">Ciclo di vita degli utenti</span><span class="sxs-lookup"><span data-stu-id="78ede-493">User Lifecycle</span></span>
+### <a name="user-lifecycle"></a><span data-ttu-id="bee9b-493">Ciclo di vita degli utenti</span><span class="sxs-lookup"><span data-stu-id="bee9b-493">User Lifecycle</span></span>
 
-- <div><span data-ttu-id="78ede-494"><span>È stato risolto un problema che a volte comportava la scomparsa delle funzionalità in abbonamento</span></span><span class="sxs-lookup"><span data-stu-id="78ede-494"><span>We fixed an issue which could sometimes result in subscription features disappearing</span></span></span></div>
+- <div><span data-ttu-id="bee9b-494"><span>È stato risolto un problema che a volte comportava la scomparsa delle funzionalità in abbonamento</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-494"><span>We fixed an issue which could sometimes result in subscription features disappearing</span></span></span></div>
 
 
-### <a name="word"></a><span data-ttu-id="78ede-495">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-495">Word</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-495">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-495">Word</span></span>
 
-- <div><span data-ttu-id="78ede-496"><span>È stato risolto un problema per cui i collegamenti ipertestuali potevano non funzionare se contenevano determinati caratteri</span></span><span class="sxs-lookup"><span data-stu-id="78ede-496"><span>We fixed an issue where hyperlinks could be broken if the hyperlink contained certain characters</span></span></span></div>
+- <div><span data-ttu-id="bee9b-496"><span>È stato risolto un problema per cui i collegamenti ipertestuali potevano non funzionare se contenevano determinati caratteri</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-496"><span>We fixed an issue where hyperlinks could be broken if the hyperlink contained certain characters</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-497"><span>È stato risolto un problema per cui, visualizzando un commento per un'immagine, questa poteva essere ridimensionata in modo errato</span></span><span class="sxs-lookup"><span data-stu-id="78ede-497"><span>We fixed an issue where images could be improperly sized when viewing a comment for that image</span></span></span></div>
+- <div><span data-ttu-id="bee9b-497"><span>È stato risolto un problema per cui, visualizzando un commento per un'immagine, questa poteva essere ridimensionata in modo errato</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-497"><span>We fixed an issue where images could be improperly sized when viewing a comment for that image</span></span></span></div>
 
 
-- <div><span data-ttu-id="78ede-498"><span>È stato risolto un problema con il menu a discesa degli elenchi puntati che poteva causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-498"><span>We fixed an issue with the Bullet List drop down menu which could sometimes result in a crash</span></span></span></div>
+- <div><span data-ttu-id="bee9b-498"><span>È stato risolto un problema con il menu a discesa degli elenchi puntati che poteva causare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-498"><span>We fixed an issue with the Bullet List drop down menu which could sometimes result in a crash</span></span></span></div>
 
 
 
 
 
-## <a name="august-09-2019br"></a><span data-ttu-id="78ede-499">**9 agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="78ede-499">**August 09, 2019**</span></span><br/>
-<span data-ttu-id="78ede-500">Versione 1909 (Build 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="78ede-500">Version 1909 (Build 12001.20000)</span></span><br/>
+## <a name="august-09-2019br"></a><span data-ttu-id="bee9b-499">**9 agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="bee9b-499">**August 09, 2019**</span></span><br/>
+<span data-ttu-id="bee9b-500">Versione 1909 (Build 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="bee9b-500">Version 1909 (Build 12001.20000)</span></span><br/>
 
-### <a name="excel-feature-updates"></a><span data-ttu-id="78ede-501">Aggiornamenti delle funzionalità di Excel:</span><span class="sxs-lookup"><span data-stu-id="78ede-501">Excel Feature updates:</span></span>
+### <a name="excel-feature-updates"></a><span data-ttu-id="bee9b-501">Aggiornamenti delle funzionalità di Excel:</span><span class="sxs-lookup"><span data-stu-id="bee9b-501">Excel Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-502">**La collaborazione è stata semplificata:** i miglioramenti apportati alla creazione condivisa indicano che, quando si usa la formattazione condizionale, gli stili cella e così via, le modifiche vengono unite perfettamente con quelle dei propri collaboratori.</span><span class="sxs-lookup"><span data-stu-id="78ede-502">**Collaboration just got easier:** Co-authoring improvements mean that when working with conditional formatting, cell styles, and more, your changes are merged seamlessly with those of your collaborators.</span></span>
+- <span data-ttu-id="bee9b-502">**La collaborazione è stata semplificata:** i miglioramenti apportati alla creazione condivisa indicano che, quando si usa la formattazione condizionale, gli stili cella e così via, le modifiche vengono unite perfettamente con quelle dei propri collaboratori.</span><span class="sxs-lookup"><span data-stu-id="bee9b-502">**Collaboration just got easier:** Co-authoring improvements mean that when working with conditional formatting, cell styles, and more, your changes are merged seamlessly with those of your collaborators.</span></span>
 
 
-- <span data-ttu-id="78ede-503">**Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata.</span><span class="sxs-lookup"><span data-stu-id="78ede-503">**Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want.</span></span> <span data-ttu-id="78ede-504">E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.</span><span class="sxs-lookup"><span data-stu-id="78ede-504">And when you're selecting, the Insert button tells you how many you've picked.</span></span>
+- <span data-ttu-id="bee9b-503">**Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-503">**Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want.</span></span> <span data-ttu-id="bee9b-504">E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.</span><span class="sxs-lookup"><span data-stu-id="bee9b-504">And when you're selecting, the Insert button tells you how many you've picked.</span></span>
 
 
-### <a name="office-suite-feature-updates"></a><span data-ttu-id="78ede-505">Aggiornamenti delle funzionalità della Famiglia di prodotti Office:</span><span class="sxs-lookup"><span data-stu-id="78ede-505">Office Suite Feature updates:</span></span>
+### <a name="office-suite-feature-updates"></a><span data-ttu-id="bee9b-505">Aggiornamenti delle funzionalità della Famiglia di prodotti Office:</span><span class="sxs-lookup"><span data-stu-id="bee9b-505">Office Suite Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-506">**Nuove icone dell’app di Office:** le icone dell'app sono state riprogettate per riflettere l'esperienza semplice, potente e intelligente di Office</span><span class="sxs-lookup"><span data-stu-id="78ede-506">**New Office app icons:** Redesigned app icons to reflect the simple, powerful, and intelligent experiences of Office</span></span>
+- <span data-ttu-id="bee9b-506">**Nuove icone dell’app di Office:** le icone dell'app sono state riprogettate per riflettere l'esperienza semplice, potente e intelligente di Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-506">**New Office app icons:** Redesigned app icons to reflect the simple, powerful, and intelligent experiences of Office</span></span>
 
 
-### <a name="outlook-feature-updates"></a><span data-ttu-id="78ede-507">Aggiornamenti delle funzionalità di Outlook:</span><span class="sxs-lookup"><span data-stu-id="78ede-507">Outlook Feature updates:</span></span>
+### <a name="outlook-feature-updates"></a><span data-ttu-id="bee9b-507">Aggiornamenti delle funzionalità di Outlook:</span><span class="sxs-lookup"><span data-stu-id="bee9b-507">Outlook Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-508">**Protezione avanzata dalle minacce:** con Office 365 Advanced Threat Protection, si è protetti dalle minacce tramite collegamenti ipertestuali negli oggetti di posta elettronica, messaggi allegati, messaggi firmati, percorsi di rete e così via.</span><span class="sxs-lookup"><span data-stu-id="78ede-508">**Advanced protection against attack:** With Office 365 Advanced Threat Protection, you're protected against attacks through hyperlinks within email subjects, attached messages, signed messages, network paths, and so on.</span></span>
+- <span data-ttu-id="bee9b-508">**Protezione avanzata dalle minacce:** con Office 365 Advanced Threat Protection, si è protetti dalle minacce tramite collegamenti ipertestuali negli oggetti di posta elettronica, messaggi allegati, messaggi firmati, percorsi di rete e così via.</span><span class="sxs-lookup"><span data-stu-id="bee9b-508">**Advanced protection against attack:** With Office 365 Advanced Threat Protection, you're protected against attacks through hyperlinks within email subjects, attached messages, signed messages, network paths, and so on.</span></span>
 
 
-- <span data-ttu-id="78ede-509">**Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata.</span><span class="sxs-lookup"><span data-stu-id="78ede-509">**Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want.</span></span> <span data-ttu-id="78ede-510">E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.</span><span class="sxs-lookup"><span data-stu-id="78ede-510">And when you're selecting, the Insert button tells you how many you've picked.</span></span>
+- <span data-ttu-id="bee9b-509">**Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-509">**Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want.</span></span> <span data-ttu-id="bee9b-510">E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.</span><span class="sxs-lookup"><span data-stu-id="bee9b-510">And when you're selecting, the Insert button tells you how many you've picked.</span></span>
 
 
-### <a name="powerpoint-feature-updates"></a><span data-ttu-id="78ede-511">Aggiornamenti delle funzionalità di PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="78ede-511">PowerPoint Feature updates:</span></span>
+### <a name="powerpoint-feature-updates"></a><span data-ttu-id="bee9b-511">Aggiornamenti delle funzionalità di PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="bee9b-511">PowerPoint Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-512">**Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata.</span><span class="sxs-lookup"><span data-stu-id="78ede-512">**Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want.</span></span> <span data-ttu-id="78ede-513">E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.</span><span class="sxs-lookup"><span data-stu-id="78ede-513">And when you're selecting, the Insert button tells you how many you've picked.</span></span>
+- <span data-ttu-id="bee9b-512">**Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-512">**Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want.</span></span> <span data-ttu-id="bee9b-513">E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.</span><span class="sxs-lookup"><span data-stu-id="bee9b-513">And when you're selecting, the Insert button tells you how many you've picked.</span></span>
 
 
-### <a name="word-feature-updates"></a><span data-ttu-id="78ede-514">Aggiornamenti delle funzionalità di Word:</span><span class="sxs-lookup"><span data-stu-id="78ede-514">Word Feature updates:</span></span>
+### <a name="word-feature-updates"></a><span data-ttu-id="bee9b-514">Aggiornamenti delle funzionalità di Word:</span><span class="sxs-lookup"><span data-stu-id="bee9b-514">Word Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-515">**Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.</span><span class="sxs-lookup"><span data-stu-id="78ede-515">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+- <span data-ttu-id="bee9b-515">**Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.</span><span class="sxs-lookup"><span data-stu-id="bee9b-515">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
 
 
-- <span data-ttu-id="78ede-516">**Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata.</span><span class="sxs-lookup"><span data-stu-id="78ede-516">**Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want.</span></span> <span data-ttu-id="78ede-517">E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.</span><span class="sxs-lookup"><span data-stu-id="78ede-517">And when you're selecting, the Insert button tells you how many you've picked.</span></span>
+- <span data-ttu-id="bee9b-516">**Cercare è più facile:** abbiamo aggiunto la ricerca per inserire icone per trovare più facilmente l'icona desiderata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-516">**Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want.</span></span> <span data-ttu-id="bee9b-517">E quando si seleziona, il pulsante Inserisci indica quante icone sono state trovate.</span><span class="sxs-lookup"><span data-stu-id="bee9b-517">And when you're selecting, the Insert button tells you how many you've picked.</span></span>
 
 
 
 
-## <a name="non-security-updates"></a><span data-ttu-id="78ede-518">Aggiornamenti non per la sicurezza:</span><span class="sxs-lookup"><span data-stu-id="78ede-518">Non-security updates:</span></span>
+## <a name="non-security-updates"></a><span data-ttu-id="bee9b-518">Aggiornamenti non per la sicurezza:</span><span class="sxs-lookup"><span data-stu-id="bee9b-518">Non-security updates:</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-519">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-519">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-519">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-519">Outlook</span></span>
 
-- <div><span data-ttu-id="78ede-520"><span>È stato risolto un problema che causava la ricezione di due notifiche da parte dei destinatari della riunione dopo l'annullamento di una riunione</span></span><span class="sxs-lookup"><span data-stu-id="78ede-520"><span>We fixed an issue which caused meeting recipients to receive two notifications after a meeting was cancelled</span></span></span></div>
+- <div><span data-ttu-id="bee9b-520"><span>È stato risolto un problema che causava la ricezione di due notifiche da parte dei destinatari della riunione dopo l'annullamento di una riunione</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-520"><span>We fixed an issue which caused meeting recipients to receive two notifications after a meeting was cancelled</span></span></span></div>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-521">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-521">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-521">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-521">PowerPoint</span></span>
 
-- <div><span data-ttu-id="78ede-522"><span>È stato risolto un problema che causava un arresto anomalo quando l'utente ha selezionato Nessun contorno o Nessun riempimento per forme e icone</span></span><span class="sxs-lookup"><span data-stu-id="78ede-522"><span>We fixed an issue which could cause a crash when the user selected No Outline or No Fill for Shapes and Icons</span></span></span></div>
+- <div><span data-ttu-id="bee9b-522"><span>È stato risolto un problema che causava un arresto anomalo quando l'utente ha selezionato Nessun contorno o Nessun riempimento per forme e icone</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-522"><span>We fixed an issue which could cause a crash when the user selected No Outline or No Fill for Shapes and Icons</span></span></span></div>
 
 
 
 
 
-## <a name="august-02-2019br"></a><span data-ttu-id="78ede-523">**2 agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="78ede-523">**August 02, 2019**</span></span><br/>
-<span data-ttu-id="78ede-524">Versione 1908 (Build 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="78ede-524">Version 1908 (Build 11929.20002)</span></span><br/>
+## <a name="august-02-2019br"></a><span data-ttu-id="bee9b-523">**2 agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="bee9b-523">**August 02, 2019**</span></span><br/>
+<span data-ttu-id="bee9b-524">Versione 1908 (Build 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="bee9b-524">Version 1908 (Build 11929.20002)</span></span><br/>
 
-### <a name="excel-feature-updates"></a><span data-ttu-id="78ede-525">Aggiornamenti delle funzionalità di Excel:</span><span class="sxs-lookup"><span data-stu-id="78ede-525">Excel Feature updates:</span></span>
+### <a name="excel-feature-updates"></a><span data-ttu-id="bee9b-525">Aggiornamenti delle funzionalità di Excel:</span><span class="sxs-lookup"><span data-stu-id="bee9b-525">Excel Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-526">**Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.</span><span class="sxs-lookup"><span data-stu-id="78ede-526">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+- <span data-ttu-id="bee9b-526">**Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.</span><span class="sxs-lookup"><span data-stu-id="bee9b-526">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
 
 
-- <span data-ttu-id="78ede-527">**Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="78ede-527">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span>
+- <span data-ttu-id="bee9b-527">**Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-527">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span>
 
 
-### <a name="outlook-feature-updates"></a><span data-ttu-id="78ede-528">Aggiornamenti delle funzionalità di Outlook:</span><span class="sxs-lookup"><span data-stu-id="78ede-528">Outlook Feature updates:</span></span>
+### <a name="outlook-feature-updates"></a><span data-ttu-id="bee9b-528">Aggiornamenti delle funzionalità di Outlook:</span><span class="sxs-lookup"><span data-stu-id="bee9b-528">Outlook Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-529">**Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="78ede-529">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span>
+- <span data-ttu-id="bee9b-529">**Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-529">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span>
 
 
-### <a name="powerpoint-feature-updates"></a><span data-ttu-id="78ede-530">Aggiornamenti delle funzionalità di PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="78ede-530">PowerPoint Feature updates:</span></span>
+### <a name="powerpoint-feature-updates"></a><span data-ttu-id="bee9b-530">Aggiornamenti delle funzionalità di PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="bee9b-530">PowerPoint Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-531">**Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.</span><span class="sxs-lookup"><span data-stu-id="78ede-531">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+- <span data-ttu-id="bee9b-531">**Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.</span><span class="sxs-lookup"><span data-stu-id="bee9b-531">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
 
 
-- <span data-ttu-id="78ede-532">**Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="78ede-532">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span>
+- <span data-ttu-id="bee9b-532">**Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-532">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span>
 
 
-### <a name="word-feature-updates"></a><span data-ttu-id="78ede-533">Aggiornamenti delle funzionalità di Word:</span><span class="sxs-lookup"><span data-stu-id="78ede-533">Word Feature updates:</span></span>
+### <a name="word-feature-updates"></a><span data-ttu-id="bee9b-533">Aggiornamenti delle funzionalità di Word:</span><span class="sxs-lookup"><span data-stu-id="bee9b-533">Word Feature updates:</span></span>
 
-- <span data-ttu-id="78ede-534">**Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.</span><span class="sxs-lookup"><span data-stu-id="78ede-534">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+- <span data-ttu-id="bee9b-534">**Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.</span><span class="sxs-lookup"><span data-stu-id="bee9b-534">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
 
 
-- <span data-ttu-id="78ede-535">**Dirlo in altre parole:** se si vuole dirlo in altre parole, è possibile riscriverlo.</span><span class="sxs-lookup"><span data-stu-id="78ede-535">**Say it another way:** When you want to say it differently, Rewrite is there to help.</span></span> <span data-ttu-id="78ede-536">La riscrittura offre alternative per rifinire le frasi.</span><span class="sxs-lookup"><span data-stu-id="78ede-536">Rewrite offers alternatives for finessing your phrases.</span></span>
+- <span data-ttu-id="bee9b-535">**Dirlo in altre parole:** se si vuole dirlo in altre parole, è possibile riscriverlo.</span><span class="sxs-lookup"><span data-stu-id="bee9b-535">**Say it another way:** When you want to say it differently, Rewrite is there to help.</span></span> <span data-ttu-id="bee9b-536">La riscrittura offre alternative per rifinire le frasi.</span><span class="sxs-lookup"><span data-stu-id="bee9b-536">Rewrite offers alternatives for finessing your phrases.</span></span>
 
 
-- <span data-ttu-id="78ede-537">**Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="78ede-537">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span>
+- <span data-ttu-id="bee9b-537">**Applicare etichette di riservatezza ai documenti:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-537">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span>
 
 
 
 
-## <a name="non-security-updates"></a><span data-ttu-id="78ede-538">Aggiornamenti non della sicurezza:</span><span class="sxs-lookup"><span data-stu-id="78ede-538">Non-security updates:</span></span>
+## <a name="non-security-updates"></a><span data-ttu-id="bee9b-538">Aggiornamenti non della sicurezza:</span><span class="sxs-lookup"><span data-stu-id="bee9b-538">Non-security updates:</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-539">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-539">Access</span></span>
-- <span data-ttu-id="78ede-540">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-540">Various performance and stability fixes</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-539">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-539">Access</span></span>
+- <span data-ttu-id="bee9b-540">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-540">Various performance and stability fixes</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-541">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-541">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-541">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-541">Excel</span></span>
 
-- <div><span data-ttu-id="78ede-542"><span>È stato risolto un problema che faceva sembrare che si applicasse &quot;Ripeti tutte le etichette&quot; durante la stampa di un PDF</span></span><span class="sxs-lookup"><span data-stu-id="78ede-542"><span>We fixed an issue which made it appear as though &quot;repeat all labels&quot; was applied when printing to a PDF</span></span></span></div>
+- <div><span data-ttu-id="bee9b-542"><span>È stato risolto un problema che faceva sembrare che si applicasse &quot;Ripeti tutte le etichette&quot; durante la stampa di un PDF</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-542"><span>We fixed an issue which made it appear as though &quot;repeat all labels&quot; was applied when printing to a PDF</span></span></span></div>
 
-### <a name="office-suite"></a><span data-ttu-id="78ede-543">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="78ede-543">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="bee9b-543">Famiglia di prodotti Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-543">Office Suite</span></span>
 
-- <div><span data-ttu-id="78ede-544"><span>È stato risolto un problema che impediva agli utenti di aprire un documento dal desktop</span></span><span class="sxs-lookup"><span data-stu-id="78ede-544"><span>We fixed an issue which could have prevented users from opening a document from the desktop</span></span></span></div>
+- <div><span data-ttu-id="bee9b-544"><span>È stato risolto un problema che impediva agli utenti di aprire un documento dal desktop</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-544"><span>We fixed an issue which could have prevented users from opening a document from the desktop</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-545"><span>È stato risolto un problema per cui un aggiornamento potrebbe essere impedito da un messaggio errato di errore di &quot;un'altra installazione in corso&quot;</span></span><span class="sxs-lookup"><span data-stu-id="78ede-545"><span>We fixed an issue where an upgrade could be prevented by a incorrect error message of &quot;Another install in progress&quot;</span></span></span></div>
+- <div><span data-ttu-id="bee9b-545"><span>È stato risolto un problema per cui un aggiornamento potrebbe essere impedito da un messaggio errato di errore di &quot;un'altra installazione in corso&quot;</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-545"><span>We fixed an issue where an upgrade could be prevented by a incorrect error message of &quot;Another install in progress&quot;</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-546"><span>È stato risolto un problema che consente a un utente di visualizzare i messaggi di errore durante l'installazione degli aggiornamenti di sicurezza</span></span><span class="sxs-lookup"><span data-stu-id="78ede-546"><span>We fixed an issue where a user could see error messages when security updates are installed</span></span></span></div>
+- <div><span data-ttu-id="bee9b-546"><span>È stato risolto un problema che consente a un utente di visualizzare i messaggi di errore durante l'installazione degli aggiornamenti di sicurezza</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-546"><span>We fixed an issue where a user could see error messages when security updates are installed</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-547"><span>È stato risolto un problema che potrebbe far scomparire il cursore</span></span><span class="sxs-lookup"><span data-stu-id="78ede-547"><span>We fixed an issue which could cause the cursor to disappear</span></span></span></div>
+- <div><span data-ttu-id="bee9b-547"><span>È stato risolto un problema che potrebbe far scomparire il cursore</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-547"><span>We fixed an issue which could cause the cursor to disappear</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-548"><span>È stato risolto un problema per cui veniva visualizzata per impostazione predefinita la scheda Disegno invece della scheda Home</span></span><span class="sxs-lookup"><span data-stu-id="78ede-548"><span>We fixed an issue where a user could be defaulted to the draw tab instead of the home tab</span></span></span></div>
+- <div><span data-ttu-id="bee9b-548"><span>È stato risolto un problema per cui veniva visualizzata per impostazione predefinita la scheda Disegno invece della scheda Home</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-548"><span>We fixed an issue where a user could be defaulted to the draw tab instead of the home tab</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-549"><span>È stato risolto un problema per cui visualizzazioni ampie degli alberi potrebbero comportare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="78ede-549"><span>We fixed an issue where large tree views could result in a crash</span></span></span></div>
+- <div><span data-ttu-id="bee9b-549"><span>È stato risolto un problema per cui visualizzazioni ampie degli alberi potrebbero comportare un arresto anomalo</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-549"><span>We fixed an issue where large tree views could result in a crash</span></span></span></div>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-550">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-550">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-550">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-550">Outlook</span></span>
 
-- <div></div><span data-ttu-id="78ede-551"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">È stato risolto un problema che può causare richieste ripetute di password</span></span><span class="sxs-lookup"><span data-stu-id="78ede-551"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">We fixed an issue that can cause repeated password prompts</span></span></span>
+- <div></div><span data-ttu-id="bee9b-551"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">È stato risolto un problema che può causare richieste ripetute di password</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-551"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">We fixed an issue that can cause repeated password prompts</span></span></span>
 
-- <div><span data-ttu-id="78ede-552"><span>È stato risolto un problema che impediva l'esecuzione corretta della query di un indirizzo di posta elettronica</span></span><span class="sxs-lookup"><span data-stu-id="78ede-552"><span>We fixed an issue which could prevent an email address from being queried correctly</span></span></span></div>
+- <div><span data-ttu-id="bee9b-552"><span>È stato risolto un problema che impediva l'esecuzione corretta della query di un indirizzo di posta elettronica</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-552"><span>We fixed an issue which could prevent an email address from being queried correctly</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-553"><span>È stato risolto un problema che impediva agli utenti di aprire gli elementi del calendario creati da versioni legacy di Outlook</span></span><span class="sxs-lookup"><span data-stu-id="78ede-553"><span>We fixed an issue which could prevent users from opening calendar items created by legacy versions of Outlook</span></span></span></div>
+- <div><span data-ttu-id="bee9b-553"><span>È stato risolto un problema che impediva agli utenti di aprire gli elementi del calendario creati da versioni legacy di Outlook</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-553"><span>We fixed an issue which could prevent users from opening calendar items created by legacy versions of Outlook</span></span></span></div>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-554">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-554">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-554">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-554">PowerPoint</span></span>
 
-- <div><span data-ttu-id="78ede-555"><span>È stato risolto un problema che impediva l'avvio di alcune animazioni</span></span><span class="sxs-lookup"><span data-stu-id="78ede-555"><span>We fixed an issue which could prevent some animations from starting</span></span></span></div>
+- <div><span data-ttu-id="bee9b-555"><span>È stato risolto un problema che impediva l'avvio di alcune animazioni</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-555"><span>We fixed an issue which could prevent some animations from starting</span></span></span></div>
 
-### <a name="project"></a><span data-ttu-id="78ede-556">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-556">Project</span></span>
-- <span data-ttu-id="78ede-557">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-557">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-556">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-556">Project</span></span>
+- <span data-ttu-id="bee9b-557">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-557">Various performance and stability fixes</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-558">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-558">Word</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-558">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-558">Word</span></span>
 
-- <div><span data-ttu-id="78ede-559"><span>È stato risolto un problema per cui le risposte ai commenti potrebbero non essere più ordinate</span></span><span class="sxs-lookup"><span data-stu-id="78ede-559"><span>We fixed an issue where replies to comments could appear out of order</span></span></span></div>
+- <div><span data-ttu-id="bee9b-559"><span>È stato risolto un problema per cui le risposte ai commenti potrebbero non essere più ordinate</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-559"><span>We fixed an issue where replies to comments could appear out of order</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-560"><span>È stato risolto un problema per cui in alcune situazioni verranno visualizzati suggerimenti anziché commenti</span></span><span class="sxs-lookup"><span data-stu-id="78ede-560"><span>We fixed an issue where in some situations, hints would be displayed instead of comments</span></span></span></div>
+- <div><span data-ttu-id="bee9b-560"><span>È stato risolto un problema per cui in alcune situazioni verranno visualizzati suggerimenti anziché commenti</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-560"><span>We fixed an issue where in some situations, hints would be displayed instead of comments</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-561"><span>È stato risolto un problema per cui potrebbe essere visualizzato il riquadro revisioni quando si prova ad aggiungere un nuovo commento</span></span><span class="sxs-lookup"><span data-stu-id="78ede-561"><span>We fixed an issue where the Revisions Pane could display when the user tried to add a new comment</span></span></span></div>
+- <div><span data-ttu-id="bee9b-561"><span>È stato risolto un problema per cui potrebbe essere visualizzato il riquadro revisioni quando si prova ad aggiungere un nuovo commento</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-561"><span>We fixed an issue where the Revisions Pane could display when the user tried to add a new comment</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-562"><span>È stato risolto un problema che potrebbe impedire la visualizzazione dell'elenco a discesa Annulla</span></span><span class="sxs-lookup"><span data-stu-id="78ede-562"><span>We fixed an issue which could prevent the undo dropdown list from appearing</span></span></span></div>
+- <div><span data-ttu-id="bee9b-562"><span>È stato risolto un problema che potrebbe impedire la visualizzazione dell'elenco a discesa Annulla</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-562"><span>We fixed an issue which could prevent the undo dropdown list from appearing</span></span></span></div>
 
-- <div><span data-ttu-id="78ede-563"><span>È stato risolto un problema che impediva l'aggiunta di commenti</span></span><span class="sxs-lookup"><span data-stu-id="78ede-563"><span>We fixed an issue which could prevent comments from being added</span></span></span></div>
+- <div><span data-ttu-id="bee9b-563"><span>È stato risolto un problema che impediva l'aggiunta di commenti</span></span><span class="sxs-lookup"><span data-stu-id="bee9b-563"><span>We fixed an issue which could prevent comments from being added</span></span></span></div>
 
 
-## <a name="july-26-2019"></a><span data-ttu-id="78ede-564">26 luglio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-564">July 26, 2019</span></span>
-<span data-ttu-id="78ede-565">Versione 1908 (build 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="78ede-565">Version 1908 (build 11916.20000)</span></span>
+## <a name="july-26-2019"></a><span data-ttu-id="bee9b-564">26 luglio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-564">July 26, 2019</span></span>
+<span data-ttu-id="bee9b-565">Versione 1908 (build 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="bee9b-565">Version 1908 (build 11916.20000)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-566">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-566">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-566">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-566">What's New:</span></span>
 
-### <a name="word-excel-powerpoint"></a><span data-ttu-id="78ede-567">Word, Excel, PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-567">Word, Excel, PowerPoint</span></span>
+### <a name="word-excel-powerpoint"></a><span data-ttu-id="bee9b-567">Word, Excel, PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-567">Word, Excel, PowerPoint</span></span>
 
-#### <a name="create-more-accessible-pdfs"></a><span data-ttu-id="78ede-568">Creare file PDF accessibili</span><span class="sxs-lookup"><span data-stu-id="78ede-568">Create more accessible PDFs</span></span>
+#### <a name="create-more-accessible-pdfs"></a><span data-ttu-id="bee9b-568">Creare file PDF accessibili</span><span class="sxs-lookup"><span data-stu-id="bee9b-568">Create more accessible PDFs</span></span>
 
-<span data-ttu-id="78ede-569">Creare un file PDF e Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare.</span><span class="sxs-lookup"><span data-stu-id="78ede-569">Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span>
+<span data-ttu-id="bee9b-569">Creare un file PDF e Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare.</span><span class="sxs-lookup"><span data-stu-id="bee9b-569">Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-570">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-570">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-570">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-570">Notable Fixes:</span></span>
 
-### <a name="all"></a><span data-ttu-id="78ede-571">Tutto</span><span class="sxs-lookup"><span data-stu-id="78ede-571">All</span></span>
+### <a name="all"></a><span data-ttu-id="bee9b-571">Tutto</span><span class="sxs-lookup"><span data-stu-id="bee9b-571">All</span></span>
 
-- <span data-ttu-id="78ede-572">È stato risolto un problema per il quale talvolta si poteva interrompere l’associazione del tipo di file e delle icone dopo l'aggiornamento di Office.</span><span class="sxs-lookup"><span data-stu-id="78ede-572">We fixed an issue where file type association and icons for Office could sometimes break after an Office Update</span></span>
+- <span data-ttu-id="bee9b-572">È stato risolto un problema per il quale talvolta si poteva interrompere l’associazione del tipo di file e delle icone dopo l'aggiornamento di Office.</span><span class="sxs-lookup"><span data-stu-id="bee9b-572">We fixed an issue where file type association and icons for Office could sometimes break after an Office Update</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-573">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-573">Word</span></span> 
-- <span data-ttu-id="78ede-574">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-574">Various performance and stability fixes</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-573">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-573">Word</span></span> 
+- <span data-ttu-id="bee9b-574">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-574">Various performance and stability fixes</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-575">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-575">Excel</span></span>
-- <span data-ttu-id="78ede-576">È stato risolto un problema per cui lo spostamento di un grafico poteva causare un arresto anomalo</span><span class="sxs-lookup"><span data-stu-id="78ede-576">We fixed an issue where moving a chart could sometimes result in a crash</span></span>
-- <span data-ttu-id="78ede-577">È stato risolto un problema per il quale a volte si poteva verificare un errore nell’ottenere un oggetto della Cartella di lavoro dall'oggetto Grafico dopo aver modificato i tipi di grafici</span><span class="sxs-lookup"><span data-stu-id="78ede-577">We fixed an issue where to get Workbook object from Chart object after changing chart types could sometimes result in an error</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-575">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-575">Excel</span></span>
+- <span data-ttu-id="bee9b-576">È stato risolto un problema per cui lo spostamento di un grafico poteva causare un arresto anomalo</span><span class="sxs-lookup"><span data-stu-id="bee9b-576">We fixed an issue where moving a chart could sometimes result in a crash</span></span>
+- <span data-ttu-id="bee9b-577">È stato risolto un problema per il quale a volte si poteva verificare un errore nell’ottenere un oggetto della Cartella di lavoro dall'oggetto Grafico dopo aver modificato i tipi di grafici</span><span class="sxs-lookup"><span data-stu-id="bee9b-577">We fixed an issue where to get Workbook object from Chart object after changing chart types could sometimes result in an error</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-578">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-578">PowerPoint</span></span>
-- <span data-ttu-id="78ede-579">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-579">Various performance and stability fixes</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-578">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-578">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-579">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-579">Various performance and stability fixes</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-580">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-580">Outlook</span></span>
-- <span data-ttu-id="78ede-581">È stato risolto un problema per cui, in una barra multifunzione semplificata, un controllo disabilitato a volte poteva non essere disattivato sulla barra multifunzione</span><span class="sxs-lookup"><span data-stu-id="78ede-581">We fixed an issue where in simplified ribbon, a disabled control could sometimes not be greyed out in the ribbon</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-580">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-580">Outlook</span></span>
+- <span data-ttu-id="bee9b-581">È stato risolto un problema per cui, in una barra multifunzione semplificata, un controllo disabilitato a volte poteva non essere disattivato sulla barra multifunzione</span><span class="sxs-lookup"><span data-stu-id="bee9b-581">We fixed an issue where in simplified ribbon, a disabled control could sometimes not be greyed out in the ribbon</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-582">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-582">Access</span></span>
-- <span data-ttu-id="78ede-583">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-583">Various performance and stability fixes</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-582">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-582">Access</span></span>
+- <span data-ttu-id="bee9b-583">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-583">Various performance and stability fixes</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-584">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-584">Project</span></span>
-- <span data-ttu-id="78ede-585">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-585">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-584">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-584">Project</span></span>
+- <span data-ttu-id="bee9b-585">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-585">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
-## <a name="july-19-2019"></a><span data-ttu-id="78ede-586">19 luglio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-586">July 19, 2019</span></span>
-<span data-ttu-id="78ede-587">Versione 1908 (Build 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="78ede-587">Version 1908 (build 11911.20000)</span></span>
+## <a name="july-19-2019"></a><span data-ttu-id="bee9b-586">19 luglio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-586">July 19, 2019</span></span>
+<span data-ttu-id="bee9b-587">Versione 1908 (Build 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="bee9b-587">Version 1908 (build 11911.20000)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-588">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-588">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-588">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-588">What's New:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-589">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-589">Word</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-589">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-589">Word</span></span>
 
-#### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a><span data-ttu-id="78ede-590">Informazioni sugli acronimi durante la lettura in Word Online</span><span class="sxs-lookup"><span data-stu-id="78ede-590">Learn what Acronyms mean when you read in Word Online</span></span>
+#### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a><span data-ttu-id="bee9b-590">Informazioni sugli acronimi durante la lettura in Word Online</span><span class="sxs-lookup"><span data-stu-id="bee9b-590">Learn what Acronyms mean when you read in Word Online</span></span>
 
-<span data-ttu-id="78ede-591">Quando viene rilevato un acronimo, Word proverà a definirlo usando i dati dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="78ede-591">When you encounter an Acronym, we'll try to define it using data from within your organization.</span></span>
+<span data-ttu-id="bee9b-591">Quando viene rilevato un acronimo, Word proverà a definirlo usando i dati dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-591">When you encounter an Acronym, we'll try to define it using data from within your organization.</span></span>
 
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-592">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-592">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-592">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-592">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-593">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-593">Word</span></span> 
-- <span data-ttu-id="78ede-594">È stato risolto un problema per cui il tag BookMarkEnd era mancante.</span><span class="sxs-lookup"><span data-stu-id="78ede-594">We fixed an issue which BookMarkEnd tag was missing.</span></span>
-- <span data-ttu-id="78ede-595">È stato risolto un problema per cui la selezione del carattere poteva cambiare durante la digitazione di caratteri speciali</span><span class="sxs-lookup"><span data-stu-id="78ede-595">We fixed an issue where the font selection could change while the user was typing special characters</span></span>
-- <span data-ttu-id="78ede-596">È stato risolto un problema che poteva talvolta causare una risposta vuota a una nuova scheda commento</span><span class="sxs-lookup"><span data-stu-id="78ede-596">We fixed an issue which could sometimes cause blank replies to a new comment card</span></span>
-- <span data-ttu-id="78ede-597">È stato risolto un problema che poteva causare la perdita della formattazione durante la condivisione di un messaggio di posta elettronica</span><span class="sxs-lookup"><span data-stu-id="78ede-597">We fixed an issue which could cause formatting to be lost when sharing an email</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-593">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-593">Word</span></span> 
+- <span data-ttu-id="bee9b-594">È stato risolto un problema per cui il tag BookMarkEnd era mancante.</span><span class="sxs-lookup"><span data-stu-id="bee9b-594">We fixed an issue which BookMarkEnd tag was missing.</span></span>
+- <span data-ttu-id="bee9b-595">È stato risolto un problema per cui la selezione del carattere poteva cambiare durante la digitazione di caratteri speciali</span><span class="sxs-lookup"><span data-stu-id="bee9b-595">We fixed an issue where the font selection could change while the user was typing special characters</span></span>
+- <span data-ttu-id="bee9b-596">È stato risolto un problema che poteva talvolta causare una risposta vuota a una nuova scheda commento</span><span class="sxs-lookup"><span data-stu-id="bee9b-596">We fixed an issue which could sometimes cause blank replies to a new comment card</span></span>
+- <span data-ttu-id="bee9b-597">È stato risolto un problema che poteva causare la perdita della formattazione durante la condivisione di un messaggio di posta elettronica</span><span class="sxs-lookup"><span data-stu-id="bee9b-597">We fixed an issue which could cause formatting to be lost when sharing an email</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-598">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-598">Excel</span></span>
-- <span data-ttu-id="78ede-599">È stato risolto un problema per cui una matrice con un intervallo molto ampio poteva talvolta causare un arresto anomalo</span><span class="sxs-lookup"><span data-stu-id="78ede-599">We fixed an issue where an array with a large range could sometimes cause a crash</span></span>
-- <span data-ttu-id="78ede-600">Le prestazioni di copia dei dati da intervalli filtrati sono state notevolmente migliorate</span><span class="sxs-lookup"><span data-stu-id="78ede-600">We significantly improved the performance of copying data from filtered ranges</span></span>
-- <span data-ttu-id="78ede-601">È stato risolto un problema che impediva l'apertura di alcuni file se i nomi file contenevano caratteri speciali</span><span class="sxs-lookup"><span data-stu-id="78ede-601">We fixed an issue which prevented some files from opening if the filenames contained special characters</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-598">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-598">Excel</span></span>
+- <span data-ttu-id="bee9b-599">È stato risolto un problema per cui una matrice con un intervallo molto ampio poteva talvolta causare un arresto anomalo</span><span class="sxs-lookup"><span data-stu-id="bee9b-599">We fixed an issue where an array with a large range could sometimes cause a crash</span></span>
+- <span data-ttu-id="bee9b-600">Le prestazioni di copia dei dati da intervalli filtrati sono state notevolmente migliorate</span><span class="sxs-lookup"><span data-stu-id="bee9b-600">We significantly improved the performance of copying data from filtered ranges</span></span>
+- <span data-ttu-id="bee9b-601">È stato risolto un problema che impediva l'apertura di alcuni file se i nomi file contenevano caratteri speciali</span><span class="sxs-lookup"><span data-stu-id="bee9b-601">We fixed an issue which prevented some files from opening if the filenames contained special characters</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-602">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-602">PowerPoint</span></span>
-- <span data-ttu-id="78ede-603">È stato risolto un problema per cui il nome della sezione non veniva selezionato per impostazione predefinita per le nuove sezioni create in PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="78ede-603">We fixed an issue where section name was not selected by default for newly created section in PowerPoint.</span></span>
-- <span data-ttu-id="78ede-604">È stato risolto un problema che causava difficoltà nell'uso dell'interfaccia utente su schermo 4:3</span><span class="sxs-lookup"><span data-stu-id="78ede-604">We fixed an issue which could cause the UI to become difficult to use when using a 4:3 display</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-602">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-602">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-603">È stato risolto un problema per cui il nome della sezione non veniva selezionato per impostazione predefinita per le nuove sezioni create in PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="bee9b-603">We fixed an issue where section name was not selected by default for newly created section in PowerPoint.</span></span>
+- <span data-ttu-id="bee9b-604">È stato risolto un problema che causava difficoltà nell'uso dell'interfaccia utente su schermo 4:3</span><span class="sxs-lookup"><span data-stu-id="bee9b-604">We fixed an issue which could cause the UI to become difficult to use when using a 4:3 display</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-605">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-605">Outlook</span></span>
-- <span data-ttu-id="78ede-606">È stato risolto un problema che poteva impedire la visualizzazione dell'elenco di sale disponibili</span><span class="sxs-lookup"><span data-stu-id="78ede-606">We fixed an issue which could prevent available rooms from being listed</span></span>
-- <span data-ttu-id="78ede-607">È stato risolto un problema che impediva l'uso della formattazione HTML per alcuni utenti POP3</span><span class="sxs-lookup"><span data-stu-id="78ede-607">We fixed an issue which prevented HTML formatting for some POP3 users</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-605">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-605">Outlook</span></span>
+- <span data-ttu-id="bee9b-606">È stato risolto un problema che poteva impedire la visualizzazione dell'elenco di sale disponibili</span><span class="sxs-lookup"><span data-stu-id="bee9b-606">We fixed an issue which could prevent available rooms from being listed</span></span>
+- <span data-ttu-id="bee9b-607">È stato risolto un problema che impediva l'uso della formattazione HTML per alcuni utenti POP3</span><span class="sxs-lookup"><span data-stu-id="bee9b-607">We fixed an issue which prevented HTML formatting for some POP3 users</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-608">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-608">Access</span></span>
-- <span data-ttu-id="78ede-609">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-609">Various performance and stability fixes</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-608">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-608">Access</span></span>
+- <span data-ttu-id="bee9b-609">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-609">Various performance and stability fixes</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-610">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-610">Project</span></span>
-- <span data-ttu-id="78ede-611">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-611">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-610">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-610">Project</span></span>
+- <span data-ttu-id="bee9b-611">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-611">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
-## <a name="july-12-2019"></a><span data-ttu-id="78ede-612">12 luglio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-612">July 12, 2019</span></span>
-<span data-ttu-id="78ede-613">Versione 1907 (Build 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="78ede-613">Version 1907 (build 11901.20038)</span></span>
+## <a name="july-12-2019"></a><span data-ttu-id="bee9b-612">12 luglio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-612">July 12, 2019</span></span>
+<span data-ttu-id="bee9b-613">Versione 1907 (Build 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="bee9b-613">Version 1907 (build 11901.20038)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-614">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-614">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-614">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-614">What's New:</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-615">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-615">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-615">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-615">PowerPoint</span></span>
  
-#### <a name="use-ink-replay-in-your-presentations"></a><span data-ttu-id="78ede-616">Usare la riproduzione input penna nelle presentazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-616">Use ink replay in your presentations</span></span>
+#### <a name="use-ink-replay-in-your-presentations"></a><span data-ttu-id="bee9b-616">Usare la riproduzione input penna nelle presentazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-616">Use ink replay in your presentations</span></span>
  
-<span data-ttu-id="78ede-617">Applicare un'animazione di riproduzione input penna in PowerPoint per aggiungere contenuti e comunicare di più nelle presentazioni.</span><span class="sxs-lookup"><span data-stu-id="78ede-617">Apply a replay animation for ink in PowerPoint to express and communicate more in presentations.</span></span> 
+<span data-ttu-id="bee9b-617">Applicare un'animazione di riproduzione input penna in PowerPoint per aggiungere contenuti e comunicare di più nelle presentazioni.</span><span class="sxs-lookup"><span data-stu-id="bee9b-617">Apply a replay animation for ink in PowerPoint to express and communicate more in presentations.</span></span> 
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-618">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-618">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-618">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-618">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-619">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-619">Word</span></span> 
-- <span data-ttu-id="78ede-620">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-620">Various performance and stability fixes</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-619">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-619">Word</span></span> 
+- <span data-ttu-id="bee9b-620">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-620">Various performance and stability fixes</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-621">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-621">Excel</span></span>
-- <span data-ttu-id="78ede-622">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-622">Various performance and stability fixes</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-621">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-621">Excel</span></span>
+- <span data-ttu-id="bee9b-622">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-622">Various performance and stability fixes</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-623">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-623">PowerPoint</span></span>
-- <span data-ttu-id="78ede-624">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-624">Various performance and stability fixes</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-623">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-623">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-624">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-624">Various performance and stability fixes</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-625">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-625">Outlook</span></span>
-- <span data-ttu-id="78ede-626">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-626">Various performance and stability fixes</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-625">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-625">Outlook</span></span>
+- <span data-ttu-id="bee9b-626">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-626">Various performance and stability fixes</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-627">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-627">Access</span></span>
-- <span data-ttu-id="78ede-628">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-628">Various performance and stability fixes</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-627">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-627">Access</span></span>
+- <span data-ttu-id="bee9b-628">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-628">Various performance and stability fixes</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-629">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-629">Project</span></span>
-- <span data-ttu-id="78ede-630">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-630">Various performance and stability fixes</span></span>
-
-</BR></BR>
-
-## <a name="july-5-2019"></a><span data-ttu-id="78ede-631">5 luglio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-631">July 5, 2019</span></span>
-<span data-ttu-id="78ede-632">Versione 1907 (Build 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="78ede-632">Version 1907 (build 11901.20018)</span></span>
-
-## <a name="whats-new"></a><span data-ttu-id="78ede-633">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-633">What's New:</span></span>
-
-### <a name="word-excel-powerpoint"></a><span data-ttu-id="78ede-634">Word, Excel, PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-634">Word, Excel, PowerPoint</span></span>
-
-#### <a name="sketchy-shapes"></a><span data-ttu-id="78ede-635">Forme Schizzo</span><span class="sxs-lookup"><span data-stu-id="78ede-635">Sketchy Shapes!</span></span>
-
-<span data-ttu-id="78ede-636">Se si sta lavorando a una bozza di presentazione,</span><span class="sxs-lookup"><span data-stu-id="78ede-636">In the middle of drafting a presentation?</span></span> <span data-ttu-id="78ede-637">è possibile applicare lo stile Schizzo per indicare che non è ancora finale.</span><span class="sxs-lookup"><span data-stu-id="78ede-637">Apply the sketchy style to show that you're still working on it.</span></span> <span data-ttu-id="78ede-638">Questo stile consente di conferire un tocco personale agli oggetti senza trasformarli in forme libere, disegnate a mano.</span><span class="sxs-lookup"><span data-stu-id="78ede-638">It gives a personal touch to your objects without turning it into a free form, hand-drawn shapes.</span></span>
-
-### <a name="excel"></a><span data-ttu-id="78ede-639">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-639">Excel</span></span>
-
-- <span data-ttu-id="78ede-640">**Condivisione dei file più rapida**: è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.</span><span class="sxs-lookup"><span data-stu-id="78ede-640">**Faster file sharing**: Share your documents right from the recently used list without having to open the file.</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="78ede-641">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-641">PowerPoint</span></span>
-
-- <span data-ttu-id="78ede-642">**L'impostazione per la stampa dei numeri di diapositiva in stampati è stata spostata nel menu Stampa per semplificare l'accesso:** trovarla nell'elenco a discesa Stampa > layout di stampa quando è selezionato un layout Stampati.</span><span class="sxs-lookup"><span data-stu-id="78ede-642">**The setting to Print Slide Numbers in Handouts has been moved to the Print Menu for easier access:**  Find it in the Print > Print Layout dropdown when a Handout layout is selected.</span></span> <span data-ttu-id="78ede-643">L'opzione consente inoltre di attivare o disattivare facilmente la presentazione.</span><span class="sxs-lookup"><span data-stu-id="78ede-643">This also allows the setting to be easily toggled per presentation.</span></span> [<span data-ttu-id="78ede-644">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-644">Learn more</span></span>](https://support.office.com/it-IT/article/194d4320-aa03-478b-9300-df25f0d15dc4)
-
-- <span data-ttu-id="78ede-645">**Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.</span><span class="sxs-lookup"><span data-stu-id="78ede-645">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-646">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-646">Word</span></span>
-
-- <span data-ttu-id="78ede-647">**Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.</span><span class="sxs-lookup"><span data-stu-id="78ede-647">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
-
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-648">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-648">Notable Fixes:</span></span>
-
-### <a name="all"></a><span data-ttu-id="78ede-649">Tutto</span><span class="sxs-lookup"><span data-stu-id="78ede-649">All</span></span>
-- <span data-ttu-id="78ede-650">Le prestazioni dei suggerimenti tasto di scelta della barra multifunzione sono state notevolmente migliorate</span><span class="sxs-lookup"><span data-stu-id="78ede-650">We significantly improved the performance of Ribbon KeyTips</span></span>
-- <span data-ttu-id="78ede-651">È stato risolto un problema che impediva la visualizzazione corretta della finestra di dialogo "Scopri le prossime novità"</span><span class="sxs-lookup"><span data-stu-id="78ede-651">We fixed an issue which prevented the "See what's coming soon" dialog from being displayed properly</span></span>
-- <span data-ttu-id="78ede-652">È stato risolto un problema che poteva causare il disallineamento di Foto nel riquadro a comparsa della raccolta di Creazione condivisa</span><span class="sxs-lookup"><span data-stu-id="78ede-652">We fixed an issue which could cause Photos to be misaligned in the Co-auth Gallery flyout</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-653">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-653">Word</span></span> 
-- <span data-ttu-id="78ede-654">È stato risolto un problema che poteva talvolta impedire l'aggiunta di nuovi commenti</span><span class="sxs-lookup"><span data-stu-id="78ede-654">We fixed an issue which could sometimes prevent new comments from being added</span></span>
-- <span data-ttu-id="78ede-655">È stato risolto un problema per cui le tabelle potevano talvolta causare un arresto anomalo</span><span class="sxs-lookup"><span data-stu-id="78ede-655">We fixed an issue where tables could sometimes cause a crash</span></span>
-- <span data-ttu-id="78ede-656">È stato risolto un problema per cui alla fine di una stampa unione potevano essere aggiunti dati non validi</span><span class="sxs-lookup"><span data-stu-id="78ede-656">We fixed an issue where invalid data could sometimes be added to the end of a mail merge</span></span>
-- <span data-ttu-id="78ede-657">È stato risolto un problema che poteva causare il rendering non corretto di alcune equazioni LaTeX</span><span class="sxs-lookup"><span data-stu-id="78ede-657">We fixed an issue which could cause some LaTeX equations to render incorrectly</span></span>
-
-### <a name="excel"></a><span data-ttu-id="78ede-658">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-658">Excel</span></span>
-- <span data-ttu-id="78ede-659">È stato risolto un problema per cui la modifica dei tipi di grafico poteva causare un'eccezione di runtime</span><span class="sxs-lookup"><span data-stu-id="78ede-659">We fixed an issue where changing chart types could sometimes result in a runtime exception</span></span>
-- <span data-ttu-id="78ede-660">È stato risolto un problema che causava la visualizzazione di una barra multifunzione errata all'apertura di più finestre</span><span class="sxs-lookup"><span data-stu-id="78ede-660">We fixed an issue where the incorrect ribbon could be displayed when multiple windows were open</span></span>
-- <span data-ttu-id="78ede-661">È stato risolto un problema che poteva causare un errore quando una macro apriva una seconda istanza di una cartella di lavoro</span><span class="sxs-lookup"><span data-stu-id="78ede-661">We fixed an issue which could cause an error when a macro opened a second instance of a workbook</span></span>
-- <span data-ttu-id="78ede-662">È stato risolto un problema che poteva causare un arresto anomalo durante l'apertura o la creazione di una cartella di lavoro o il passaggio da una cartella di lavoro all'altra</span><span class="sxs-lookup"><span data-stu-id="78ede-662">We fixed an issue which could cause a crash when opening or creating a workbook, or switching between workbooks</span></span>
-- <span data-ttu-id="78ede-663">È stato risolto un problema che impediva agli utenti di aprire in Teams un PDF creato in Word</span><span class="sxs-lookup"><span data-stu-id="78ede-663">We fixed an issue preventing users from opening a PDF created from Word in Teams</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="78ede-664">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-664">PowerPoint</span></span>
-- <span data-ttu-id="78ede-665">È stato risolto un problema che poteva peggiorare la qualità di un grafico esportato in un PDF</span><span class="sxs-lookup"><span data-stu-id="78ede-665">We fixed an issue which would degrade the quality of a chart when exported to a pdf</span></span>
-- <span data-ttu-id="78ede-666">È stato risolto un problema che impediva la visualizzazione di una descrizione comando con l'indicazione della distanza dal centro</span><span class="sxs-lookup"><span data-stu-id="78ede-666">We fixed an issue which prevented a tooltip indicating the distance to center from displaying</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="78ede-667">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-667">Outlook</span></span>
-- <span data-ttu-id="78ede-668">È stato risolto un problema che poteva talvolta impedire la visualizzazione dell'errore Disco pieno</span><span class="sxs-lookup"><span data-stu-id="78ede-668">We fixed an issue which could sometimes prevent a Disk Full error to be displayed</span></span>
-- <span data-ttu-id="78ede-669">È stato risolto un problema che poteva causare la duplicazione degli allegati durante l'aggiornamento di una convocazione di riunione</span><span class="sxs-lookup"><span data-stu-id="78ede-669">We fixed an issue which could cause attachments to become duplicated when updating a meeting request</span></span>
-
-### <a name="access"></a><span data-ttu-id="78ede-670">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-670">Access</span></span>
-- <span data-ttu-id="78ede-671">È stato risolto un problema che impediva ad alcune query di restituire valori interi di grandi dimensioni</span><span class="sxs-lookup"><span data-stu-id="78ede-671">We fixed an issue which prevented some queries from returning large integer values</span></span>
-- <span data-ttu-id="78ede-672">È stato risolto un problema che poteva impedire la modifica della casella di testo SQL</span><span class="sxs-lookup"><span data-stu-id="78ede-672">We fixed an issue which could make the sql textbox uneditable</span></span>
-- <span data-ttu-id="78ede-673">È stato risolto un problema per cui le descrizioni comandi potevano essere difficili da visualizzare in alcuni schermi con valori DPI elevati</span><span class="sxs-lookup"><span data-stu-id="78ede-673">We fixed an issue where tooltips could be difficult to see on some High DPI displays</span></span>
-
-### <a name="project"></a><span data-ttu-id="78ede-674">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-674">Project</span></span>
-- <span data-ttu-id="78ede-675">È stato risolto un problema che poteva impedire la modifica dei valori di contrassegno nelle nuove attività</span><span class="sxs-lookup"><span data-stu-id="78ede-675">We fixed an issue which could cause flag values to become uneditable in new tasks</span></span>
-- <span data-ttu-id="78ede-676">È stato risolto un problema per cui un aggiornamento di stato poteva impostare una data di inizio effettivo errata nelle assegnazioni e nelle attività</span><span class="sxs-lookup"><span data-stu-id="78ede-676">We fixed an issue which could cause a status update to improperly set Actual Start Date on Assignments and Tasks</span></span>
-- <span data-ttu-id="78ede-677">È stato risolto un problema che poteva comportare la sovrassegnazione errata di alcune risorse</span><span class="sxs-lookup"><span data-stu-id="78ede-677">We fixed an issue which could cause some resources to incorreclty appear overallocated</span></span>
-- <span data-ttu-id="78ede-678">È stato risolto un problema per cui il metodo Add di TaskDependencies poteva non riuscire quando veniva aggiunto un elemento Lag, il separatore decimale era una virgola e in caso di connessione a un server</span><span class="sxs-lookup"><span data-stu-id="78ede-678">We fixed an issue where the TaskDependencies Add method could fail when Lag is added, the decimal separator is a comma, and when connected to a server</span></span>
-- <span data-ttu-id="78ede-679">È stato risolto un problema per cui l'aggiornamento dei valori delle tabelle di ricerca dei campi personalizzati locali tramite CSOM poteva causare l'arresto anomalo dei PC</span><span class="sxs-lookup"><span data-stu-id="78ede-679">We fixed an issue where updating local custom field lookup table values via CSOM could crash PCS</span></span>
-- <span data-ttu-id="78ede-680">È stato risolto un problema per cui i valori totali del lavoro potevano risultare errati se contenevano un numero decimale</span><span class="sxs-lookup"><span data-stu-id="78ede-680">We fixed an issue where the total work values may appear incorrect if they contain a decimal</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-629">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-629">Project</span></span>
+- <span data-ttu-id="bee9b-630">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-630">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
-## <a name="june-28-2019"></a><span data-ttu-id="78ede-681">28 giugno 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-681">June 28, 2019</span></span>
-<span data-ttu-id="78ede-682">Versione 1907 (Build 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="78ede-682">Version 1907 (build 11819.20002)</span></span>
+## <a name="july-5-2019"></a><span data-ttu-id="bee9b-631">5 luglio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-631">July 5, 2019</span></span>
+<span data-ttu-id="bee9b-632">Versione 1907 (Build 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="bee9b-632">Version 1907 (build 11901.20018)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-683">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-683">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-633">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-633">What's New:</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-684">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-684">Excel</span></span>
+### <a name="word-excel-powerpoint"></a><span data-ttu-id="bee9b-634">Word, Excel, PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-634">Word, Excel, PowerPoint</span></span>
 
-- <span data-ttu-id="78ede-685">**Codice rapido con i miglioramenti di Power Query:** è possibile completare rapidamente il codice con il completamento automatico e i colori della sintassi.</span><span class="sxs-lookup"><span data-stu-id="78ede-685">**Code quickly with Power Query enhancements:** Get to code completion quickly with auto-complete and syntax coloring.</span></span> <span data-ttu-id="78ede-686">Semplice individuazione di funzioni, colonne e parametri</span><span class="sxs-lookup"><span data-stu-id="78ede-686">Easily discover functions, columns, and parameters, too</span></span>
+#### <a name="sketchy-shapes"></a><span data-ttu-id="bee9b-635">Forme Schizzo</span><span class="sxs-lookup"><span data-stu-id="bee9b-635">Sketchy Shapes!</span></span>
 
-- <span data-ttu-id="78ede-687">**Unione di tabelle in colonne simili:** Recupera e trasforma (Power Query) ora include una logica di corrispondenza del testo approssimativa (denominata anche corrispondenza fuzzy) durante il confronto di colonne per unire le tabelle.</span><span class="sxs-lookup"><span data-stu-id="78ede-687">**Join tables on similar columns:** Get & Transform (Power Query) now features approximate text matching logic (also called fuzzy matching) when comparing columns for merging tables.</span></span>
+<span data-ttu-id="bee9b-636">Se si sta lavorando a una bozza di presentazione,</span><span class="sxs-lookup"><span data-stu-id="bee9b-636">In the middle of drafting a presentation?</span></span> <span data-ttu-id="bee9b-637">è possibile applicare lo stile Schizzo per indicare che non è ancora finale.</span><span class="sxs-lookup"><span data-stu-id="bee9b-637">Apply the sketchy style to show that you're still working on it.</span></span> <span data-ttu-id="bee9b-638">Questo stile consente di conferire un tocco personale agli oggetti senza trasformarli in forme libere, disegnate a mano.</span><span class="sxs-lookup"><span data-stu-id="bee9b-638">It gives a personal touch to your objects without turning it into a free form, hand-drawn shapes.</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-688">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-688">Word</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-639">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-639">Excel</span></span>
 
-- <span data-ttu-id="78ede-689">**Miglioramenti alla creazione condivisa:** affidabilità migliore durante la creazione condivisa.</span><span class="sxs-lookup"><span data-stu-id="78ede-689">**Coauthoring improvements:** Improved reliability when coauthoring.</span></span>
+- <span data-ttu-id="bee9b-640">**Condivisione dei file più rapida**: è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.</span><span class="sxs-lookup"><span data-stu-id="bee9b-640">**Faster file sharing**: Share your documents right from the recently used list without having to open the file.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-641">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-641">PowerPoint</span></span>
+
+- <span data-ttu-id="bee9b-642">**L'impostazione per la stampa dei numeri di diapositiva in stampati è stata spostata nel menu Stampa per semplificare l'accesso:** trovarla nell'elenco a discesa Stampa > layout di stampa quando è selezionato un layout Stampati.</span><span class="sxs-lookup"><span data-stu-id="bee9b-642">**The setting to Print Slide Numbers in Handouts has been moved to the Print Menu for easier access:**  Find it in the Print > Print Layout dropdown when a Handout layout is selected.</span></span> <span data-ttu-id="bee9b-643">L'opzione consente inoltre di attivare o disattivare facilmente la presentazione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-643">This also allows the setting to be easily toggled per presentation.</span></span> [<span data-ttu-id="bee9b-644">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-644">Learn more</span></span>](https://support.office.com/it-IT/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- <span data-ttu-id="bee9b-645">**Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.</span><span class="sxs-lookup"><span data-stu-id="bee9b-645">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-646">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-646">Word</span></span>
+
+- <span data-ttu-id="bee9b-647">**Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.</span><span class="sxs-lookup"><span data-stu-id="bee9b-647">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
+
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-648">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-648">Notable Fixes:</span></span>
+
+### <a name="all"></a><span data-ttu-id="bee9b-649">Tutto</span><span class="sxs-lookup"><span data-stu-id="bee9b-649">All</span></span>
+- <span data-ttu-id="bee9b-650">Le prestazioni dei suggerimenti tasto di scelta della barra multifunzione sono state notevolmente migliorate</span><span class="sxs-lookup"><span data-stu-id="bee9b-650">We significantly improved the performance of Ribbon KeyTips</span></span>
+- <span data-ttu-id="bee9b-651">È stato risolto un problema che impediva la visualizzazione corretta della finestra di dialogo "Scopri le prossime novità"</span><span class="sxs-lookup"><span data-stu-id="bee9b-651">We fixed an issue which prevented the "See what's coming soon" dialog from being displayed properly</span></span>
+- <span data-ttu-id="bee9b-652">È stato risolto un problema che poteva causare il disallineamento di Foto nel riquadro a comparsa della raccolta di Creazione condivisa</span><span class="sxs-lookup"><span data-stu-id="bee9b-652">We fixed an issue which could cause Photos to be misaligned in the Co-auth Gallery flyout</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-653">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-653">Word</span></span> 
+- <span data-ttu-id="bee9b-654">È stato risolto un problema che poteva talvolta impedire l'aggiunta di nuovi commenti</span><span class="sxs-lookup"><span data-stu-id="bee9b-654">We fixed an issue which could sometimes prevent new comments from being added</span></span>
+- <span data-ttu-id="bee9b-655">È stato risolto un problema per cui le tabelle potevano talvolta causare un arresto anomalo</span><span class="sxs-lookup"><span data-stu-id="bee9b-655">We fixed an issue where tables could sometimes cause a crash</span></span>
+- <span data-ttu-id="bee9b-656">È stato risolto un problema per cui alla fine di una stampa unione potevano essere aggiunti dati non validi</span><span class="sxs-lookup"><span data-stu-id="bee9b-656">We fixed an issue where invalid data could sometimes be added to the end of a mail merge</span></span>
+- <span data-ttu-id="bee9b-657">È stato risolto un problema che poteva causare il rendering non corretto di alcune equazioni LaTeX</span><span class="sxs-lookup"><span data-stu-id="bee9b-657">We fixed an issue which could cause some LaTeX equations to render incorrectly</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-658">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-658">Excel</span></span>
+- <span data-ttu-id="bee9b-659">È stato risolto un problema per cui la modifica dei tipi di grafico poteva causare un'eccezione di runtime</span><span class="sxs-lookup"><span data-stu-id="bee9b-659">We fixed an issue where changing chart types could sometimes result in a runtime exception</span></span>
+- <span data-ttu-id="bee9b-660">È stato risolto un problema che causava la visualizzazione di una barra multifunzione errata all'apertura di più finestre</span><span class="sxs-lookup"><span data-stu-id="bee9b-660">We fixed an issue where the incorrect ribbon could be displayed when multiple windows were open</span></span>
+- <span data-ttu-id="bee9b-661">È stato risolto un problema che poteva causare un errore quando una macro apriva una seconda istanza di una cartella di lavoro</span><span class="sxs-lookup"><span data-stu-id="bee9b-661">We fixed an issue which could cause an error when a macro opened a second instance of a workbook</span></span>
+- <span data-ttu-id="bee9b-662">È stato risolto un problema che poteva causare un arresto anomalo durante l'apertura o la creazione di una cartella di lavoro o il passaggio da una cartella di lavoro all'altra</span><span class="sxs-lookup"><span data-stu-id="bee9b-662">We fixed an issue which could cause a crash when opening or creating a workbook, or switching between workbooks</span></span>
+- <span data-ttu-id="bee9b-663">È stato risolto un problema che impediva agli utenti di aprire in Teams un PDF creato in Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-663">We fixed an issue preventing users from opening a PDF created from Word in Teams</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-664">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-664">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-665">È stato risolto un problema che poteva peggiorare la qualità di un grafico esportato in un PDF</span><span class="sxs-lookup"><span data-stu-id="bee9b-665">We fixed an issue which would degrade the quality of a chart when exported to a pdf</span></span>
+- <span data-ttu-id="bee9b-666">È stato risolto un problema che impediva la visualizzazione di una descrizione comando con l'indicazione della distanza dal centro</span><span class="sxs-lookup"><span data-stu-id="bee9b-666">We fixed an issue which prevented a tooltip indicating the distance to center from displaying</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-667">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-667">Outlook</span></span>
+- <span data-ttu-id="bee9b-668">È stato risolto un problema che poteva talvolta impedire la visualizzazione dell'errore Disco pieno</span><span class="sxs-lookup"><span data-stu-id="bee9b-668">We fixed an issue which could sometimes prevent a Disk Full error to be displayed</span></span>
+- <span data-ttu-id="bee9b-669">È stato risolto un problema che poteva causare la duplicazione degli allegati durante l'aggiornamento di una convocazione di riunione</span><span class="sxs-lookup"><span data-stu-id="bee9b-669">We fixed an issue which could cause attachments to become duplicated when updating a meeting request</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-670">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-670">Access</span></span>
+- <span data-ttu-id="bee9b-671">È stato risolto un problema che impediva ad alcune query di restituire valori interi di grandi dimensioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-671">We fixed an issue which prevented some queries from returning large integer values</span></span>
+- <span data-ttu-id="bee9b-672">È stato risolto un problema che poteva impedire la modifica della casella di testo SQL</span><span class="sxs-lookup"><span data-stu-id="bee9b-672">We fixed an issue which could make the sql textbox uneditable</span></span>
+- <span data-ttu-id="bee9b-673">È stato risolto un problema per cui le descrizioni comandi potevano essere difficili da visualizzare in alcuni schermi con valori DPI elevati</span><span class="sxs-lookup"><span data-stu-id="bee9b-673">We fixed an issue where tooltips could be difficult to see on some High DPI displays</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-674">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-674">Project</span></span>
+- <span data-ttu-id="bee9b-675">È stato risolto un problema che poteva impedire la modifica dei valori di contrassegno nelle nuove attività</span><span class="sxs-lookup"><span data-stu-id="bee9b-675">We fixed an issue which could cause flag values to become uneditable in new tasks</span></span>
+- <span data-ttu-id="bee9b-676">È stato risolto un problema per cui un aggiornamento di stato poteva impostare una data di inizio effettivo errata nelle assegnazioni e nelle attività</span><span class="sxs-lookup"><span data-stu-id="bee9b-676">We fixed an issue which could cause a status update to improperly set Actual Start Date on Assignments and Tasks</span></span>
+- <span data-ttu-id="bee9b-677">È stato risolto un problema che poteva comportare la sovrassegnazione errata di alcune risorse</span><span class="sxs-lookup"><span data-stu-id="bee9b-677">We fixed an issue which could cause some resources to incorreclty appear overallocated</span></span>
+- <span data-ttu-id="bee9b-678">È stato risolto un problema per cui il metodo Add di TaskDependencies poteva non riuscire quando veniva aggiunto un elemento Lag, il separatore decimale era una virgola e in caso di connessione a un server</span><span class="sxs-lookup"><span data-stu-id="bee9b-678">We fixed an issue where the TaskDependencies Add method could fail when Lag is added, the decimal separator is a comma, and when connected to a server</span></span>
+- <span data-ttu-id="bee9b-679">È stato risolto un problema per cui l'aggiornamento dei valori delle tabelle di ricerca dei campi personalizzati locali tramite CSOM poteva causare l'arresto anomalo dei PC</span><span class="sxs-lookup"><span data-stu-id="bee9b-679">We fixed an issue where updating local custom field lookup table values via CSOM could crash PCS</span></span>
+- <span data-ttu-id="bee9b-680">È stato risolto un problema per cui i valori totali del lavoro potevano risultare errati se contenevano un numero decimale</span><span class="sxs-lookup"><span data-stu-id="bee9b-680">We fixed an issue where the total work values may appear incorrect if they contain a decimal</span></span>
+
+</BR></BR>
+
+## <a name="june-28-2019"></a><span data-ttu-id="bee9b-681">28 giugno 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-681">June 28, 2019</span></span>
+<span data-ttu-id="bee9b-682">Versione 1907 (Build 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="bee9b-682">Version 1907 (build 11819.20002)</span></span>
+
+## <a name="whats-new"></a><span data-ttu-id="bee9b-683">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-683">What's New:</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-684">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-684">Excel</span></span>
+
+- <span data-ttu-id="bee9b-685">**Codice rapido con i miglioramenti di Power Query:** è possibile completare rapidamente il codice con il completamento automatico e i colori della sintassi.</span><span class="sxs-lookup"><span data-stu-id="bee9b-685">**Code quickly with Power Query enhancements:** Get to code completion quickly with auto-complete and syntax coloring.</span></span> <span data-ttu-id="bee9b-686">Semplice individuazione di funzioni, colonne e parametri</span><span class="sxs-lookup"><span data-stu-id="bee9b-686">Easily discover functions, columns, and parameters, too</span></span>
+
+- <span data-ttu-id="bee9b-687">**Unione di tabelle in colonne simili:** Recupera e trasforma (Power Query) ora include una logica di corrispondenza del testo approssimativa (denominata anche corrispondenza fuzzy) durante il confronto di colonne per unire le tabelle.</span><span class="sxs-lookup"><span data-stu-id="bee9b-687">**Join tables on similar columns:** Get & Transform (Power Query) now features approximate text matching logic (also called fuzzy matching) when comparing columns for merging tables.</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-688">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-688">Word</span></span>
+
+- <span data-ttu-id="bee9b-689">**Miglioramenti alla creazione condivisa:** affidabilità migliore durante la creazione condivisa.</span><span class="sxs-lookup"><span data-stu-id="bee9b-689">**Coauthoring improvements:** Improved reliability when coauthoring.</span></span>
  
-### <a name="word-excel-powerpoint-and-visio"></a><span data-ttu-id="78ede-690">Word, Excel, PowerPoint e Visio</span><span class="sxs-lookup"><span data-stu-id="78ede-690">Word, Excel, PowerPoint, and Visio</span></span>
+### <a name="word-excel-powerpoint-and-visio"></a><span data-ttu-id="bee9b-690">Word, Excel, PowerPoint e Visio</span><span class="sxs-lookup"><span data-stu-id="bee9b-690">Word, Excel, PowerPoint, and Visio</span></span>
 
-#### <a name="recommended-documents"></a><span data-ttu-id="78ede-691">Documenti consigliati</span><span class="sxs-lookup"><span data-stu-id="78ede-691">Recommended Documents</span></span>
+#### <a name="recommended-documents"></a><span data-ttu-id="bee9b-691">Documenti consigliati</span><span class="sxs-lookup"><span data-stu-id="bee9b-691">Recommended Documents</span></span>
 
-<span data-ttu-id="78ede-692">Individuare i documenti con attività rilevanti consigliati.</span><span class="sxs-lookup"><span data-stu-id="78ede-692">Find documents with relevant activity recommended to you.</span></span>
+<span data-ttu-id="bee9b-692">Individuare i documenti con attività rilevanti consigliati.</span><span class="sxs-lookup"><span data-stu-id="bee9b-692">Find documents with relevant activity recommended to you.</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-693">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-693">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-693">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-693">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-694">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-694">Word</span></span> 
-- <span data-ttu-id="78ede-695">È stato risolto un problema che impediva di aprire alcuni file .DOC.</span><span class="sxs-lookup"><span data-stu-id="78ede-695">We fixed an issue which could prevent some .DOC files from opening</span></span>
-- <span data-ttu-id="78ede-696">È stato risolto un problema che poteva impedire il caricamento corretto dei commenti.</span><span class="sxs-lookup"><span data-stu-id="78ede-696">We fixed an issue which could have prevented comments from loading properly</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-694">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-694">Word</span></span> 
+- <span data-ttu-id="bee9b-695">È stato risolto un problema che impediva di aprire alcuni file .DOC.</span><span class="sxs-lookup"><span data-stu-id="bee9b-695">We fixed an issue which could prevent some .DOC files from opening</span></span>
+- <span data-ttu-id="bee9b-696">È stato risolto un problema che poteva impedire il caricamento corretto dei commenti.</span><span class="sxs-lookup"><span data-stu-id="bee9b-696">We fixed an issue which could have prevented comments from loading properly</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-697">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-697">Excel</span></span>
-- <span data-ttu-id="78ede-698">Sono state migliorate le prestazioni di Power Query.</span><span class="sxs-lookup"><span data-stu-id="78ede-698">We improved the performance of Power Queries</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-697">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-697">Excel</span></span>
+- <span data-ttu-id="bee9b-698">Sono state migliorate le prestazioni di Power Query.</span><span class="sxs-lookup"><span data-stu-id="bee9b-698">We improved the performance of Power Queries</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-699">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-699">PowerPoint</span></span>
-- <span data-ttu-id="78ede-700">È stato risolto un problema relativo all'uso di una penna su un dispositivo Surface che poteva causare lo sfarfallio dello schermo.</span><span class="sxs-lookup"><span data-stu-id="78ede-700">We fixed an issue related to using a pen on a Surface device which could cause the screen to flicker</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-699">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-699">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-700">È stato risolto un problema relativo all'uso di una penna su un dispositivo Surface che poteva causare lo sfarfallio dello schermo.</span><span class="sxs-lookup"><span data-stu-id="bee9b-700">We fixed an issue related to using a pen on a Surface device which could cause the screen to flicker</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-701">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-701">Outlook</span></span>
-- <span data-ttu-id="78ede-702">È stato risolto un problema per cui lo stato di disponibilità di un appuntamento poteva cambiare quando veniva convertito in una riunione.</span><span class="sxs-lookup"><span data-stu-id="78ede-702">We fixed an issue which could change the free/busy status of an appointment when converted to a meeting</span></span>
-- <span data-ttu-id="78ede-703">È stato risolto un problema per cui un modello e una descrizione non corretti venivano visualizzati quando un messaggio di posta elettronica era protetto con un modello ad-hoc.</span><span class="sxs-lookup"><span data-stu-id="78ede-703">We fixed an issue where the wrong template and description would be displayed when an e-mail was protected with an ad-hoc template</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-701">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-701">Outlook</span></span>
+- <span data-ttu-id="bee9b-702">È stato risolto un problema per cui lo stato di disponibilità di un appuntamento poteva cambiare quando veniva convertito in una riunione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-702">We fixed an issue which could change the free/busy status of an appointment when converted to a meeting</span></span>
+- <span data-ttu-id="bee9b-703">È stato risolto un problema per cui un modello e una descrizione non corretti venivano visualizzati quando un messaggio di posta elettronica era protetto con un modello ad-hoc.</span><span class="sxs-lookup"><span data-stu-id="bee9b-703">We fixed an issue where the wrong template and description would be displayed when an e-mail was protected with an ad-hoc template</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-704">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-704">Access</span></span>
-- <span data-ttu-id="78ede-705">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-705">Various performance and stability fixes</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-704">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-704">Access</span></span>
+- <span data-ttu-id="bee9b-705">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-705">Various performance and stability fixes</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-706">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-706">Project</span></span>
-- <span data-ttu-id="78ede-707">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-707">Various performance and stability fixes</span></span>
-
-</BR></BR>
-
-## <a name="june-21-2019"></a><span data-ttu-id="78ede-708">21 giugno 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-708">June 21, 2019</span></span>
-<span data-ttu-id="78ede-709">Versione 1907 (Build 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="78ede-709">Version 1907 (build 11815.20002)</span></span>
-
-## <a name="whats-new"></a><span data-ttu-id="78ede-710">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-710">What's New:</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="78ede-711">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-711">Outlook</span></span>
-
-#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a><span data-ttu-id="78ede-712">Modalità scura per il tema nero nella versione desktop di Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-712">Dark Mode for Black Theme in Outlook Desktop</span></span>
-
-<span data-ttu-id="78ede-713">Durante la lettura e la composizione dei messaggi di posta elettronica, gli utenti che utilizzano la modalità scura ora visualizzeranno il riquadro di lettura e di composizione con uno sfondo nero.</span><span class="sxs-lookup"><span data-stu-id="78ede-713">With dark mode, users in black theme will now also see the reading pane with a dark background when reading emails, and the compose experience with a dark background when writing emails.</span></span> <span data-ttu-id="78ede-714">Nel riquadro di lettura e sulla barra multifunzione, è presente un interruttore con l'icona sole/luna, nel caso in cui gli utenti desiderino visualizzare l'anteprima del messaggio con uno sfondo chiaro.</span><span class="sxs-lookup"><span data-stu-id="78ede-714">There is a sun/moon toggle on the reading pane and in the ribbon in case users want to preview what the message looks like with a light background instead.</span></span>
-
-#### <a name="getting-started"></a><span data-ttu-id="78ede-715">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-715">Getting Started:</span></span>
-
-1. <span data-ttu-id="78ede-716">Se si attiva il tema nero, la modalità scura sarà attiva per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="78ede-716">Turn on black theme and dark mode will be on by default.</span></span>
-2. <span data-ttu-id="78ede-717">Usare l'interruttore con l'icona sole/luna (presente nel riquadro di lettura e sulla barra multifunzione) per visualizzare l'anteprima del messaggio per gli utenti che non utilizzano la modalità scura.</span><span class="sxs-lookup"><span data-stu-id="78ede-717">Use the moon/sun toggle (in the reading pane and in the ribbon) to preview what the message looks like for users not in dark mode</span></span>
-
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-718">Scenari da provare</span><span class="sxs-lookup"><span data-stu-id="78ede-718">Scenarios to Try</span></span>
-
-1. <span data-ttu-id="78ede-719">Leggere i messaggi di posta elettronica in modalità scura.</span><span class="sxs-lookup"><span data-stu-id="78ede-719">Read emails in dark mode.</span></span> <span data-ttu-id="78ede-720">Nel caso in cui risulti difficile leggere i messaggi, usare l'interruttore con l'icona del sole presente nel riquadro di lettura per passare a uno sfondo chiaro.</span><span class="sxs-lookup"><span data-stu-id="78ede-720">If you are unable to read something, use the sun toggle in the Reading Pane to switch to a light background.</span></span> 
-2. <span data-ttu-id="78ede-721">Comporre i messaggi di posta elettronica in modalità scura.</span><span class="sxs-lookup"><span data-stu-id="78ede-721">Compose emails in dark mode.</span></span> <span data-ttu-id="78ede-722">Visualizzare l'anteprima del messaggio con uno sfondo chiaro utilizzando l'interruttore con l'icona del sole presente sulla barra multifunzione.</span><span class="sxs-lookup"><span data-stu-id="78ede-722">Preview what your message will look like with a light background by using the sun toggle in the ribbon.</span></span> 
-
-<span data-ttu-id="78ede-723">Nel caso in cui i messaggi di posta elettronica non vengano visualizzati correttamente, inviarli come allegato a OutlookDarkModeFail@service.microsoft.com</span><span class="sxs-lookup"><span data-stu-id="78ede-723">If you encounter any emails that don't render properly, please send them (as an attachment) to OutlookDarkModeFail@service.microsoft.com</span></span>
-
-#### <a name="get-location-suggestions"></a><span data-ttu-id="78ede-724">Ottenere suggerimenti per il luogo</span><span class="sxs-lookup"><span data-stu-id="78ede-724">Get location suggestions</span></span>
-
-<span data-ttu-id="78ede-725">Iniziare a digitare e Outlook cercherà le località corrispondenti.</span><span class="sxs-lookup"><span data-stu-id="78ede-725">Start typing and Outlook will look for matching locations.</span></span>
-
-<span data-ttu-id="78ede-726">Ciò si applica al campo Luogo durante la creazione di appuntamenti e riunioni.</span><span class="sxs-lookup"><span data-stu-id="78ede-726">This applies to the Location field when creating Appointments and Meetings.</span></span>
-
-#### <a name="getting-started"></a><span data-ttu-id="78ede-727">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-727">Getting Started:</span></span>
-
-- <span data-ttu-id="78ede-728">Creare un appuntamento o una riunione in un calendario di Office 365 o Outlook.com in Outlook.</span><span class="sxs-lookup"><span data-stu-id="78ede-728">Create an Appointment or Meeting on an O365 or Outlook.com calendar in Outlook.</span></span> 
-- <span data-ttu-id="78ede-729">Fare clic nel campo Luogo e iniziare a digitare...</span><span class="sxs-lookup"><span data-stu-id="78ede-729">Click into the Location field and start typing…</span></span>
-
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-730">Scenari da provare</span><span class="sxs-lookup"><span data-stu-id="78ede-730">Scenarios to Try</span></span>
-
-<span data-ttu-id="78ede-731">Quando si aggiunge una sala riunioni a una riunione, fare clic sul campo Luogo anziché utilizzare il componente aggiuntivo Ricerca sala o la Rubrica.</span><span class="sxs-lookup"><span data-stu-id="78ede-731">When adding a conference room to a meeting, click into Location field, rather than using Room Finder add-in or Address Book.</span></span>
-<span data-ttu-id="78ede-732">Per gli appuntamenti in un luogo fisico pubblico (ad esempio, un ristorante, un bar o uno studio dentistico), cercare la posizione esatta utilizzando la nuova selezione.</span><span class="sxs-lookup"><span data-stu-id="78ede-732">For appointments at a physical place with a public location - like a restaurant, coffee shop, or even your dentist's office - try finding the exact location using the new picker.</span></span> <span data-ttu-id="78ede-733">In questo modo, sarà possibile ricevere una notifica su Outlook Mobile al momento di andar via.</span><span class="sxs-lookup"><span data-stu-id="78ede-733">This way, you'll be able to get notified on Outlook Mobile when it's time to leave.</span></span>
-
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-734">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-734">Notable Fixes:</span></span>
-
-### <a name="all"></a><span data-ttu-id="78ede-735">Tutto</span><span class="sxs-lookup"><span data-stu-id="78ede-735">All</span></span>
-- <span data-ttu-id="78ede-736">È stato risolto un problema per cui la casella di ricerca rimaneva abilitata offline.</span><span class="sxs-lookup"><span data-stu-id="78ede-736">We fixed an issue which would keep the Search Box enabled while offline</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-737">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-737">Word</span></span> 
-- <span data-ttu-id="78ede-738">È stato risolto un problema per cui talvolta risultava difficile visualizzare lo stato attivo della tastiera.</span><span class="sxs-lookup"><span data-stu-id="78ede-738">We fixed an issue where keyboard focus could sometimes be difficult to see</span></span>
-- <span data-ttu-id="78ede-739">È stato risolto un problema per cui talvolta il testo incollato in un nuovo documento presentava un allineamento non corretto.</span><span class="sxs-lookup"><span data-stu-id="78ede-739">We fixed an issue where text pasted into a new document could sometimes have the wrong text alignment</span></span>
-- <span data-ttu-id="78ede-740">È stato risolto un problema che impediva ad alcuni utenti di salvare le modifiche dopo aver attivato lo stato di sospensione del computer.</span><span class="sxs-lookup"><span data-stu-id="78ede-740">We fixed an issue which could prevent some users from saving changes after suspending their computer</span></span>
-- <span data-ttu-id="78ede-741">È stato risolto un problema per cui, in alcuni casi, veniva stampato un intero documento anziché l'intervallo selezionato.</span><span class="sxs-lookup"><span data-stu-id="78ede-741">We fixed an issue where in certain cases an entire document would be printed instead of the selected range</span></span>
-- <span data-ttu-id="78ede-742">È stato risolto un problema che rendeva difficile la lettura di commenti su display più piccoli.</span><span class="sxs-lookup"><span data-stu-id="78ede-742">We fixed an issue which could make comments difficult to read on smaller displays</span></span>
-- <span data-ttu-id="78ede-743">È stato risolto un problema per cui l'acquisizione a un dispositivo causava un arresto anomalo.</span><span class="sxs-lookup"><span data-stu-id="78ede-743">We fixed an issue which could cause a crash when capturing to a device</span></span>
-
-### <a name="excel"></a><span data-ttu-id="78ede-744">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-744">Excel</span></span>
-- <span data-ttu-id="78ede-745">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-745">Various performance and stability fixes</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="78ede-746">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-746">PowerPoint</span></span>
-- <span data-ttu-id="78ede-747">È stato risolto un problema per cui talvolta risultava difficile visualizzare lo stato attivo della tastiera.</span><span class="sxs-lookup"><span data-stu-id="78ede-747">We fixed an issue where keyboard focus could sometimes be difficult to see</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="78ede-748">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-748">Outlook</span></span>
-- <span data-ttu-id="78ede-749">È stato risolto un problema che causava la visualizzazione errata di un componente aggiuntivo disabilitato come abilitato.</span><span class="sxs-lookup"><span data-stu-id="78ede-749">We fixed an issue which could incorrectly display an add-in as being enabled when it was not.</span></span>
-- <span data-ttu-id="78ede-750">È stato risolto un problema che impediva ai clienti di visualizzare tutti i criteri di conservazione, nel caso ne fosse presente un numero elevato.</span><span class="sxs-lookup"><span data-stu-id="78ede-750">We fixed an issue which would prevent a customer from viewing all retention policies if there were a large number of them</span></span>
-
-### <a name="access"></a><span data-ttu-id="78ede-751">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-751">Access</span></span>
-- <span data-ttu-id="78ede-752">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-752">Various performance and stability fixes</span></span>
-
-### <a name="project"></a><span data-ttu-id="78ede-753">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-753">Project</span></span>
-- <span data-ttu-id="78ede-754">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-754">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-706">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-706">Project</span></span>
+- <span data-ttu-id="bee9b-707">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-707">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
-## <a name="june-14-2019"></a><span data-ttu-id="78ede-755">14 giugno 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-755">June 14, 2019</span></span>
-<span data-ttu-id="78ede-756">Versione 1907 (Build 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="78ede-756">Version 1907 (build 11807.20000)</span></span>
+## <a name="june-21-2019"></a><span data-ttu-id="bee9b-708">21 giugno 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-708">June 21, 2019</span></span>
+<span data-ttu-id="bee9b-709">Versione 1907 (Build 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="bee9b-709">Version 1907 (build 11815.20002)</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-757">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-757">Notable Fixes:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-710">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-710">What's New:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-758">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-758">Word</span></span> 
-- <span data-ttu-id="78ede-759">È stato risolto un problema che impediva a un utente di eseguire l'accesso durante il salvataggio in OneDrive</span><span class="sxs-lookup"><span data-stu-id="78ede-759">We fixed an issue which could prevent a user from signing in when saving to OneDrive</span></span>
-- <span data-ttu-id="78ede-760">È stato risolto un problema che impediva a un utente di modificare le proprietà di SharePoint in modalità accesso limitato</span><span class="sxs-lookup"><span data-stu-id="78ede-760">We fixed an issue where a user could be prevented from changing SharePoint properties while in restricted access mode</span></span>
-- <span data-ttu-id="78ede-761">È stato risolto un problema per cui il contenuto dell'intestazione e del piè di pagina poteva cambiare durante la regolazione dei margini</span><span class="sxs-lookup"><span data-stu-id="78ede-761">We fixed an issue where header and footer content could change when adjusting margins</span></span>
-- <span data-ttu-id="78ede-762">È stato risolto un problema per cui la formattazione poteva interrompersi durante il passaggio alla visualizzazione Web</span><span class="sxs-lookup"><span data-stu-id="78ede-762">We fixed an issue where formatting could break when switching to web view</span></span>
-- <span data-ttu-id="78ede-763">È stato risolto un problema che impediva a un utente di usare i campi personalizzati se aperti da SharePoint</span><span class="sxs-lookup"><span data-stu-id="78ede-763">We fixed an issue which could prevent a user from using custom fields when opened from SharePoint</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-711">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-711">Outlook</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-764">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-764">Excel</span></span>
-- <span data-ttu-id="78ede-765">È stato risolto un problema di prestazioni riscontrato durante l'eliminazione di righe di un set filtrato</span><span class="sxs-lookup"><span data-stu-id="78ede-765">We fixed a performance issue when deleting rows of a filtered set</span></span>
-- <span data-ttu-id="78ede-766">È stato risolto un problema che poteva talvolta causare lo sfarfallio del mouse in Visualizzazione protetta</span><span class="sxs-lookup"><span data-stu-id="78ede-766">We fixed an issue which could sometimes cause the mouse to flicker in protected view</span></span>
-- <span data-ttu-id="78ede-767">È stato risolto un problema che poteva causare un arresto anomalo durante l'eliminazione di una serie</span><span class="sxs-lookup"><span data-stu-id="78ede-767">We fixed an issue which could have caused a crash when deleting a series</span></span>
-- <span data-ttu-id="78ede-768">È stato risolto un problema per cui gli utenti non potevano scegliere di aggiungere la cronologia versioni quando non era disponibile</span><span class="sxs-lookup"><span data-stu-id="78ede-768">We fixed an issue where some users would have the option to add version history when that was not available</span></span>
-- <span data-ttu-id="78ede-769">È stato risolto un problema che poteva causare un'eccezione durante l'uso dello strumento Confronto di fogli di calcolo</span><span class="sxs-lookup"><span data-stu-id="78ede-769">We fixed an issue which could have caused an exception when using the Spreadsheet Compare tool</span></span>
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a><span data-ttu-id="bee9b-712">Modalità scura per il tema nero nella versione desktop di Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-712">Dark Mode for Black Theme in Outlook Desktop</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-770">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-770">PowerPoint</span></span>
-- <span data-ttu-id="78ede-771">È stato risolto un problema per cui poteva verificarsi un arresto anomalo quando si faceva clic su un collegamento a SharePoint</span><span class="sxs-lookup"><span data-stu-id="78ede-771">We fixed an issue where a crash could occur when clicking a link to SharePoint</span></span>
-- <span data-ttu-id="78ede-772">È stato risolto un problema per cui l'utente passava alla pagina successiva durante la digitazione con una penna per Surface</span><span class="sxs-lookup"><span data-stu-id="78ede-772">We fixed an issue which could switch the user to the next page while typing using a Surface Pen</span></span>
+<span data-ttu-id="bee9b-713">Durante la lettura e la composizione dei messaggi di posta elettronica, gli utenti che utilizzano la modalità scura ora visualizzeranno il riquadro di lettura e di composizione con uno sfondo nero.</span><span class="sxs-lookup"><span data-stu-id="bee9b-713">With dark mode, users in black theme will now also see the reading pane with a dark background when reading emails, and the compose experience with a dark background when writing emails.</span></span> <span data-ttu-id="bee9b-714">Nel riquadro di lettura e sulla barra multifunzione, è presente un interruttore con l'icona sole/luna, nel caso in cui gli utenti desiderino visualizzare l'anteprima del messaggio con uno sfondo chiaro.</span><span class="sxs-lookup"><span data-stu-id="bee9b-714">There is a sun/moon toggle on the reading pane and in the ribbon in case users want to preview what the message looks like with a light background instead.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-773">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-773">Outlook</span></span>
-- <span data-ttu-id="78ede-774">È stato risolto un problema per cui, in alcuni casi, il campo A era più lungo del normale</span><span class="sxs-lookup"><span data-stu-id="78ede-774">We fixed an issue where in some cases the To field was larger than normal</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-715">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-715">Getting Started:</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-775">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-775">Access</span></span>
-- <span data-ttu-id="78ede-776">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-776">Various performance and stability fixes</span></span>
+1. <span data-ttu-id="bee9b-716">Se si attiva il tema nero, la modalità scura sarà attiva per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="bee9b-716">Turn on black theme and dark mode will be on by default.</span></span>
+2. <span data-ttu-id="bee9b-717">Usare l'interruttore con l'icona sole/luna (presente nel riquadro di lettura e sulla barra multifunzione) per visualizzare l'anteprima del messaggio per gli utenti che non utilizzano la modalità scura.</span><span class="sxs-lookup"><span data-stu-id="bee9b-717">Use the moon/sun toggle (in the reading pane and in the ribbon) to preview what the message looks like for users not in dark mode</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-777">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-777">Project</span></span>
-- <span data-ttu-id="78ede-778">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-778">Various performance and stability fixes</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-718">Scenari da provare</span><span class="sxs-lookup"><span data-stu-id="bee9b-718">Scenarios to Try</span></span>
 
-</BR></BR>
+1. <span data-ttu-id="bee9b-719">Leggere i messaggi di posta elettronica in modalità scura.</span><span class="sxs-lookup"><span data-stu-id="bee9b-719">Read emails in dark mode.</span></span> <span data-ttu-id="bee9b-720">Nel caso in cui risulti difficile leggere i messaggi, usare l'interruttore con l'icona del sole presente nel riquadro di lettura per passare a uno sfondo chiaro.</span><span class="sxs-lookup"><span data-stu-id="bee9b-720">If you are unable to read something, use the sun toggle in the Reading Pane to switch to a light background.</span></span> 
+2. <span data-ttu-id="bee9b-721">Comporre i messaggi di posta elettronica in modalità scura.</span><span class="sxs-lookup"><span data-stu-id="bee9b-721">Compose emails in dark mode.</span></span> <span data-ttu-id="bee9b-722">Visualizzare l'anteprima del messaggio con uno sfondo chiaro utilizzando l'interruttore con l'icona del sole presente sulla barra multifunzione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-722">Preview what your message will look like with a light background by using the sun toggle in the ribbon.</span></span> 
 
-## <a name="june-7-2019"></a><span data-ttu-id="78ede-779">7 giugno 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-779">June 7, 2019</span></span>
-<span data-ttu-id="78ede-780">Versione 1907 (Build 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="78ede-780">Version 1907 (build 11727.20064)</span></span>
+<span data-ttu-id="bee9b-723">Nel caso in cui i messaggi di posta elettronica non vengano visualizzati correttamente, inviarli come allegato a OutlookDarkModeFail@service.microsoft.com</span><span class="sxs-lookup"><span data-stu-id="bee9b-723">If you encounter any emails that don't render properly, please send them (as an attachment) to OutlookDarkModeFail@service.microsoft.com</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-781">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-781">Notable Fixes:</span></span>
+#### <a name="get-location-suggestions"></a><span data-ttu-id="bee9b-724">Ottenere suggerimenti per il luogo</span><span class="sxs-lookup"><span data-stu-id="bee9b-724">Get location suggestions</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-782">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-782">Word</span></span> 
-- <span data-ttu-id="78ede-783">È stato risolto un problema per cui poteva verificarsi un arresto anomalo di Word quando la correzione automatica era impostata in modo da convertire in maiuscolo la prima lettera di una frase</span><span class="sxs-lookup"><span data-stu-id="78ede-783">We fixed an issue where Word could sometimes crash when autocorrect was set to capitalize the first letter of a sentence</span></span>
-- <span data-ttu-id="78ede-784">Sono state migliorate le prestazioni relative alla modifica di un documento in SharePoint.</span><span class="sxs-lookup"><span data-stu-id="78ede-784">We improved performance when editing a document on SharePoint</span></span>
-- <span data-ttu-id="78ede-785">È stato risolto un problema per cui le immagini vettoriali create in Adobe Illustrator non venivano visualizzate correttamente.</span><span class="sxs-lookup"><span data-stu-id="78ede-785">We fixed an issue where vector-based images created in Adobe Illustrator would not display correctly</span></span>
+<span data-ttu-id="bee9b-725">Iniziare a digitare e Outlook cercherà le località corrispondenti.</span><span class="sxs-lookup"><span data-stu-id="bee9b-725">Start typing and Outlook will look for matching locations.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-786">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-786">Excel</span></span>
-- <span data-ttu-id="78ede-787">È stato risolto un problema per cui i campi di ordinamento talvolta non venivano configurati correttamente durante la registrazione di una macro.</span><span class="sxs-lookup"><span data-stu-id="78ede-787">We fixed an issue where sorting fields were sometimes not set correctly when recording a macro</span></span>
-- <span data-ttu-id="78ede-788">È stato risolto un problema che causava un blocco o un arresto anomalo durante il calcolo di una formula di matrice.</span><span class="sxs-lookup"><span data-stu-id="78ede-788">We fixed an issue that causes hang or crash during recalculation of an array formula</span></span>
+<span data-ttu-id="bee9b-726">Ciò si applica al campo Luogo durante la creazione di appuntamenti e riunioni.</span><span class="sxs-lookup"><span data-stu-id="bee9b-726">This applies to the Location field when creating Appointments and Meetings.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-789">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-789">PowerPoint</span></span>
-- <span data-ttu-id="78ede-790">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-790">Various performance and stability fixes</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-727">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-727">Getting Started:</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-791">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-791">Outlook</span></span>
-- <span data-ttu-id="78ede-792">È stato risolto un problema per cui gli allegati incorporati talvolta non venivano ridimensionati correttamente</span><span class="sxs-lookup"><span data-stu-id="78ede-792">We fixed an issue where inline attachments would sometimes be incorrectly scaled</span></span>
+- <span data-ttu-id="bee9b-728">Creare un appuntamento o una riunione in un calendario di Office 365 o Outlook.com in Outlook.</span><span class="sxs-lookup"><span data-stu-id="bee9b-728">Create an Appointment or Meeting on an O365 or Outlook.com calendar in Outlook.</span></span> 
+- <span data-ttu-id="bee9b-729">Fare clic nel campo Luogo e iniziare a digitare...</span><span class="sxs-lookup"><span data-stu-id="bee9b-729">Click into the Location field and start typing…</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-793">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-793">Access</span></span>
-- <span data-ttu-id="78ede-794">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-794">Various performance and stability fixes</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-730">Scenari da provare</span><span class="sxs-lookup"><span data-stu-id="bee9b-730">Scenarios to Try</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-795">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-795">Project</span></span>
-- <span data-ttu-id="78ede-796">È stato risolto un problema per cui le schede attività a durata fissa potevano talvolta modificare la data di fine di un'attività.</span><span class="sxs-lookup"><span data-stu-id="78ede-796">We fixed an issue where timesheets on a fixed duration could sometimes change the assignment finish date</span></span>
-- <span data-ttu-id="78ede-797">È stato risolto un problema per cui i valori di Percentuale di completamento potevano risultare errati all'apertura di un progetto di una versione precedente.</span><span class="sxs-lookup"><span data-stu-id="78ede-797">We fixed an issue where Percentage Complete values could be wrong when opening a project from an earlier version</span></span>
+<span data-ttu-id="bee9b-731">Quando si aggiunge una sala riunioni a una riunione, fare clic sul campo Luogo anziché utilizzare il componente aggiuntivo Ricerca sala o la Rubrica.</span><span class="sxs-lookup"><span data-stu-id="bee9b-731">When adding a conference room to a meeting, click into Location field, rather than using Room Finder add-in or Address Book.</span></span>
+<span data-ttu-id="bee9b-732">Per gli appuntamenti in un luogo fisico pubblico (ad esempio, un ristorante, un bar o uno studio dentistico), cercare la posizione esatta utilizzando la nuova selezione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-732">For appointments at a physical place with a public location - like a restaurant, coffee shop, or even your dentist's office - try finding the exact location using the new picker.</span></span> <span data-ttu-id="bee9b-733">In questo modo, sarà possibile ricevere una notifica su Outlook Mobile al momento di andar via.</span><span class="sxs-lookup"><span data-stu-id="bee9b-733">This way, you'll be able to get notified on Outlook Mobile when it's time to leave.</span></span>
 
-</BR></BR>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-734">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-734">Notable Fixes:</span></span>
 
-## <a name="may-31-2019"></a><span data-ttu-id="78ede-798">31 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-798">May 31, 2019</span></span>
-<span data-ttu-id="78ede-799">Versione 1906 (build 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="78ede-799">Version 1906 (build 11722.20008)</span></span>
+### <a name="all"></a><span data-ttu-id="bee9b-735">Tutto</span><span class="sxs-lookup"><span data-stu-id="bee9b-735">All</span></span>
+- <span data-ttu-id="bee9b-736">È stato risolto un problema per cui la casella di ricerca rimaneva abilitata offline.</span><span class="sxs-lookup"><span data-stu-id="bee9b-736">We fixed an issue which would keep the Search Box enabled while offline</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-800">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-800">What's New:</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-737">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-737">Word</span></span> 
+- <span data-ttu-id="bee9b-738">È stato risolto un problema per cui talvolta risultava difficile visualizzare lo stato attivo della tastiera.</span><span class="sxs-lookup"><span data-stu-id="bee9b-738">We fixed an issue where keyboard focus could sometimes be difficult to see</span></span>
+- <span data-ttu-id="bee9b-739">È stato risolto un problema per cui talvolta il testo incollato in un nuovo documento presentava un allineamento non corretto.</span><span class="sxs-lookup"><span data-stu-id="bee9b-739">We fixed an issue where text pasted into a new document could sometimes have the wrong text alignment</span></span>
+- <span data-ttu-id="bee9b-740">È stato risolto un problema che impediva ad alcuni utenti di salvare le modifiche dopo aver attivato lo stato di sospensione del computer.</span><span class="sxs-lookup"><span data-stu-id="bee9b-740">We fixed an issue which could prevent some users from saving changes after suspending their computer</span></span>
+- <span data-ttu-id="bee9b-741">È stato risolto un problema per cui, in alcuni casi, veniva stampato un intero documento anziché l'intervallo selezionato.</span><span class="sxs-lookup"><span data-stu-id="bee9b-741">We fixed an issue where in certain cases an entire document would be printed instead of the selected range</span></span>
+- <span data-ttu-id="bee9b-742">È stato risolto un problema che rendeva difficile la lettura di commenti su display più piccoli.</span><span class="sxs-lookup"><span data-stu-id="bee9b-742">We fixed an issue which could make comments difficult to read on smaller displays</span></span>
+- <span data-ttu-id="bee9b-743">È stato risolto un problema per cui l'acquisizione a un dispositivo causava un arresto anomalo.</span><span class="sxs-lookup"><span data-stu-id="bee9b-743">We fixed an issue which could cause a crash when capturing to a device</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-801">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-801">Outlook</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-744">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-744">Excel</span></span>
+- <span data-ttu-id="bee9b-745">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-745">Various performance and stability fixes</span></span>
 
-#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a><span data-ttu-id="78ede-802">La finestra di dialogo per contattare il supporto è ora ancorabile e viene visualizzata a destra</span><span class="sxs-lookup"><span data-stu-id="78ede-802">Dialog for Contacting Support now is dockable and appears on the right</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-746">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-746">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-747">È stato risolto un problema per cui talvolta risultava difficile visualizzare lo stato attivo della tastiera.</span><span class="sxs-lookup"><span data-stu-id="bee9b-747">We fixed an issue where keyboard focus could sometimes be difficult to see</span></span>
 
-<span data-ttu-id="78ede-803">La finestra di dialogo usata per contattare il supporto verrà ora visualizzata in un riquadro a destra e avviata come finestra ancorata.</span><span class="sxs-lookup"><span data-stu-id="78ede-803">The dialog used for Contacting support will now appear in a pane on the right and will start off as a docked window.</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-748">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-748">Outlook</span></span>
+- <span data-ttu-id="bee9b-749">È stato risolto un problema che causava la visualizzazione errata di un componente aggiuntivo disabilitato come abilitato.</span><span class="sxs-lookup"><span data-stu-id="bee9b-749">We fixed an issue which could incorrectly display an add-in as being enabled when it was not.</span></span>
+- <span data-ttu-id="bee9b-750">È stato risolto un problema che impediva ai clienti di visualizzare tutti i criteri di conservazione, nel caso ne fosse presente un numero elevato.</span><span class="sxs-lookup"><span data-stu-id="bee9b-750">We fixed an issue which would prevent a customer from viewing all retention policies if there were a large number of them</span></span>
 
-#### <a name="ink-in-your-email"></a><span data-ttu-id="78ede-804">Input penna disponibile nei messaggi di posta elettronica</span><span class="sxs-lookup"><span data-stu-id="78ede-804">Ink in Your Email!</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-751">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-751">Access</span></span>
+- <span data-ttu-id="bee9b-752">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-752">Various performance and stability fixes</span></span>
 
-<span data-ttu-id="78ede-805">È ora possibile creare e aggiungere annotazioni alle immagini nei messaggi di posta elettronica di Outlook.</span><span class="sxs-lookup"><span data-stu-id="78ede-805">You can now draw and annotate pictures in your Outlook emails.</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-806">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-806">Word</span></span>
-
-#### <a name="open-document-links-in-word"></a><span data-ttu-id="78ede-807">Aprire i collegamenti ai documenti in Word</span><span class="sxs-lookup"><span data-stu-id="78ede-807">Open document links in Word</span></span>
-
-<span data-ttu-id="78ede-808">Quando si fa clic su un collegamento a un documento in Office, è possibile aggiornare la preferenza in modo da aprire l'app Word per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="78ede-808">When you click a document link in Office, you can update your preference to open in the Word app by default.</span></span>  <span data-ttu-id="78ede-809">Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link.</span><span class="sxs-lookup"><span data-stu-id="78ede-809">To update your preference go to File->Options->Advanced->Link Handling.</span></span> <span data-ttu-id="78ede-810">Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span><span class="sxs-lookup"><span data-stu-id="78ede-810">Learn more: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span></span>
-
-##### <a name="getting-started"></a><span data-ttu-id="78ede-811">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-811">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-812">Per impostazione predefinita, la funzionalità è disattivata.</span><span class="sxs-lookup"><span data-stu-id="78ede-812">Feature will default to off.</span></span> <span data-ttu-id="78ede-813">Gli utenti possono attivarla tramite l'impostazione Opzioni -> Avanzate -> Gestione del link oppure possono sceglierla quando le app WXP Win32 visualizzano un'apposita esperienza.</span><span class="sxs-lookup"><span data-stu-id="78ede-813">Users can either turn it on via Options->Advanced->Link Handling setting, or they can opt-in when Win32 WXP apps take them through an opt-in experience.</span></span>
-<span data-ttu-id="78ede-814">Quando gli utenti fanno clic su collegamenti a file di Word/PowerPoint/Excel archiviati in OneDrive/OneDrive for Business/SharePoint da Outlook/Word/PowerPoint/Excel, per impostazione predefinita tali collegamenti verranno aperti nell'applicazione di Office appropriata anziché nel browser.</span><span class="sxs-lookup"><span data-stu-id="78ede-814">When users click on links to Word/PowerPoint/Excel files stored on OneDrive/OneDrive for Business/SharePoint from Outlook/Word/PowerPoint/Excel, these links will open in the appropriate Office application instead of the browser by default.</span></span>
-
-<span data-ttu-id="78ede-815">Per modificare questa impostazione predefinita, gli utenti possono aggiornare l'impostazione seguente in Outlook/Word/Excel/PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="78ede-815">To change this default, users can update the following setting in Outlook/Word/Excel/PowerPoint:</span></span>
-
-<span data-ttu-id="78ede-816">File -> Opzioni -> Avanzate -> Gestione del link</span><span class="sxs-lookup"><span data-stu-id="78ede-816">File->Options->Advanced->Link Handling</span></span>
-
-<span data-ttu-id="78ede-817">Questa impostazione è condivisa in Outlook/Word/PowerPoint/Excel e può essere impostata in una di queste app.</span><span class="sxs-lookup"><span data-stu-id="78ede-817">This setting is shared across Outlook/Word/PowerPoint/Excel and can be set in any of these apps.</span></span>
-
-##### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-818">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-818">Scenarios to Try:</span></span>
-
-<span data-ttu-id="78ede-819">Per attivare l'esperienza di scelta, aprire un collegamento a un documento di Word archiviato in OneDrive/SharePoint da Outlook/Word/PowerPoint/Excel, quindi fare clic su Apri nell'applicazione client da Office Online. Eseguire questa operazione per due volte nell'arco di 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="78ede-819">To trigger the opt-in experience - Open a link tot a Word document stored in OneDrive/SharePoint from Outlook/Word/PowerPoint/Excel - click on Open in Client from Office Online - do this twice in a 30 day window.</span></span> <span data-ttu-id="78ede-820">Dopo aver effettuato la scelta, per impostazione predefinita i collegamenti verranno aperti nelle app Win 32.</span><span class="sxs-lookup"><span data-stu-id="78ede-820">After you opt-in, links will launch in the Win32 apps by default.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="78ede-821">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-821">PowerPoint</span></span>
-
-#### <a name="open-presentation-links-in-powerpoint"></a><span data-ttu-id="78ede-822">Aprire i collegamenti alle presentazioni in PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-822">Open presentation links in PowerPoint</span></span>
-
-<span data-ttu-id="78ede-823">Quando si fa clic su un collegamento a una presentazione in Office, è possibile aggiornare la preferenza in modo da aprire l'app PowerPoint per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="78ede-823">When you click a presentation link in Office, you can update your preference to open in the PowerPoint app by default.</span></span> <span data-ttu-id="78ede-824">Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link.</span><span class="sxs-lookup"><span data-stu-id="78ede-824">To update your preference go to File->Options->Advanced->Link Handling.</span></span> <span data-ttu-id="78ede-825">Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span><span class="sxs-lookup"><span data-stu-id="78ede-825">Learn more: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span></span>
-
-##### <a name="getting-started"></a><span data-ttu-id="78ede-826">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-826">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-827">Per impostazione predefinita, la funzionalità è disattivata.</span><span class="sxs-lookup"><span data-stu-id="78ede-827">Feature will default to off.</span></span> <span data-ttu-id="78ede-828">Gli utenti possono attivarla tramite l'impostazione Opzioni -> Avanzate -> Gestione del link oppure possono sceglierla quando le app WXP Win32 visualizzano un'apposita esperienza.</span><span class="sxs-lookup"><span data-stu-id="78ede-828">Users can either turn it on via Options->Advanced->Link Handling setting, or they can opt-in when Win32 WXP apps take them through an opt-in experience.</span></span>
-<span data-ttu-id="78ede-829">Quando gli utenti fanno clic su collegamenti a file di Word/PowerPoint/Excel archiviati in OneDrive/OneDrive for Business/SharePoint da Outlook/Word/PowerPoint/Excel, per impostazione predefinita tali collegamenti verranno aperti nell'applicazione di Office appropriata anziché nel browser.</span><span class="sxs-lookup"><span data-stu-id="78ede-829">When users click on links to Word/PowerPoint/Excel files stored on OneDrive/OneDrive for Business/SharePoint from Outlook/Word/PowerPoint/Excel, these links will open in the appropriate Office application instead of the browser by default.</span></span>
-
-<span data-ttu-id="78ede-830">Per modificare questa impostazione predefinita, gli utenti possono aggiornare l'impostazione seguente in Outlook/Word/Excel/PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="78ede-830">To change this default, users can update the following setting in Outlook/Word/Excel/PowerPoint:</span></span>
-
-<span data-ttu-id="78ede-831">File -> Opzioni -> Avanzate -> Gestione del link</span><span class="sxs-lookup"><span data-stu-id="78ede-831">File->Options->Advanced->Link Handling</span></span>
-
-<span data-ttu-id="78ede-832">Questa impostazione è condivisa in Outlook/Word/PowerPoint/Excel e può essere impostata in una di queste app.</span><span class="sxs-lookup"><span data-stu-id="78ede-832">This setting is shared across Outlook/Word/PowerPoint/Excel and can be set in any of these apps.</span></span>
-
-##### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-833">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-833">Scenarios to Try:</span></span>
-
-<span data-ttu-id="78ede-834">Per attivare l'esperienza di scelta, aprire un collegamento a una presentazione di PowerPoint archiviata in OneDrive/SharePoint da Outlook/Word/PowerPoint/Excel, quindi fare clic su Apri nell'applicazione client da Office Online. Eseguire questa operazione per due volte nell'arco di 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="78ede-834">To trigger the opt-in experience - Open a link to a PowerPoint presentation stored in OneDrive/SharePoint from Outlook/Word/PowerPoint/Excel - click on Open in Client from Office Online - do this twice in a 30 day window.</span></span> <span data-ttu-id="78ede-835">Dopo aver effettuato la scelta, per impostazione predefinita i collegamenti verranno aperti nelle app Win 32.</span><span class="sxs-lookup"><span data-stu-id="78ede-835">After you opt-in, links will launch in the Win32 apps by default.</span></span>
-
-### <a name="excel"></a><span data-ttu-id="78ede-836">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-836">Excel</span></span>
-
-#### <a name="open-workbook-links-in-excel"></a><span data-ttu-id="78ede-837">Aprire i collegamenti alle cartelle di lavoro in Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-837">Open workbook links in Excel</span></span>
-
-<span data-ttu-id="78ede-838">Quando si fa clic su un collegamento a una cartella di lavoro in Office, è possibile aggiornare la preferenza in modo da aprire l'app Excel per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="78ede-838">When you click a workbook link in Office, you can update your preference to open in the Excel app by default.</span></span> <span data-ttu-id="78ede-839">Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link.</span><span class="sxs-lookup"><span data-stu-id="78ede-839">To update your preference, go to File->Options->Advanced->Link Handling.</span></span> <span data-ttu-id="78ede-840">Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span><span class="sxs-lookup"><span data-stu-id="78ede-840">Learn More: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span></span>
-
-##### <a name="getting-started"></a><span data-ttu-id="78ede-841">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-841">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-842">Per impostazione predefinita, la funzionalità è disattivata.</span><span class="sxs-lookup"><span data-stu-id="78ede-842">Feature will default to off.</span></span> <span data-ttu-id="78ede-843">Gli utenti possono attivarla tramite l'impostazione Opzioni -> Avanzate -> Gestione del link oppure possono sceglierla quando le app WXP Win32 visualizzano un'apposita esperienza.</span><span class="sxs-lookup"><span data-stu-id="78ede-843">Users can either turn it on via Options->Advanced->Link Handling setting, or they can opt-in when Win32 WXP apps take them through an opt-in experience.</span></span>
-<span data-ttu-id="78ede-844">Quando gli utenti fanno clic su collegamenti a file di Word/PowerPoint/Excel archiviati in OneDrive/OneDrive for Business/SharePoint da Outlook/Word/PowerPoint/Excel, per impostazione predefinita tali collegamenti verranno aperti nell'applicazione di Office appropriata anziché nel browser.</span><span class="sxs-lookup"><span data-stu-id="78ede-844">When users click on links to Word/PowerPoint/Excel files stored on OneDrive/OneDrive for Business/SharePoint from Outlook/Word/PowerPoint/Excel, these links will open in the appropriate Office application instead of the browser by default.</span></span>
-
-<span data-ttu-id="78ede-845">Per modificare questa impostazione predefinita, gli utenti possono aggiornare l'impostazione seguente in Outlook/Word/Excel/PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="78ede-845">To change this default, users can update the following setting in Outlook/Word/Excel/PowerPoint:</span></span>
-
-<span data-ttu-id="78ede-846">File -> Opzioni -> Avanzate -> Gestione del link</span><span class="sxs-lookup"><span data-stu-id="78ede-846">File->Options->Advanced->Link Handling</span></span>
-
-<span data-ttu-id="78ede-847">Questa impostazione è condivisa in Outlook/Word/PowerPoint/Excel e può essere impostata in una di queste app.</span><span class="sxs-lookup"><span data-stu-id="78ede-847">This setting is shared across Outlook/Word/PowerPoint/Excel and can be set in any of these apps.</span></span>
-
-##### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-848">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-848">Scenarios to Try:</span></span>
-
-<span data-ttu-id="78ede-849">Per attivare l'esperienza di scelta, aprire un collegamento a una cartella di lavoro di Excel archiviata in OneDrive/SharePoint da Outlook/Word/PowerPoint/Excel, quindi fare clic su Apri nell'applicazione client da Office Online. Eseguire questa operazione per due volte nell'arco di 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="78ede-849">To trigger the opt-in experience - Open a link to an Excel workbook stored in OneDrive/SharePoint from Outlook/Word/PowerPoint/Excel - click on Open in Client from Office Online - do this twice in a 30 day window.</span></span> <span data-ttu-id="78ede-850">Dopo aver effettuato la scelta, per impostazione predefinita i collegamenti verranno aperti nelle app Win 32.</span><span class="sxs-lookup"><span data-stu-id="78ede-850">After you opt-in, links will launch in the Win32 apps by default.</span></span>
-
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-851">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-851">Notable Fixes:</span></span>
-
-### <a name="all"></a><span data-ttu-id="78ede-852">Tutto</span><span class="sxs-lookup"><span data-stu-id="78ede-852">All</span></span>
-- <span data-ttu-id="78ede-853">È stato risolto un problema per cui i file potevano essere salvati automaticamente anche quando il salvataggio automatico era disabilitato.</span><span class="sxs-lookup"><span data-stu-id="78ede-853">We fixed an issue where files could sometimes be auto-saved even when auto-save was disabled</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-854">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-854">Word</span></span> 
-- <span data-ttu-id="78ede-855">È stato risolto un problema che poteva impedire ad alcuni utenti di salvare in SharePoint.</span><span class="sxs-lookup"><span data-stu-id="78ede-855">We fixed an issue which may have prevented some users from saving to SharePoint</span></span>
-
-### <a name="excel"></a><span data-ttu-id="78ede-856">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-856">Excel</span></span>
-- <span data-ttu-id="78ede-857">È stato risolto un problema che causava la visualizzazione di un'icona errata per i filtri inattivi.</span><span class="sxs-lookup"><span data-stu-id="78ede-857">We fixed an issue where an incorrect icon could be displayed for inactive filters</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="78ede-858">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-858">PowerPoint</span></span>
-- <span data-ttu-id="78ede-859">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-859">Various performance and stability fixes</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="78ede-860">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-860">Outlook</span></span>
-- <span data-ttu-id="78ede-861">È stato risolto un problema per cui alcuni utenti risultavano offline per errore in una visualizzazione della pianificazione di gruppo.</span><span class="sxs-lookup"><span data-stu-id="78ede-861">We fixed an issue where some users would incorrectly appear as Offline in a Group Schedule view</span></span>
-- <span data-ttu-id="78ede-862">È stato risolto un problema che impediva a SafeLink di analizzare un URL con uno spazio finale.</span><span class="sxs-lookup"><span data-stu-id="78ede-862">We fixed an issue which prevented SafeLink from parsing a URL with a trailing space</span></span>
-- <span data-ttu-id="78ede-863">È stato risolto un problema per cui le sale venivano visualizzate come disponibili in orario non lavorativo.</span><span class="sxs-lookup"><span data-stu-id="78ede-863">We fixed an issue where rooms were displayed as available outside of non-working hours</span></span>
-
-### <a name="access"></a><span data-ttu-id="78ede-864">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-864">Access</span></span>
-- <span data-ttu-id="78ede-865">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-865">Various performance and stability fixes</span></span>
-
-### <a name="project"></a><span data-ttu-id="78ede-866">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-866">Project</span></span>
-- <span data-ttu-id="78ede-867">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-867">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-753">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-753">Project</span></span>
+- <span data-ttu-id="bee9b-754">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-754">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
-## <a name="may-24-2019"></a><span data-ttu-id="78ede-868">24 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-868">May 24, 2019</span></span>
-<span data-ttu-id="78ede-869">Versione 1906 (Build 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="78ede-869">Version 1906 (build 11715.20002)</span></span>
+## <a name="june-14-2019"></a><span data-ttu-id="bee9b-755">14 giugno 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-755">June 14, 2019</span></span>
+<span data-ttu-id="bee9b-756">Versione 1907 (Build 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="bee9b-756">Version 1907 (build 11807.20000)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-870">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-870">What's New:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-757">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-757">Notable Fixes:</span></span>
 
-#### <a name="user-experience-updates"></a><span data-ttu-id="78ede-871">Aggiornamenti dell'esperienza utente</span><span class="sxs-lookup"><span data-stu-id="78ede-871">User Experience Updates</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-758">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-758">Word</span></span> 
+- <span data-ttu-id="bee9b-759">È stato risolto un problema che impediva a un utente di eseguire l'accesso durante il salvataggio in OneDrive</span><span class="sxs-lookup"><span data-stu-id="bee9b-759">We fixed an issue which could prevent a user from signing in when saving to OneDrive</span></span>
+- <span data-ttu-id="bee9b-760">È stato risolto un problema che impediva a un utente di modificare le proprietà di SharePoint in modalità accesso limitato</span><span class="sxs-lookup"><span data-stu-id="bee9b-760">We fixed an issue where a user could be prevented from changing SharePoint properties while in restricted access mode</span></span>
+- <span data-ttu-id="bee9b-761">È stato risolto un problema per cui il contenuto dell'intestazione e del piè di pagina poteva cambiare durante la regolazione dei margini</span><span class="sxs-lookup"><span data-stu-id="bee9b-761">We fixed an issue where header and footer content could change when adjusting margins</span></span>
+- <span data-ttu-id="bee9b-762">È stato risolto un problema per cui la formattazione poteva interrompersi durante il passaggio alla visualizzazione Web</span><span class="sxs-lookup"><span data-stu-id="bee9b-762">We fixed an issue where formatting could break when switching to web view</span></span>
+- <span data-ttu-id="bee9b-763">È stato risolto un problema che impediva a un utente di usare i campi personalizzati se aperti da SharePoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-763">We fixed an issue which could prevent a user from using custom fields when opened from SharePoint</span></span>
 
-<span data-ttu-id="78ede-872">Gli aggiornamenti nella sezione Prossimamente sono ora disponibili e includono la barra multifunzione semplificata, nonché un aggiornamento visivo del riquadro delle cartelle, dell'elenco dei messaggi e del riquadro di lettura.</span><span class="sxs-lookup"><span data-stu-id="78ede-872">Updates that have been in Coming Soon are now here, featuring the Simplified Ribbon, and a visual refresh of the folder pane, message list, and reading pane.</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-764">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-764">Excel</span></span>
+- <span data-ttu-id="bee9b-765">È stato risolto un problema di prestazioni riscontrato durante l'eliminazione di righe di un set filtrato</span><span class="sxs-lookup"><span data-stu-id="bee9b-765">We fixed a performance issue when deleting rows of a filtered set</span></span>
+- <span data-ttu-id="bee9b-766">È stato risolto un problema che poteva talvolta causare lo sfarfallio del mouse in Visualizzazione protetta</span><span class="sxs-lookup"><span data-stu-id="bee9b-766">We fixed an issue which could sometimes cause the mouse to flicker in protected view</span></span>
+- <span data-ttu-id="bee9b-767">È stato risolto un problema che poteva causare un arresto anomalo durante l'eliminazione di una serie</span><span class="sxs-lookup"><span data-stu-id="bee9b-767">We fixed an issue which could have caused a crash when deleting a series</span></span>
+- <span data-ttu-id="bee9b-768">È stato risolto un problema per cui gli utenti non potevano scegliere di aggiungere la cronologia versioni quando non era disponibile</span><span class="sxs-lookup"><span data-stu-id="bee9b-768">We fixed an issue where some users would have the option to add version history when that was not available</span></span>
+- <span data-ttu-id="bee9b-769">È stato risolto un problema che poteva causare un'eccezione durante l'uso dello strumento Confronto di fogli di calcolo</span><span class="sxs-lookup"><span data-stu-id="bee9b-769">We fixed an issue which could have caused an exception when using the Spreadsheet Compare tool</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-873">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-873">Notable Fixes:</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-770">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-770">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-771">È stato risolto un problema per cui poteva verificarsi un arresto anomalo quando si faceva clic su un collegamento a SharePoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-771">We fixed an issue where a crash could occur when clicking a link to SharePoint</span></span>
+- <span data-ttu-id="bee9b-772">È stato risolto un problema per cui l'utente passava alla pagina successiva durante la digitazione con una penna per Surface</span><span class="sxs-lookup"><span data-stu-id="bee9b-772">We fixed an issue which could switch the user to the next page while typing using a Surface Pen</span></span>
 
-### <a name="all"></a><span data-ttu-id="78ede-874">Tutto</span><span class="sxs-lookup"><span data-stu-id="78ede-874">All</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-773">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-773">Outlook</span></span>
+- <span data-ttu-id="bee9b-774">È stato risolto un problema per cui, in alcuni casi, il campo A era più lungo del normale</span><span class="sxs-lookup"><span data-stu-id="bee9b-774">We fixed an issue where in some cases the To field was larger than normal</span></span>
 
-- <span data-ttu-id="78ede-875">È stato risolto un problema che impediva la visualizzazione del riquadro della chat</span><span class="sxs-lookup"><span data-stu-id="78ede-875">We fixed an issue where the Chat Pane would not display</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-775">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-775">Access</span></span>
+- <span data-ttu-id="bee9b-776">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-776">Various performance and stability fixes</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-876">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-876">Word</span></span> 
-- <span data-ttu-id="78ede-877">È stato risolto un problema per cui, in alcuni casi, Word evidenziava in modo errato il testo per indicare errori grammaticali</span><span class="sxs-lookup"><span data-stu-id="78ede-877">We fixed an issue where in some cases Word could incorrectly highlight text for grammatical errors</span></span>
-
-### <a name="excel"></a><span data-ttu-id="78ede-878">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-878">Excel</span></span>
-- <span data-ttu-id="78ede-879">È stato risolto un problema per cui veniva usata un'icona errata per Elementi grafico</span><span class="sxs-lookup"><span data-stu-id="78ede-879">We fixed an issue where an incorrect icon was used in for Chart Elements</span></span>
-- <span data-ttu-id="78ede-880">È stato risolto un problema per cui poteva essere attivata la cartella di lavoro errata in uno script VBA quando la stessa cartella era già aperta</span><span class="sxs-lookup"><span data-stu-id="78ede-880">We fixed an issue where the incorrect workbook could be activated in a VBA script when the same book was already open</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="78ede-881">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-881">PowerPoint</span></span>
-- <span data-ttu-id="78ede-882">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-882">Various performance and stability fixes</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="78ede-883">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-883">Outlook</span></span>
-- <span data-ttu-id="78ede-884">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-884">Various performance and stability fixes</span></span>
-
-### <a name="access"></a><span data-ttu-id="78ede-885">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-885">Access</span></span>
-- <span data-ttu-id="78ede-886">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-886">Various performance and stability fixes</span></span>
-
-### <a name="project"></a><span data-ttu-id="78ede-887">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-887">Project</span></span>
-- <span data-ttu-id="78ede-888">È stato risolto un problema per cui Project poteva arrestarsi in modo anomalo dopo il passaggio alla barra delle applicazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-888">We fixed an issue where Project could crash after switching to the taskbar</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-777">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-777">Project</span></span>
+- <span data-ttu-id="bee9b-778">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-778">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
-## <a name="may-17-2019"></a><span data-ttu-id="78ede-889">17 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-889">May 17, 2019</span></span>
-<span data-ttu-id="78ede-890">Versione 1906 (build 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="78ede-890">Version 1906 (build 11708.20006)</span></span>
+## <a name="june-7-2019"></a><span data-ttu-id="bee9b-779">7 giugno 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-779">June 7, 2019</span></span>
+<span data-ttu-id="bee9b-780">Versione 1907 (Build 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="bee9b-780">Version 1907 (build 11727.20064)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-891">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-891">What's New:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-781">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-781">Notable Fixes:</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-892">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-892">Outlook</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-782">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-782">Word</span></span> 
+- <span data-ttu-id="bee9b-783">È stato risolto un problema per cui poteva verificarsi un arresto anomalo di Word quando la correzione automatica era impostata in modo da convertire in maiuscolo la prima lettera di una frase</span><span class="sxs-lookup"><span data-stu-id="bee9b-783">We fixed an issue where Word could sometimes crash when autocorrect was set to capitalize the first letter of a sentence</span></span>
+- <span data-ttu-id="bee9b-784">Sono state migliorate le prestazioni relative alla modifica di un documento in SharePoint.</span><span class="sxs-lookup"><span data-stu-id="bee9b-784">We improved performance when editing a document on SharePoint</span></span>
+- <span data-ttu-id="bee9b-785">È stato risolto un problema per cui le immagini vettoriali create in Adobe Illustrator non venivano visualizzate correttamente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-785">We fixed an issue where vector-based images created in Adobe Illustrator would not display correctly</span></span>
 
-#### <a name="user-experience-updates"></a><span data-ttu-id="78ede-893">Aggiornamenti dell’esperienza utente</span><span class="sxs-lookup"><span data-stu-id="78ede-893">User Experience Updates</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-786">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-786">Excel</span></span>
+- <span data-ttu-id="bee9b-787">È stato risolto un problema per cui i campi di ordinamento talvolta non venivano configurati correttamente durante la registrazione di una macro.</span><span class="sxs-lookup"><span data-stu-id="bee9b-787">We fixed an issue where sorting fields were sometimes not set correctly when recording a macro</span></span>
+- <span data-ttu-id="bee9b-788">È stato risolto un problema che causava un blocco o un arresto anomalo durante il calcolo di una formula di matrice.</span><span class="sxs-lookup"><span data-stu-id="bee9b-788">We fixed an issue that causes hang or crash during recalculation of an array formula</span></span>
 
-<span data-ttu-id="78ede-894">Gli aggiornamenti nella sezione Presto disponibile sono ora disponibili, con la barra multifunzione semplificata e l’aggiornamento visivo del riquadro delle cartelle, dell’elenco dei messaggi e del riquadro di lettura.</span><span class="sxs-lookup"><span data-stu-id="78ede-894">Updates that have been in Coming Soon are now here, featuring the Simplified Ribbon, and a visual refresh of the folder pane, message list, and reading pane.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-789">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-789">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-790">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-790">Various performance and stability fixes</span></span>
 
-##### <a name="getting-started"></a><span data-ttu-id="78ede-895">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-895">Getting Started:</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-791">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-791">Outlook</span></span>
+- <span data-ttu-id="bee9b-792">È stato risolto un problema per cui gli allegati incorporati talvolta non venivano ridimensionati correttamente</span><span class="sxs-lookup"><span data-stu-id="bee9b-792">We fixed an issue where inline attachments would sometimes be incorrectly scaled</span></span>
 
-<span data-ttu-id="78ede-896">Questa modifica farà parte della nuova interfaccia utente predefinita, che è già presente nella scheda Presto disponibile dalla metà di dicembre per il 100% dei prodotti.</span><span class="sxs-lookup"><span data-stu-id="78ede-896">These change will be part of the new default UI; it has been available behind the Coming Soon switch since mid Dec for 100% prod</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-793">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-793">Access</span></span>
+- <span data-ttu-id="bee9b-794">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-794">Various performance and stability fixes</span></span>
 
-#### <a name="customizable-simplified-ribbon"></a><span data-ttu-id="78ede-897">Barra multifunzione semplificata personalizzabile</span><span class="sxs-lookup"><span data-stu-id="78ede-897">Customizable Simplified Ribbon</span></span>
-
-<span data-ttu-id="78ede-898">Il passaggio dalla visualizzazione classica a quella semplificata e il blocco o sblocco dei comandi sono facilmente personalizzabili.</span><span class="sxs-lookup"><span data-stu-id="78ede-898">Easily customizable to switch between classic and Simplified views and pin/unpin commands.</span></span>
-
-##### <a name="getting-started"></a><span data-ttu-id="78ede-899">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-899">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-900">Gli utenti possono accedere alla barra multifunzione semplificata attivando, inizialmente, la scheda Presto disponibile e facendo clic sulla freccia di espansione per passare dalla visualizzazione classica multiriga alla nuova barra multifunzione semplificata.</span><span class="sxs-lookup"><span data-stu-id="78ede-900">Users can get to the simplified ribbon by turning on Coming Soon (initially) and clicking the chevron in the ribbon to toggle between the classic multi-line ribbon and the new simplified single-line ribbon.</span></span>
-
-##### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-901">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-901">Scenarios to Try:</span></span>
-
-<span data-ttu-id="78ede-902">Passare dalla barra multifunzione classica a quella semplificata</span><span class="sxs-lookup"><span data-stu-id="78ede-902">Switch from Classic ribbon to Simplified ribbon</span></span>
-
-#### <a name="pick-your-favorite-action"></a><span data-ttu-id="78ede-903">Selezionare l’azione preferita</span><span class="sxs-lookup"><span data-stu-id="78ede-903">Pick your favorite action</span></span>
-
-<span data-ttu-id="78ede-904">Non si usa Contrassegna ed Elimina?</span><span class="sxs-lookup"><span data-stu-id="78ede-904">Don't use Flag and Delete?</span></span> <span data-ttu-id="78ede-905">E invece Archivia o Segna come già letto?</span><span class="sxs-lookup"><span data-stu-id="78ede-905">How about Archive or Mark as Read?</span></span> <span data-ttu-id="78ede-906">Come personalizzare il menu Azioni rapide con i comandi utilizzati più spesso.</span><span class="sxs-lookup"><span data-stu-id="78ede-906">Customize the quick action menu with the commands you use most.</span></span>
-
-##### <a name="getting-started"></a><span data-ttu-id="78ede-907">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-907">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-908">Per selezionare le Azioni rapide, fare clic con il pulsante destro del mouse su un messaggio di posta elettronica nell'elenco per aprire il Menu di scelta rapida.</span><span class="sxs-lookup"><span data-stu-id="78ede-908">To select your Quick Actions, right click on an email in the message list to bring up the Context Menu.</span></span> <span data-ttu-id="78ede-909">Quindi fare clic su "Imposta azioni rapide"</span><span class="sxs-lookup"><span data-stu-id="78ede-909">Then click "Set Quick Actions..."</span></span>
-
-##### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-910">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-910">Scenarios to Try:</span></span>
-
-<span data-ttu-id="78ede-911">Modificare le impostazione predefinite da Contrassegna ed Elimina ad Archivia, Sposta, Segna come già letto o nessuna per un elenco dei messaggi più ordinato.</span><span class="sxs-lookup"><span data-stu-id="78ede-911">Change the defaults from flag and delete to either archive, move,  mark as read, or none for a cleaner message list</span></span>
-
-#### <a name="relaxed-or-tighter-layout-you-choose"></a><span data-ttu-id="78ede-912">Layout medio o più ridotto?</span><span class="sxs-lookup"><span data-stu-id="78ede-912">Relaxed or tighter layout?</span></span> <span data-ttu-id="78ede-913">A te la scelta</span><span class="sxs-lookup"><span data-stu-id="78ede-913">You choose</span></span>
-
-<span data-ttu-id="78ede-914">Usa spaziatura inferiore consente di decidere se si vuole più spazio fra gli elementi o un layout più ridotto per visualizzare più elementi.</span><span class="sxs-lookup"><span data-stu-id="78ede-914">Use Tighter Spacing lets you decide if you want more space between items, or a tighter layout to see more.</span></span>
-
-##### <a name="getting-started"></a><span data-ttu-id="78ede-915">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-915">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-916">Scheda Visualizza, usare la casella di controllo con spaziatura ridotta: nel gruppo Messaggi per la barra multifunzione classica, impostazioni di Visualizzazione corrente per la barra multifunzione semplificata</span><span class="sxs-lookup"><span data-stu-id="78ede-916">View tab, use tighter spacing checkbox - in Messages group for classic ribbon, Current View settings for simplified ribbon</span></span>
-
-##### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-917">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-917">Scenarios to Try:</span></span>
-
-<span data-ttu-id="78ede-918">Usare Outlook per la valutazione della posta elettronica e per scrivere un messaggio, con e senza l’impostazione abilitata.</span><span class="sxs-lookup"><span data-stu-id="78ede-918">Use Outlook to triage and write email with and without the setting enabled.</span></span> <span data-ttu-id="78ede-919">Con Usa spaziatura ridotta abilitata, sono presenti più messaggi in ogni pagina e i form di composizione sono semplificati.</span><span class="sxs-lookup"><span data-stu-id="78ede-919">With Use tighter spacing on, more messages fit per page, and controls on the compose forms are more streamlined.</span></span>
-
-#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a><span data-ttu-id="78ede-920">Eliminare le voci usate di recente e duplicate tramite il client di sincronizzazione di OneDrive.</span><span class="sxs-lookup"><span data-stu-id="78ede-920">Dedupe MRU entries when using the Onedrive sync client</span></span>
-
-<span data-ttu-id="78ede-921">Abilitare una migliore integrazione del client di sincronizzazione di OneDrive con gli allegati cloud tramite l’eliminazione delle voci usate di recente e duplicate. Abilitare il comportamento allega come copia più veloce per i dati sincronizzati.</span><span class="sxs-lookup"><span data-stu-id="78ede-921">Enable better integration with onedrive sync client with cloud attachments by deduping the mru entries and to enable faster attach as copy behavior for synchronized data</span></span>
-
-##### <a name="getting-started"></a><span data-ttu-id="78ede-922">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-922">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-923">Se si usa il client di sincronizzazione di OneDrive, non verranno più visualizzati file duplicati negli Allega file usati di recente.</span><span class="sxs-lookup"><span data-stu-id="78ede-923">If you use the OneDrive sync client, you will no longer see file duplicates in the Attach File MRU.</span></span>
-
-##### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-924">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-924">Scenarios to Try:</span></span>
-
-<span data-ttu-id="78ede-925">Abilitare il client di sincronizzazione di OneDrive e usare il menu Allega file nella versione desktop di Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-925">Enable the OneDrive sync client and use the Attach File menu in Outlook Desktop</span></span>
-
-#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a><span data-ttu-id="78ede-926">È stata migliorata la sincronizzazione delle cartelle condivise per le cassette postali con più cartelle</span><span class="sxs-lookup"><span data-stu-id="78ede-926">Improved shared folder synchronization for mailboxes with many folders</span></span>
-
-<span data-ttu-id="78ede-927">Per anni Outlook ha limitato a un massimo di 500 il numero delle cartelle durante la sincronizzazione delle cassette postali condivise.</span><span class="sxs-lookup"><span data-stu-id="78ede-927">For years Outlook has been limited to a maximum of 500 folders when synchronizing shared mailboxes.</span></span> <span data-ttu-id="78ede-928">Con questa modifica Outlook ha migliorato la sincronizzazione in modo che non sia più presente il limite di 500 nelle cartelle condivise.</span><span class="sxs-lookup"><span data-stu-id="78ede-928">With this change Outlook has been improved to sync in a way that will no longer encounter this 500 folder limit.</span></span>
-
-##### <a name="getting-started"></a><span data-ttu-id="78ede-929">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-929">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-930">Creare 1000 cartelle in una cassetta postale, concedere ad altri utenti l'accesso alla cassetta postale, creare un profilo di Outlook per un altro utente e verificare che la sincronizzazione funzioni.</span><span class="sxs-lookup"><span data-stu-id="78ede-930">Create 1000 folders in a mailbox, give someone else access to the mailbox, create an Outlook profile for the "someone else" and verify that sync works.</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-931">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-931">Word</span></span>
-
-#### <a name="erase-just-a-little-bit"></a><span data-ttu-id="78ede-932">Effettuare delle piccole cancellazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-932">Erase just a little bit</span></span>
-
-##### <a name="getting-started"></a><span data-ttu-id="78ede-933">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-933">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-934">Passare alla scheda Disegno. Selezionare il menu a discesa Gomma.</span><span class="sxs-lookup"><span data-stu-id="78ede-934">Go to the Draw Tab. Select the Eraser dropdown.</span></span> <span data-ttu-id="78ede-935">Scegliere Gomma piccola o Gomma media.</span><span class="sxs-lookup"><span data-stu-id="78ede-935">Choose Small Eraser or Medium Eraser.</span></span>
-
-##### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-936">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-936">Scenarios to Try:</span></span>
-
-<span data-ttu-id="78ede-937">Passare alla scheda Disegno. Selezionare la penna.</span><span class="sxs-lookup"><span data-stu-id="78ede-937">Go to the Draw Tab. Select a pen.</span></span> <span data-ttu-id="78ede-938">Disegnare un tratto input penna.</span><span class="sxs-lookup"><span data-stu-id="78ede-938">Draw an ink stroke.</span></span> <span data-ttu-id="78ede-939">Selezionare il menu a discesa Gomma.</span><span class="sxs-lookup"><span data-stu-id="78ede-939">Select the Eraser dropdown.</span></span> <span data-ttu-id="78ede-940">Scegliere Gomma piccola o Gomma media.</span><span class="sxs-lookup"><span data-stu-id="78ede-940">Choose Small Eraser or Medium Eraser.</span></span> <span data-ttu-id="78ede-941">Eliminare alcuni punti del tratto input penna.</span><span class="sxs-lookup"><span data-stu-id="78ede-941">Erase just bits of the ink stroke.</span></span>
-
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-942">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-942">Notable Fixes:</span></span>
-
-### <a name="all"></a><span data-ttu-id="78ede-943">Tutto</span><span class="sxs-lookup"><span data-stu-id="78ede-943">All</span></span> 
-- <span data-ttu-id="78ede-944">È stato risolto un problema che impediva ad alcuni utenti di salvare in formato PDF</span><span class="sxs-lookup"><span data-stu-id="78ede-944">We fixed an issue which could prevent some users from saving as PDF</span></span>
-- <span data-ttu-id="78ede-945">È stato risolto un problema che poteva influire sul salvataggio di file di grandi dimensioni in un sistema a 32 bit</span><span class="sxs-lookup"><span data-stu-id="78ede-945">We fixed an issue which could impact users saving large files on a 32-bit system</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-946">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-946">Word</span></span> 
-- <span data-ttu-id="78ede-947">Sono state migliorate significativamente le funzionalità di dettatura</span><span class="sxs-lookup"><span data-stu-id="78ede-947">We significantly improved the responsiveness of the dictation feature</span></span>
-
-### <a name="excel"></a><span data-ttu-id="78ede-948">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-948">Excel</span></span>
-- <span data-ttu-id="78ede-949">È stato risolto un problema per cui gli eventi di doppio clic potevano non riuscire sui dispositivi con touchscreen</span><span class="sxs-lookup"><span data-stu-id="78ede-949">We fixed an issue where double-click events could fail on touch screen devices</span></span>
-- <span data-ttu-id="78ede-950">È stato risolto un problema che impediva ad alcuni utenti di modificare le macro VBA</span><span class="sxs-lookup"><span data-stu-id="78ede-950">We fixed an issue which could prevent some users from being able to edit VBA macros</span></span>
-- <span data-ttu-id="78ede-951">È stato risolto un problema che poteva influire sulle prestazioni quando si usavano i filtri dei dati</span><span class="sxs-lookup"><span data-stu-id="78ede-951">We fixed an issue which could impact performance when using slicers</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="78ede-952">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-952">PowerPoint</span></span>
-- <span data-ttu-id="78ede-953">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-953">Various performance and stability fixes</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="78ede-954">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-954">Outlook</span></span>
-- <span data-ttu-id="78ede-955">È stato risolto un problema per cui veniva visualizzato un modello diverso da quello selezionato.</span><span class="sxs-lookup"><span data-stu-id="78ede-955">We fixed an issue where the wrong template could be displayed from what was selected</span></span>
-
-### <a name="access"></a><span data-ttu-id="78ede-956">Accesso</span><span class="sxs-lookup"><span data-stu-id="78ede-956">Access</span></span>
-- <span data-ttu-id="78ede-957">È stato risolto un problema per cui l'uso del generatore di zoom per la visualizzazione di testo RTF poteva rendere difficile la lettura.</span><span class="sxs-lookup"><span data-stu-id="78ede-957">We fixed an issue where using the zoom builder to display long rich text, could be hard to read</span></span>
-
-### <a name="project"></a><span data-ttu-id="78ede-958">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-958">Project</span></span>
-- <span data-ttu-id="78ede-959">Diverse correzioni su prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-959">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-795">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-795">Project</span></span>
+- <span data-ttu-id="bee9b-796">È stato risolto un problema per cui le schede attività a durata fissa potevano talvolta modificare la data di fine di un'attività.</span><span class="sxs-lookup"><span data-stu-id="bee9b-796">We fixed an issue where timesheets on a fixed duration could sometimes change the assignment finish date</span></span>
+- <span data-ttu-id="bee9b-797">È stato risolto un problema per cui i valori di Percentuale di completamento potevano risultare errati all'apertura di un progetto di una versione precedente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-797">We fixed an issue where Percentage Complete values could be wrong when opening a project from an earlier version</span></span>
 
 </BR></BR>
 
-## <a name="may-10-2019"></a><span data-ttu-id="78ede-960">10 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-960">May 10, 2019</span></span>
-<span data-ttu-id="78ede-961">Versione 1906 (Build 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="78ede-961">Version 1906 (build 11702.20000)</span></span>
+## <a name="may-31-2019"></a><span data-ttu-id="bee9b-798">31 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-798">May 31, 2019</span></span>
+<span data-ttu-id="bee9b-799">Versione 1906 (build 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="bee9b-799">Version 1906 (build 11722.20008)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-962">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-962">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-800">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-800">What's New:</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-963">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-963">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-801">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-801">Outlook</span></span>
 
-<span data-ttu-id="78ede-964">**Possibilità di visualizzare più messaggi sullo schermo:** Selezionare Visualizza > Usa spazio più stretto per regolare la spaziatura tra i messaggi.</span><span class="sxs-lookup"><span data-stu-id="78ede-964">**Fit more messages on the screen:** Select View > Use Tighter Spacing to adjust spacing between messages.</span></span>
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a><span data-ttu-id="bee9b-802">La finestra di dialogo per contattare il supporto è ora ancorabile e viene visualizzata a destra</span><span class="sxs-lookup"><span data-stu-id="bee9b-802">Dialog for Contacting Support now is dockable and appears on the right</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-965">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-965">Notable Fixes:</span></span>
+<span data-ttu-id="bee9b-803">La finestra di dialogo usata per contattare il supporto verrà ora visualizzata in un riquadro a destra e avviata come finestra ancorata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-803">The dialog used for Contacting support will now appear in a pane on the right and will start off as a docked window.</span></span>
 
-### <a name="all"></a><span data-ttu-id="78ede-966">Tutto</span><span class="sxs-lookup"><span data-stu-id="78ede-966">All</span></span>
-- <span data-ttu-id="78ede-967">È stato risolto un problema in cui la finestra di dialogo Salva con nome poteva mostrare un percorso non corretto</span><span class="sxs-lookup"><span data-stu-id="78ede-967">We fixed an issue where the Save As dialog could display the incorrect path</span></span>
+#### <a name="ink-in-your-email"></a><span data-ttu-id="bee9b-804">Input penna disponibile nei messaggi di posta elettronica</span><span class="sxs-lookup"><span data-stu-id="bee9b-804">Ink in Your Email!</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-968">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-968">Word</span></span> 
-- <span data-ttu-id="78ede-969">È stato risolto un problema in cui alcune selezioni di Aiutami non venivano inserite</span><span class="sxs-lookup"><span data-stu-id="78ede-969">We fixed an issue where some selections from Tell Me would not get inserted</span></span>
+<span data-ttu-id="bee9b-805">È ora possibile creare e aggiungere annotazioni alle immagini nei messaggi di posta elettronica di Outlook.</span><span class="sxs-lookup"><span data-stu-id="bee9b-805">You can now draw and annotate pictures in your Outlook emails.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-970">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-970">Excel</span></span>
-- <span data-ttu-id="78ede-971">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-971">Various performance and stability fixes</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-806">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-806">Word</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-972">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-972">PowerPoint</span></span>
-- <span data-ttu-id="78ede-973">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-973">Various performance and stability fixes</span></span>
+#### <a name="open-document-links-in-word"></a><span data-ttu-id="bee9b-807">Aprire i collegamenti ai documenti in Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-807">Open document links in Word</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-974">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-974">Outlook</span></span>
-- <span data-ttu-id="78ede-975">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-975">Various performance and stability fixes</span></span>
+<span data-ttu-id="bee9b-808">Quando si fa clic su un collegamento a un documento in Office, è possibile aggiornare la preferenza in modo da aprire l'app Word per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="bee9b-808">When you click a document link in Office, you can update your preference to open in the Word app by default.</span></span>  <span data-ttu-id="bee9b-809">Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link.</span><span class="sxs-lookup"><span data-stu-id="bee9b-809">To update your preference go to File->Options->Advanced->Link Handling.</span></span> <span data-ttu-id="bee9b-810">Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span><span class="sxs-lookup"><span data-stu-id="bee9b-810">Learn more: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-976">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-976">Access</span></span>
-- <span data-ttu-id="78ede-977">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-977">Various performance and stability fixes</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-811">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-811">Getting Started:</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-978">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-978">Project</span></span>
-- <span data-ttu-id="78ede-979">È stato risolto un problema in cui le ID attività dovevano essere evidenziate per essere visualizzate</span><span class="sxs-lookup"><span data-stu-id="78ede-979">We fixed an issue where Task ID's could require highlighting to see</span></span>
+<span data-ttu-id="bee9b-812">Per impostazione predefinita, la funzionalità è disattivata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-812">Feature will default to off.</span></span> <span data-ttu-id="bee9b-813">Gli utenti possono attivarla tramite l'impostazione Opzioni -> Avanzate -> Gestione del link oppure possono sceglierla quando le app WXP Win32 visualizzano un'apposita esperienza.</span><span class="sxs-lookup"><span data-stu-id="bee9b-813">Users can either turn it on via Options->Advanced->Link Handling setting, or they can opt-in when Win32 WXP apps take them through an opt-in experience.</span></span>
+<span data-ttu-id="bee9b-814">Quando gli utenti fanno clic su collegamenti a file di Word/PowerPoint/Excel archiviati in OneDrive/OneDrive for Business/SharePoint da Outlook/Word/PowerPoint/Excel, per impostazione predefinita tali collegamenti verranno aperti nell'applicazione di Office appropriata anziché nel browser.</span><span class="sxs-lookup"><span data-stu-id="bee9b-814">When users click on links to Word/PowerPoint/Excel files stored on OneDrive/OneDrive for Business/SharePoint from Outlook/Word/PowerPoint/Excel, these links will open in the appropriate Office application instead of the browser by default.</span></span>
 
-</BR></BR>
+<span data-ttu-id="bee9b-815">Per modificare questa impostazione predefinita, gli utenti possono aggiornare l'impostazione seguente in Outlook/Word/Excel/PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="bee9b-815">To change this default, users can update the following setting in Outlook/Word/Excel/PowerPoint:</span></span>
 
-## <a name="may-3-2019"></a><span data-ttu-id="78ede-980">3 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-980">May 3, 2019</span></span>
-<span data-ttu-id="78ede-981">Versione 1906 (Build 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="78ede-981">Version 1906 (build 11629.20008)</span></span>
+<span data-ttu-id="bee9b-816">File -> Opzioni -> Avanzate -> Gestione del link</span><span class="sxs-lookup"><span data-stu-id="bee9b-816">File->Options->Advanced->Link Handling</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-982">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-982">What's New:</span></span>
+<span data-ttu-id="bee9b-817">Questa impostazione è condivisa in Outlook/Word/PowerPoint/Excel e può essere impostata in una di queste app.</span><span class="sxs-lookup"><span data-stu-id="bee9b-817">This setting is shared across Outlook/Word/PowerPoint/Excel and can be set in any of these apps.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-983">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-983">Outlook</span></span>
+##### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-818">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-818">Scenarios to Try:</span></span>
 
-<span data-ttu-id="78ede-984">**Tutte le opzioni di crittografia in un'unica posizione:** basta passare a Opzioni > Crittografa per scegliere come proteggere il messaggio di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="78ede-984">**All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message.</span></span>
+<span data-ttu-id="bee9b-819">Per attivare l'esperienza di scelta, aprire un collegamento a un documento di Word archiviato in OneDrive/SharePoint da Outlook/Word/PowerPoint/Excel, quindi fare clic su Apri nell'applicazione client da Office Online. Eseguire questa operazione per due volte nell'arco di 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="bee9b-819">To trigger the opt-in experience - Open a link tot a Word document stored in OneDrive/SharePoint from Outlook/Word/PowerPoint/Excel - click on Open in Client from Office Online - do this twice in a 30 day window.</span></span> <span data-ttu-id="bee9b-820">Dopo aver effettuato la scelta, per impostazione predefinita i collegamenti verranno aperti nelle app Win 32.</span><span class="sxs-lookup"><span data-stu-id="bee9b-820">After you opt-in, links will launch in the Win32 apps by default.</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-985">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-985">Notable Fixes:</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-821">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-821">PowerPoint</span></span>
 
-### <a name="all"></a><span data-ttu-id="78ede-986">Tutto</span><span class="sxs-lookup"><span data-stu-id="78ede-986">All</span></span>
-- <span data-ttu-id="78ede-987">È stato risolto un problema in cui alcuni utenti riscontravano problemi di sincronizzazione con OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="78ede-987">We fixed an issue where some users would experience problems syncing with OneDrive for Business</span></span>
+#### <a name="open-presentation-links-in-powerpoint"></a><span data-ttu-id="bee9b-822">Aprire i collegamenti alle presentazioni in PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-822">Open presentation links in PowerPoint</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-988">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-988">Word</span></span> 
-- <span data-ttu-id="78ede-989">È stato risolto un problema per cui, in alcuni casi, l'apertura di Word poteva richiedere molto tempo.</span><span class="sxs-lookup"><span data-stu-id="78ede-989">We fixed an issue where in some cases Word would take a long time to start</span></span>
+<span data-ttu-id="bee9b-823">Quando si fa clic su un collegamento a una presentazione in Office, è possibile aggiornare la preferenza in modo da aprire l'app PowerPoint per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="bee9b-823">When you click a presentation link in Office, you can update your preference to open in the PowerPoint app by default.</span></span> <span data-ttu-id="bee9b-824">Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link.</span><span class="sxs-lookup"><span data-stu-id="bee9b-824">To update your preference go to File->Options->Advanced->Link Handling.</span></span> <span data-ttu-id="bee9b-825">Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span><span class="sxs-lookup"><span data-stu-id="bee9b-825">Learn more: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-990">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-990">Excel</span></span>
-- <span data-ttu-id="78ede-991">È stato risolto un problema in cui i collegamenti esterni a volte venivano rimossi dalle cartelle di lavoro dopo l'aggiornamento a una versione più recente di Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-991">We fixed an issue where external links were sometimes removed from workbooks after upgrading to a newer version of Excel</span></span>
-- <span data-ttu-id="78ede-992">È stato risolto un problema in cui alcuni utenti riscontravano problemi durante la selezione di celle in una cartella di lavoro</span><span class="sxs-lookup"><span data-stu-id="78ede-992">We fixed an issue where some users could experience difficulty selecting cells in a new workbook</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-826">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-826">Getting Started:</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-993">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-993">PowerPoint</span></span>
-- <span data-ttu-id="78ede-994">È stato risolto un problema in cui le dimensioni del carattere non rimanevano tali quando si convertivano i disegni in testo</span><span class="sxs-lookup"><span data-stu-id="78ede-994">We fixed an issue where font sizes were not consistant when converting drawings to text</span></span>
+<span data-ttu-id="bee9b-827">Per impostazione predefinita, la funzionalità è disattivata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-827">Feature will default to off.</span></span> <span data-ttu-id="bee9b-828">Gli utenti possono attivarla tramite l'impostazione Opzioni -> Avanzate -> Gestione del link oppure possono sceglierla quando le app WXP Win32 visualizzano un'apposita esperienza.</span><span class="sxs-lookup"><span data-stu-id="bee9b-828">Users can either turn it on via Options->Advanced->Link Handling setting, or they can opt-in when Win32 WXP apps take them through an opt-in experience.</span></span>
+<span data-ttu-id="bee9b-829">Quando gli utenti fanno clic su collegamenti a file di Word/PowerPoint/Excel archiviati in OneDrive/OneDrive for Business/SharePoint da Outlook/Word/PowerPoint/Excel, per impostazione predefinita tali collegamenti verranno aperti nell'applicazione di Office appropriata anziché nel browser.</span><span class="sxs-lookup"><span data-stu-id="bee9b-829">When users click on links to Word/PowerPoint/Excel files stored on OneDrive/OneDrive for Business/SharePoint from Outlook/Word/PowerPoint/Excel, these links will open in the appropriate Office application instead of the browser by default.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-995">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-995">Outlook</span></span>
-- <span data-ttu-id="78ede-996">È stato risolto un problema in cui salvare un contatto di un File VCF poteva generare campi vuoti come risultato</span><span class="sxs-lookup"><span data-stu-id="78ede-996">We fixed an issue where saving a contact from a .VCF file could result in empty fields</span></span>
-- <span data-ttu-id="78ede-997">È stato risolto un problema in cui un messaggio poteva bloccarsi nella cartella Posta in uscita, anche se era stato inviato</span><span class="sxs-lookup"><span data-stu-id="78ede-997">We fixed an issue where a message could get stuck in the outbox folder even though it had been sent</span></span>
-- <span data-ttu-id="78ede-998">È stato risolto un problema in cui Outlook poteva arrestarsi in modo anomalo durante l’uso dello strumento di disegno</span><span class="sxs-lookup"><span data-stu-id="78ede-998">We fixed an issue where Outlook could crash when viewing a DRM message</span></span>
+<span data-ttu-id="bee9b-830">Per modificare questa impostazione predefinita, gli utenti possono aggiornare l'impostazione seguente in Outlook/Word/Excel/PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="bee9b-830">To change this default, users can update the following setting in Outlook/Word/Excel/PowerPoint:</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-999">Accesso</span><span class="sxs-lookup"><span data-stu-id="78ede-999">Access</span></span>
-- <span data-ttu-id="78ede-1000">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1000">Various performance and stability fixes</span></span>
+<span data-ttu-id="bee9b-831">File -> Opzioni -> Avanzate -> Gestione del link</span><span class="sxs-lookup"><span data-stu-id="bee9b-831">File->Options->Advanced->Link Handling</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1001">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1001">Project</span></span>
-- <span data-ttu-id="78ede-1002">È stato risolto un problema per cui l’editor passava dal cinese all'inglese</span><span class="sxs-lookup"><span data-stu-id="78ede-1002">We fixed an issue where the editor would switch from Chinese to English</span></span>
-- <span data-ttu-id="78ede-1003">È stato risolto un problema in cui le attività non pubblicate potevano comparire nella copia pubblicata di un progetto principale</span><span class="sxs-lookup"><span data-stu-id="78ede-1003">We fixed an issue where unpublished tasks could appear in the published copy of a master project</span></span>
+<span data-ttu-id="bee9b-832">Questa impostazione è condivisa in Outlook/Word/PowerPoint/Excel e può essere impostata in una di queste app.</span><span class="sxs-lookup"><span data-stu-id="bee9b-832">This setting is shared across Outlook/Word/PowerPoint/Excel and can be set in any of these apps.</span></span>
 
-</BR></BR>
+##### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-833">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-833">Scenarios to Try:</span></span>
 
-## <a name="april-26-2019"></a><span data-ttu-id="78ede-1004">26 aprile 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1004">April 26, 2019</span></span>
-<span data-ttu-id="78ede-1005">Versione 1905 (build 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="78ede-1005">Version 1905 (build 11617.20002)</span></span>
+<span data-ttu-id="bee9b-834">Per attivare l'esperienza di scelta, aprire un collegamento a una presentazione di PowerPoint archiviata in OneDrive/SharePoint da Outlook/Word/PowerPoint/Excel, quindi fare clic su Apri nell'applicazione client da Office Online. Eseguire questa operazione per due volte nell'arco di 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="bee9b-834">To trigger the opt-in experience - Open a link to a PowerPoint presentation stored in OneDrive/SharePoint from Outlook/Word/PowerPoint/Excel - click on Open in Client from Office Online - do this twice in a 30 day window.</span></span> <span data-ttu-id="bee9b-835">Dopo aver effettuato la scelta, per impostazione predefinita i collegamenti verranno aperti nelle app Win 32.</span><span class="sxs-lookup"><span data-stu-id="bee9b-835">After you opt-in, links will launch in the Win32 apps by default.</span></span>
 
-## <a name="new-features"></a><span data-ttu-id="78ede-1006">Nuove funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-1006">New Features</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-836">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-836">Excel</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1007">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1007">Outlook</span></span>
+#### <a name="open-workbook-links-in-excel"></a><span data-ttu-id="bee9b-837">Aprire i collegamenti alle cartelle di lavoro in Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-837">Open workbook links in Excel</span></span>
 
-<span data-ttu-id="78ede-1008">**Gli aggiornamenti dei calendari condivisi sono più veloci:** Outlook può aggiornare i calendari condivisi in Office 365 usando l'API REST.</span><span class="sxs-lookup"><span data-stu-id="78ede-1008">**Shared calendar updates just got faster:** For shared calendars in Office 365, Outlook can update these calendars using the REST API.</span></span> <span data-ttu-id="78ede-1009">Attivare l'anteprima per aggiornamenti più rapidi e affidabili ai calendari condivisi.</span><span class="sxs-lookup"><span data-stu-id="78ede-1009">Turn on the preview for faster and more reliable updates to shared calendars.</span></span>
+<span data-ttu-id="bee9b-838">Quando si fa clic su un collegamento a una cartella di lavoro in Office, è possibile aggiornare la preferenza in modo da aprire l'app Excel per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="bee9b-838">When you click a workbook link in Office, you can update your preference to open in the Excel app by default.</span></span> <span data-ttu-id="bee9b-839">Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link.</span><span class="sxs-lookup"><span data-stu-id="bee9b-839">To update your preference, go to File->Options->Advanced->Link Handling.</span></span> <span data-ttu-id="bee9b-840">Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span><span class="sxs-lookup"><span data-stu-id="bee9b-840">Learn More: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1010">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1010">Excel</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-841">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-841">Getting Started:</span></span>
 
-#### <a name="coauthoring-improvements"></a><span data-ttu-id="78ede-1011">Miglioramenti alla creazione condivisa</span><span class="sxs-lookup"><span data-stu-id="78ede-1011">Coauthoring improvements</span></span>
+<span data-ttu-id="bee9b-842">Per impostazione predefinita, la funzionalità è disattivata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-842">Feature will default to off.</span></span> <span data-ttu-id="bee9b-843">Gli utenti possono attivarla tramite l'impostazione Opzioni -> Avanzate -> Gestione del link oppure possono sceglierla quando le app WXP Win32 visualizzano un'apposita esperienza.</span><span class="sxs-lookup"><span data-stu-id="bee9b-843">Users can either turn it on via Options->Advanced->Link Handling setting, or they can opt-in when Win32 WXP apps take them through an opt-in experience.</span></span>
+<span data-ttu-id="bee9b-844">Quando gli utenti fanno clic su collegamenti a file di Word/PowerPoint/Excel archiviati in OneDrive/OneDrive for Business/SharePoint da Outlook/Word/PowerPoint/Excel, per impostazione predefinita tali collegamenti verranno aperti nell'applicazione di Office appropriata anziché nel browser.</span><span class="sxs-lookup"><span data-stu-id="bee9b-844">When users click on links to Word/PowerPoint/Excel files stored on OneDrive/OneDrive for Business/SharePoint from Outlook/Word/PowerPoint/Excel, these links will open in the appropriate Office application instead of the browser by default.</span></span>
 
-<span data-ttu-id="78ede-1012">L'esperienza di creazione condivisa è stata migliorata, aumentando la probabilità che gli altri utenti ricevano le modifiche apportate al contenuto in tempo reale.</span><span class="sxs-lookup"><span data-stu-id="78ede-1012">Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.</span></span>
+<span data-ttu-id="bee9b-845">Per modificare questa impostazione predefinita, gli utenti possono aggiornare l'impostazione seguente in Outlook/Word/Excel/PowerPoint:</span><span class="sxs-lookup"><span data-stu-id="bee9b-845">To change this default, users can update the following setting in Outlook/Word/Excel/PowerPoint:</span></span>
 
-### <a name="visio"></a><span data-ttu-id="78ede-1013">Visio</span><span class="sxs-lookup"><span data-stu-id="78ede-1013">Visio</span></span>
+<span data-ttu-id="bee9b-846">File -> Opzioni -> Avanzate -> Gestione del link</span><span class="sxs-lookup"><span data-stu-id="bee9b-846">File->Options->Advanced->Link Handling</span></span>
 
-- <span data-ttu-id="78ede-1014">**Esportare elementi visivi di Visio da Power BI:** gli oggetti visivi di Visio per Power BI vengono ora visualizzati correttamente quando si esportano i report di Power BI come PDF, file di PowerPoint e altro ancora.</span><span class="sxs-lookup"><span data-stu-id="78ede-1014">**Export Visio visuals from Power BI:** Visio Visual for Power BI will now display properly when you export Power BI reports as PDFs, PowerPoint files, and more.</span></span>
+<span data-ttu-id="bee9b-847">Questa impostazione è condivisa in Outlook/Word/PowerPoint/Excel e può essere impostata in una di queste app.</span><span class="sxs-lookup"><span data-stu-id="bee9b-847">This setting is shared across Outlook/Word/PowerPoint/Excel and can be set in any of these apps.</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1015">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1015">Notable Fixes:</span></span>
+##### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-848">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-848">Scenarios to Try:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1016">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1016">Word</span></span> 
-- <span data-ttu-id="78ede-1017">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1017">Various performance and stability fixes</span></span>
+<span data-ttu-id="bee9b-849">Per attivare l'esperienza di scelta, aprire un collegamento a una cartella di lavoro di Excel archiviata in OneDrive/SharePoint da Outlook/Word/PowerPoint/Excel, quindi fare clic su Apri nell'applicazione client da Office Online. Eseguire questa operazione per due volte nell'arco di 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="bee9b-849">To trigger the opt-in experience - Open a link to an Excel workbook stored in OneDrive/SharePoint from Outlook/Word/PowerPoint/Excel - click on Open in Client from Office Online - do this twice in a 30 day window.</span></span> <span data-ttu-id="bee9b-850">Dopo aver effettuato la scelta, per impostazione predefinita i collegamenti verranno aperti nelle app Win 32.</span><span class="sxs-lookup"><span data-stu-id="bee9b-850">After you opt-in, links will launch in the Win32 apps by default.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1018">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1018">Excel</span></span>
-- <span data-ttu-id="78ede-1019">È stato risolto un problema in cui i macro del Risolutore presentavano problemi di esecuzione</span><span class="sxs-lookup"><span data-stu-id="78ede-1019">We fixed an issue where Solver macros would fail to run</span></span>
-- <span data-ttu-id="78ede-1020">È stato risolto un problema che potrebbe impedire l'importazione di file di Excel in SharePoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1020">We fixed an issue which could prevent Excel files from being imported into SharePoint</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-851">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-851">Notable Fixes:</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1021">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1021">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1022">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1022">Various performance and stability fixes</span></span>
+### <a name="all"></a><span data-ttu-id="bee9b-852">Tutto</span><span class="sxs-lookup"><span data-stu-id="bee9b-852">All</span></span>
+- <span data-ttu-id="bee9b-853">È stato risolto un problema per cui i file potevano essere salvati automaticamente anche quando il salvataggio automatico era disabilitato.</span><span class="sxs-lookup"><span data-stu-id="bee9b-853">We fixed an issue where files could sometimes be auto-saved even when auto-save was disabled</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1023">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1023">Outlook</span></span>
-- <span data-ttu-id="78ede-1024">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1024">Various performance and stability fixes</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-854">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-854">Word</span></span> 
+- <span data-ttu-id="bee9b-855">È stato risolto un problema che poteva impedire ad alcuni utenti di salvare in SharePoint.</span><span class="sxs-lookup"><span data-stu-id="bee9b-855">We fixed an issue which may have prevented some users from saving to SharePoint</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1025">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1025">Access</span></span>
-- <span data-ttu-id="78ede-1026">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1026">Various performance and stability fixes</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-856">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-856">Excel</span></span>
+- <span data-ttu-id="bee9b-857">È stato risolto un problema che causava la visualizzazione di un'icona errata per i filtri inattivi.</span><span class="sxs-lookup"><span data-stu-id="bee9b-857">We fixed an issue where an incorrect icon could be displayed for inactive filters</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1027">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1027">Project</span></span>
-- <span data-ttu-id="78ede-1028">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1028">Various performance and stability fixes</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-858">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-858">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-859">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-859">Various performance and stability fixes</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-860">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-860">Outlook</span></span>
+- <span data-ttu-id="bee9b-861">È stato risolto un problema per cui alcuni utenti risultavano offline per errore in una visualizzazione della pianificazione di gruppo.</span><span class="sxs-lookup"><span data-stu-id="bee9b-861">We fixed an issue where some users would incorrectly appear as Offline in a Group Schedule view</span></span>
+- <span data-ttu-id="bee9b-862">È stato risolto un problema che impediva a SafeLink di analizzare un URL con uno spazio finale.</span><span class="sxs-lookup"><span data-stu-id="bee9b-862">We fixed an issue which prevented SafeLink from parsing a URL with a trailing space</span></span>
+- <span data-ttu-id="bee9b-863">È stato risolto un problema per cui le sale venivano visualizzate come disponibili in orario non lavorativo.</span><span class="sxs-lookup"><span data-stu-id="bee9b-863">We fixed an issue where rooms were displayed as available outside of non-working hours</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-864">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-864">Access</span></span>
+- <span data-ttu-id="bee9b-865">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-865">Various performance and stability fixes</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-866">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-866">Project</span></span>
+- <span data-ttu-id="bee9b-867">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-867">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
-## <a name="april-19-2019"></a><span data-ttu-id="78ede-1029">19 aprile 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1029">April 19, 2019</span></span>
-<span data-ttu-id="78ede-1030">Versione 1905 (build 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="78ede-1030">Version 1905 (build 11609.20002)</span></span>
+## <a name="may-24-2019"></a><span data-ttu-id="bee9b-868">24 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-868">May 24, 2019</span></span>
+<span data-ttu-id="bee9b-869">Versione 1906 (Build 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="bee9b-869">Version 1906 (build 11715.20002)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-1031">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-1031">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-870">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-870">What's New:</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1032">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1032">Outlook</span></span>
+#### <a name="user-experience-updates"></a><span data-ttu-id="bee9b-871">Aggiornamenti dell'esperienza utente</span><span class="sxs-lookup"><span data-stu-id="bee9b-871">User Experience Updates</span></span>
 
-<span data-ttu-id="78ede-1033">**Suggerimenti di posta elettronica per cercare una persona:** quando si digita il nome di una persona nella casella di ricerca, i messaggi di posta elettronica più importanti saranno inclusi nei suggerimenti di ricerca.</span><span class="sxs-lookup"><span data-stu-id="78ede-1033">**Get email suggestions when you search for a person:** When you type a person’s name in the Search box, the most relevant email messages will be included with your search suggestions.</span></span>
+<span data-ttu-id="bee9b-872">Gli aggiornamenti nella sezione Prossimamente sono ora disponibili e includono la barra multifunzione semplificata, nonché un aggiornamento visivo del riquadro delle cartelle, dell'elenco dei messaggi e del riquadro di lettura.</span><span class="sxs-lookup"><span data-stu-id="bee9b-872">Updates that have been in Coming Soon are now here, featuring the Simplified Ribbon, and a visual refresh of the folder pane, message list, and reading pane.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1034">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1034">Excel</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-873">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-873">Notable Fixes:</span></span>
 
-#### <a name="improved-filled-maps-experience-using-data-types"></a><span data-ttu-id="78ede-1035">Esperienza migliorata delle mappe colorate con tipi di dati</span><span class="sxs-lookup"><span data-stu-id="78ede-1035">Improved Filled Maps experience using Data Types</span></span>
+### <a name="all"></a><span data-ttu-id="bee9b-874">Tutto</span><span class="sxs-lookup"><span data-stu-id="bee9b-874">All</span></span>
 
-<span data-ttu-id="78ede-1036">Questa funzionalità è un miglioramento destinato agli utenti che tracciano grafici Mappa colorata usando i tipi di dati geografici di Excel.</span><span class="sxs-lookup"><span data-stu-id="78ede-1036">This feature is an improvement for users who plot Filled Map Charts using Excel's Geographic Data Types.</span></span> <span data-ttu-id="78ede-1037">Il vantaggio per gli utenti finali sarà una migliore integrazione tra le funzionalità e una maggiore accuratezza dell'area da includere nella mappa.</span><span class="sxs-lookup"><span data-stu-id="78ede-1037">The benefit to the end users will be richer integration between the features and better accuracy of the region the end user wants to map.</span></span> <span data-ttu-id="78ede-1038">Altri vantaggi includono la possibilità di creare mappe con poligoni di città.</span><span class="sxs-lookup"><span data-stu-id="78ede-1038">Additional benefits include - ability to map city polygons.</span></span>
+- <span data-ttu-id="bee9b-875">È stato risolto un problema che impediva la visualizzazione del riquadro della chat</span><span class="sxs-lookup"><span data-stu-id="bee9b-875">We fixed an issue where the Chat Pane would not display</span></span>
 
-##### <a name="getting-started"></a><span data-ttu-id="78ede-1039">Introduzione:</span><span class="sxs-lookup"><span data-stu-id="78ede-1039">Getting Started:</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-876">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-876">Word</span></span> 
+- <span data-ttu-id="bee9b-877">È stato risolto un problema per cui, in alcuni casi, Word evidenziava in modo errato il testo per indicare errori grammaticali</span><span class="sxs-lookup"><span data-stu-id="bee9b-877">We fixed an issue where in some cases Word could incorrectly highlight text for grammatical errors</span></span>
 
-- <span data-ttu-id="78ede-1040">Questa funzionalità è un aggiornamento delle funzionalità esistenti in Excel.</span><span class="sxs-lookup"><span data-stu-id="78ede-1040">This feature is an improvement to the existing features within Excel.</span></span> <span data-ttu-id="78ede-1041">Per usare il miglioramento, convertire le posizioni in entità complesse e tracciare il grafico Mappa colorata.</span><span class="sxs-lookup"><span data-stu-id="78ede-1041">To use the improvement - convert locations into Rich Entities and plot with Filled Maps.</span></span> 
+### <a name="excel"></a><span data-ttu-id="bee9b-878">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-878">Excel</span></span>
+- <span data-ttu-id="bee9b-879">È stato risolto un problema per cui veniva usata un'icona errata per Elementi grafico</span><span class="sxs-lookup"><span data-stu-id="bee9b-879">We fixed an issue where an incorrect icon was used in for Chart Elements</span></span>
+- <span data-ttu-id="bee9b-880">È stato risolto un problema per cui poteva essere attivata la cartella di lavoro errata in uno script VBA quando la stessa cartella era già aperta</span><span class="sxs-lookup"><span data-stu-id="bee9b-880">We fixed an issue where the incorrect workbook could be activated in a VBA script when the same book was already open</span></span>
 
-##### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1042">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1042">Scenarios to Try:</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-881">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-881">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-882">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-882">Various performance and stability fixes</span></span>
 
-- <span data-ttu-id="78ede-1043">Gli utenti possono provare a creare mappe di città, stati, province e codici postali.</span><span class="sxs-lookup"><span data-stu-id="78ede-1043">Users can try mapping cities, states, counties, countries and zip codes.</span></span> 
+### <a name="outlook"></a><span data-ttu-id="bee9b-883">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-883">Outlook</span></span>
+- <span data-ttu-id="bee9b-884">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-884">Various performance and stability fixes</span></span>
 
+### <a name="access"></a><span data-ttu-id="bee9b-885">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-885">Access</span></span>
+- <span data-ttu-id="bee9b-886">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-886">Various performance and stability fixes</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1044">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1044">Notable Fixes:</span></span>
-
-### <a name="all-applications"></a><span data-ttu-id="78ede-1045">Tutte le applicazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-1045">All Applications</span></span>
-- <span data-ttu-id="78ede-1046">È stato risolto un problema per cui a ogni avvio di un'applicazione veniva visualizzata la finestra di dialogo della prima esecuzione</span><span class="sxs-lookup"><span data-stu-id="78ede-1046">We fixed an issue where the First Run dialog would display whenever an application was launched</span></span>
-- <span data-ttu-id="78ede-1047">È stato risolto un problema per cui nella finestra di dialogo "Salva con nome" mancava un collegamento a SharePoint.</span><span class="sxs-lookup"><span data-stu-id="78ede-1047">We fixed an issue where a SharePoint link in the "save as" dialog could be missing.</span></span>
-- <span data-ttu-id="78ede-1048">È stato risolto un problema per cui agli utenti veniva erroneamente mostrata una finestra di dialogo "Ripristina ora"</span><span class="sxs-lookup"><span data-stu-id="78ede-1048">We fixed an issue where users would incorrectly see a "Repair Now" dialog</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-1049">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1049">Word</span></span> 
-- <span data-ttu-id="78ede-1050">È stato risolto un problema per cui alcuni utenti potevano ricevere un errore di memoria o spazio su disco insufficiente richiedendo un tipo di carattere</span><span class="sxs-lookup"><span data-stu-id="78ede-1050">We fixed an issue where some users could receive an error for insufficient memory or disk space when requesting a font</span></span>
-- <span data-ttu-id="78ede-1051">È stato risolto un problema per cui una finestra poteva perdere lo stato attivo uscendo dal riquadro commenti</span><span class="sxs-lookup"><span data-stu-id="78ede-1051">We fixed an issue where a window could lose focus when switching from the comments pane</span></span>
-
-### <a name="excel"></a><span data-ttu-id="78ede-1052">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1052">Excel</span></span>
-- <span data-ttu-id="78ede-1053">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1053">Various performance and stability fixes</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1054">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1054">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1055">È stato risolto un problema che impediva il ridimensionamento di forme personalizzate</span><span class="sxs-lookup"><span data-stu-id="78ede-1055">We fixed an issue preventing the resizing of branded shapes</span></span>
-- <span data-ttu-id="78ede-1056">È stato risolto un problema per cui PowerPoint poteva arrestarsi in modo anomalo aprendo un file in modalità di visualizzazione protetta</span><span class="sxs-lookup"><span data-stu-id="78ede-1056">We fixed an issue where PowerPoint could crash when opening a file in protected view mode</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="78ede-1057">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1057">Outlook</span></span>
-- <span data-ttu-id="78ede-1058">È stato risolto un problema che impediva ad alcuni utenti di selezionare parole in cinese</span><span class="sxs-lookup"><span data-stu-id="78ede-1058">We fixed an issue which prevented some users from selecting Chinese words</span></span>
-- <span data-ttu-id="78ede-1059">È stato risolto un problema per cui le date di scadenza non erano calcolate correttamente </span><span class="sxs-lookup"><span data-stu-id="78ede-1059">We fixed an issue where expiry dates were not calculated correctly</span></span>
-
-### <a name="access"></a><span data-ttu-id="78ede-1060">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1060">Access</span></span>
-- <span data-ttu-id="78ede-1061">È stato risolto un problema che impediva ad alcuni utenti di usare il Generatore di macro</span><span class="sxs-lookup"><span data-stu-id="78ede-1061">We fixed an issue which prevented some users from using the Macro Builder</span></span>
-- <span data-ttu-id="78ede-1062">È stato risolto un problema per cui, stampando un report, veniva stampata solo la prima pagina</span><span class="sxs-lookup"><span data-stu-id="78ede-1062">We fixed an issue where printing a report would only print the first page</span></span>
-- <span data-ttu-id="78ede-1063">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo al passaggio del mouse su un collegamento ipertestuale</span><span class="sxs-lookup"><span data-stu-id="78ede-1063">We fixed an issue where the application could crash when hovering over a hyperlink</span></span>
-- <span data-ttu-id="78ede-1064">È stato risolto un problema per cui alcuni elementi non comparivano nello schermo nella visualizzazione Relazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-1064">We fixed an issue which caused some items to appear off screen when using relationships view</span></span>
-
-### <a name="project"></a><span data-ttu-id="78ede-1065">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1065">Project</span></span>
-- <span data-ttu-id="78ede-1066">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1066">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-887">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-887">Project</span></span>
+- <span data-ttu-id="bee9b-888">È stato risolto un problema per cui Project poteva arrestarsi in modo anomalo dopo il passaggio alla barra delle applicazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-888">We fixed an issue where Project could crash after switching to the taskbar</span></span>
 
 </BR></BR>
 
-## <a name="april-12-2019"></a><span data-ttu-id="78ede-1067">12 aprile 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1067">April 12, 2019</span></span>
-<span data-ttu-id="78ede-1068">Versione 1905 (Build 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="78ede-1068">Version 1905 (build 11601.20042)</span></span>
+## <a name="may-17-2019"></a><span data-ttu-id="bee9b-889">17 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-889">May 17, 2019</span></span>
+<span data-ttu-id="bee9b-890">Versione 1906 (build 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="bee9b-890">Version 1906 (build 11708.20006)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-1069">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-1069">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-891">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-891">What's New:</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1070">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1070">Access</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-892">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-892">Outlook</span></span>
 
-#### <a name="get-smart-with-microsoft-graph"></a><span data-ttu-id="78ede-1071">Suggerimenti intelligenti per Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="78ede-1071">Get smart with Microsoft Graph</span></span>
+#### <a name="user-experience-updates"></a><span data-ttu-id="bee9b-893">Aggiornamenti dell’esperienza utente</span><span class="sxs-lookup"><span data-stu-id="bee9b-893">User Experience Updates</span></span>
 
-<span data-ttu-id="78ede-1072">Importare o collegare dati intelligenti e reinventare il database desktop con la tecnologia intelligente.</span><span class="sxs-lookup"><span data-stu-id="78ede-1072">Import or link to intelligent data and reinvent your desktop database with Intelligent Technology.</span></span>
+<span data-ttu-id="bee9b-894">Gli aggiornamenti nella sezione Presto disponibile sono ora disponibili, con la barra multifunzione semplificata e l’aggiornamento visivo del riquadro delle cartelle, dell’elenco dei messaggi e del riquadro di lettura.</span><span class="sxs-lookup"><span data-stu-id="bee9b-894">Updates that have been in Coming Soon are now here, featuring the Simplified Ribbon, and a visual refresh of the folder pane, message list, and reading pane.</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1073">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1073">Notable Fixes:</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-895">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-895">Getting Started:</span></span>
 
-### <a name="all-applications"></a><span data-ttu-id="78ede-1074">Tutte le applicazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-1074">All Applications</span></span>
- - <span data-ttu-id="78ede-1075">È stato risolto un problema che impedisce ad alcuni utenti di salvare file nelle posizioni del cloud</span><span class="sxs-lookup"><span data-stu-id="78ede-1075">We fixed an issue which prevented some users from saving files to cloud locations</span></span>
- - <span data-ttu-id="78ede-1076">È stato risolto un problema in cui il riquadro errato si apre dalla barra multifunzione</span><span class="sxs-lookup"><span data-stu-id="78ede-1076">We fixed an issue where the wrong pane could open from the ribbon</span></span>
+<span data-ttu-id="bee9b-896">Questa modifica farà parte della nuova interfaccia utente predefinita, che è già presente nella scheda Presto disponibile dalla metà di dicembre per il 100% dei prodotti.</span><span class="sxs-lookup"><span data-stu-id="bee9b-896">These change will be part of the new default UI; it has been available behind the Coming Soon switch since mid Dec for 100% prod</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1077">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1077">Word</span></span> 
-- <span data-ttu-id="78ede-1078">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1078">Various performance and stability fixes</span></span>
+#### <a name="customizable-simplified-ribbon"></a><span data-ttu-id="bee9b-897">Barra multifunzione semplificata personalizzabile</span><span class="sxs-lookup"><span data-stu-id="bee9b-897">Customizable Simplified Ribbon</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1079">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1079">Excel</span></span>
-- <span data-ttu-id="78ede-1080">È stato risolto un problema in cui gli utenti vedono un messaggio di errore per i tipi di dati collegati quando la cartella di lavoro non contiene tipi di dati collegati</span><span class="sxs-lookup"><span data-stu-id="78ede-1080">We fixed an issue where users would see an error message for linked data types when the workbook did not contain linked data types</span></span>
-- <span data-ttu-id="78ede-1081">È stato risolto un problema in cui i collegamenti URL all'interno di un documento di Word si possono modificare quando vengono visualizzati localmente e online</span><span class="sxs-lookup"><span data-stu-id="78ede-1081">We fixed an issue where URL links within a Word document could change when viewed locally vs. online</span></span>
+<span data-ttu-id="bee9b-898">Il passaggio dalla visualizzazione classica a quella semplificata e il blocco o sblocco dei comandi sono facilmente personalizzabili.</span><span class="sxs-lookup"><span data-stu-id="bee9b-898">Easily customizable to switch between classic and Simplified views and pin/unpin commands.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1082">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1082">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1083">È stato risolto un problema nel punto in cui l'applicazione può bloccarsi dopo l'annullamento di modifiche nella scheda animazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-1083">We fixed an issue where the application could crash after undoing changes from the animations tab</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-899">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-899">Getting Started:</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1084">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1084">Outlook</span></span>
-- <span data-ttu-id="78ede-1085">È stato risolto un problema che impedisce ad alcuni utenti di modificare il campo Note per i contatti in una cartella pubblica</span><span class="sxs-lookup"><span data-stu-id="78ede-1085">We fixed an issue which prevented some users from modifying the Notes field for contacts in a Public Folder</span></span>
-- <span data-ttu-id="78ede-1086">È stato risolto un problema in cui può verificarsi un conflitto tra le date di scadenza e le date di eliminazione</span><span class="sxs-lookup"><span data-stu-id="78ede-1086">We fixed an issue where a conflict could occur between expiration dates and deletion dates</span></span>
+<span data-ttu-id="bee9b-900">Gli utenti possono accedere alla barra multifunzione semplificata attivando, inizialmente, la scheda Presto disponibile e facendo clic sulla freccia di espansione per passare dalla visualizzazione classica multiriga alla nuova barra multifunzione semplificata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-900">Users can get to the simplified ribbon by turning on Coming Soon (initially) and clicking the chevron in the ribbon to toggle between the classic multi-line ribbon and the new simplified single-line ribbon.</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1087">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1087">Access</span></span>
-- <span data-ttu-id="78ede-1088">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1088">Various performance and stability fixes</span></span>
+##### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-901">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-901">Scenarios to Try:</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1089">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1089">Project</span></span>
-- <span data-ttu-id="78ede-1090">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1090">Various performance and stability fixes</span></span>
+<span data-ttu-id="bee9b-902">Passare dalla barra multifunzione classica a quella semplificata</span><span class="sxs-lookup"><span data-stu-id="bee9b-902">Switch from Classic ribbon to Simplified ribbon</span></span>
 
-</BR></BR>
+#### <a name="pick-your-favorite-action"></a><span data-ttu-id="bee9b-903">Selezionare l’azione preferita</span><span class="sxs-lookup"><span data-stu-id="bee9b-903">Pick your favorite action</span></span>
 
-## <a name="april-5-2019"></a><span data-ttu-id="78ede-1091">5 aprile 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1091">April 5, 2019</span></span>
-<span data-ttu-id="78ede-1092">Versione 1904 (build 11527.20014)</span><span class="sxs-lookup"><span data-stu-id="78ede-1092">Version 1904 (build 11527.20014)</span></span>
+<span data-ttu-id="bee9b-904">Non si usa Contrassegna ed Elimina?</span><span class="sxs-lookup"><span data-stu-id="bee9b-904">Don't use Flag and Delete?</span></span> <span data-ttu-id="bee9b-905">E invece Archivia o Segna come già letto?</span><span class="sxs-lookup"><span data-stu-id="bee9b-905">How about Archive or Mark as Read?</span></span> <span data-ttu-id="bee9b-906">Come personalizzare il menu Azioni rapide con i comandi utilizzati più spesso.</span><span class="sxs-lookup"><span data-stu-id="bee9b-906">Customize the quick action menu with the commands you use most.</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-1093">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-1093">What's New:</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-907">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-907">Getting Started:</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1094">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1094">Outlook</span></span>
+<span data-ttu-id="bee9b-908">Per selezionare le Azioni rapide, fare clic con il pulsante destro del mouse su un messaggio di posta elettronica nell'elenco per aprire il Menu di scelta rapida.</span><span class="sxs-lookup"><span data-stu-id="bee9b-908">To select your Quick Actions, right click on an email in the message list to bring up the Context Menu.</span></span> <span data-ttu-id="bee9b-909">Quindi fare clic su "Imposta azioni rapide"</span><span class="sxs-lookup"><span data-stu-id="bee9b-909">Then click "Set Quick Actions..."</span></span>
 
-#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a><span data-ttu-id="78ede-1095">Outlook per Windows: impostare e condividere le impostazioni di Posta in arrivo evidenziata</span><span class="sxs-lookup"><span data-stu-id="78ede-1095">Outlook for Windows:  set and share your Focused Inbox settings</span></span>
+##### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-910">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-910">Scenarios to Try:</span></span>
 
-<span data-ttu-id="78ede-1096">Le preferenze di Posta in arrivo evidenziata sono archiviate nel cloud, di conseguenza è possibile usufruire della stessa esperienza coerente indipendentemente dall'uso di Outlook per Windows o di Outlook sul web in qualsiasi computer.</span><span class="sxs-lookup"><span data-stu-id="78ede-1096">Your Focused Inbox preferences are stored in the cloud so you can enjoy the same consistent experience when using Outlook for Windows and Outlook on the web on any computer.</span></span>
+<span data-ttu-id="bee9b-911">Modificare le impostazione predefinite da Contrassegna ed Elimina ad Archivia, Sposta, Segna come già letto o nessuna per un elenco dei messaggi più ordinato.</span><span class="sxs-lookup"><span data-stu-id="bee9b-911">Change the defaults from flag and delete to either archive, move,  mark as read, or none for a cleaner message list</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1097">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1097">Getting Started:</span></span>
+#### <a name="relaxed-or-tighter-layout-you-choose"></a><span data-ttu-id="bee9b-912">Layout medio o più ridotto?</span><span class="sxs-lookup"><span data-stu-id="bee9b-912">Relaxed or tighter layout?</span></span> <span data-ttu-id="bee9b-913">A te la scelta</span><span class="sxs-lookup"><span data-stu-id="bee9b-913">You choose</span></span>
 
-<span data-ttu-id="78ede-1098">In File > Opzioni > scheda Generale è presente una nuova preferenza per 'Memorizza le mie impostazioni di Outlook nel cloud'.</span><span class="sxs-lookup"><span data-stu-id="78ede-1098">Under File > Options > General tab, there is a new preference for 'Store my Outlook settings in the cloud'.</span></span> <span data-ttu-id="78ede-1099">Gli utenti dovranno selezionare la casella per abilitare l'impostazione di Posta in arrivo evidenziata a effettuare il roaming ad altre installazioni di Outlook Desktop e a Outlook Web App.</span><span class="sxs-lookup"><span data-stu-id="78ede-1099">Users will need to check the box to enable their Focused Inbox setting to roam to other Desktop Outlook installations and OWA.</span></span>
+<span data-ttu-id="bee9b-914">Usa spaziatura inferiore consente di decidere se si vuole più spazio fra gli elementi o un layout più ridotto per visualizzare più elementi.</span><span class="sxs-lookup"><span data-stu-id="bee9b-914">Use Tighter Spacing lets you decide if you want more space between items, or a tighter layout to see more.</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1100">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1100">Scenarios to Try:</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-915">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-915">Getting Started:</span></span>
 
-<span data-ttu-id="78ede-1101">Cambiare Posta in arrivo evidenziata nel computer in cui è attivata la preferenza delle impostazioni cloud.</span><span class="sxs-lookup"><span data-stu-id="78ede-1101">Change Focused Inbox on the machine that has cloud settings preference turned on.</span></span> <span data-ttu-id="78ede-1102">Passare a Outlook Web App e verificare l'applicazione della preferenza.</span><span class="sxs-lookup"><span data-stu-id="78ede-1102">Navigate to OWA and see the preference applied there as well.</span></span> <span data-ttu-id="78ede-1103">Cambiare Posta in arrivo evidenziata in Outlook Web App e avviare la versione desktop di Outlook per verificare l'applicazione della preferenza.</span><span class="sxs-lookup"><span data-stu-id="78ede-1103">Change Focused Inbox in OWA and start Desktop Outlook to see the preference reflected.</span></span>
+<span data-ttu-id="bee9b-916">Scheda Visualizza, usare la casella di controllo con spaziatura ridotta: nel gruppo Messaggi per la barra multifunzione classica, impostazioni di Visualizzazione corrente per la barra multifunzione semplificata</span><span class="sxs-lookup"><span data-stu-id="bee9b-916">View tab, use tighter spacing checkbox - in Messages group for classic ribbon, Current View settings for simplified ribbon</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1104">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1104">Word</span></span>
+##### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-917">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-917">Scenarios to Try:</span></span>
 
-#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a><span data-ttu-id="78ede-1105">Nella modalità Strumenti di apprendimento è disponibile ulteriore supporto per altri colori della pagina</span><span class="sxs-lookup"><span data-stu-id="78ede-1105">Learning Tools mode has additional support for more page colors</span></span>
+<span data-ttu-id="bee9b-918">Usare Outlook per la valutazione della posta elettronica e per scrivere un messaggio, con e senza l’impostazione abilitata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-918">Use Outlook to triage and write email with and without the setting enabled.</span></span> <span data-ttu-id="bee9b-919">Con Usa spaziatura ridotta abilitata, sono presenti più messaggi in ogni pagina e i form di composizione sono semplificati.</span><span class="sxs-lookup"><span data-stu-id="bee9b-919">With Use tighter spacing on, more messages fit per page, and controls on the compose forms are more streamlined.</span></span>
 
-<span data-ttu-id="78ede-1106">In Strumenti di apprendimento in Word è stato aggiunto il supporto per altri colori del tema della pagina, per poter modificare il colore di sfondo della pagina.</span><span class="sxs-lookup"><span data-stu-id="78ede-1106">Learning Tools in Word adds support for more page theme colors, which allows the changing of the background color of the page.</span></span>  <span data-ttu-id="78ede-1107">Molti utenti hanno difficoltà a leggere con uno sfondo completamente bianco o completamente nero, quindi è stata ampliata la scelta dei colori disponibili in Word su PC e Mac.</span><span class="sxs-lookup"><span data-stu-id="78ede-1107">Many people have challenges reading with an all-white or all-black background, so we’ve expanded the choice of colors in Word on PC and Mac.</span></span>
+#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a><span data-ttu-id="bee9b-920">Eliminare le voci usate di recente e duplicate tramite il client di sincronizzazione di OneDrive.</span><span class="sxs-lookup"><span data-stu-id="bee9b-920">Dedupe MRU entries when using the Onedrive sync client</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1108">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1108">Getting Started:</span></span>
+<span data-ttu-id="bee9b-921">Abilitare una migliore integrazione del client di sincronizzazione di OneDrive con gli allegati cloud tramite l’eliminazione delle voci usate di recente e duplicate. Abilitare il comportamento allega come copia più veloce per i dati sincronizzati.</span><span class="sxs-lookup"><span data-stu-id="bee9b-921">Enable better integration with onedrive sync client with cloud attachments by deduping the mru entries and to enable faster attach as copy behavior for synchronized data</span></span>
 
-<span data-ttu-id="78ede-1109">Per provare, passare alla scheda Visualizza, scegliere Strumenti di apprendimento e quindi Colore pagina.</span><span class="sxs-lookup"><span data-stu-id="78ede-1109">To try this out, go to the View tab and choose Learning Tools, and then Page Color.</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-922">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-922">Getting Started:</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1110">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1110">Scenarios to Try:</span></span>
+<span data-ttu-id="bee9b-923">Se si usa il client di sincronizzazione di OneDrive, non verranno più visualizzati file duplicati negli Allega file usati di recente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-923">If you use the OneDrive sync client, you will no longer see file duplicates in the Attach File MRU.</span></span>
 
-<span data-ttu-id="78ede-1111">Per provare, passare alla scheda Visualizza, scegliere Strumenti di apprendimento e quindi Colore pagina.</span><span class="sxs-lookup"><span data-stu-id="78ede-1111">To try this out, go to the View tab and choose Learning Tools, and then Page Color.</span></span>
+##### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-924">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-924">Scenarios to Try:</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1112">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1112">Excel</span></span>
+<span data-ttu-id="bee9b-925">Abilitare il client di sincronizzazione di OneDrive e usare il menu Allega file nella versione desktop di Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-925">Enable the OneDrive sync client and use the Attach File menu in Outlook Desktop</span></span>
 
-#### <a name="elevate-creativity-with-animated-3d-models"></a><span data-ttu-id="78ede-1113">Aumentare la creatività con modelli 3D animati</span><span class="sxs-lookup"><span data-stu-id="78ede-1113">Elevate Creativity with Animated 3D Models</span></span>
+#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a><span data-ttu-id="bee9b-926">È stata migliorata la sincronizzazione delle cartelle condivise per le cassette postali con più cartelle</span><span class="sxs-lookup"><span data-stu-id="bee9b-926">Improved shared folder synchronization for mailboxes with many folders</span></span>
 
-<span data-ttu-id="78ede-1114">Office ora supporta i modelli animati, che verranno riprodotti nell'editor e consentiranno di animare i fogli.</span><span class="sxs-lookup"><span data-stu-id="78ede-1114">Office now supports animated models, which will playback in the editor so you can bring your sheets to life!</span></span>
+<span data-ttu-id="bee9b-927">Per anni Outlook ha limitato a un massimo di 500 il numero delle cartelle durante la sincronizzazione delle cassette postali condivise.</span><span class="sxs-lookup"><span data-stu-id="bee9b-927">For years Outlook has been limited to a maximum of 500 folders when synchronizing shared mailboxes.</span></span> <span data-ttu-id="bee9b-928">Con questa modifica Outlook ha migliorato la sincronizzazione in modo che non sia più presente il limite di 500 nelle cartelle condivise.</span><span class="sxs-lookup"><span data-stu-id="bee9b-928">With this change Outlook has been improved to sync in a way that will no longer encounter this 500 folder limit.</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1115">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1115">Getting Started:</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-929">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-929">Getting Started:</span></span>
 
-1. <span data-ttu-id="78ede-1116">Aprire Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1116">Open Excel</span></span>
-2. <span data-ttu-id="78ede-1117">Inserire un modello 3D animato. A breve tali modelli saranno inseriti in Remix, ma per il momento sono disponibili nel percorso seguente: \\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art</span><span class="sxs-lookup"><span data-stu-id="78ede-1117">Insert an animated 3D Model (coming to Remix soon, but for now, access animated models here: \\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art)</span></span>
-3. <span data-ttu-id="78ede-1118">Il modello animato verrà riprodotto nell'editor,</span><span class="sxs-lookup"><span data-stu-id="78ede-1118">The animated model will play in the editor!</span></span> <span data-ttu-id="78ede-1119">nonché nella modalità Presentazione.</span><span class="sxs-lookup"><span data-stu-id="78ede-1119">Check Slideshow mode - it will play there too!</span></span>
-4. <span data-ttu-id="78ede-1120">Nella barra multifunzione del formato 3D esplorare altre scene di animazione disponibili nel modello</span><span class="sxs-lookup"><span data-stu-id="78ede-1120">In the 3D Format Ribbon, explore more animation scenes in the model</span></span>
+<span data-ttu-id="bee9b-930">Creare 1000 cartelle in una cassetta postale, concedere ad altri utenti l'accesso alla cassetta postale, creare un profilo di Outlook per un altro utente e verificare che la sincronizzazione funzioni.</span><span class="sxs-lookup"><span data-stu-id="bee9b-930">Create 1000 folders in a mailbox, give someone else access to the mailbox, create an Outlook profile for the "someone else" and verify that sync works.</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1121">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1121">Scenarios to Try:</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-931">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-931">Word</span></span>
 
-1. <span data-ttu-id="78ede-1122">Inserire un modello animato, che verrà riprodotto nell'editor.</span><span class="sxs-lookup"><span data-stu-id="78ede-1122">Insert an animated model and watch it play in the editor</span></span>
-2. <span data-ttu-id="78ede-1123">Esplorare le scene di animazione disponibili nel modello animato tramite la raccolta Scene, disponibile nella barra multifunzione del formato 3D</span><span class="sxs-lookup"><span data-stu-id="78ede-1123">Explore the animation scenes available in the animated model via the Scenes Gallery, available in the 3D Format Ribbon</span></span>
-3. <span data-ttu-id="78ede-1124">È possibile riprodurre e mettere in pausa l'animazione con la barra multifunzione, la barra degli strumenti mobile o la barra spaziatrice</span><span class="sxs-lookup"><span data-stu-id="78ede-1124">Easily play/pause the animation via the ribbon, floatie or space bar</span></span>
+#### <a name="erase-just-a-little-bit"></a><span data-ttu-id="bee9b-932">Effettuare delle piccole cancellazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-932">Erase just a little bit</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1125">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1125">Notable Fixes:</span></span>
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-933">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-933">Getting Started:</span></span>
 
-### <a name="all-applications"></a><span data-ttu-id="78ede-1126">Tutte le applicazioni</span><span class="sxs-lookup"><span data-stu-id="78ede-1126">All Applications</span></span>
-- <span data-ttu-id="78ede-1127">È stato risolto un problema per cui nei menu di scelta rapida poteva comparire l'icona dell'app errata per Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1127">We fixed an issue where the incorrect app icon could appear for Excel in contextual menus</span></span>
-- <span data-ttu-id="78ede-1128">È stato risolto un problema per cui il pulsante del menu File spariva dopo l'installazione di un aggiornamento</span><span class="sxs-lookup"><span data-stu-id="78ede-1128">We fixed an issue where the File Menu button could disappear after installing an update</span></span>
-- <span data-ttu-id="78ede-1129">È stato risolto un problema per cui la licenza dell'utente veniva modificata</span><span class="sxs-lookup"><span data-stu-id="78ede-1129">We fixed an issue which could change your user license</span></span>
+<span data-ttu-id="bee9b-934">Passare alla scheda Disegno. Selezionare il menu a discesa Gomma.</span><span class="sxs-lookup"><span data-stu-id="bee9b-934">Go to the Draw Tab. Select the Eraser dropdown.</span></span> <span data-ttu-id="bee9b-935">Scegliere Gomma piccola o Gomma media.</span><span class="sxs-lookup"><span data-stu-id="bee9b-935">Choose Small Eraser or Medium Eraser.</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1130">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1130">Word</span></span> 
-- <span data-ttu-id="78ede-1131">È stato risolto un problema per cui il rendering del testo non veniva eseguito correttamente a determinati livelli di zoom</span><span class="sxs-lookup"><span data-stu-id="78ede-1131">We fixed an issue where text would not render correctly at certain zoom levels</span></span>
+##### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-936">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-936">Scenarios to Try:</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1132">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1132">Excel</span></span>
-- <span data-ttu-id="78ede-1133">È stato risolto un problema per cui agli utenti da non veniva chiesto di salvare una cartella di lavoro dopo aver apportato modifiche</span><span class="sxs-lookup"><span data-stu-id="78ede-1133">We fixed an issue where users would not be prompted to save a workbook after making edits</span></span>
-- <span data-ttu-id="78ede-1134">È stato risolto un problema per cui non veniva attivato un evento BeforeSave se l'utente aveva condiviso la cartella di lavoro.</span><span class="sxs-lookup"><span data-stu-id="78ede-1134">We fixed an issue where a BeforeSave event would not be triggered if the user shared the workbook.</span></span>
-- <span data-ttu-id="78ede-1135">È stato risolto un problema per cui il ridimensionamento di una colonna a meno di 6 pixel generava un messaggio di errore non corretto.</span><span class="sxs-lookup"><span data-stu-id="78ede-1135">We fixed an issue where resizing a column to fewer than 6 pixels could throw an incorrect error message.</span></span>
-- <span data-ttu-id="78ede-1136">È stato risolto un problema per cui Excel ignorava il flag Application.Visible</span><span class="sxs-lookup"><span data-stu-id="78ede-1136">We fixed an issue where Excel would ignore the Application.Visible flag</span></span>
-- <span data-ttu-id="78ede-1137">È stato risolto un problema per cui le frecce di relazione restavano attive in riquadri bloccati non attivi</span><span class="sxs-lookup"><span data-stu-id="78ede-1137">We fixed an issue where trace arrows would remain on non-active frozen panes</span></span>
-- <span data-ttu-id="78ede-1138">È stato risolto un problema per cui la formattazione delle celle di data e valuta poteva cambiare all'apertura di una cartella di lavoro</span><span class="sxs-lookup"><span data-stu-id="78ede-1138">We fixed an issue where cell formatting of dates an currency could change when opening a workbook</span></span>
-- <span data-ttu-id="78ede-1139">È stato risolto un problema per cui le descrizioni comandi si spostavano in modo imprevisto</span><span class="sxs-lookup"><span data-stu-id="78ede-1139">We fixed an issue where tooltips would move unexpectedly</span></span>
-- <span data-ttu-id="78ede-1140">Sono stati risolti i problemi di localizzazione dell'editor di Power Query</span><span class="sxs-lookup"><span data-stu-id="78ede-1140">We fixed localization issues for the Power Query editor</span></span>
-- <span data-ttu-id="78ede-1141">È stato risolto un problema per una cartella di lavoro inviata come allegato di posta elettronica veniva rimossa</span><span class="sxs-lookup"><span data-stu-id="78ede-1141">We fixed an issue where a workbook would be removed as an attachment when sending via e-mail</span></span>
+<span data-ttu-id="bee9b-937">Passare alla scheda Disegno. Selezionare la penna.</span><span class="sxs-lookup"><span data-stu-id="bee9b-937">Go to the Draw Tab. Select a pen.</span></span> <span data-ttu-id="bee9b-938">Disegnare un tratto input penna.</span><span class="sxs-lookup"><span data-stu-id="bee9b-938">Draw an ink stroke.</span></span> <span data-ttu-id="bee9b-939">Selezionare il menu a discesa Gomma.</span><span class="sxs-lookup"><span data-stu-id="bee9b-939">Select the Eraser dropdown.</span></span> <span data-ttu-id="bee9b-940">Scegliere Gomma piccola o Gomma media.</span><span class="sxs-lookup"><span data-stu-id="bee9b-940">Choose Small Eraser or Medium Eraser.</span></span> <span data-ttu-id="bee9b-941">Eliminare alcuni punti del tratto input penna.</span><span class="sxs-lookup"><span data-stu-id="bee9b-941">Erase just bits of the ink stroke.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1142">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1142">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1143">È stato risolto un problema per cui la copia di forme richiedeva più tempo del previsto</span><span class="sxs-lookup"><span data-stu-id="78ede-1143">We fixed an issue where copying shapes would take longer than expected</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-942">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-942">Notable Fixes:</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1144">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1144">Outlook</span></span>
-- <span data-ttu-id="78ede-1145">È stato risolto un problema per cui Outlook poteva arrestarsi in modo anomalo usando lo strumento di disegno</span><span class="sxs-lookup"><span data-stu-id="78ede-1145">We fixed an issue where Outlook could crash while using the drawing tool</span></span>
-- <span data-ttu-id="78ede-1146">È stato risolto un problema di localizzazione durante la composizione di messaggi di posta elettronica in formato HTML</span><span class="sxs-lookup"><span data-stu-id="78ede-1146">We fixed a localization issue when composing html e-mails</span></span>
-- <span data-ttu-id="78ede-1147">È stato risolto un problema per cui l'utente aveva difficoltà a selezionare il riquadro inferiore</span><span class="sxs-lookup"><span data-stu-id="78ede-1147">We fixed an issue where the user would have difficulty in selecting the lower pane</span></span>
+### <a name="all"></a><span data-ttu-id="bee9b-943">Tutto</span><span class="sxs-lookup"><span data-stu-id="bee9b-943">All</span></span> 
+- <span data-ttu-id="bee9b-944">È stato risolto un problema che impediva ad alcuni utenti di salvare in formato PDF</span><span class="sxs-lookup"><span data-stu-id="bee9b-944">We fixed an issue which could prevent some users from saving as PDF</span></span>
+- <span data-ttu-id="bee9b-945">È stato risolto un problema che poteva influire sul salvataggio di file di grandi dimensioni in un sistema a 32 bit</span><span class="sxs-lookup"><span data-stu-id="bee9b-945">We fixed an issue which could impact users saving large files on a 32-bit system</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1148">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1148">Access</span></span>
-- <span data-ttu-id="78ede-1149">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1149">Various performance and stability fixes</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-946">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-946">Word</span></span> 
+- <span data-ttu-id="bee9b-947">Sono state migliorate significativamente le funzionalità di dettatura</span><span class="sxs-lookup"><span data-stu-id="bee9b-947">We significantly improved the responsiveness of the dictation feature</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1150">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1150">Project</span></span>
-- <span data-ttu-id="78ede-1151">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1151">Various performance and stability fixes</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-948">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-948">Excel</span></span>
+- <span data-ttu-id="bee9b-949">È stato risolto un problema per cui gli eventi di doppio clic potevano non riuscire sui dispositivi con touchscreen</span><span class="sxs-lookup"><span data-stu-id="bee9b-949">We fixed an issue where double-click events could fail on touch screen devices</span></span>
+- <span data-ttu-id="bee9b-950">È stato risolto un problema che impediva ad alcuni utenti di modificare le macro VBA</span><span class="sxs-lookup"><span data-stu-id="bee9b-950">We fixed an issue which could prevent some users from being able to edit VBA macros</span></span>
+- <span data-ttu-id="bee9b-951">È stato risolto un problema che poteva influire sulle prestazioni quando si usavano i filtri dei dati</span><span class="sxs-lookup"><span data-stu-id="bee9b-951">We fixed an issue which could impact performance when using slicers</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-952">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-952">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-953">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-953">Various performance and stability fixes</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-954">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-954">Outlook</span></span>
+- <span data-ttu-id="bee9b-955">È stato risolto un problema per cui veniva visualizzato un modello diverso da quello selezionato.</span><span class="sxs-lookup"><span data-stu-id="bee9b-955">We fixed an issue where the wrong template could be displayed from what was selected</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-956">Accesso</span><span class="sxs-lookup"><span data-stu-id="bee9b-956">Access</span></span>
+- <span data-ttu-id="bee9b-957">È stato risolto un problema per cui l'uso del generatore di zoom per la visualizzazione di testo RTF poteva rendere difficile la lettura.</span><span class="sxs-lookup"><span data-stu-id="bee9b-957">We fixed an issue where using the zoom builder to display long rich text, could be hard to read</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-958">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-958">Project</span></span>
+- <span data-ttu-id="bee9b-959">Diverse correzioni su prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-959">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
-## <a name="march-22-2019"></a><span data-ttu-id="78ede-1152">22 marzo 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1152">March 22, 2019</span></span>
-<span data-ttu-id="78ede-1153">Versione 1904 (build 11514.20004)</span><span class="sxs-lookup"><span data-stu-id="78ede-1153">Version 1904 (build 11514.20004)</span></span>
+## <a name="may-10-2019"></a><span data-ttu-id="bee9b-960">10 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-960">May 10, 2019</span></span>
+<span data-ttu-id="bee9b-961">Versione 1906 (Build 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="bee9b-961">Version 1906 (build 11702.20000)</span></span>
 
-## <a name="new-features"></a><span data-ttu-id="78ede-1154">Nuove funzionalità</span><span class="sxs-lookup"><span data-stu-id="78ede-1154">New Features</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-962">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-962">What's New:</span></span>
 
-- <span data-ttu-id="78ede-1155">**Controlli della privacy:** Controlli nuovi, aggiornati e migliorati per dati di diagnostica ed esperienze connesse.</span><span class="sxs-lookup"><span data-stu-id="78ede-1155">**Privacy controls:** New, updated, and improved controls for diagnostic data and connected experiences.</span></span> <span data-ttu-id="78ede-1156">Altre informazioni <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json></span><span class="sxs-lookup"><span data-stu-id="78ede-1156">Learn more <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json></span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-963">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-963">Outlook</span></span>
 
-- <span data-ttu-id="78ede-1157">**Le icone di Office hanno un nuovo aspetto:** le icone di Office sono state riprogettate per riflettere l'esperienza semplice potente e intelligente di Office.</span><span class="sxs-lookup"><span data-stu-id="78ede-1157">**Office icons have a new look:** The Office icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.</span></span>
+<span data-ttu-id="bee9b-964">**Possibilità di visualizzare più messaggi sullo schermo:** Selezionare Visualizza > Usa spazio più stretto per regolare la spaziatura tra i messaggi.</span><span class="sxs-lookup"><span data-stu-id="bee9b-964">**Fit more messages on the screen:** Select View > Use Tighter Spacing to adjust spacing between messages.</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1158">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1158">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-965">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-965">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1159">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1159">Word</span></span> 
-- <span data-ttu-id="78ede-1160">È stato risolto un problema per cui l'interfaccia utente mostrava costantemente "Ricerca modifiche in corso"</span><span class="sxs-lookup"><span data-stu-id="78ede-1160">We fixed an issue where the UI would constantly display "Checking for Changes"</span></span>
+### <a name="all"></a><span data-ttu-id="bee9b-966">Tutto</span><span class="sxs-lookup"><span data-stu-id="bee9b-966">All</span></span>
+- <span data-ttu-id="bee9b-967">È stato risolto un problema in cui la finestra di dialogo Salva con nome poteva mostrare un percorso non corretto</span><span class="sxs-lookup"><span data-stu-id="bee9b-967">We fixed an issue where the Save As dialog could display the incorrect path</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1161">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1161">Excel</span></span>
-- <span data-ttu-id="78ede-1162">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo dopo lo spostamento di un foglio di lavoro</span><span class="sxs-lookup"><span data-stu-id="78ede-1162">We fixed an issue where the application could crash after moving a worksheet</span></span>
-- <span data-ttu-id="78ede-1163">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo dopo il salvataggio come PDF</span><span class="sxs-lookup"><span data-stu-id="78ede-1163">We fixed an issue where the application could crash after saving as a PDF</span></span>
-- <span data-ttu-id="78ede-1164">È stato risolto un problema per cui la finestra di dialogo per il salvataggio non accettava alcuni caratteri coreani</span><span class="sxs-lookup"><span data-stu-id="78ede-1164">We fixed an issue where the save dialog would not accept some Korean characters</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-968">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-968">Word</span></span> 
+- <span data-ttu-id="bee9b-969">È stato risolto un problema in cui alcune selezioni di Aiutami non venivano inserite</span><span class="sxs-lookup"><span data-stu-id="bee9b-969">We fixed an issue where some selections from Tell Me would not get inserted</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1165">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1165">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1166">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1166">Various performance and stability fixes</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-970">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-970">Excel</span></span>
+- <span data-ttu-id="bee9b-971">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-971">Various performance and stability fixes</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1167">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1167">Outlook</span></span>
-- <span data-ttu-id="78ede-1168">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1168">Various performance and stability fixes</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-972">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-972">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-973">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-973">Various performance and stability fixes</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1169">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1169">Access</span></span>
-- <span data-ttu-id="78ede-1170">È stato risolto un messaggio di errore di Access per cui veniva creato un collegamento aggiuntivo ad Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1170">We fixed the error message in Access where an extra shortcut to Access was created</span></span>
-- <span data-ttu-id="78ede-1171">È stato risolto un problema per cui i dati di un elemento di SharePoint collegato non venivano visualizzati correttamente.</span><span class="sxs-lookup"><span data-stu-id="78ede-1171">We fixed an issue where data from a linked SharePoint would display incorrectly</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-974">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-974">Outlook</span></span>
+- <span data-ttu-id="bee9b-975">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-975">Various performance and stability fixes</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1172">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1172">Project</span></span>
-- <span data-ttu-id="78ede-1173">È stato risolto un problema per cui le impostazioni della lingua passavano dal cinese all'inglese</span><span class="sxs-lookup"><span data-stu-id="78ede-1173">We fixed an issue where the language settings would switch from Chinese to English</span></span>
-- <span data-ttu-id="78ede-1174">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo durante la sincronizzazione con SharePoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1174">We fixed an issue where the application could crash when synching to SharePoint</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-976">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-976">Access</span></span>
+- <span data-ttu-id="bee9b-977">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-977">Various performance and stability fixes</span></span>
 
-</BR></BR>
-
-## <a name="march-15-2019"></a><span data-ttu-id="78ede-1175">15 marzo 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1175">March 15, 2019</span></span>
-<span data-ttu-id="78ede-1176">Versione 1904 (build 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="78ede-1176">Version 1904 (build 11504.20000)</span></span>
-
-## <a name="whats-new"></a><span data-ttu-id="78ede-1177">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-1177">What's New:</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-1178">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1178">Word</span></span>
-
-#### <a name="focus-mode"></a><span data-ttu-id="78ede-1179">Modalità focus</span><span class="sxs-lookup"><span data-stu-id="78ede-1179">Focus Mode</span></span>
-
-<span data-ttu-id="78ede-1180">Passare alla modalità focus nel menu Visualizza per rimuovere elementi di distrazione e concentrarsi sul lavoro.</span><span class="sxs-lookup"><span data-stu-id="78ede-1180">Switch to Focus on the View menu to remove distractions and concentrate on your work.</span></span> <span data-ttu-id="78ede-1181">Solo per gli abbonati a Office 365.</span><span class="sxs-lookup"><span data-stu-id="78ede-1181">For Office 365 subscribers only.</span></span>
-
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1182">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1182">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-1183">Pulsante "Focus" nella scheda Visualizza oppure pulsante "Focus" sulla barra di stato della barra multifunzione</span><span class="sxs-lookup"><span data-stu-id="78ede-1183">View tab "Focus" Button in the Ribbon Status Bar "Focus" Button</span></span>
-
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1184">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1184">Scenarios to Try:</span></span>
-
-<span data-ttu-id="78ede-1185">Accedere alla modalità focus e sperimentare la nuova esperienza con focus</span><span class="sxs-lookup"><span data-stu-id="78ede-1185">Enter Focus Mode and experience the Focused Experience</span></span>
-
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1186">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1186">Notable Fixes:</span></span>
-
-### <a name="word"></a><span data-ttu-id="78ede-1187">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1187">Word</span></span> 
-- <span data-ttu-id="78ede-1188">È stato risolto un problema in Word per cui le immagini di un documento salvato in formato PDF avevano valori DPI non corretti</span><span class="sxs-lookup"><span data-stu-id="78ede-1188">We fixed an issue where images in a document saved as a PDF would have the incorrect DPI</span></span>
-
-### <a name="excel"></a><span data-ttu-id="78ede-1189">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1189">Excel</span></span>
-- <span data-ttu-id="78ede-1190">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1190">Various performance and stability fixes</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1191">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1191">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1192">È stato risolto un problema in PowerPoint per cui il riquadro commenti non si apriva e chiudeva correttamente</span><span class="sxs-lookup"><span data-stu-id="78ede-1192">We fixed an issue where the comments pane would not open or close properly</span></span>
-- <span data-ttu-id="78ede-1193">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo eliminando un video</span><span class="sxs-lookup"><span data-stu-id="78ede-1193">We fixed an issue where the application could crash when deleting a video</span></span>
-- <span data-ttu-id="78ede-1194">È stato risolto un problema per cui in alcuni casi non si riusciva ad avviare l'applicazione</span><span class="sxs-lookup"><span data-stu-id="78ede-1194">We fixed an issue where in some instances the application would fail to launch</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="78ede-1195">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1195">Outlook</span></span>
-- <span data-ttu-id="78ede-1196">È stato risolto un problema per cui le conferme di lettura in giapponese non risultavano corrette</span><span class="sxs-lookup"><span data-stu-id="78ede-1196">We fixed an issue where read receipts were incorrect when viewed in Japanese</span></span>
-
-### <a name="access"></a><span data-ttu-id="78ede-1197">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1197">Access</span></span>
-- <span data-ttu-id="78ede-1198">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1198">Various performance and stability fixes</span></span>
-
-### <a name="project"></a><span data-ttu-id="78ede-1199">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1199">Project</span></span>
-- <span data-ttu-id="78ede-1200">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1200">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-978">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-978">Project</span></span>
+- <span data-ttu-id="bee9b-979">È stato risolto un problema in cui le ID attività dovevano essere evidenziate per essere visualizzate</span><span class="sxs-lookup"><span data-stu-id="bee9b-979">We fixed an issue where Task ID's could require highlighting to see</span></span>
 
 </BR></BR>
 
-## <a name="march-8-2019"></a><span data-ttu-id="78ede-1201">8 marzo 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1201">March 8, 2019</span></span> 
-<span data-ttu-id="78ede-1202">Versione 1903 (build 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="78ede-1202">Version 1903 (build 11425.20036)</span></span>
+## <a name="may-3-2019"></a><span data-ttu-id="bee9b-980">3 maggio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-980">May 3, 2019</span></span>
+<span data-ttu-id="bee9b-981">Versione 1906 (Build 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="bee9b-981">Version 1906 (build 11629.20008)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-1203">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-1203">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-982">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-982">What's New:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1204">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1204">Word</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-983">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-983">Outlook</span></span>
 
-### <a name="find-what-youre-looking-for-with-microsoft-search"></a><span data-ttu-id="78ede-1205">Trovare tutto ciò che serve con Microsoft Search</span><span class="sxs-lookup"><span data-stu-id="78ede-1205">Find What You're Looking For with Microsoft Search</span></span>
+<span data-ttu-id="bee9b-984">**Tutte le opzioni di crittografia in un'unica posizione:** basta passare a Opzioni > Crittografa per scegliere come proteggere il messaggio di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="bee9b-984">**All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message.</span></span>
 
-<span data-ttu-id="78ede-1206">Con Microsoft Search è possibile trovare i file, le azioni, le persone e l'assistenza necessari per completare il lavoro.</span><span class="sxs-lookup"><span data-stu-id="78ede-1206">With Microsoft Search, you can find all the files, actions, people, and help you need to get work done.</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-985">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-985">Notable Fixes:</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1207">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1207">Getting Started:</span></span>
+### <a name="all"></a><span data-ttu-id="bee9b-986">Tutto</span><span class="sxs-lookup"><span data-stu-id="bee9b-986">All</span></span>
+- <span data-ttu-id="bee9b-987">È stato risolto un problema in cui alcuni utenti riscontravano problemi di sincronizzazione con OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="bee9b-987">We fixed an issue where some users would experience problems syncing with OneDrive for Business</span></span>
 
-- <span data-ttu-id="78ede-1208">La funzionalità viene visualizzata in posizione prominente sopra l'interfaccia utente nell'intestazione.</span><span class="sxs-lookup"><span data-stu-id="78ede-1208">The feature is prominently displayed on top of the UI in the header.</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-988">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-988">Word</span></span> 
+- <span data-ttu-id="bee9b-989">È stato risolto un problema per cui, in alcuni casi, l'apertura di Word poteva richiedere molto tempo.</span><span class="sxs-lookup"><span data-stu-id="bee9b-989">We fixed an issue where in some cases Word would take a long time to start</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1209">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1209">Scenarios to Try:</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-990">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-990">Excel</span></span>
+- <span data-ttu-id="bee9b-991">È stato risolto un problema in cui i collegamenti esterni a volte venivano rimossi dalle cartelle di lavoro dopo l'aggiornamento a una versione più recente di Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-991">We fixed an issue where external links were sometimes removed from workbooks after upgrading to a newer version of Excel</span></span>
+- <span data-ttu-id="bee9b-992">È stato risolto un problema in cui alcuni utenti riscontravano problemi durante la selezione di celle in una cartella di lavoro</span><span class="sxs-lookup"><span data-stu-id="bee9b-992">We fixed an issue where some users could experience difficulty selecting cells in a new workbook</span></span>
 
-- <span data-ttu-id="78ede-1210">Cercare un'università, un documento recente o i comandi della barra multifunzione usati più di frequente</span><span class="sxs-lookup"><span data-stu-id="78ede-1210">Search for a college, a recent document or search for the ribbon commands you use most often</span></span>
-- <span data-ttu-id="78ede-1211">Cercare un argomento o un oggetto e ottenere altre informazioni sull'elemento cercato</span><span class="sxs-lookup"><span data-stu-id="78ede-1211">Look up a topic or subject to get more information on it</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-993">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-993">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-994">È stato risolto un problema in cui le dimensioni del carattere non rimanevano tali quando si convertivano i disegni in testo</span><span class="sxs-lookup"><span data-stu-id="bee9b-994">We fixed an issue where font sizes were not consistant when converting drawings to text</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-995">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-995">Outlook</span></span>
+- <span data-ttu-id="bee9b-996">È stato risolto un problema in cui salvare un contatto di un File VCF poteva generare campi vuoti come risultato</span><span class="sxs-lookup"><span data-stu-id="bee9b-996">We fixed an issue where saving a contact from a .VCF file could result in empty fields</span></span>
+- <span data-ttu-id="bee9b-997">È stato risolto un problema in cui un messaggio poteva bloccarsi nella cartella Posta in uscita, anche se era stato inviato</span><span class="sxs-lookup"><span data-stu-id="bee9b-997">We fixed an issue where a message could get stuck in the outbox folder even though it had been sent</span></span>
+- <span data-ttu-id="bee9b-998">È stato risolto un problema in cui Outlook poteva arrestarsi in modo anomalo durante l’uso dello strumento di disegno</span><span class="sxs-lookup"><span data-stu-id="bee9b-998">We fixed an issue where Outlook could crash when viewing a DRM message</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-999">Accesso</span><span class="sxs-lookup"><span data-stu-id="bee9b-999">Access</span></span>
+- <span data-ttu-id="bee9b-1000">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1000">Various performance and stability fixes</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-1001">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1001">Project</span></span>
+- <span data-ttu-id="bee9b-1002">È stato risolto un problema per cui l’editor passava dal cinese all'inglese</span><span class="sxs-lookup"><span data-stu-id="bee9b-1002">We fixed an issue where the editor would switch from Chinese to English</span></span>
+- <span data-ttu-id="bee9b-1003">È stato risolto un problema in cui le attività non pubblicate potevano comparire nella copia pubblicata di un progetto principale</span><span class="sxs-lookup"><span data-stu-id="bee9b-1003">We fixed an issue where unpublished tasks could appear in the published copy of a master project</span></span>
+
+</BR></BR>
+
+## <a name="april-26-2019"></a><span data-ttu-id="bee9b-1004">26 aprile 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1004">April 26, 2019</span></span>
+<span data-ttu-id="bee9b-1005">Versione 1905 (build 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1005">Version 1905 (build 11617.20002)</span></span>
+
+## <a name="new-features"></a><span data-ttu-id="bee9b-1006">Nuove funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1006">New Features</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-1007">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1007">Outlook</span></span>
+
+<span data-ttu-id="bee9b-1008">**Gli aggiornamenti dei calendari condivisi sono più veloci:** Outlook può aggiornare i calendari condivisi in Office 365 usando l'API REST.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1008">**Shared calendar updates just got faster:** For shared calendars in Office 365, Outlook can update these calendars using the REST API.</span></span> <span data-ttu-id="bee9b-1009">Attivare l'anteprima per aggiornamenti più rapidi e affidabili ai calendari condivisi.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1009">Turn on the preview for faster and more reliable updates to shared calendars.</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-1010">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1010">Excel</span></span>
+
+#### <a name="coauthoring-improvements"></a><span data-ttu-id="bee9b-1011">Miglioramenti alla creazione condivisa</span><span class="sxs-lookup"><span data-stu-id="bee9b-1011">Coauthoring improvements</span></span>
+
+<span data-ttu-id="bee9b-1012">L'esperienza di creazione condivisa è stata migliorata, aumentando la probabilità che gli altri utenti ricevano le modifiche apportate al contenuto in tempo reale.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1012">Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.</span></span>
+
+### <a name="visio"></a><span data-ttu-id="bee9b-1013">Visio</span><span class="sxs-lookup"><span data-stu-id="bee9b-1013">Visio</span></span>
+
+- <span data-ttu-id="bee9b-1014">**Esportare elementi visivi di Visio da Power BI:** gli oggetti visivi di Visio per Power BI vengono ora visualizzati correttamente quando si esportano i report di Power BI come PDF, file di PowerPoint e altro ancora.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1014">**Export Visio visuals from Power BI:** Visio Visual for Power BI will now display properly when you export Power BI reports as PDFs, PowerPoint files, and more.</span></span>
+
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1015">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1015">Notable Fixes:</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-1016">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1016">Word</span></span> 
+- <span data-ttu-id="bee9b-1017">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1017">Various performance and stability fixes</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-1018">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1018">Excel</span></span>
+- <span data-ttu-id="bee9b-1019">È stato risolto un problema in cui i macro del Risolutore presentavano problemi di esecuzione</span><span class="sxs-lookup"><span data-stu-id="bee9b-1019">We fixed an issue where Solver macros would fail to run</span></span>
+- <span data-ttu-id="bee9b-1020">È stato risolto un problema che potrebbe impedire l'importazione di file di Excel in SharePoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1020">We fixed an issue which could prevent Excel files from being imported into SharePoint</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1021">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1021">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1022">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1022">Various performance and stability fixes</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-1023">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1023">Outlook</span></span>
+- <span data-ttu-id="bee9b-1024">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1024">Various performance and stability fixes</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-1025">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1025">Access</span></span>
+- <span data-ttu-id="bee9b-1026">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1026">Various performance and stability fixes</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-1027">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1027">Project</span></span>
+- <span data-ttu-id="bee9b-1028">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1028">Various performance and stability fixes</span></span>
+
+</BR></BR>
+
+## <a name="april-19-2019"></a><span data-ttu-id="bee9b-1029">19 aprile 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1029">April 19, 2019</span></span>
+<span data-ttu-id="bee9b-1030">Versione 1905 (build 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1030">Version 1905 (build 11609.20002)</span></span>
+
+## <a name="whats-new"></a><span data-ttu-id="bee9b-1031">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1031">What's New:</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-1032">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1032">Outlook</span></span>
+
+<span data-ttu-id="bee9b-1033">**Suggerimenti di posta elettronica per cercare una persona:** quando si digita il nome di una persona nella casella di ricerca, i messaggi di posta elettronica più importanti saranno inclusi nei suggerimenti di ricerca.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1033">**Get email suggestions when you search for a person:** When you type a person’s name in the Search box, the most relevant email messages will be included with your search suggestions.</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-1034">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1034">Excel</span></span>
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a><span data-ttu-id="bee9b-1035">Esperienza migliorata delle mappe colorate con tipi di dati</span><span class="sxs-lookup"><span data-stu-id="bee9b-1035">Improved Filled Maps experience using Data Types</span></span>
+
+<span data-ttu-id="bee9b-1036">Questa funzionalità è un miglioramento destinato agli utenti che tracciano grafici Mappa colorata usando i tipi di dati geografici di Excel.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1036">This feature is an improvement for users who plot Filled Map Charts using Excel's Geographic Data Types.</span></span> <span data-ttu-id="bee9b-1037">Il vantaggio per gli utenti finali sarà una migliore integrazione tra le funzionalità e una maggiore accuratezza dell'area da includere nella mappa.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1037">The benefit to the end users will be richer integration between the features and better accuracy of the region the end user wants to map.</span></span> <span data-ttu-id="bee9b-1038">Altri vantaggi includono la possibilità di creare mappe con poligoni di città.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1038">Additional benefits include - ability to map city polygons.</span></span>
+
+##### <a name="getting-started"></a><span data-ttu-id="bee9b-1039">Introduzione:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1039">Getting Started:</span></span>
+
+- <span data-ttu-id="bee9b-1040">Questa funzionalità è un aggiornamento delle funzionalità esistenti in Excel.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1040">This feature is an improvement to the existing features within Excel.</span></span> <span data-ttu-id="bee9b-1041">Per usare il miglioramento, convertire le posizioni in entità complesse e tracciare il grafico Mappa colorata.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1041">To use the improvement - convert locations into Rich Entities and plot with Filled Maps.</span></span> 
+
+##### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1042">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1042">Scenarios to Try:</span></span>
+
+- <span data-ttu-id="bee9b-1043">Gli utenti possono provare a creare mappe di città, stati, province e codici postali.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1043">Users can try mapping cities, states, counties, countries and zip codes.</span></span> 
+
+
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1044">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1044">Notable Fixes:</span></span>
+
+### <a name="all-applications"></a><span data-ttu-id="bee9b-1045">Tutte le applicazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-1045">All Applications</span></span>
+- <span data-ttu-id="bee9b-1046">È stato risolto un problema per cui a ogni avvio di un'applicazione veniva visualizzata la finestra di dialogo della prima esecuzione</span><span class="sxs-lookup"><span data-stu-id="bee9b-1046">We fixed an issue where the First Run dialog would display whenever an application was launched</span></span>
+- <span data-ttu-id="bee9b-1047">È stato risolto un problema per cui nella finestra di dialogo "Salva con nome" mancava un collegamento a SharePoint.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1047">We fixed an issue where a SharePoint link in the "save as" dialog could be missing.</span></span>
+- <span data-ttu-id="bee9b-1048">È stato risolto un problema per cui agli utenti veniva erroneamente mostrata una finestra di dialogo "Ripristina ora"</span><span class="sxs-lookup"><span data-stu-id="bee9b-1048">We fixed an issue where users would incorrectly see a "Repair Now" dialog</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-1049">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1049">Word</span></span> 
+- <span data-ttu-id="bee9b-1050">È stato risolto un problema per cui alcuni utenti potevano ricevere un errore di memoria o spazio su disco insufficiente richiedendo un tipo di carattere</span><span class="sxs-lookup"><span data-stu-id="bee9b-1050">We fixed an issue where some users could receive an error for insufficient memory or disk space when requesting a font</span></span>
+- <span data-ttu-id="bee9b-1051">È stato risolto un problema per cui una finestra poteva perdere lo stato attivo uscendo dal riquadro commenti</span><span class="sxs-lookup"><span data-stu-id="bee9b-1051">We fixed an issue where a window could lose focus when switching from the comments pane</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-1052">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1052">Excel</span></span>
+- <span data-ttu-id="bee9b-1053">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1053">Various performance and stability fixes</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1054">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1054">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1055">È stato risolto un problema che impediva il ridimensionamento di forme personalizzate</span><span class="sxs-lookup"><span data-stu-id="bee9b-1055">We fixed an issue preventing the resizing of branded shapes</span></span>
+- <span data-ttu-id="bee9b-1056">È stato risolto un problema per cui PowerPoint poteva arrestarsi in modo anomalo aprendo un file in modalità di visualizzazione protetta</span><span class="sxs-lookup"><span data-stu-id="bee9b-1056">We fixed an issue where PowerPoint could crash when opening a file in protected view mode</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-1057">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1057">Outlook</span></span>
+- <span data-ttu-id="bee9b-1058">È stato risolto un problema che impediva ad alcuni utenti di selezionare parole in cinese</span><span class="sxs-lookup"><span data-stu-id="bee9b-1058">We fixed an issue which prevented some users from selecting Chinese words</span></span>
+- <span data-ttu-id="bee9b-1059">È stato risolto un problema per cui le date di scadenza non erano calcolate correttamente </span><span class="sxs-lookup"><span data-stu-id="bee9b-1059">We fixed an issue where expiry dates were not calculated correctly</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-1060">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1060">Access</span></span>
+- <span data-ttu-id="bee9b-1061">È stato risolto un problema che impediva ad alcuni utenti di usare il Generatore di macro</span><span class="sxs-lookup"><span data-stu-id="bee9b-1061">We fixed an issue which prevented some users from using the Macro Builder</span></span>
+- <span data-ttu-id="bee9b-1062">È stato risolto un problema per cui, stampando un report, veniva stampata solo la prima pagina</span><span class="sxs-lookup"><span data-stu-id="bee9b-1062">We fixed an issue where printing a report would only print the first page</span></span>
+- <span data-ttu-id="bee9b-1063">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo al passaggio del mouse su un collegamento ipertestuale</span><span class="sxs-lookup"><span data-stu-id="bee9b-1063">We fixed an issue where the application could crash when hovering over a hyperlink</span></span>
+- <span data-ttu-id="bee9b-1064">È stato risolto un problema per cui alcuni elementi non comparivano nello schermo nella visualizzazione Relazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-1064">We fixed an issue which caused some items to appear off screen when using relationships view</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-1065">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1065">Project</span></span>
+- <span data-ttu-id="bee9b-1066">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1066">Various performance and stability fixes</span></span>
+
+</BR></BR>
+
+## <a name="april-12-2019"></a><span data-ttu-id="bee9b-1067">12 aprile 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1067">April 12, 2019</span></span>
+<span data-ttu-id="bee9b-1068">Versione 1905 (Build 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1068">Version 1905 (build 11601.20042)</span></span>
+
+## <a name="whats-new"></a><span data-ttu-id="bee9b-1069">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1069">What's New:</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-1070">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1070">Access</span></span>
+
+#### <a name="get-smart-with-microsoft-graph"></a><span data-ttu-id="bee9b-1071">Suggerimenti intelligenti per Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="bee9b-1071">Get smart with Microsoft Graph</span></span>
+
+<span data-ttu-id="bee9b-1072">Importare o collegare dati intelligenti e reinventare il database desktop con la tecnologia intelligente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1072">Import or link to intelligent data and reinvent your desktop database with Intelligent Technology.</span></span>
+
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1073">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1073">Notable Fixes:</span></span>
+
+### <a name="all-applications"></a><span data-ttu-id="bee9b-1074">Tutte le applicazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-1074">All Applications</span></span>
+ - <span data-ttu-id="bee9b-1075">È stato risolto un problema che impedisce ad alcuni utenti di salvare file nelle posizioni del cloud</span><span class="sxs-lookup"><span data-stu-id="bee9b-1075">We fixed an issue which prevented some users from saving files to cloud locations</span></span>
+ - <span data-ttu-id="bee9b-1076">È stato risolto un problema in cui il riquadro errato si apre dalla barra multifunzione</span><span class="sxs-lookup"><span data-stu-id="bee9b-1076">We fixed an issue where the wrong pane could open from the ribbon</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-1077">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1077">Word</span></span> 
+- <span data-ttu-id="bee9b-1078">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1078">Various performance and stability fixes</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-1079">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1079">Excel</span></span>
+- <span data-ttu-id="bee9b-1080">È stato risolto un problema in cui gli utenti vedono un messaggio di errore per i tipi di dati collegati quando la cartella di lavoro non contiene tipi di dati collegati</span><span class="sxs-lookup"><span data-stu-id="bee9b-1080">We fixed an issue where users would see an error message for linked data types when the workbook did not contain linked data types</span></span>
+- <span data-ttu-id="bee9b-1081">È stato risolto un problema in cui i collegamenti URL all'interno di un documento di Word si possono modificare quando vengono visualizzati localmente e online</span><span class="sxs-lookup"><span data-stu-id="bee9b-1081">We fixed an issue where URL links within a Word document could change when viewed locally vs. online</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1082">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1082">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1083">È stato risolto un problema nel punto in cui l'applicazione può bloccarsi dopo l'annullamento di modifiche nella scheda animazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-1083">We fixed an issue where the application could crash after undoing changes from the animations tab</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-1084">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1084">Outlook</span></span>
+- <span data-ttu-id="bee9b-1085">È stato risolto un problema che impedisce ad alcuni utenti di modificare il campo Note per i contatti in una cartella pubblica</span><span class="sxs-lookup"><span data-stu-id="bee9b-1085">We fixed an issue which prevented some users from modifying the Notes field for contacts in a Public Folder</span></span>
+- <span data-ttu-id="bee9b-1086">È stato risolto un problema in cui può verificarsi un conflitto tra le date di scadenza e le date di eliminazione</span><span class="sxs-lookup"><span data-stu-id="bee9b-1086">We fixed an issue where a conflict could occur between expiration dates and deletion dates</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-1087">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1087">Access</span></span>
+- <span data-ttu-id="bee9b-1088">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1088">Various performance and stability fixes</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-1089">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1089">Project</span></span>
+- <span data-ttu-id="bee9b-1090">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1090">Various performance and stability fixes</span></span>
+
+</BR></BR>
+
+## <a name="april-5-2019"></a><span data-ttu-id="bee9b-1091">5 aprile 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1091">April 5, 2019</span></span>
+<span data-ttu-id="bee9b-1092">Versione 1904 (build 11527.20014)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1092">Version 1904 (build 11527.20014)</span></span>
+
+## <a name="whats-new"></a><span data-ttu-id="bee9b-1093">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1093">What's New:</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-1094">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1094">Outlook</span></span>
+
+#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a><span data-ttu-id="bee9b-1095">Outlook per Windows: impostare e condividere le impostazioni di Posta in arrivo evidenziata</span><span class="sxs-lookup"><span data-stu-id="bee9b-1095">Outlook for Windows:  set and share your Focused Inbox settings</span></span>
+
+<span data-ttu-id="bee9b-1096">Le preferenze di Posta in arrivo evidenziata sono archiviate nel cloud, di conseguenza è possibile usufruire della stessa esperienza coerente indipendentemente dall'uso di Outlook per Windows o di Outlook sul web in qualsiasi computer.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1096">Your Focused Inbox preferences are stored in the cloud so you can enjoy the same consistent experience when using Outlook for Windows and Outlook on the web on any computer.</span></span>
+
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1097">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1097">Getting Started:</span></span>
+
+<span data-ttu-id="bee9b-1098">In File > Opzioni > scheda Generale è presente una nuova preferenza per 'Memorizza le mie impostazioni di Outlook nel cloud'.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1098">Under File > Options > General tab, there is a new preference for 'Store my Outlook settings in the cloud'.</span></span> <span data-ttu-id="bee9b-1099">Gli utenti dovranno selezionare la casella per abilitare l'impostazione di Posta in arrivo evidenziata a effettuare il roaming ad altre installazioni di Outlook Desktop e a Outlook Web App.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1099">Users will need to check the box to enable their Focused Inbox setting to roam to other Desktop Outlook installations and OWA.</span></span>
+
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1100">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1100">Scenarios to Try:</span></span>
+
+<span data-ttu-id="bee9b-1101">Cambiare Posta in arrivo evidenziata nel computer in cui è attivata la preferenza delle impostazioni cloud.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1101">Change Focused Inbox on the machine that has cloud settings preference turned on.</span></span> <span data-ttu-id="bee9b-1102">Passare a Outlook Web App e verificare l'applicazione della preferenza.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1102">Navigate to OWA and see the preference applied there as well.</span></span> <span data-ttu-id="bee9b-1103">Cambiare Posta in arrivo evidenziata in Outlook Web App e avviare la versione desktop di Outlook per verificare l'applicazione della preferenza.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1103">Change Focused Inbox in OWA and start Desktop Outlook to see the preference reflected.</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-1104">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1104">Word</span></span>
+
+#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a><span data-ttu-id="bee9b-1105">Nella modalità Strumenti di apprendimento è disponibile ulteriore supporto per altri colori della pagina</span><span class="sxs-lookup"><span data-stu-id="bee9b-1105">Learning Tools mode has additional support for more page colors</span></span>
+
+<span data-ttu-id="bee9b-1106">In Strumenti di apprendimento in Word è stato aggiunto il supporto per altri colori del tema della pagina, per poter modificare il colore di sfondo della pagina.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1106">Learning Tools in Word adds support for more page theme colors, which allows the changing of the background color of the page.</span></span>  <span data-ttu-id="bee9b-1107">Molti utenti hanno difficoltà a leggere con uno sfondo completamente bianco o completamente nero, quindi è stata ampliata la scelta dei colori disponibili in Word su PC e Mac.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1107">Many people have challenges reading with an all-white or all-black background, so we’ve expanded the choice of colors in Word on PC and Mac.</span></span>
+
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1108">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1108">Getting Started:</span></span>
+
+<span data-ttu-id="bee9b-1109">Per provare, passare alla scheda Visualizza, scegliere Strumenti di apprendimento e quindi Colore pagina.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1109">To try this out, go to the View tab and choose Learning Tools, and then Page Color.</span></span>
+
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1110">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1110">Scenarios to Try:</span></span>
+
+<span data-ttu-id="bee9b-1111">Per provare, passare alla scheda Visualizza, scegliere Strumenti di apprendimento e quindi Colore pagina.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1111">To try this out, go to the View tab and choose Learning Tools, and then Page Color.</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-1112">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1112">Excel</span></span>
+
+#### <a name="elevate-creativity-with-animated-3d-models"></a><span data-ttu-id="bee9b-1113">Aumentare la creatività con modelli 3D animati</span><span class="sxs-lookup"><span data-stu-id="bee9b-1113">Elevate Creativity with Animated 3D Models</span></span>
+
+<span data-ttu-id="bee9b-1114">Office ora supporta i modelli animati, che verranno riprodotti nell'editor e consentiranno di animare i fogli.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1114">Office now supports animated models, which will playback in the editor so you can bring your sheets to life!</span></span>
+
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1115">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1115">Getting Started:</span></span>
+
+1. <span data-ttu-id="bee9b-1116">Aprire Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1116">Open Excel</span></span>
+2. <span data-ttu-id="bee9b-1117">Inserire un modello 3D animato. A breve tali modelli saranno inseriti in Remix, ma per il momento sono disponibili nel percorso seguente: \\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art</span><span class="sxs-lookup"><span data-stu-id="bee9b-1117">Insert an animated 3D Model (coming to Remix soon, but for now, access animated models here: \\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art)</span></span>
+3. <span data-ttu-id="bee9b-1118">Il modello animato verrà riprodotto nell'editor,</span><span class="sxs-lookup"><span data-stu-id="bee9b-1118">The animated model will play in the editor!</span></span> <span data-ttu-id="bee9b-1119">nonché nella modalità Presentazione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1119">Check Slideshow mode - it will play there too!</span></span>
+4. <span data-ttu-id="bee9b-1120">Nella barra multifunzione del formato 3D esplorare altre scene di animazione disponibili nel modello</span><span class="sxs-lookup"><span data-stu-id="bee9b-1120">In the 3D Format Ribbon, explore more animation scenes in the model</span></span>
+
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1121">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1121">Scenarios to Try:</span></span>
+
+1. <span data-ttu-id="bee9b-1122">Inserire un modello animato, che verrà riprodotto nell'editor.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1122">Insert an animated model and watch it play in the editor</span></span>
+2. <span data-ttu-id="bee9b-1123">Esplorare le scene di animazione disponibili nel modello animato tramite la raccolta Scene, disponibile nella barra multifunzione del formato 3D</span><span class="sxs-lookup"><span data-stu-id="bee9b-1123">Explore the animation scenes available in the animated model via the Scenes Gallery, available in the 3D Format Ribbon</span></span>
+3. <span data-ttu-id="bee9b-1124">È possibile riprodurre e mettere in pausa l'animazione con la barra multifunzione, la barra degli strumenti mobile o la barra spaziatrice</span><span class="sxs-lookup"><span data-stu-id="bee9b-1124">Easily play/pause the animation via the ribbon, floatie or space bar</span></span>
+
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1125">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1125">Notable Fixes:</span></span>
+
+### <a name="all-applications"></a><span data-ttu-id="bee9b-1126">Tutte le applicazioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-1126">All Applications</span></span>
+- <span data-ttu-id="bee9b-1127">È stato risolto un problema per cui nei menu di scelta rapida poteva comparire l'icona dell'app errata per Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1127">We fixed an issue where the incorrect app icon could appear for Excel in contextual menus</span></span>
+- <span data-ttu-id="bee9b-1128">È stato risolto un problema per cui il pulsante del menu File spariva dopo l'installazione di un aggiornamento</span><span class="sxs-lookup"><span data-stu-id="bee9b-1128">We fixed an issue where the File Menu button could disappear after installing an update</span></span>
+- <span data-ttu-id="bee9b-1129">È stato risolto un problema per cui la licenza dell'utente veniva modificata</span><span class="sxs-lookup"><span data-stu-id="bee9b-1129">We fixed an issue which could change your user license</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-1130">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1130">Word</span></span> 
+- <span data-ttu-id="bee9b-1131">È stato risolto un problema per cui il rendering del testo non veniva eseguito correttamente a determinati livelli di zoom</span><span class="sxs-lookup"><span data-stu-id="bee9b-1131">We fixed an issue where text would not render correctly at certain zoom levels</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-1132">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1132">Excel</span></span>
+- <span data-ttu-id="bee9b-1133">È stato risolto un problema per cui agli utenti da non veniva chiesto di salvare una cartella di lavoro dopo aver apportato modifiche</span><span class="sxs-lookup"><span data-stu-id="bee9b-1133">We fixed an issue where users would not be prompted to save a workbook after making edits</span></span>
+- <span data-ttu-id="bee9b-1134">È stato risolto un problema per cui non veniva attivato un evento BeforeSave se l'utente aveva condiviso la cartella di lavoro.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1134">We fixed an issue where a BeforeSave event would not be triggered if the user shared the workbook.</span></span>
+- <span data-ttu-id="bee9b-1135">È stato risolto un problema per cui il ridimensionamento di una colonna a meno di 6 pixel generava un messaggio di errore non corretto.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1135">We fixed an issue where resizing a column to fewer than 6 pixels could throw an incorrect error message.</span></span>
+- <span data-ttu-id="bee9b-1136">È stato risolto un problema per cui Excel ignorava il flag Application.Visible</span><span class="sxs-lookup"><span data-stu-id="bee9b-1136">We fixed an issue where Excel would ignore the Application.Visible flag</span></span>
+- <span data-ttu-id="bee9b-1137">È stato risolto un problema per cui le frecce di relazione restavano attive in riquadri bloccati non attivi</span><span class="sxs-lookup"><span data-stu-id="bee9b-1137">We fixed an issue where trace arrows would remain on non-active frozen panes</span></span>
+- <span data-ttu-id="bee9b-1138">È stato risolto un problema per cui la formattazione delle celle di data e valuta poteva cambiare all'apertura di una cartella di lavoro</span><span class="sxs-lookup"><span data-stu-id="bee9b-1138">We fixed an issue where cell formatting of dates an currency could change when opening a workbook</span></span>
+- <span data-ttu-id="bee9b-1139">È stato risolto un problema per cui le descrizioni comandi si spostavano in modo imprevisto</span><span class="sxs-lookup"><span data-stu-id="bee9b-1139">We fixed an issue where tooltips would move unexpectedly</span></span>
+- <span data-ttu-id="bee9b-1140">Sono stati risolti i problemi di localizzazione dell'editor di Power Query</span><span class="sxs-lookup"><span data-stu-id="bee9b-1140">We fixed localization issues for the Power Query editor</span></span>
+- <span data-ttu-id="bee9b-1141">È stato risolto un problema per una cartella di lavoro inviata come allegato di posta elettronica veniva rimossa</span><span class="sxs-lookup"><span data-stu-id="bee9b-1141">We fixed an issue where a workbook would be removed as an attachment when sending via e-mail</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1142">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1142">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1143">È stato risolto un problema per cui la copia di forme richiedeva più tempo del previsto</span><span class="sxs-lookup"><span data-stu-id="bee9b-1143">We fixed an issue where copying shapes would take longer than expected</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-1144">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1144">Outlook</span></span>
+- <span data-ttu-id="bee9b-1145">È stato risolto un problema per cui Outlook poteva arrestarsi in modo anomalo usando lo strumento di disegno</span><span class="sxs-lookup"><span data-stu-id="bee9b-1145">We fixed an issue where Outlook could crash while using the drawing tool</span></span>
+- <span data-ttu-id="bee9b-1146">È stato risolto un problema di localizzazione durante la composizione di messaggi di posta elettronica in formato HTML</span><span class="sxs-lookup"><span data-stu-id="bee9b-1146">We fixed a localization issue when composing html e-mails</span></span>
+- <span data-ttu-id="bee9b-1147">È stato risolto un problema per cui l'utente aveva difficoltà a selezionare il riquadro inferiore</span><span class="sxs-lookup"><span data-stu-id="bee9b-1147">We fixed an issue where the user would have difficulty in selecting the lower pane</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-1148">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1148">Access</span></span>
+- <span data-ttu-id="bee9b-1149">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1149">Various performance and stability fixes</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-1150">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1150">Project</span></span>
+- <span data-ttu-id="bee9b-1151">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1151">Various performance and stability fixes</span></span>
+
+</BR></BR>
+
+## <a name="march-22-2019"></a><span data-ttu-id="bee9b-1152">22 marzo 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1152">March 22, 2019</span></span>
+<span data-ttu-id="bee9b-1153">Versione 1904 (build 11514.20004)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1153">Version 1904 (build 11514.20004)</span></span>
+
+## <a name="new-features"></a><span data-ttu-id="bee9b-1154">Nuove funzionalità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1154">New Features</span></span>
+
+- <span data-ttu-id="bee9b-1155">**Controlli della privacy:** Controlli nuovi, aggiornati e migliorati per dati di diagnostica ed esperienze connesse.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1155">**Privacy controls:** New, updated, and improved controls for diagnostic data and connected experiences.</span></span> <span data-ttu-id="bee9b-1156">Altre informazioni <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json></span><span class="sxs-lookup"><span data-stu-id="bee9b-1156">Learn more <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json></span></span>
+
+- <span data-ttu-id="bee9b-1157">**Le icone di Office hanno un nuovo aspetto:** le icone di Office sono state riprogettate per riflettere l'esperienza semplice potente e intelligente di Office.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1157">**Office icons have a new look:** The Office icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.</span></span>
+
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1158">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1158">Notable Fixes:</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-1159">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1159">Word</span></span> 
+- <span data-ttu-id="bee9b-1160">È stato risolto un problema per cui l'interfaccia utente mostrava costantemente "Ricerca modifiche in corso"</span><span class="sxs-lookup"><span data-stu-id="bee9b-1160">We fixed an issue where the UI would constantly display "Checking for Changes"</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-1161">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1161">Excel</span></span>
+- <span data-ttu-id="bee9b-1162">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo dopo lo spostamento di un foglio di lavoro</span><span class="sxs-lookup"><span data-stu-id="bee9b-1162">We fixed an issue where the application could crash after moving a worksheet</span></span>
+- <span data-ttu-id="bee9b-1163">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo dopo il salvataggio come PDF</span><span class="sxs-lookup"><span data-stu-id="bee9b-1163">We fixed an issue where the application could crash after saving as a PDF</span></span>
+- <span data-ttu-id="bee9b-1164">È stato risolto un problema per cui la finestra di dialogo per il salvataggio non accettava alcuni caratteri coreani</span><span class="sxs-lookup"><span data-stu-id="bee9b-1164">We fixed an issue where the save dialog would not accept some Korean characters</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1165">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1165">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1166">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1166">Various performance and stability fixes</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-1167">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1167">Outlook</span></span>
+- <span data-ttu-id="bee9b-1168">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1168">Various performance and stability fixes</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-1169">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1169">Access</span></span>
+- <span data-ttu-id="bee9b-1170">È stato risolto un messaggio di errore di Access per cui veniva creato un collegamento aggiuntivo ad Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1170">We fixed the error message in Access where an extra shortcut to Access was created</span></span>
+- <span data-ttu-id="bee9b-1171">È stato risolto un problema per cui i dati di un elemento di SharePoint collegato non venivano visualizzati correttamente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1171">We fixed an issue where data from a linked SharePoint would display incorrectly</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-1172">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1172">Project</span></span>
+- <span data-ttu-id="bee9b-1173">È stato risolto un problema per cui le impostazioni della lingua passavano dal cinese all'inglese</span><span class="sxs-lookup"><span data-stu-id="bee9b-1173">We fixed an issue where the language settings would switch from Chinese to English</span></span>
+- <span data-ttu-id="bee9b-1174">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo durante la sincronizzazione con SharePoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1174">We fixed an issue where the application could crash when synching to SharePoint</span></span>
+
+</BR></BR>
+
+## <a name="march-15-2019"></a><span data-ttu-id="bee9b-1175">15 marzo 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1175">March 15, 2019</span></span>
+<span data-ttu-id="bee9b-1176">Versione 1904 (build 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1176">Version 1904 (build 11504.20000)</span></span>
+
+## <a name="whats-new"></a><span data-ttu-id="bee9b-1177">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1177">What's New:</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-1178">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1178">Word</span></span>
+
+#### <a name="focus-mode"></a><span data-ttu-id="bee9b-1179">Modalità focus</span><span class="sxs-lookup"><span data-stu-id="bee9b-1179">Focus Mode</span></span>
+
+<span data-ttu-id="bee9b-1180">Passare alla modalità focus nel menu Visualizza per rimuovere elementi di distrazione e concentrarsi sul lavoro.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1180">Switch to Focus on the View menu to remove distractions and concentrate on your work.</span></span> <span data-ttu-id="bee9b-1181">Solo per gli abbonati a Office 365.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1181">For Office 365 subscribers only.</span></span>
+
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1182">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1182">Getting Started:</span></span>
+
+<span data-ttu-id="bee9b-1183">Pulsante "Focus" nella scheda Visualizza oppure pulsante "Focus" sulla barra di stato della barra multifunzione</span><span class="sxs-lookup"><span data-stu-id="bee9b-1183">View tab "Focus" Button in the Ribbon Status Bar "Focus" Button</span></span>
+
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1184">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1184">Scenarios to Try:</span></span>
+
+<span data-ttu-id="bee9b-1185">Accedere alla modalità focus e sperimentare la nuova esperienza con focus</span><span class="sxs-lookup"><span data-stu-id="bee9b-1185">Enter Focus Mode and experience the Focused Experience</span></span>
+
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1186">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1186">Notable Fixes:</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-1187">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1187">Word</span></span> 
+- <span data-ttu-id="bee9b-1188">È stato risolto un problema in Word per cui le immagini di un documento salvato in formato PDF avevano valori DPI non corretti</span><span class="sxs-lookup"><span data-stu-id="bee9b-1188">We fixed an issue where images in a document saved as a PDF would have the incorrect DPI</span></span>
+
+### <a name="excel"></a><span data-ttu-id="bee9b-1189">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1189">Excel</span></span>
+- <span data-ttu-id="bee9b-1190">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1190">Various performance and stability fixes</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1191">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1191">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1192">È stato risolto un problema in PowerPoint per cui il riquadro commenti non si apriva e chiudeva correttamente</span><span class="sxs-lookup"><span data-stu-id="bee9b-1192">We fixed an issue where the comments pane would not open or close properly</span></span>
+- <span data-ttu-id="bee9b-1193">È stato risolto un problema per cui l'applicazione poteva arrestarsi in modo anomalo eliminando un video</span><span class="sxs-lookup"><span data-stu-id="bee9b-1193">We fixed an issue where the application could crash when deleting a video</span></span>
+- <span data-ttu-id="bee9b-1194">È stato risolto un problema per cui in alcuni casi non si riusciva ad avviare l'applicazione</span><span class="sxs-lookup"><span data-stu-id="bee9b-1194">We fixed an issue where in some instances the application would fail to launch</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="bee9b-1195">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1195">Outlook</span></span>
+- <span data-ttu-id="bee9b-1196">È stato risolto un problema per cui le conferme di lettura in giapponese non risultavano corrette</span><span class="sxs-lookup"><span data-stu-id="bee9b-1196">We fixed an issue where read receipts were incorrect when viewed in Japanese</span></span>
+
+### <a name="access"></a><span data-ttu-id="bee9b-1197">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1197">Access</span></span>
+- <span data-ttu-id="bee9b-1198">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1198">Various performance and stability fixes</span></span>
+
+### <a name="project"></a><span data-ttu-id="bee9b-1199">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1199">Project</span></span>
+- <span data-ttu-id="bee9b-1200">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1200">Various performance and stability fixes</span></span>
+
+</BR></BR>
+
+## <a name="march-8-2019"></a><span data-ttu-id="bee9b-1201">8 marzo 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1201">March 8, 2019</span></span> 
+<span data-ttu-id="bee9b-1202">Versione 1903 (build 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1202">Version 1903 (build 11425.20036)</span></span>
+
+## <a name="whats-new"></a><span data-ttu-id="bee9b-1203">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1203">What's New:</span></span>
+
+### <a name="word"></a><span data-ttu-id="bee9b-1204">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1204">Word</span></span>
+
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a><span data-ttu-id="bee9b-1205">Trovare tutto ciò che serve con Microsoft Search</span><span class="sxs-lookup"><span data-stu-id="bee9b-1205">Find What You're Looking For with Microsoft Search</span></span>
+
+<span data-ttu-id="bee9b-1206">Con Microsoft Search è possibile trovare i file, le azioni, le persone e l'assistenza necessari per completare il lavoro.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1206">With Microsoft Search, you can find all the files, actions, people, and help you need to get work done.</span></span>
+
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1207">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1207">Getting Started:</span></span>
+
+- <span data-ttu-id="bee9b-1208">La funzionalità viene visualizzata in posizione prominente sopra l'interfaccia utente nell'intestazione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1208">The feature is prominently displayed on top of the UI in the header.</span></span>
+
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1209">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1209">Scenarios to Try:</span></span>
+
+- <span data-ttu-id="bee9b-1210">Cercare un'università, un documento recente o i comandi della barra multifunzione usati più di frequente</span><span class="sxs-lookup"><span data-stu-id="bee9b-1210">Search for a college, a recent document or search for the ribbon commands you use most often</span></span>
+- <span data-ttu-id="bee9b-1211">Cercare un argomento o un oggetto e ottenere altre informazioni sull'elemento cercato</span><span class="sxs-lookup"><span data-stu-id="bee9b-1211">Look up a topic or subject to get more information on it</span></span>
 - 
-#### <a name="coauthoring"></a><span data-ttu-id="78ede-1212">Creazione condivisa</span><span class="sxs-lookup"><span data-stu-id="78ede-1212">CoAuthoring</span></span>
+#### <a name="coauthoring"></a><span data-ttu-id="bee9b-1212">Creazione condivisa</span><span class="sxs-lookup"><span data-stu-id="bee9b-1212">CoAuthoring</span></span>
 
-<span data-ttu-id="78ede-1213">Si è stanchi di non poter accedere immediatamente a documenti contenenti macro?</span><span class="sxs-lookup"><span data-stu-id="78ede-1213">Tired of being locked out of your document with macros?</span></span> <span data-ttu-id="78ede-1214">Ora i file docm in OneDrive for Business consentono a più autori di apportare modifiche contemporaneamente.</span><span class="sxs-lookup"><span data-stu-id="78ede-1214">Now your docm files on OneDrive for Business allow simultaneous editing by multiple authors.</span></span>
+<span data-ttu-id="bee9b-1213">Si è stanchi di non poter accedere immediatamente a documenti contenenti macro?</span><span class="sxs-lookup"><span data-stu-id="bee9b-1213">Tired of being locked out of your document with macros?</span></span> <span data-ttu-id="bee9b-1214">Ora i file docm in OneDrive for Business consentono a più autori di apportare modifiche contemporaneamente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1214">Now your docm files on OneDrive for Business allow simultaneous editing by multiple authors.</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1215">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1215">Getting Started:</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1215">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1215">Getting Started:</span></span>
 
-<span data-ttu-id="78ede-1216">Per accedere a questa funzionalità, l'utente non deve fare clic su alcun pulsante nell'interfaccia utente.</span><span class="sxs-lookup"><span data-stu-id="78ede-1216">The user doesn't need to press any buttons in the UI to access this feature.</span></span> <span data-ttu-id="78ede-1217">La funzionalità è abilitata per impostazione predefinita nei file docm di OneDrive for Business.</span><span class="sxs-lookup"><span data-stu-id="78ede-1217">It is enabled by default on OneDrive for Business docm files.</span></span>
-<span data-ttu-id="78ede-1218">L'utente deve quindi salvare un file docm in OneDrive for Business per provare.</span><span class="sxs-lookup"><span data-stu-id="78ede-1218">So, the user should save a docm file to OneDrive for Business to try it out.</span></span>
+<span data-ttu-id="bee9b-1216">Per accedere a questa funzionalità, l'utente non deve fare clic su alcun pulsante nell'interfaccia utente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1216">The user doesn't need to press any buttons in the UI to access this feature.</span></span> <span data-ttu-id="bee9b-1217">La funzionalità è abilitata per impostazione predefinita nei file docm di OneDrive for Business.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1217">It is enabled by default on OneDrive for Business docm files.</span></span>
+<span data-ttu-id="bee9b-1218">L'utente deve quindi salvare un file docm in OneDrive for Business per provare.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1218">So, the user should save a docm file to OneDrive for Business to try it out.</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1219">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1219">Scenarios to Try:</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1219">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1219">Scenarios to Try:</span></span>
 
-<span data-ttu-id="78ede-1220">Creare un file docm in OneDrive for Business, condividerlo con i colleghi e collaborare.</span><span class="sxs-lookup"><span data-stu-id="78ede-1220">Create a docm file on OneDrive for Business, share it with your colleagues, and collaborate!</span></span>
+<span data-ttu-id="bee9b-1220">Creare un file docm in OneDrive for Business, condividerlo con i colleghi e collaborare.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1220">Create a docm file on OneDrive for Business, share it with your colleagues, and collaborate!</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1221">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1221">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1221">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1221">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1222">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1222">Word</span></span> 
-- <span data-ttu-id="78ede-1223">È stato risolto un problema di arresto anomalo che si verificava facendo clic su "ESC" in Opzioni</span><span class="sxs-lookup"><span data-stu-id="78ede-1223">We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options</span></span>
-- <span data-ttu-id="78ede-1224">È stato risolto un problema di arresto anomalo quando si rispondeva ai commenti</span><span class="sxs-lookup"><span data-stu-id="78ede-1224">We fixed a crashing issue that occurred when replying to comments</span></span>
-- <span data-ttu-id="78ede-1225">È stato risolto un problema che si verificava effettuando copia e incolla da Word a PowerPoint Online</span><span class="sxs-lookup"><span data-stu-id="78ede-1225">We fixed an issue with copy & paste from Word to PowerPoint Online</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-1222">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1222">Word</span></span> 
+- <span data-ttu-id="bee9b-1223">È stato risolto un problema di arresto anomalo che si verificava facendo clic su "ESC" in Opzioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-1223">We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options</span></span>
+- <span data-ttu-id="bee9b-1224">È stato risolto un problema di arresto anomalo quando si rispondeva ai commenti</span><span class="sxs-lookup"><span data-stu-id="bee9b-1224">We fixed a crashing issue that occurred when replying to comments</span></span>
+- <span data-ttu-id="bee9b-1225">È stato risolto un problema che si verificava effettuando copia e incolla da Word a PowerPoint Online</span><span class="sxs-lookup"><span data-stu-id="bee9b-1225">We fixed an issue with copy & paste from Word to PowerPoint Online</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1226">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1226">Excel</span></span>
-- <span data-ttu-id="78ede-1227">È stato risolto un errore per cui copiare una cella in Excel causava un utilizzo elevato della CPU al momento dell'apertura di documenti protetti e modificabili</span><span class="sxs-lookup"><span data-stu-id="78ede-1227">We fixed an issue where copying a cell in Excel caused high CPU usage when protected document and editable document were opened</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-1226">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1226">Excel</span></span>
+- <span data-ttu-id="bee9b-1227">È stato risolto un errore per cui copiare una cella in Excel causava un utilizzo elevato della CPU al momento dell'apertura di documenti protetti e modificabili</span><span class="sxs-lookup"><span data-stu-id="bee9b-1227">We fixed an issue where copying a cell in Excel caused high CPU usage when protected document and editable document were opened</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1228">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1228">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1229">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1229">Various performance and stability fixes</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1228">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1228">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1229">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1229">Various performance and stability fixes</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1230">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1230">Outlook</span></span>
-- <span data-ttu-id="78ede-1231">È stato risolto un problema per cui la funzione di ricerca di Outlook non rispettava l'ordinamento cronologico selezionato</span><span class="sxs-lookup"><span data-stu-id="78ede-1231">We fixed an issue where Outlook Search was not honoring the selected chronological sorting</span></span>
-- <span data-ttu-id="78ede-1232">È stato risolto un problema per cui il pulsante della barra multifunzione del flusso di lavoro "Apri attività" non funzionava per alcuni messaggi di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="78ede-1232">We fixed an issue where the "Open this task" workflow ribbon button was unresponsive for certain emails</span></span>
-- <span data-ttu-id="78ede-1233">È stato risolto un problema per cui Outlook non cancellava le sale in locale dopo che gli utenti selezionavano una sala disponibile in Ricerca sala</span><span class="sxs-lookup"><span data-stu-id="78ede-1233">We fixed an issue where Outlook did not clear on premise rooms after users selected an available room in Room Finder</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-1230">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1230">Outlook</span></span>
+- <span data-ttu-id="bee9b-1231">È stato risolto un problema per cui la funzione di ricerca di Outlook non rispettava l'ordinamento cronologico selezionato</span><span class="sxs-lookup"><span data-stu-id="bee9b-1231">We fixed an issue where Outlook Search was not honoring the selected chronological sorting</span></span>
+- <span data-ttu-id="bee9b-1232">È stato risolto un problema per cui il pulsante della barra multifunzione del flusso di lavoro "Apri attività" non funzionava per alcuni messaggi di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1232">We fixed an issue where the "Open this task" workflow ribbon button was unresponsive for certain emails</span></span>
+- <span data-ttu-id="bee9b-1233">È stato risolto un problema per cui Outlook non cancellava le sale in locale dopo che gli utenti selezionavano una sala disponibile in Ricerca sala</span><span class="sxs-lookup"><span data-stu-id="bee9b-1233">We fixed an issue where Outlook did not clear on premise rooms after users selected an available room in Room Finder</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1234">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1234">Access</span></span>
-- <span data-ttu-id="78ede-1235">È stato risolto un problema per cui la finestra di dialogo Importazione/Esportazione salvata presentava del testo bianco su sfondo bianco nel tema scuro</span><span class="sxs-lookup"><span data-stu-id="78ede-1235">We fixed the saved import/export dialog that had white text on white background in Dark Theme</span></span>
-- <span data-ttu-id="78ede-1236">È stato risolto un problema per cui gli utenti non potevano impostare la proprietà DisplayControl per un campo Sì/No in una casella di testo nella struttura della tabella.</span><span class="sxs-lookup"><span data-stu-id="78ede-1236">We fixed an issue where users could not set the DisplayControl property for a Yes/No field to Textbox in table design</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-1234">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1234">Access</span></span>
+- <span data-ttu-id="bee9b-1235">È stato risolto un problema per cui la finestra di dialogo Importazione/Esportazione salvata presentava del testo bianco su sfondo bianco nel tema scuro</span><span class="sxs-lookup"><span data-stu-id="bee9b-1235">We fixed the saved import/export dialog that had white text on white background in Dark Theme</span></span>
+- <span data-ttu-id="bee9b-1236">È stato risolto un problema per cui gli utenti non potevano impostare la proprietà DisplayControl per un campo Sì/No in una casella di testo nella struttura della tabella.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1236">We fixed an issue where users could not set the DisplayControl property for a Yes/No field to Textbox in table design</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1237">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1237">Project</span></span>
-- <span data-ttu-id="78ede-1238">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1238">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-1237">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1237">Project</span></span>
+- <span data-ttu-id="bee9b-1238">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1238">Various performance and stability fixes</span></span>
 
 
-## <a name="march-1-2019"></a><span data-ttu-id="78ede-1239">1 marzo 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1239">March 1, 2019</span></span> 
-<span data-ttu-id="78ede-1240">Versione 1903 (build 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="78ede-1240">Version 1903 (build 11414.20014)</span></span>
+## <a name="march-1-2019"></a><span data-ttu-id="bee9b-1239">1 marzo 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1239">March 1, 2019</span></span> 
+<span data-ttu-id="bee9b-1240">Versione 1903 (build 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1240">Version 1903 (build 11414.20014)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-1241">Novità</span><span class="sxs-lookup"><span data-stu-id="78ede-1241">What's New</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-1241">Novità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1241">What's New</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1242">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1242">Word</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-1242">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1242">Word</span></span>
 
-#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a><span data-ttu-id="78ede-1243">Colori sincronizzati per revisioni, commenti e collaborazione in tempo reale</span><span class="sxs-lookup"><span data-stu-id="78ede-1243">Colors for Track Changes, Comments and Real-Time Collaboration in Sync</span></span>
+#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a><span data-ttu-id="bee9b-1243">Colori sincronizzati per revisioni, commenti e collaborazione in tempo reale</span><span class="sxs-lookup"><span data-stu-id="bee9b-1243">Colors for Track Changes, Comments and Real-Time Collaboration in Sync</span></span>
 
-<span data-ttu-id="78ede-1244">Le correzioni dei prodotti ora garantiscono che commenti, revisioni e cursore di un collaboratore vengano visualizzati nello stesso colore.</span><span class="sxs-lookup"><span data-stu-id="78ede-1244">Fixes in our product now ensure that the comments, track changes and the cursor for a collaborator show up in the same color.</span></span>
+<span data-ttu-id="bee9b-1244">Le correzioni dei prodotti ora garantiscono che commenti, revisioni e cursore di un collaboratore vengano visualizzati nello stesso colore.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1244">Fixes in our product now ensure that the comments, track changes and the cursor for a collaborator show up in the same color.</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1245">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1245">Getting Started:</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1245">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1245">Getting Started:</span></span>
 
-<span data-ttu-id="78ede-1246">Aprire un documento di SharePoint o OneDrive aperto da altri utenti.</span><span class="sxs-lookup"><span data-stu-id="78ede-1246">Open a SharePoint or OneDrive document that others have open.</span></span> <span data-ttu-id="78ede-1247">Verificare che il colore delle revisioni e dei commenti di un utente corrisponda a quello del cursore di tale utente.</span><span class="sxs-lookup"><span data-stu-id="78ede-1247">Verify that track changes and comments color for a user matches the color of that user's cursor.</span></span>
+<span data-ttu-id="bee9b-1246">Aprire un documento di SharePoint o OneDrive aperto da altri utenti.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1246">Open a SharePoint or OneDrive document that others have open.</span></span> <span data-ttu-id="bee9b-1247">Verificare che il colore delle revisioni e dei commenti di un utente corrisponda a quello del cursore di tale utente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1247">Verify that track changes and comments color for a user matches the color of that user's cursor.</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1248">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1248">Scenarios to Try:</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1248">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1248">Scenarios to Try:</span></span>
 
-<span data-ttu-id="78ede-1249">Aprire un documento di SharePoint o OneDrive aperto da altri utenti.</span><span class="sxs-lookup"><span data-stu-id="78ede-1249">Open a SharePoint or OneDrive document that others have open.</span></span> <span data-ttu-id="78ede-1250">Verificare che il colore delle revisioni e dei commenti di un utente corrisponda a quello del cursore di tale utente.</span><span class="sxs-lookup"><span data-stu-id="78ede-1250">Verify that track changes and comments color for a user matches the color of that user's cursor.</span></span>
+<span data-ttu-id="bee9b-1249">Aprire un documento di SharePoint o OneDrive aperto da altri utenti.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1249">Open a SharePoint or OneDrive document that others have open.</span></span> <span data-ttu-id="bee9b-1250">Verificare che il colore delle revisioni e dei commenti di un utente corrisponda a quello del cursore di tale utente.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1250">Verify that track changes and comments color for a user matches the color of that user's cursor.</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1251">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1251">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1251">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1251">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1252">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1252">Word</span></span> 
-- <span data-ttu-id="78ede-1253">È stato risolto un problema di arresto anomalo che si verificava facendo clic su "ESC" in Opzioni</span><span class="sxs-lookup"><span data-stu-id="78ede-1253">We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options</span></span>
-- <span data-ttu-id="78ede-1254">È stato risolto un problema che si verificava effettuando copia e incolla da Word a PowerPoint Online</span><span class="sxs-lookup"><span data-stu-id="78ede-1254">We fixed an issue with copy & paste from Word to PowerPoint Online</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-1252">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1252">Word</span></span> 
+- <span data-ttu-id="bee9b-1253">È stato risolto un problema di arresto anomalo che si verificava facendo clic su "ESC" in Opzioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-1253">We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options</span></span>
+- <span data-ttu-id="bee9b-1254">È stato risolto un problema che si verificava effettuando copia e incolla da Word a PowerPoint Online</span><span class="sxs-lookup"><span data-stu-id="bee9b-1254">We fixed an issue with copy & paste from Word to PowerPoint Online</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1255">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1255">Excel</span></span>
-- <span data-ttu-id="78ede-1256">È stato risolto un errore per cui copiare una cella in Excel causava un utilizzo elevato della CPU al momento dell'apertura di documenti protetti e modificabili</span><span class="sxs-lookup"><span data-stu-id="78ede-1256">We fixed an issue where copying a cell in Excel caused high CPU usage when protected document and editable document were opened</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-1255">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1255">Excel</span></span>
+- <span data-ttu-id="bee9b-1256">È stato risolto un errore per cui copiare una cella in Excel causava un utilizzo elevato della CPU al momento dell'apertura di documenti protetti e modificabili</span><span class="sxs-lookup"><span data-stu-id="bee9b-1256">We fixed an issue where copying a cell in Excel caused high CPU usage when protected document and editable document were opened</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1257">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1257">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1258">È stato risolto un problema riguardante le dimensioni dell'immagine della diapositiva durante l'utilizzo delle @menzioni in PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1258">We fixed an issue with slide image size when using @Mentions in PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1257">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1257">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1258">È stato risolto un problema riguardante le dimensioni dell'immagine della diapositiva durante l'utilizzo delle @menzioni in PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1258">We fixed an issue with slide image size when using @Mentions in PowerPoint</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1259">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1259">Outlook</span></span>
-- <span data-ttu-id="78ede-1260">È stato risolto un problema per cui la funzione di ricerca di Outlook non rispettava l'ordinamento cronologico selezionato</span><span class="sxs-lookup"><span data-stu-id="78ede-1260">We fixed an issue where Outlook Search was not honoring the selected chronological sorting</span></span>
-- <span data-ttu-id="78ede-1261">È stato risolto un problema per cui il pulsante della barra multifunzione del flusso di lavoro "Apri attività" non funzionava per alcuni messaggi di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="78ede-1261">We fixed an issue where the "Open this task" workflow ribbon button was unresponsive for certain emails</span></span>
-- <span data-ttu-id="78ede-1262">È stato risolto un problema per cui Outlook non cancellava le sale in locale dopo che gli utenti selezionavano una sala disponibile in Ricerca sala</span><span class="sxs-lookup"><span data-stu-id="78ede-1262">We fixed an issue where Outlook did not clear on premise rooms after users selected an available room in Room Finder</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-1259">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1259">Outlook</span></span>
+- <span data-ttu-id="bee9b-1260">È stato risolto un problema per cui la funzione di ricerca di Outlook non rispettava l'ordinamento cronologico selezionato</span><span class="sxs-lookup"><span data-stu-id="bee9b-1260">We fixed an issue where Outlook Search was not honoring the selected chronological sorting</span></span>
+- <span data-ttu-id="bee9b-1261">È stato risolto un problema per cui il pulsante della barra multifunzione del flusso di lavoro "Apri attività" non funzionava per alcuni messaggi di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1261">We fixed an issue where the "Open this task" workflow ribbon button was unresponsive for certain emails</span></span>
+- <span data-ttu-id="bee9b-1262">È stato risolto un problema per cui Outlook non cancellava le sale in locale dopo che gli utenti selezionavano una sala disponibile in Ricerca sala</span><span class="sxs-lookup"><span data-stu-id="bee9b-1262">We fixed an issue where Outlook did not clear on premise rooms after users selected an available room in Room Finder</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1263">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1263">Access</span></span>
-- <span data-ttu-id="78ede-1264">È stato aggiornato il testo di richiesta visualizzato durante la conferma del ricollegamento delle tabelle con un'origine dati</span><span class="sxs-lookup"><span data-stu-id="78ede-1264">We updated the prompt text that showed when confirming the relinking tables with a datasource</span></span>
-- <span data-ttu-id="78ede-1265">È stato risolto un problema per cui la finestra di dialogo Importazione/Esportazione salvata presentava del testo bianco su sfondo bianco nel tema scuro</span><span class="sxs-lookup"><span data-stu-id="78ede-1265">We fixed the saved import/export dialog that had white text on white background in Dark Theme</span></span>
-- <span data-ttu-id="78ede-1266">È stato risolto un problema per cui gli utenti non potevano impostare la proprietà Controllo visualizzazione per un campo Sì/No in una casella di testo nella struttura della tabella.</span><span class="sxs-lookup"><span data-stu-id="78ede-1266">We fixed an issue where users could not set the Display Control property for a Yes/No field to Textbox in table design</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-1263">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1263">Access</span></span>
+- <span data-ttu-id="bee9b-1264">È stato aggiornato il testo di richiesta visualizzato durante la conferma del ricollegamento delle tabelle con un'origine dati</span><span class="sxs-lookup"><span data-stu-id="bee9b-1264">We updated the prompt text that showed when confirming the relinking tables with a datasource</span></span>
+- <span data-ttu-id="bee9b-1265">È stato risolto un problema per cui la finestra di dialogo Importazione/Esportazione salvata presentava del testo bianco su sfondo bianco nel tema scuro</span><span class="sxs-lookup"><span data-stu-id="bee9b-1265">We fixed the saved import/export dialog that had white text on white background in Dark Theme</span></span>
+- <span data-ttu-id="bee9b-1266">È stato risolto un problema per cui gli utenti non potevano impostare la proprietà Controllo visualizzazione per un campo Sì/No in una casella di testo nella struttura della tabella.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1266">We fixed an issue where users could not set the Display Control property for a Yes/No field to Textbox in table design</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1267">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1267">Project</span></span>
-- <span data-ttu-id="78ede-1268">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1268">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-1267">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1267">Project</span></span>
+- <span data-ttu-id="bee9b-1268">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1268">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
 
 
-## <a name="february-15-2019"></a><span data-ttu-id="78ede-1269">15 febbraio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1269">February 15, 2019</span></span> 
-<span data-ttu-id="78ede-1270">Versione 1903 (build 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="78ede-1270">Version 1903 (build 11310.20016)</span></span>
+## <a name="february-15-2019"></a><span data-ttu-id="bee9b-1269">15 febbraio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1269">February 15, 2019</span></span> 
+<span data-ttu-id="bee9b-1270">Versione 1903 (build 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1270">Version 1903 (build 11310.20016)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="78ede-1271">Novità:</span><span class="sxs-lookup"><span data-stu-id="78ede-1271">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="bee9b-1271">Novità:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1271">What's New:</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1272">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1272">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1272">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1272">PowerPoint</span></span>
 
 
-### <a name="morph-transition-enhancements---morph-by-name"></a><span data-ttu-id="78ede-1273">Miglioramenti apportati alla transizione morphing: morphing in base al nome</span><span class="sxs-lookup"><span data-stu-id="78ede-1273">Morph Transition Enhancements - Morph by Name</span></span>
+### <a name="morph-transition-enhancements---morph-by-name"></a><span data-ttu-id="bee9b-1273">Miglioramenti apportati alla transizione morphing: morphing in base al nome</span><span class="sxs-lookup"><span data-stu-id="bee9b-1273">Morph Transition Enhancements - Morph by Name</span></span>
 
-<span data-ttu-id="78ede-1274">Specificare le forme a cui applicare il morphing</span><span class="sxs-lookup"><span data-stu-id="78ede-1274">Specify the shapes you want to morph</span></span>
+<span data-ttu-id="bee9b-1274">Specificare le forme a cui applicare il morphing</span><span class="sxs-lookup"><span data-stu-id="bee9b-1274">Specify the shapes you want to morph</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1275">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1275">Getting Started:</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1275">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1275">Getting Started:</span></span>
 
-- <span data-ttu-id="78ede-1276">Per fare in modo che il morphing consideri due oggetti come lo stesso oggetto, l'utente può rinominare le forme usando il riquadro di selezione.</span><span class="sxs-lookup"><span data-stu-id="78ede-1276">To get Morph to treat two objects as the same object, the user can rename the shapes using the Selection Pane.</span></span>
-- <span data-ttu-id="78ede-1277">Il nome che il morphing deve usare per sostituire</span><span class="sxs-lookup"><span data-stu-id="78ede-1277">The name must be prefaced with “!!”</span></span> <span data-ttu-id="78ede-1278">il comportamento predefinito di abbinamento deve essere preceduto da "!!" (due punti esclamativi), ad esempio "!!Nome".</span><span class="sxs-lookup"><span data-stu-id="78ede-1278">(two exclamation points) for Morph to use it to override our default matching behavior, e.g. “!!Name”</span></span>
-- <span data-ttu-id="78ede-1279">Gli utenti possono continuare a rinominare le forme con nomi che non iniziano con "!!"</span><span class="sxs-lookup"><span data-stu-id="78ede-1279">Users can continue to rename shapes with any name that doesn’t start with “!!”</span></span> <span data-ttu-id="78ede-1280">senza preoccuparsi che questo incida sul modo in cui funziona il morphing</span><span class="sxs-lookup"><span data-stu-id="78ede-1280">without worrying that it will change the way Morph works</span></span>
+- <span data-ttu-id="bee9b-1276">Per fare in modo che il morphing consideri due oggetti come lo stesso oggetto, l'utente può rinominare le forme usando il riquadro di selezione.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1276">To get Morph to treat two objects as the same object, the user can rename the shapes using the Selection Pane.</span></span>
+- <span data-ttu-id="bee9b-1277">Il nome che il morphing deve usare per sostituire</span><span class="sxs-lookup"><span data-stu-id="bee9b-1277">The name must be prefaced with “!!”</span></span> <span data-ttu-id="bee9b-1278">il comportamento predefinito di abbinamento deve essere preceduto da "!!" (due punti esclamativi), ad esempio "!!Nome".</span><span class="sxs-lookup"><span data-stu-id="bee9b-1278">(two exclamation points) for Morph to use it to override our default matching behavior, e.g. “!!Name”</span></span>
+- <span data-ttu-id="bee9b-1279">Gli utenti possono continuare a rinominare le forme con nomi che non iniziano con "!!"</span><span class="sxs-lookup"><span data-stu-id="bee9b-1279">Users can continue to rename shapes with any name that doesn’t start with “!!”</span></span> <span data-ttu-id="bee9b-1280">senza preoccuparsi che questo incida sul modo in cui funziona il morphing</span><span class="sxs-lookup"><span data-stu-id="bee9b-1280">without worrying that it will change the way Morph works</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1281">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1281">Scenarios to Try:</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1281">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1281">Scenarios to Try:</span></span>
 
-- <span data-ttu-id="78ede-1282">Inserire una forma nella diapositiva, ad esempio un rettangolo</span><span class="sxs-lookup"><span data-stu-id="78ede-1282">Insert a Shape in a slide, let's say Rectangle</span></span>
-- <span data-ttu-id="78ede-1283">Creare una nuova diapositiva</span><span class="sxs-lookup"><span data-stu-id="78ede-1283">Create a new slide</span></span>
-- <span data-ttu-id="78ede-1284">Inserire un'altra forma nella seconda diapositiva, ad esempio un triangolo</span><span class="sxs-lookup"><span data-stu-id="78ede-1284">Insert a different shape in the 2nd slide, let's say Triangle</span></span>
-- <span data-ttu-id="78ede-1285">Aprire il riquadro di selezione, rinominare il rettangolo nella diapositiva 1 in "!!forma" e rinominare il triangolo nella diapositiva 2 in "!!forma"</span><span class="sxs-lookup"><span data-stu-id="78ede-1285">Open SelectionPane, rename the Rectangle in slide 1 to "!!shape", and rename the Triangle in slide 2 to "!!shape"</span></span>
-- <span data-ttu-id="78ede-1286">Applicare il morphing nella seconda diapositiva</span><span class="sxs-lookup"><span data-stu-id="78ede-1286">Apply Morph on the 2nd slide</span></span>
-
-</BR>
-
-### <a name="morph-transition-enhancements---smartart"></a><span data-ttu-id="78ede-1287">Miglioramenti apportati alla transizione morphing: grafica SmartArt</span><span class="sxs-lookup"><span data-stu-id="78ede-1287">Morph Transition Enhancements - SmartArt</span></span>
-
-<span data-ttu-id="78ede-1288">Morphing della grafica SmartArt con transizioni più agevoli</span><span class="sxs-lookup"><span data-stu-id="78ede-1288">SmartArt morph with smoother transitions</span></span>
-
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1289">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1289">Getting Started:</span></span>
-
-<span data-ttu-id="78ede-1290">Usare il morphing in modo analogo alla grafica SmartArt</span><span class="sxs-lookup"><span data-stu-id="78ede-1290">Use Morph the same way you would with SmartArt</span></span>
-
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1291">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1291">Scenarios to Try:</span></span>
-
-- <span data-ttu-id="78ede-1292">Inserire un elemento grafico SmartArt in una diapositiva</span><span class="sxs-lookup"><span data-stu-id="78ede-1292">Insert a SmartArt in a slide</span></span>
-- <span data-ttu-id="78ede-1293">Duplicare la diapositiva</span><span class="sxs-lookup"><span data-stu-id="78ede-1293">Duplicate the Slide</span></span>
-- <span data-ttu-id="78ede-1294">Ridimensionare/modificare/spostare l'elemento grafico SmartArt nella diapositiva duplicata</span><span class="sxs-lookup"><span data-stu-id="78ede-1294">Resize/Change/Move the SmartArt on the duplicated slide</span></span>
-- <span data-ttu-id="78ede-1295">Applicare il morphing nella diapositiva duplicata</span><span class="sxs-lookup"><span data-stu-id="78ede-1295">Apply Morph on the duplicated slide</span></span>
+- <span data-ttu-id="bee9b-1282">Inserire una forma nella diapositiva, ad esempio un rettangolo</span><span class="sxs-lookup"><span data-stu-id="bee9b-1282">Insert a Shape in a slide, let's say Rectangle</span></span>
+- <span data-ttu-id="bee9b-1283">Creare una nuova diapositiva</span><span class="sxs-lookup"><span data-stu-id="bee9b-1283">Create a new slide</span></span>
+- <span data-ttu-id="bee9b-1284">Inserire un'altra forma nella seconda diapositiva, ad esempio un triangolo</span><span class="sxs-lookup"><span data-stu-id="bee9b-1284">Insert a different shape in the 2nd slide, let's say Triangle</span></span>
+- <span data-ttu-id="bee9b-1285">Aprire il riquadro di selezione, rinominare il rettangolo nella diapositiva 1 in "!!forma" e rinominare il triangolo nella diapositiva 2 in "!!forma"</span><span class="sxs-lookup"><span data-stu-id="bee9b-1285">Open SelectionPane, rename the Rectangle in slide 1 to "!!shape", and rename the Triangle in slide 2 to "!!shape"</span></span>
+- <span data-ttu-id="bee9b-1286">Applicare il morphing nella seconda diapositiva</span><span class="sxs-lookup"><span data-stu-id="bee9b-1286">Apply Morph on the 2nd slide</span></span>
 
 </BR>
 
-### <a name="morph-transition-enhancements---tables"></a><span data-ttu-id="78ede-1296">Miglioramenti apportati alla transizione morphing: tabelle</span><span class="sxs-lookup"><span data-stu-id="78ede-1296">Morph Transition Enhancements - Tables</span></span>
+### <a name="morph-transition-enhancements---smartart"></a><span data-ttu-id="bee9b-1287">Miglioramenti apportati alla transizione morphing: grafica SmartArt</span><span class="sxs-lookup"><span data-stu-id="bee9b-1287">Morph Transition Enhancements - SmartArt</span></span>
 
-<span data-ttu-id="78ede-1297">Morphing delle tabelle con transizioni più agevoli</span><span class="sxs-lookup"><span data-stu-id="78ede-1297">Tables morph with smoother transitions</span></span>
+<span data-ttu-id="bee9b-1288">Morphing della grafica SmartArt con transizioni più agevoli</span><span class="sxs-lookup"><span data-stu-id="bee9b-1288">SmartArt morph with smoother transitions</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="78ede-1298">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="78ede-1298">Getting Started:</span></span>
-<span data-ttu-id="78ede-1299">Usare il morphing in modo analogo alle tabelle</span><span class="sxs-lookup"><span data-stu-id="78ede-1299">Use Morph the same way you would with tables</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1289">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1289">Getting Started:</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1300">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1300">Scenarios to Try:</span></span>
+<span data-ttu-id="bee9b-1290">Usare il morphing in modo analogo alla grafica SmartArt</span><span class="sxs-lookup"><span data-stu-id="bee9b-1290">Use Morph the same way you would with SmartArt</span></span>
 
-- <span data-ttu-id="78ede-1301">Inserire una tabella in una diapositiva</span><span class="sxs-lookup"><span data-stu-id="78ede-1301">Insert a Table in a slide</span></span>
-- <span data-ttu-id="78ede-1302">Duplicare la diapositiva</span><span class="sxs-lookup"><span data-stu-id="78ede-1302">Duplicate the slide</span></span>
-- <span data-ttu-id="78ede-1303">Ridimensionare/modificare/spostare la tabella nella diapositiva duplicata</span><span class="sxs-lookup"><span data-stu-id="78ede-1303">Resize/Change/Move the Table on the duplicated slide</span></span>
-- <span data-ttu-id="78ede-1304">Applicare il morphing nella diapositiva duplicata</span><span class="sxs-lookup"><span data-stu-id="78ede-1304">Apply Morph on the duplicated slide</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1291">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1291">Scenarios to Try:</span></span>
+
+- <span data-ttu-id="bee9b-1292">Inserire un elemento grafico SmartArt in una diapositiva</span><span class="sxs-lookup"><span data-stu-id="bee9b-1292">Insert a SmartArt in a slide</span></span>
+- <span data-ttu-id="bee9b-1293">Duplicare la diapositiva</span><span class="sxs-lookup"><span data-stu-id="bee9b-1293">Duplicate the Slide</span></span>
+- <span data-ttu-id="bee9b-1294">Ridimensionare/modificare/spostare l'elemento grafico SmartArt nella diapositiva duplicata</span><span class="sxs-lookup"><span data-stu-id="bee9b-1294">Resize/Change/Move the SmartArt on the duplicated slide</span></span>
+- <span data-ttu-id="bee9b-1295">Applicare il morphing nella diapositiva duplicata</span><span class="sxs-lookup"><span data-stu-id="bee9b-1295">Apply Morph on the duplicated slide</span></span>
 
 </BR>
 
-### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a><span data-ttu-id="78ede-1305">Word, Excel, PowerPoint, OneNote, Access, Project, Publisher e Visio</span><span class="sxs-lookup"><span data-stu-id="78ede-1305">Word, Excel, PowerPoint, OneNote, Access, Project, Publisher & Visio</span></span>
+### <a name="morph-transition-enhancements---tables"></a><span data-ttu-id="bee9b-1296">Miglioramenti apportati alla transizione morphing: tabelle</span><span class="sxs-lookup"><span data-stu-id="bee9b-1296">Morph Transition Enhancements - Tables</span></span>
 
-### <a name="seamlessly-switch-between-accounts"></a><span data-ttu-id="78ede-1306">Passare facilmente da un account a un altro</span><span class="sxs-lookup"><span data-stu-id="78ede-1306">Seamlessly Switch Between Accounts</span></span>
+<span data-ttu-id="bee9b-1297">Morphing delle tabelle con transizioni più agevoli</span><span class="sxs-lookup"><span data-stu-id="bee9b-1297">Tables morph with smoother transitions</span></span>
 
-<span data-ttu-id="78ede-1307">La nuova Gestione account consente di visualizzare gli account aziendale e personale in un'unica posizione e permette di passare da uno all'altro.</span><span class="sxs-lookup"><span data-stu-id="78ede-1307">The new account manager shows all of your work and personal accounts in one place, and puts you in control of switching between them.</span></span> <span data-ttu-id="78ede-1308">Questa esperienza aggiornata indica in modo chiaro la modalità di accesso e consente ora di passare dall'account aziendale a quello personale e viceversa senza dovere prima effettuare la disconnessione o gestire finestre di dialogo complesse.</span><span class="sxs-lookup"><span data-stu-id="78ede-1308">This updated experience makes it clear how you're logged in, and now you can toggle between work and personal accounts without having to sign out first or deal with complex dialogs.</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="bee9b-1298">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1298">Getting Started:</span></span>
+<span data-ttu-id="bee9b-1299">Usare il morphing in modo analogo alle tabelle</span><span class="sxs-lookup"><span data-stu-id="bee9b-1299">Use Morph the same way you would with tables</span></span>
+
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1300">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1300">Scenarios to Try:</span></span>
+
+- <span data-ttu-id="bee9b-1301">Inserire una tabella in una diapositiva</span><span class="sxs-lookup"><span data-stu-id="bee9b-1301">Insert a Table in a slide</span></span>
+- <span data-ttu-id="bee9b-1302">Duplicare la diapositiva</span><span class="sxs-lookup"><span data-stu-id="bee9b-1302">Duplicate the slide</span></span>
+- <span data-ttu-id="bee9b-1303">Ridimensionare/modificare/spostare la tabella nella diapositiva duplicata</span><span class="sxs-lookup"><span data-stu-id="bee9b-1303">Resize/Change/Move the Table on the duplicated slide</span></span>
+- <span data-ttu-id="bee9b-1304">Applicare il morphing nella diapositiva duplicata</span><span class="sxs-lookup"><span data-stu-id="bee9b-1304">Apply Morph on the duplicated slide</span></span>
+
+</BR>
+
+### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a><span data-ttu-id="bee9b-1305">Word, Excel, PowerPoint, OneNote, Access, Project, Publisher e Visio</span><span class="sxs-lookup"><span data-stu-id="bee9b-1305">Word, Excel, PowerPoint, OneNote, Access, Project, Publisher & Visio</span></span>
+
+### <a name="seamlessly-switch-between-accounts"></a><span data-ttu-id="bee9b-1306">Passare facilmente da un account a un altro</span><span class="sxs-lookup"><span data-stu-id="bee9b-1306">Seamlessly Switch Between Accounts</span></span>
+
+<span data-ttu-id="bee9b-1307">La nuova Gestione account consente di visualizzare gli account aziendale e personale in un'unica posizione e permette di passare da uno all'altro.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1307">The new account manager shows all of your work and personal accounts in one place, and puts you in control of switching between them.</span></span> <span data-ttu-id="bee9b-1308">Questa esperienza aggiornata indica in modo chiaro la modalità di accesso e consente ora di passare dall'account aziendale a quello personale e viceversa senza dovere prima effettuare la disconnessione o gestire finestre di dialogo complesse.</span><span class="sxs-lookup"><span data-stu-id="bee9b-1308">This updated experience makes it clear how you're logged in, and now you can toggle between work and personal accounts without having to sign out first or deal with complex dialogs.</span></span>
 
 
 ![MeMock.png](Images/MeMock.png)
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="78ede-1310">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="78ede-1310">Scenarios to Try:</span></span>
-- <span data-ttu-id="78ede-1311">Passare da un account a un altro</span><span class="sxs-lookup"><span data-stu-id="78ede-1311">Switch between accounts</span></span>
-- <span data-ttu-id="78ede-1312">Aggiungere un nuovo account [Nota: è consigliabile accedere prima a File | Account | Servizi connessi e rimuovere eventuali servizi personali connessi agli account aziendali o viceversa]</span><span class="sxs-lookup"><span data-stu-id="78ede-1312">Add a new account [Note: you may want to first go to File | Account | Connected Services and remove any personal services connected to work accounts or vice versa]</span></span>
-- <span data-ttu-id="78ede-1313">Disconnettersi da un account</span><span class="sxs-lookup"><span data-stu-id="78ede-1313">Sign out from an account</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="bee9b-1310">Scenari da provare:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1310">Scenarios to Try:</span></span>
+- <span data-ttu-id="bee9b-1311">Passare da un account a un altro</span><span class="sxs-lookup"><span data-stu-id="bee9b-1311">Switch between accounts</span></span>
+- <span data-ttu-id="bee9b-1312">Aggiungere un nuovo account [Nota: è consigliabile accedere prima a File | Account | Servizi connessi e rimuovere eventuali servizi personali connessi agli account aziendali o viceversa]</span><span class="sxs-lookup"><span data-stu-id="bee9b-1312">Add a new account [Note: you may want to first go to File | Account | Connected Services and remove any personal services connected to work accounts or vice versa]</span></span>
+- <span data-ttu-id="bee9b-1313">Disconnettersi da un account</span><span class="sxs-lookup"><span data-stu-id="bee9b-1313">Sign out from an account</span></span>
 </BR>
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1314">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1314">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1314">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1314">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1315">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1315">Word</span></span> 
-- <span data-ttu-id="78ede-1316">È stato risolto un problema relativo all'anteprima contesto per tabelle e immagini</span><span class="sxs-lookup"><span data-stu-id="78ede-1316">We fixed an issue with context preview for tables & images</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-1315">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1315">Word</span></span> 
+- <span data-ttu-id="bee9b-1316">È stato risolto un problema relativo all'anteprima contesto per tabelle e immagini</span><span class="sxs-lookup"><span data-stu-id="bee9b-1316">We fixed an issue with context preview for tables & images</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1317">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1317">Excel</span></span>
-- <span data-ttu-id="78ede-1318">È stato risolto un problema in cui il testo nel campo Cerca del filtro automatico veniva visualizzato in bianco quando il tema era Nero</span><span class="sxs-lookup"><span data-stu-id="78ede-1318">We fixed an issue where text in autofilter Search field is white in Black theme</span></span>
-- <span data-ttu-id="78ede-1319">È stato risolto un problema relativo all'interfaccia utente del consenso con Nuovo componente aggiuntivo per Office</span><span class="sxs-lookup"><span data-stu-id="78ede-1319">We fixed a consent UI issue with New Office Add-in</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-1317">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1317">Excel</span></span>
+- <span data-ttu-id="bee9b-1318">È stato risolto un problema in cui il testo nel campo Cerca del filtro automatico veniva visualizzato in bianco quando il tema era Nero</span><span class="sxs-lookup"><span data-stu-id="bee9b-1318">We fixed an issue where text in autofilter Search field is white in Black theme</span></span>
+- <span data-ttu-id="bee9b-1319">È stato risolto un problema relativo all'interfaccia utente del consenso con Nuovo componente aggiuntivo per Office</span><span class="sxs-lookup"><span data-stu-id="bee9b-1319">We fixed a consent UI issue with New Office Add-in</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1320">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1320">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1321">È stato risolto un problema relativo all'estensione automatica dello schermo durante la visualizzazione di presentazioni su portatili o tablet</span><span class="sxs-lookup"><span data-stu-id="78ede-1321">We fixed an issue with automatically extending display when presenting SlideShows on laptops or tablets.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1320">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1320">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1321">È stato risolto un problema relativo all'estensione automatica dello schermo durante la visualizzazione di presentazioni su portatili o tablet</span><span class="sxs-lookup"><span data-stu-id="bee9b-1321">We fixed an issue with automatically extending display when presenting SlideShows on laptops or tablets.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1322">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1322">Outlook</span></span>
-- <span data-ttu-id="78ede-1323">È stato risolto un problema relativo alla visualizzazione del pulsante Invio a OneNote</span><span class="sxs-lookup"><span data-stu-id="78ede-1323">We fixed an issue with the Send to OneNote button display</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-1322">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1322">Outlook</span></span>
+- <span data-ttu-id="bee9b-1323">È stato risolto un problema relativo alla visualizzazione del pulsante Invio a OneNote</span><span class="sxs-lookup"><span data-stu-id="bee9b-1323">We fixed an issue with the Send to OneNote button display</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1324">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1324">Access</span></span>
-- <span data-ttu-id="78ede-1325">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1325">Various performance and stability fixes</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-1324">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1324">Access</span></span>
+- <span data-ttu-id="bee9b-1325">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1325">Various performance and stability fixes</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1326">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1326">Project</span></span>
-- <span data-ttu-id="78ede-1327">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1327">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-1326">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1326">Project</span></span>
+- <span data-ttu-id="bee9b-1327">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1327">Various performance and stability fixes</span></span>
 
 
 </BR></BR>
-## <a name="february-11-2019"></a><span data-ttu-id="78ede-1328">11 febbraio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1328">February 11, 2019</span></span>
-<span data-ttu-id="78ede-1329">Versione 1903 (build 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="78ede-1329">Version 1903 (build 11330.20014)</span></span>
+## <a name="february-11-2019"></a><span data-ttu-id="bee9b-1328">11 febbraio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1328">February 11, 2019</span></span>
+<span data-ttu-id="bee9b-1329">Versione 1903 (build 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1329">Version 1903 (build 11330.20014)</span></span>
 
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1330">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="78ede-1330">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1330">Correzioni importanti:</span><span class="sxs-lookup"><span data-stu-id="bee9b-1330">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1331">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1331">Word</span></span> 
-- <span data-ttu-id="78ede-1332">È stato risolto un problema che impediva l'applicazione di alcuni stili personalizzati in Word Online</span><span class="sxs-lookup"><span data-stu-id="78ede-1332">We fixed an issue where some customized styles could not be applied to word online</span></span>
-- <span data-ttu-id="78ede-1333">Sono stati risolti i problemi relativi all'anteprima contesto con oggetti complessi in Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1333">We fixed Context Preview issues with rich objects in Word</span></span>
-- <span data-ttu-id="78ede-1334">È stato risolto un problema che causava un arresto anomalo di Word quando si incollavano elenchi</span><span class="sxs-lookup"><span data-stu-id="78ede-1334">We fixed an issue where pasting lists  would result in Word crashing</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-1331">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1331">Word</span></span> 
+- <span data-ttu-id="bee9b-1332">È stato risolto un problema che impediva l'applicazione di alcuni stili personalizzati in Word Online</span><span class="sxs-lookup"><span data-stu-id="bee9b-1332">We fixed an issue where some customized styles could not be applied to word online</span></span>
+- <span data-ttu-id="bee9b-1333">Sono stati risolti i problemi relativi all'anteprima contesto con oggetti complessi in Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1333">We fixed Context Preview issues with rich objects in Word</span></span>
+- <span data-ttu-id="bee9b-1334">È stato risolto un problema che causava un arresto anomalo di Word quando si incollavano elenchi</span><span class="sxs-lookup"><span data-stu-id="bee9b-1334">We fixed an issue where pasting lists  would result in Word crashing</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1335">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1335">Excel</span></span>
-- <span data-ttu-id="78ede-1336">È stato risolto un problema che impediva la visualizzazione degli spazi aggiunti dopo formati numerici quando non era presente alcun simbolo di valuta</span><span class="sxs-lookup"><span data-stu-id="78ede-1336">We fixed an issue where appended spaces after number formats are no longer showing when there is no currency symbol</span></span>
-- <span data-ttu-id="78ede-1337">È stato risolto un problema relativo al rilevamento automatico per le azioni</span><span class="sxs-lookup"><span data-stu-id="78ede-1337">We fixed an issue with auto detect for stocks</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-1335">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1335">Excel</span></span>
+- <span data-ttu-id="bee9b-1336">È stato risolto un problema che impediva la visualizzazione degli spazi aggiunti dopo formati numerici quando non era presente alcun simbolo di valuta</span><span class="sxs-lookup"><span data-stu-id="bee9b-1336">We fixed an issue where appended spaces after number formats are no longer showing when there is no currency symbol</span></span>
+- <span data-ttu-id="bee9b-1337">È stato risolto un problema relativo al rilevamento automatico per le azioni</span><span class="sxs-lookup"><span data-stu-id="bee9b-1337">We fixed an issue with auto detect for stocks</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1338">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1338">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1339">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1339">Various performance and stability fixes</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1338">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1338">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1339">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1339">Various performance and stability fixes</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1340">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1340">Outlook</span></span>
-- <span data-ttu-id="78ede-1341">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1341">Various performance and stability fixes</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-1340">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1340">Outlook</span></span>
+- <span data-ttu-id="bee9b-1341">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1341">Various performance and stability fixes</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1342">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1342">Access</span></span>
-- <span data-ttu-id="78ede-1343">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1343">Various performance and stability fixes</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-1342">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1342">Access</span></span>
+- <span data-ttu-id="bee9b-1343">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1343">Various performance and stability fixes</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1344">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1344">Project</span></span>
-- <span data-ttu-id="78ede-1345">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1345">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-1344">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1344">Project</span></span>
+- <span data-ttu-id="bee9b-1345">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1345">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
 
-## <a name="february-1-2019"></a><span data-ttu-id="78ede-1346">1 febbraio 2019</span><span class="sxs-lookup"><span data-stu-id="78ede-1346">February 1, 2019</span></span> 
-<span data-ttu-id="78ede-1347">Versione 1902 (build 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="78ede-1347">Version 1902 (build 11326.20000)</span></span>
+## <a name="february-1-2019"></a><span data-ttu-id="bee9b-1346">1 febbraio 2019</span><span class="sxs-lookup"><span data-stu-id="bee9b-1346">February 1, 2019</span></span> 
+<span data-ttu-id="bee9b-1347">Versione 1902 (build 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="bee9b-1347">Version 1902 (build 11326.20000)</span></span>
 
 
-## <a name="notable-fixes"></a><span data-ttu-id="78ede-1348">Correzioni importanti</span><span class="sxs-lookup"><span data-stu-id="78ede-1348">Notable Fixes</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="bee9b-1348">Correzioni importanti</span><span class="sxs-lookup"><span data-stu-id="bee9b-1348">Notable Fixes</span></span>
 
-### <a name="word"></a><span data-ttu-id="78ede-1349">Word</span><span class="sxs-lookup"><span data-stu-id="78ede-1349">Word</span></span> 
-- <span data-ttu-id="78ede-1350">È stato risolto un problema di ridimensionamento delle celle in una tabella di Excel incorporata</span><span class="sxs-lookup"><span data-stu-id="78ede-1350">We fixed an issue with resizing cells in an embedded Excel table</span></span>
-- <span data-ttu-id="78ede-1351">È stato risolto un problema con il copia e incolla delle forme in un'area di disegno</span><span class="sxs-lookup"><span data-stu-id="78ede-1351">We fixed an issue with copy/paste of shapes in a Drawing Canvas</span></span>
+### <a name="word"></a><span data-ttu-id="bee9b-1349">Word</span><span class="sxs-lookup"><span data-stu-id="bee9b-1349">Word</span></span> 
+- <span data-ttu-id="bee9b-1350">È stato risolto un problema di ridimensionamento delle celle in una tabella di Excel incorporata</span><span class="sxs-lookup"><span data-stu-id="bee9b-1350">We fixed an issue with resizing cells in an embedded Excel table</span></span>
+- <span data-ttu-id="bee9b-1351">È stato risolto un problema con il copia e incolla delle forme in un'area di disegno</span><span class="sxs-lookup"><span data-stu-id="bee9b-1351">We fixed an issue with copy/paste of shapes in a Drawing Canvas</span></span>
 
-### <a name="excel"></a><span data-ttu-id="78ede-1352">Excel</span><span class="sxs-lookup"><span data-stu-id="78ede-1352">Excel</span></span>
-- <span data-ttu-id="78ede-1353">È stato risolto un problema di apertura dei file da Excel Web App</span><span class="sxs-lookup"><span data-stu-id="78ede-1353">We fixed an issue with opening files from the Excel Web app</span></span>
-- <span data-ttu-id="78ede-1354">È stato risolto un problema che impediva il salvataggio di un file CSV come file XLSX a causa delle dimensioni del nome file</span><span class="sxs-lookup"><span data-stu-id="78ede-1354">We fixed an issue where saving a CSV file as .XLSX was failing due to file name size</span></span>
-- <span data-ttu-id="78ede-1355">È stato corretto il menu di scelta rapida in modo da visualizzare le opzioni del menu di scelta rapida</span><span class="sxs-lookup"><span data-stu-id="78ede-1355">We fixed the context menu to display the context menu options</span></span>
+### <a name="excel"></a><span data-ttu-id="bee9b-1352">Excel</span><span class="sxs-lookup"><span data-stu-id="bee9b-1352">Excel</span></span>
+- <span data-ttu-id="bee9b-1353">È stato risolto un problema di apertura dei file da Excel Web App</span><span class="sxs-lookup"><span data-stu-id="bee9b-1353">We fixed an issue with opening files from the Excel Web app</span></span>
+- <span data-ttu-id="bee9b-1354">È stato risolto un problema che impediva il salvataggio di un file CSV come file XLSX a causa delle dimensioni del nome file</span><span class="sxs-lookup"><span data-stu-id="bee9b-1354">We fixed an issue where saving a CSV file as .XLSX was failing due to file name size</span></span>
+- <span data-ttu-id="bee9b-1355">È stato corretto il menu di scelta rapida in modo da visualizzare le opzioni del menu di scelta rapida</span><span class="sxs-lookup"><span data-stu-id="bee9b-1355">We fixed the context menu to display the context menu options</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="78ede-1356">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="78ede-1356">PowerPoint</span></span>
-- <span data-ttu-id="78ede-1357">È stato risolto un problema che impediva agli utenti di usare i tasti di scelta rapida CTRL+ALT+7/CTRL+ALT+8 per inserire parentesi quadre</span><span class="sxs-lookup"><span data-stu-id="78ede-1357">We fixed an issued where users were unable to use the keyboard shortcut ctrl+alt+7/ctrl+alt+8 to enter square brackets</span></span>
-- <span data-ttu-id="78ede-1358">È stato risolto un problema per il quale l'inserimento di un video locale nel file PPT comportava una riduzione dello spazio su disco dell'unità 'C'</span><span class="sxs-lookup"><span data-stu-id="78ede-1358">We fixed an issue where inserting a local video into the PPT would reduce the ‘C’ drive disk space</span></span>
-- <span data-ttu-id="78ede-1359">È stato corretto il pulsante Pubblica in Microsoft Stream che non veniva visualizzato per alcuni utenti</span><span class="sxs-lookup"><span data-stu-id="78ede-1359">We fixed the Publish to Microsoft Stream button which was not displaying to some users</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="bee9b-1356">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="bee9b-1356">PowerPoint</span></span>
+- <span data-ttu-id="bee9b-1357">È stato risolto un problema che impediva agli utenti di usare i tasti di scelta rapida CTRL+ALT+7/CTRL+ALT+8 per inserire parentesi quadre</span><span class="sxs-lookup"><span data-stu-id="bee9b-1357">We fixed an issued where users were unable to use the keyboard shortcut ctrl+alt+7/ctrl+alt+8 to enter square brackets</span></span>
+- <span data-ttu-id="bee9b-1358">È stato risolto un problema per il quale l'inserimento di un video locale nel file PPT comportava una riduzione dello spazio su disco dell'unità 'C'</span><span class="sxs-lookup"><span data-stu-id="bee9b-1358">We fixed an issue where inserting a local video into the PPT would reduce the ‘C’ drive disk space</span></span>
+- <span data-ttu-id="bee9b-1359">È stato corretto il pulsante Pubblica in Microsoft Stream che non veniva visualizzato per alcuni utenti</span><span class="sxs-lookup"><span data-stu-id="bee9b-1359">We fixed the Publish to Microsoft Stream button which was not displaying to some users</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="78ede-1360">Outlook</span><span class="sxs-lookup"><span data-stu-id="78ede-1360">Outlook</span></span>
-- <span data-ttu-id="78ede-1361">È stato risolto un problema che impediva la corretta visualizzazione dell'oggetto dell'attività nella visualizzazione attività del calendario</span><span class="sxs-lookup"><span data-stu-id="78ede-1361">We fixed an issue where the task view in calendar was  not correctly showing the task subject</span></span>
+### <a name="outlook"></a><span data-ttu-id="bee9b-1360">Outlook</span><span class="sxs-lookup"><span data-stu-id="bee9b-1360">Outlook</span></span>
+- <span data-ttu-id="bee9b-1361">È stato risolto un problema che impediva la corretta visualizzazione dell'oggetto dell'attività nella visualizzazione attività del calendario</span><span class="sxs-lookup"><span data-stu-id="bee9b-1361">We fixed an issue where the task view in calendar was  not correctly showing the task subject</span></span>
 
-### <a name="access"></a><span data-ttu-id="78ede-1362">Access</span><span class="sxs-lookup"><span data-stu-id="78ede-1362">Access</span></span>
-- <span data-ttu-id="78ede-1363">È stato risolto un problema di ridimensionamento relativo ai grafici</span><span class="sxs-lookup"><span data-stu-id="78ede-1363">We fixed a scaling issue with charts</span></span>
+### <a name="access"></a><span data-ttu-id="bee9b-1362">Access</span><span class="sxs-lookup"><span data-stu-id="bee9b-1362">Access</span></span>
+- <span data-ttu-id="bee9b-1363">È stato risolto un problema di ridimensionamento relativo ai grafici</span><span class="sxs-lookup"><span data-stu-id="bee9b-1363">We fixed a scaling issue with charts</span></span>
 
-### <a name="project"></a><span data-ttu-id="78ede-1364">Project</span><span class="sxs-lookup"><span data-stu-id="78ede-1364">Project</span></span>
-- <span data-ttu-id="78ede-1365">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="78ede-1365">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="bee9b-1364">Project</span><span class="sxs-lookup"><span data-stu-id="bee9b-1364">Project</span></span>
+- <span data-ttu-id="bee9b-1365">Diverse correzioni a prestazioni e stabilità</span><span class="sxs-lookup"><span data-stu-id="bee9b-1365">Various performance and stability fixes</span></span>
