@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
-ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
+ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38402442"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669825"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -49,7 +49,11 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/of
 
 - Correzione per l'affidabilità: risolto un problema per cui il componente aggiuntivo di terze parti causava un errore in PowerPoint.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui il tipo di carattere veniva modificato in MS Mincho quando si provava a finalizzare alcuni caratteri speciali.
+
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto un problema di prestazioni in Windows 7 per cui la raccolta Inserisci forme sulla barra multifunzione in tutte le app veniva visualizzata dopo circa 4 secondi.
 - È stato risolto un problema per cui i collegamenti del menu Start e le estensioni dei file di Office scomparivano inaspettatamente dopo un aggiornamento.
