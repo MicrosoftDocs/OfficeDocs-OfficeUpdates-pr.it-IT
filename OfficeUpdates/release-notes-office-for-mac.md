@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 952eef49a27824b361b0defba618e4f64d877ef6
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 54362c5d734beabdbee0b2d96ce312dd1b861b6d
+ms.sourcegitcommit: 714d02a6b26aa81fdcf7d629ec5e9b3f306ba19b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289704"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748682"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -43,7 +43,7 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 - Risolti vari problemi di prestazioni.
 ### <a name="excel--feature-updates"></a>Excel: aggiornamenti delle funzionalità
 
-- Risolti vari problemi di prestazioni.
+- **Componente aggiuntivo di Excel Visualizzatore dati di Visio:** consente di visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel.
 
 
 
@@ -779,8 +779,8 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Sfondi moderni per la modalità focus:** scegliere tra gli sfondi Crepuscolo o Notte polare quando si è in modalità focus nella tab **Visualizzazione**. [Ulteriori informazioni](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Gruppi:** visualizzare i primi 10 gruppi principali e leggere o rispondere alle conversazioni di gruppo direttamente dalla cartella Gruppi.  <br/> <br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Famiglia di prodotti Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2017-0254): vulnerabilità di danneggiamento della memoria di Microsoft Office   |
 
@@ -871,7 +871,7 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti non della sicurezza**|**Aggiornamenti della sicurezza**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> | Mantenere la fedeltà al documento originale, con collegamenti ipertestuali funzionanti, quando si esegue la conversione in PDF. [Ulteriori informazioni](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> Supporto migliorato per la creazione di documenti accessibili e l'utilizzo di VoiceOver e di altre assistive technology per leggere e modificare documenti. [Ulteriori informazioni](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
-|Excel  <br/> | Supporto migliorato per la creazione di documenti accessibili e l'uso di VoiceOver e di altri strumenti di assistive technology per leggere e modificare documenti. [Altre informazioni](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Risolvere un problema a causa del quale, quando si usa la convalida dei dati, se si immette testo nella finestra del messaggio di errore, Excel si arresta in modo anomalo.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)   |
+|Excel  <br/> | Supporto migliorato per la creazione di documenti accessibili e l'utilizzo di VoiceOver e di altre assistive technology per leggere e modificare documenti. [Ulteriori informazioni](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Risolvere un problema a causa del quale, quando si usa la convalida dei dati, se si immette testo nella finestra del messaggio di errore, Excel si arresta in modo anomalo.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)   |
 |PowerPoint  <br/> | Supporto migliorato per la creazione di documenti accessibili e l'utilizzo di VoiceOver e di altre assistive technology per leggere e modificare documenti. [Ulteriori informazioni](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
 |Famiglia di prodotti Office  <br/> | Supporto per tre lingue aggiuntive: greco, ungherese e slovacco  <br/> ||Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)  |
 |Microsoft AutoUpdate  <br/> || - Numero di versione aggiornato a 3.8.2.  <br/> - Affidabilità migliorata e correzioni di bug minori.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)  |
