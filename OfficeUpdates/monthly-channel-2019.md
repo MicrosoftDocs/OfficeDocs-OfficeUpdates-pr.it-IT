@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724054"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753793"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -26,18 +26,20 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 ## <a name="version-1910-november-18"></a>Versione 1910: 18 novembre
 *Versione 1910 (Build 12130.20390)*
-* Diverse correzioni di bug e miglioramenti delle prestazioni.
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
+
+### <a name="access"></a>Access
+
+- È stato risolto un problema per cui l'esecuzione di una query di aggiornamento restituiva erroneamente il messaggio di query danneggiata.
+
 ### <a name="outlook"></a>Outlook
 
 - È stato risolto un problema che causava la modifica imprevista del campo del luogo nelle riunioni.
 
 - È stato risolto un problema che causava la visualizzazione di una finestra di messaggio vuota con un pulsante &quot;OK&quot; quando si provava a contattare il supporto dal contesto di creazione dell'account.
-
-
 
 [//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
@@ -68,7 +70,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/OfficeUp
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-
 
 ### <a name="excel"></a>Excel
 
