@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
-ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
+ms.openlocfilehash: dafc1001d61da1691fe60c7141045f74a8e24156
+ms.sourcegitcommit: d923a1840b7e9e9541568a3fcd9ffb439fb3cca6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38753793"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "38793844"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -35,13 +35,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - È stato risolto un problema per cui l'esecuzione di una query di aggiornamento restituiva erroneamente il messaggio di query danneggiata.
 
-### <a name="outlook"></a>Outlook
-
-- È stato risolto un problema che causava la modifica imprevista del campo del luogo nelle riunioni.
-
-- È stato risolto un problema che causava la visualizzazione di una finestra di messaggio vuota con un pulsante &quot;OK&quot; quando si provava a contattare il supporto dal contesto di creazione dell'account.
-
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-november-12"></a>Versione 1910: 12 novembre
 *Versione 1910 (Build 12130.20344)*
@@ -58,14 +52,15 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/OfficeUp
 
 - È stato risolto un problema che causava la visualizzazione di una finestra di messaggio vuota con un pulsante &quot;OK&quot; quando si provava a contattare il supporto dal contesto di creazione dell'account.
 
-
-
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-october-30"></a>Versione 1910: 30 ottobre
 *Versione 1910 (Build 12130.20272)*
-* Diverse correzioni di bug e miglioramenti delle prestazioni.
 
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava il blocco dell'esperienza di Feedback sulla ricerca.
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
