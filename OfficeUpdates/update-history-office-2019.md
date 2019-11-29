@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 11/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: c35ff76b7ac742c7a8bb14361413c311dda0a593
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 9b5fe442ee64a0b820d99b0be217a82522966cc2
+ms.sourcegitcommit: 35a8d41cd61fc1a27cc543b06f5d715c7913ac11
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282264"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39621391"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -55,8 +55,10 @@ Le informazioni seguenti si applicano alle versioni con contratto multilicenza d
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Versioni definitive di Office 2016 C2R e Office 2019
 Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e Office 2019, che condividono la stessa data di rilascio e gli stessi numeri di versione.
 
-|**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
+|**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|
+|22 novembre 2019   |Versione 1910 (Build 12130.20410)  |Diverse correzioni di bug e miglioramenti delle prestazioni.<br/>  |
+|18 novembre 2019   |Versione 1910 (Build 12130.20390)  |Diverse correzioni di bug e miglioramenti delle prestazioni.<br/>  |
 |12 novembre 2019   |Versione 1910 (Build 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |8 ottobre 2019   |Versione 1909 (Build 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1331) <br/> |
 |10 settembre 2019   |Versione 1908 (Build 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1297) <br/>  |
