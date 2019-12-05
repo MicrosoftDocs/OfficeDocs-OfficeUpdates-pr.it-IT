@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 272cf6e9cf743c164c8b0af0d5fb7e50a07bd865
-ms.sourcegitcommit: 82bdb4c2eaa7c6a14956b572111300dcba7fd9a8
+ms.openlocfilehash: edf447e781009bd7fa137e12f754f657fbc36160
+ms.sourcegitcommit: 9651345dd5885fa89677b9043f435ad61cb1c15f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39208979"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810884"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -29,6 +29,31 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="december-3-2019"></a>3 dicembre 2019
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+
+### <a name="semi-annual-channel"></a>Canale semestrale
+
+<i>La versione prevista è la numero 1902 (build 11328.20488).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1902 (build 11328.20480) <br/> |22 novembre 2019 <br/> |61<br/> |
+|Versione 1902 (Build 11328.20468) <br/> |12 novembre 2019 <br/> |64<br/> |
+
+### <a name="semi-annual-targeted-channel"></a>Canale semestrale (mirato)
+
+<i>La versione prevista è la numero 1908 (build 11929.20510).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1908 (build 11929.20494) <br/> |22 novembre 2019 <br/> |285<br/> |
+|Versione 1908 (Build 11929.20436) <br/> |12 novembre 2019 <br/> |59<br/> |
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DELLA PREVISIONE)
 
 ## <a name="november-22-2019"></a>22 novembre 2019
 
