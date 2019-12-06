@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
-ms.openlocfilehash: b688ed09e0b704a3c8bda37a95341338a346d1d7
-ms.sourcegitcommit: eb8e5c5006c44c15eed4e5442e42b6373ad6a4af
+ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
+ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39837214"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "39857864"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Cronologia degli aggiornamenti per il canale Office Insider
 
@@ -28,7 +28,7 @@ Le informazioni di questa pagina sono destinate ai partecipanti al programma Off
 
 Se si è iscritti al livello Insider, si ricevono aggiornamenti frequenti contenenti le nuove funzionalità e i miglioramenti apportati. L'elenco seguente mostra la cronologia delle ultime versioni e build Insider. **Le build rilasciate per ultime sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti.
 
-Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/it-IT/OfficeUpdates/release-notes-office-insider).
+Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NON RIMUOVERE)
 
