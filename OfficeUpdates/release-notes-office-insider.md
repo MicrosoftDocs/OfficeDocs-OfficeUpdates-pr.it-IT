@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704495"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890460"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -29,6 +29,103 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
+
+## <a name="version-1912-december-06"></a>Versione 1912: 6 dicembre
+*Versione 1912 (Build 12325.20012)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Impostazioni avanzate della posta elettronica del gruppo:** questa funzionalità consente a gruppi di utenti di personalizzare i messaggi di posta elettronica o gli eventi da ricevere/seguire nella Posta in arrivo.
+
+- **Criteri di denominazione dei gruppi:** i criteri di denominazione dei gruppi consentono all'amministratore IT di standardizzare e gestire i nomi dei gruppi creati dagli utenti nell'organizzazione. L'amministratore può richiedere l'aggiunta di un prefisso e un suffisso specifici al nome per un gruppo al momento della creazione e può impedire l'utilizzo di parole specifiche. Questo consente di ridurre al minimo l'uso di parole inappropriate nei nomi dei gruppi e di gestire la rappresentazione dei gruppi nella directory. I criteri di denominazione, inoltre, consentono alle organizzazioni che distribuiscono siti del team di categorizzarli in base al reparto.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- **Riquadri a schede:** ora è possibile passare da un riquadro all'altro usando un'interfaccia a schede sul lato destro dell'app. L'interfaccia utente sarà visibile solo se sono presenti almeno due riquadri.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È possibile che venga visualizzato un errore durante il salvataggio delle modifiche quando si usano alcuni set di caratteri non inglesi.
+
+- È possibile che venga visualizzato un errore durante l'accesso a un intervallo denominato nascosto.
+
+- La disabilitazione dell'accelerazione grafica hardware con risoluzione 4K può comportare un ritardo nel rendering delle celle durante lo scorrimento.
+
+- Se si elimina una formula lunga che si sovrappone a un bordo di cella, è possibile che rimanga visualizzata lungo il bordo di cella.
+
+- È stato risolto un problema di mancato caricamento della personalizzazione della barra multifunzione all'apertura di una cartella di lavoro incorporata.
+
+- Il rendering del menu a discesa al margine potrebbe non essere corretto.
+
+### <a name="onenote"></a>OneNote
+
+- OneNote potrebbe non venire aperto tramite il componente aggiuntivo "Note riunione" di Outlook.
+
+### <a name="outlook"></a>Outlook
+
+- Le etichette dei criteri di conservazione potrebbero non mostrare il periodo di conservazione tra parentesi.
+
+- Potrebbero essere visualizzati degli spazi nelle schede contatto con il Language Pack giapponese.
+
+- Le immagini inserite inline nei messaggi di posta elettronica di Outlook talvolta vengono ridimensionate.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se un utente ha due (o più) video diversi in una diapositiva in un file cloud, il rendering delle immagini dei video viene eseguito correttamente, ma quando l'utente fa clic su di esse per avviare la riproduzione, il contenuto del video è lo stesso.
+
+- In alcuni casi, lo scorrimento con i dispositivi touch non funziona.
+
+- Il rendering del menu a discesa al margine potrebbe non essere corretto.
+
+- I collegamenti sicuri da un'applicazione di Office a un'altra potrebbero non avviare l'applicazione collegata.
+
+### <a name="project"></a>Project
+
+- Project potrebbe arrestarsi in modo anomalo quando si usa la funzionalità Confronta progetti.
+
+- Se è attiva la modalità scura, quando si passa al riquadro Controllo attività in un'attività con una risorsa sovrassegnata, non è possibile leggere la tabella.
+
+- L'impostazione delle risorse su attività prive di assegnazioni viene arrotondata a 1 giorno.
+
+### <a name="word"></a>Word
+
+- Il salvataggio di un file dopo una stampa unione potrebbe non funzionare in determinate condizioni.
+
+- Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: &quot;Sono stati modificati gli stili, i blocchi predefiniti&quot;.
+
+- Il riquadro Commenti talvolta viene ricaricato quando si usa copia/incolla.
+
+- A volte i commenti non vengono incollati nell'ordine corretto.
+
+- Quando si applica un modello costituito da un elenco a più livelli con stili personalizzati ai documenti esistenti, è possibile che lo stile non venga mantenuto in determinate condizioni.
+
+- Quando si ridimensiona il bordo di uno schermo diviso, potrebbe comparire un altro schermo diviso.
+
+- Il rendering del menu a discesa al margine potrebbe non essere corretto
+
+- Quando si menziona un utente con @ in una scheda commento, potrebbe comparire un codice JSON.
+
+- I collegamenti sicuri da un'applicazione di Office a un'altra potrebbero non avviare l'applicazione collegata.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Per i prodotti basati sul giapponese, il nome e cognome dell'utente dell'account potrebbero essere visualizzati nell'ordine non corretto.
+
+- Quando si passa il puntatore del mouse sui commenti, è possibile che venga visualizzato un contorno di casella di testo attorno al commento.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-november-15"></a>Versione 1912: 15 novembre
 *Versione 1912 (Build 12307.20000)*
@@ -1334,7 +1431,7 @@ Durante la lettura e la composizione dei messaggi di posta elettronica, gli uten
 
 #### <a name="scenarios-to-try"></a>Scenari da provare
 
-1. Leggere i messaggi di posta elettronica in modalità scura. Nel caso in cui risulti difficile leggere i messaggi, usare l'interruttore con l'icona del sole presente nel riquadro di lettura per passare a uno sfondo chiaro. 
+1. Leggere i messaggi di posta elettronica in modalità scura. Se non si riesce a leggere parte del testo, utilizzare l'interruttore a forma di sole nel riquadro di lettura per passare a uno sfondo chiaro. 
 2. Comporre i messaggi di posta elettronica in modalità scura. Visualizzare l'anteprima del messaggio con uno sfondo chiaro utilizzando l'interruttore con l'icona del sole presente sulla barra multifunzione. 
 
 Nel caso in cui i messaggi di posta elettronica non vengano visualizzati correttamente, inviarli come allegato a OutlookDarkModeFail@service.microsoft.com
@@ -1619,7 +1716,7 @@ Passare dalla barra multifunzione classica a quella semplificata
 
 #### <a name="pick-your-favorite-action"></a>Selezionare l’azione preferita
 
-Non si usa Contrassegna ed Elimina? E invece Archivia o Segna come già letto? Come personalizzare il menu Azioni rapide con i comandi utilizzati più spesso.
+Non si utilizza Contrassegna ed Elimina? E invece Archivia o Segna come già letto? Come personalizzare il menu Azioni rapide con i comandi utilizzati più spesso.
 
 ##### <a name="getting-started"></a>Guida introduttiva:
 
