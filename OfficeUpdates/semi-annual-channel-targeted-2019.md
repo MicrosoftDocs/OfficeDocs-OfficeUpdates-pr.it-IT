@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2019
-ms.openlocfilehash: ad38d452524ad3fd9ee90e435c55f6ffa6a009e3
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254345"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890450"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2019
 
@@ -42,6 +42,10 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 - È stato risolto un problema per cui l'area di stampa in anteprima di stampa non risultava corretta.
 
+- Potrebbero verificarsi problemi in Excel durante la modifica di un file protetto da una condivisione di rete non attendibile.
+
+- È stato risolto un problema che poteva causare un arresto anomalo durante la ricerca di file recenti in assenza di cartelle di lavoro aperte.
+
 ### <a name="outlook"></a>Outlook
 
 - È stato risolto un problema che causava la visualizzazione di una finestra di messaggio vuota con un pulsante &quot;OK&quot; quando si provava a contattare il supporto dal contesto di creazione dell'account.
@@ -51,6 +55,8 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 - È stato risolto un problema che causava il malfunzionamento della ricerca nei gruppi moderni.
 
 - È stato risolto un problema che causava l'arresto anomalo provando a creare una regola da un messaggio di tipo &quot;Conversazione non effettuata&quot;.
+
+- È stato risolto un problema che causava il malfunzionamento della ricerca in Gruppi moderni.
 
 ### <a name="word"></a>Word
 
