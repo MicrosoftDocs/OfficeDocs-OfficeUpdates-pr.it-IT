@@ -3,19 +3,19 @@ title: Elenco dei file con estensione msp più recenti per i prodotti di Office 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT un elenco dei file con estensione msp più recenti per le versioni perpetue di Office 2013 che utilizzano Windows Installer (MSI)
-ms.openlocfilehash: 9373919060056e200a871d31c9daa7c7fc1efe5d
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 778b6cef6f712a6db0a44cb6ba41197084e6f7e9
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289624"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961731"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Elenco dei file con estensione msp più recenti per i prodotti di Office 2013
 
@@ -25,14 +25,15 @@ Queste informazioni si applicano solo ai prodotti di Office 2013 che utilizzano 
   
 ## <a name="most-recently-updated-msp-files"></a>File con estensione msp aggiornati più di recente
 
-Nella tabella seguente sono elencati i file con estensione msp che sono stati aggiornati nel **novembre 2019**. 
+Nella tabella seguente sono elencati i file con estensione msp che sono stati aggiornati nel **dicembre 2019**. 
   
 |Aggiornamenti non relativi alla sicurezza * * * *|Aggiornamenti per la sicurezza * * * *|
 |:-----|:-----|
 |<br>|Ace-x-none<br/>|
 |<br>|Excel-x-none<br/>|
 |<br>|grafico-x-none<br/>|
-
+|<br>|PowerPoint-x-none<br/>|
+|<br>|Word-x-none<br/>|
 
 
 
@@ -47,7 +48,7 @@ Nella tabella seguente sono elencati tutti i file con estensione msp rilasciati 
 |file con estensione msp * * * *|Prodotto * * * *|Data di rilascio non di sicurezza * * * *|Articolo KB non relativo alla sicurezza * * * *|Data di rilascio della sicurezza * * * *|Articolo KB della versione di sicurezza * * * *|Sicurezza KB sostituito * * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Access-x-none  <br/> |Access 2013  <br/> |5 febbraio 2019  <br/> |[4032252](https://support.microsoft.com/help/4032252) <br/> |10 luglio 2018  <br/> |[4018351](https://support.microsoft.com/en-us/help/4018351) <br/> |[4011234](https://support.microsoft.com/en-us/help/4011234) <br/> |
-|Ace-x-none  <br/> |Office 2013  <br/> |2016 novembre 1  <br/> |[3039750](https://support.microsoft.com/kb/3039750) <br/> |12 novembre 2019  <br/> |[4484119](https://support.microsoft.com/help/4484119) <br/> |[4475611](https://support.microsoft.com/help/4475611)  <br/> |
+|Ace-x-none  <br/> |Office 2013  <br/> |2016 novembre 1  <br/> |[3039750](https://support.microsoft.com/kb/3039750) <br/> |10 dicembre 2019  <br/> |[4484186](https://support.microsoft.com/help/4484186) <br/> |[4484119](https://support.microsoft.com/help/4484119)  <br/> |
 |acmserver-x-none  <br/> |Office 2013  <br/> |5 settembre 2017  <br/> |[3172512](https://support.microsoft.com/help/3172512) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |airspacewer-x-none  <br/> |Office 2013  <br/> |9 dicembre 2014  <br/> |[2899522](https://support.microsoft.com/kb/2899522) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |analys32-x-none  <br/> |Office 2013  <br/> |9 febbraio 2016  <br/> |[3054819](https://support.microsoft.com/kb/3054819) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
@@ -59,14 +60,14 @@ Nella tabella seguente sono elencati tutti i file con estensione msp rilasciati 
 |Duetserver-x-None<sup>1</sup> <br/> |Office 2013  <br/> |14 aprile 2015  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |eDiscovery-x-None<sup>2</sup> <br/> |Office 2013  <br/> |5 settembre 2017  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |eqnedt32-x-none  <br/> |Office 2013  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |9 gennaio 2018  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|Excel-x-none  <br/> |Excel 2013  <br/> |3 luglio 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |12 novembre 2019  <br/> |[4484158](https://support.microsoft.com/en-us/help/4484158) <br/> |[4484123](https://support.microsoft.com/en-us/help/4484123) <br/> |
+|Excel-x-none  <br/> |Excel 2013  <br/> |3 luglio 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |10 dicembre 2019  <br/> |[4484190](https://support.microsoft.com/en-us/help/4484190) <br/> |[4484158](https://support.microsoft.com/en-us/help/4484158) <br/> |
 |excelpp-x-none  <br/> |Office 2013  <br/> |6 giugno 2017  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |exppdf-x-none  <br/> |Office 2013  <br/> |2016 aprile 5  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |Filterpack-x-none  <br/> |Office 2013  <br/> |2016 aprile 5  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |Fm20-x-none  <br/> |Office 2013  <br/> |14 luglio 2015  <br/> |[3023052](https://support.microsoft.com/kb/3023052) <br/> |9 dicembre 2014  <br/> |[2726958](https://support.microsoft.com/kb/2726958) <br/> |Non applicabile  <br/> |
 |Gfonts-x-none  <br/> |Office 2013  <br/> |14.10.14  <br/> |[2760371](https://support.microsoft.com/kb/2760371) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |gkall-x-none  <br/> |Office 2013  <br/> |7 giugno 2016  <br/> |[3039795](https://support.microsoft.com/kb/3039795) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
-|grafico-x-none  <br/> |Office 2013  <br/> |2019 aprile 2  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |12 novembre 2019  <br/> |[4484152](https://support.microsoft.com/en-us/help/4484152) <br/> |[4475558](https://support.microsoft.com/en-us/help/4475558) <br/> |
+|grafico-x-none  <br/> |Office 2013  <br/> |2019 aprile 2  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |10 dicembre 2019  <br/> |[4484184](https://support.microsoft.com/en-us/help/4484184) <br/> |[4484152](https://support.microsoft.com/en-us/help/4484152) <br/> |
 |Groove-x-none  <br/> |OneDrive for Business  <br/> |7 agosto 2018  <br/> |[4022226](https://support.microsoft.com/help/4022226) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |ieawsdc-x-none  <br/> |Office 2013  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |11 agosto 2015  <br/> |[3039798](https://support.microsoft.com/kb/3039798) <br/> |Non applicabile  <br/> |
 |InfoPath-x-none  <br/> |InfoPath 2013  <br/> |2016 maggio 3  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |8 marzo 2016  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
@@ -100,7 +101,7 @@ Nella tabella seguente sono elencati tutti i file con estensione msp rilasciati 
 |Outlfltr-x-none  <br/> |Office 2013  <br/> |2 agosto 2016  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |None  <br/> |Outlook 2013  <br/> |1 ottobre 2019  <br/> |[4484096](https://support.microsoft.com/en-us/help/4484096) <br/> |13 agosto 2019  <br/> |[4475563](https://support.microsoft.com/help/4475563) <br/> |[4464592](https://support.microsoft.com/help/4464592) <br/> |
 |peopledatahandler-x-none  <br/> |Office 2013  <br/> |8 settembre 2015  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
-|PowerPoint-x-none  <br/> |PowerPoint 2013  <br/> |7 agosto 2018  <br/> |[4018374](https://support.microsoft.com/en-us/help/4018374) <br/> |11 dicembre 2018  <br/> |[4461481](https://support.microsoft.com/help/4461481) <br/> |[4092453](https://support.microsoft.com/help/4092453) <br/> |
+|PowerPoint-x-none  <br/> |PowerPoint 2013  <br/> |7 agosto 2018  <br/> |[4018374](https://support.microsoft.com/en-us/help/4018374) <br/> |10 dicembre 2019  <br/> |[4461590](https://support.microsoft.com/help/4461590) <br/> |[4461481](https://support.microsoft.com/help/4461481) <br/> |
 |ppaddin-x-none  <br/> |Office 2013  <br/> |5 settembre 2017  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |Project-x-none  <br/> |Project 2013  <br/> |2019 aprile 2 <br/> |[4462136](https://support.microsoft.com/en-us/help/4462136) <br/> |10 settembre 2019  <br/> |[4464548](https://support.microsoft.com/kb/4464548) <br/> |[4461489](https://support.microsoft.com/kb/4461489) <br/>  |
 |Proof- *ll*  -  *CC* <sup>3</sup> <br/> |Office 2013  <br/> |7 maggio 2019  <br/> |[4011677](https://support.microsoft.com/help/4011677) <br/> |13.05.14  <br/> |[2880463](https://support.microsoft.com/kb/2880463) <br/> |Non applicabile  <br/> |
@@ -117,7 +118,7 @@ Nella tabella seguente sono elencati tutti i file con estensione msp rilasciati 
 |Visio-x-none  <br/> |Visio 2013  <br/> |2019 aprile 2  <br/> |[4464505](https://support.microsoft.com/en-us/help/4464505) <br/> |14 giugno 2016  <br/> |[3115020](https://support.microsoft.com/kb/3115020) <br/> |[3114489](https://support.microsoft.com/kb/3114489) <br/> |
 |vviewer-x-none  <br/> |Visualizzatore di Visio 2013  <br/> |8 aprile 2014  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |WEC-x-none  <br/> |Office 2013  <br/> |7 novembre 2015  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
-|Word-x-none  <br/> |Word 2013  <br/> |2 luglio 2019 <br/> |[4475525](https://support.microsoft.com/en-us/help/4475525) <br/> |13 agosto 2019  <br/> |[4475547](https://support.microsoft.com/en-us/help/4475547) <br/> |[4464590](https://support.microsoft.com/en-us/help/4464590) <br/> |
+|Word-x-none  <br/> |Word 2013  <br/> |2 luglio 2019 <br/> |[4475525](https://support.microsoft.com/en-us/help/4475525) <br/> |10 dicembre 2019  <br/> |[4484094](https://support.microsoft.com/en-us/help/4484094) <br/> |[4475547](https://support.microsoft.com/en-us/help/4475547) <br/> |
 |wordpia-x-none  <br/> |Word 2013  <br/> |7 novembre 2017  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |wxpcore-x-none  <br/> |Office 2013  <br/> |8 marzo 2016  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |wxpnse-x-none  <br/> |Office 2013  <br/> |13 ottobre 2015  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
