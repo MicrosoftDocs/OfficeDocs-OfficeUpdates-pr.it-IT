@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: a1ad777f8794fe2ec85b583ebd51dcdfe6b07f06
-ms.sourcegitcommit: 2008f3580435cc725ca36b2f762e5adf4df7f89a
+ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39668046"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961741"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -30,6 +30,52 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
+## <a name="version-1911-december-10"></a>Versione 1911: 10 dicembre 
+*Versione 1911 (build 12228.20364)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
+
+- **Creare PDF più accessibili:** quando si crea un file PDF, la funzione Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare. [Altre informazioni](https://support.office.com/it-IT/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+### <a name="outlook"></a>Outlook
+
+- **Criteri di denominazione dei gruppi:** i criteri di denominazione dei gruppi consentono all'amministratore IT di standardizzare e gestire i nomi dei gruppi creati dagli utenti nell'organizzazione. L'amministratore può richiedere l'aggiunta di un prefisso e un suffisso specifici al nome per un gruppo al momento della creazione e può impedire l'utilizzo di parole specifiche. Questo consente di ridurre al minimo l'uso di parole inappropriate nei nomi dei gruppi e di gestire la rappresentazione dei gruppi nella directory. I criteri di denominazione, inoltre, consentono alle organizzazioni che distribuiscono siti del team di categorizzarli in base al reparto.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Replay immediato:** applicare un'animazione di riproduzione per ripetere la sequenza di disegno con l'input penna durante la presentazione. [Altre informazioni](https://support.office.com/it-IT/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
+
+- **Creare PDF più accessibili:** quando si crea un file PDF, la funzione Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare.
+
+### <a name="word"></a>Word
+
+- **Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.
+
+- **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
+
+- **Creare PDF più accessibili:** quando si crea un file PDF, la funzione Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare. [Altre informazioni](https://support.office.com/it-IT/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+## <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- La modifica aggira un problema con alcuni driver di grafica Intel sfruttando il rendering del software.
+
+- Tramite il menu di scelta rapida predefinito per i grafici pivot ora è possibile abilitare l'opzione Mostra dettagli.
+
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che causava l'accesso dei componenti aggiuntivi Web ai messaggi con contenuto digitale protetto. 
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-1911-november-20"></a>Versione 1911: 20 novembre
 *Versione 1911 (Build 12228.20250)*
@@ -78,7 +124,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - **L'Upload Center verrà sostituito dall'esperienza File che richiedono attenzione:** l'Upload Center sarà sostituito dall'esperienza File che richiedono attenzione visualizzata all'interno delle applicazioni Office in File > Apri. Questa nuova esperienza è più moderna, integrata e meno intrusiva rispetto all'Upload Center.
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
