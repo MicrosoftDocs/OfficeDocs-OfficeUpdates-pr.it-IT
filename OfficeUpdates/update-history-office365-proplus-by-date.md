@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: bf422295f4b3b4234c135738cdea6a5f23728836
-ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
+ms.openlocfilehash: c029ad7f9eeac950a9d704a158075f4774f4b9c4
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39818786"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39962293"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
@@ -31,10 +31,10 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile<br/>|1911<br/>|12228.20332<br/>|3 dicembre 2019<br/>|Viene rilasciata la versione 1912<br/>|
-|Semestrale (mirato)<br/>|1908<br/>|11929.20494<br/>|22 novembre 2019<br/>|10 marzo 2020<br/>|
-|Semestrale<br/>|1902<br/>|11328.20480<br/>|22 novembre 2019<br/>|8 settembre 2020<br/>|
-|Semestrale<br/>|1808<br/>|10730.20422<br/>|22 novembre 2019<br/>|10 marzo 2020<br/>|
+|Mensile<br/>|1911<br/>|12228.20364<br/>|10 dicembre 2019<br/>|Viene rilasciata la versione 1912<br/>|
+|Semestrale (mirato)<br/>|1908<br/>|11929.20516<br/>|10 dicembre 2019<br/>|10 marzo 2020<br/>|
+|Semestrale<br/>|1902<br/>|11328.20492<br/>|10 dicembre 2019<br/>|8 settembre 2020<br/>|
+|Semestrale<br/>|1808<br/>|10730.20426<br/>|10 dicembre 2019<br/>|10 marzo 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -46,6 +46,7 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|10 dicembre|[Versione 1911 (Build 12228.20364)](monthly-channel-2019.md#version-1911-december-10)|[Versione 1908 (Build 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[Versione 1902 (Build 11328.20492)](semi-annual-channel-2019.md#version-1902-december-10)<br/>[Versione 1808 (Build 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|3 dicembre|[Versione 1911 (build 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | |
 |2019|22 novembre|[Versione 1910 (Build 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[Versione 1908 (Build 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Versione 1902 (Build 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Versione 1808 (Build 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019|18 novembre|[Versione 1910 (Build 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | |
