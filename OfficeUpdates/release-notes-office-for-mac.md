@@ -3,19 +3,18 @@ title: Note sulla versione per Office per Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 54362c5d734beabdbee0b2d96ce312dd1b861b6d
-ms.sourcegitcommit: 714d02a6b26aa81fdcf7d629ec5e9b3f306ba19b
+ms.openlocfilehash: d8e5e009a3a51bdeb4c013daf7494307fc81abfd
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748682"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39962283"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -30,10 +29,56 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 > - Se si è un partecipante al programma Office Insider, vedere [Note sulla versione per le build Insider Fast di Office 2016 per Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - A partire dal rilascio 16.17 di settembre 2018, queste note sulla versione si applicano anche a Office 2019 per Mac, che è una versione di Office per Mac disponibile come acquisto di una copia unica da un punto vendita o tramite un contratto multilicenza. Tuttavia, alcune funzionalità elencate nelle note sulla versione sono disponibili solo se si dispone di una sottoscrizione a Office 365.
 > - Le note sulla versione 16.16 e sulle versioni precedenti si applicano anche a Office 2016 per Mac, un’altra versione di Office per Mac disponibile come acquisto di una copia unica. Le versioni precedenti, fino alla versione 16.16 compresa, possono essere attivati con un contratto multilicenza di Office 2016 per Mac. Non è possibile attivare la versione 16.17 o versioni successive con un contratto multilicenza di Office 2016 per Mac. Per informazioni sulle versioni di Office 2016 per Mac da settembre in poi, vedere le [Note sulla versione di Office 2016 per Mac](release-notes-office-2016-mac.md).
-> > 
 > - Spesso le funzionalità vengono implementate (e a volte corrette) nel canale mensile per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - A volte, invece di rilasciare nuove funzionalità, gli aggiornamenti riguardano miglioramenti generali della qualità e delle prestazioni. In particolare, se un'app non è riportata di seguito significa che l'aggiornamento include solo miglioramenti della qualità e delle prestazioni.
 
-**Nota:** le informazioni sulle versioni di Microsoft AutoUpdate (MAU) sono state spostate nella pagina [Cronologia delle versioni per Microsoft AutoUpdate (MAU)](https://docs.microsoft.com/it-IT/officeupdates/release-history-microsoft-autoupdate).<br/>
+**Nota:** le informazioni sulle versioni di Microsoft AutoUpdate (MAU) sono state spostate nella pagina [Cronologia delle versioni per Microsoft AutoUpdate (MAU)](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+
+
+## <a name="december-10-2019"></a>10 dicembre 2019
+*Versione 16.32 (build 19120802)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Accedere ai file con meno clic:** i documenti aperti di recente si trovano davanti e al centro. Aprire le impostazioni o le opzioni dell'account direttamente dalla pagina iniziale. [Altre informazioni](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4)
+
+- **Digitare una formula che restituisce più valori:** è possibile digitare rapidamente una formula che restituisce più valori, che si estenderanno automaticamente nelle celle adiacenti. [Altre informazioni](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Accedere ai file con meno clic:** i documenti aperti di recente si trovano davanti e al centro. Aprire le impostazioni o le opzioni dell'account direttamente dalla pagina iniziale. [Altre informazioni](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4)
+
+- **Trasformare le idee con l'input penna:** ora si può convertire l'input penna in forme, testo o equazioni matematiche dall'aspetto professionale. [Altre informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### <a name="word"></a>Word
+
+- **Accedere ai file con meno clic:** i documenti aperti di recente si trovano davanti e al centro. Aprire le impostazioni o le opzioni dell'account direttamente dalla pagina iniziale. [Altre informazioni](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4)
+
+- **Creazione condivisa:** per poter accedere immediatamente a documenti contenenti macro, Ora i file docm in OneDrive for Business consentono a più autori di apportare modifiche contemporaneamente. [Altre informazioni](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>Aggiornamenti della sicurezza
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1464](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1464)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2019-1462](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1462)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="november-12-2019-release"></a>Rilascio del 12 novembre 2019
 *Versione 16.31 (Build 19111002)*
@@ -779,8 +824,8 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Sfondi moderni per la modalità focus:** scegliere tra gli sfondi Crepuscolo o Notte polare quando si è in modalità focus nella tab **Visualizzazione**. [Ulteriori informazioni](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Gruppi:** visualizzare i primi 10 gruppi principali e leggere o rispondere alle conversazioni di gruppo direttamente dalla cartella Gruppi.  <br/> <br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Famiglia di prodotti Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2017-0254): vulnerabilità di danneggiamento della memoria di Microsoft Office   |
 
@@ -871,7 +916,7 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti non della sicurezza**|**Aggiornamenti della sicurezza**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> | Mantenere la fedeltà al documento originale, con collegamenti ipertestuali funzionanti, quando si esegue la conversione in PDF. [Ulteriori informazioni](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> Supporto migliorato per la creazione di documenti accessibili e l'utilizzo di VoiceOver e di altre assistive technology per leggere e modificare documenti. [Ulteriori informazioni](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
-|Excel  <br/> | Supporto migliorato per la creazione di documenti accessibili e l'utilizzo di VoiceOver e di altre assistive technology per leggere e modificare documenti. [Ulteriori informazioni](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Risolvere un problema a causa del quale, quando si usa la convalida dei dati, se si immette testo nella finestra del messaggio di errore, Excel si arresta in modo anomalo.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)   |
+|Excel  <br/> | Supporto migliorato per la creazione di documenti accessibili e l'uso di VoiceOver e di altri strumenti di assistive technology per leggere e modificare documenti. [Altre informazioni](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Risolvere un problema a causa del quale, quando si usa la convalida dei dati, se si immette testo nella finestra del messaggio di errore, Excel si arresta in modo anomalo.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)   |
 |PowerPoint  <br/> | Supporto migliorato per la creazione di documenti accessibili e l'utilizzo di VoiceOver e di altre assistive technology per leggere e modificare documenti. [Ulteriori informazioni](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
 |Famiglia di prodotti Office  <br/> | Supporto per tre lingue aggiuntive: greco, ungherese e slovacco  <br/> ||Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)  |
 |Microsoft AutoUpdate  <br/> || - Numero di versione aggiornato a 3.8.2.  <br/> - Affidabilità migliorata e correzioni di bug minori.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)  |
