@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 94dea39daaa8a4952dceaa39fe912093dec5c24a
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 6b8d755bf405cc900c090eba6759b39def6bfad6
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961953"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023571"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -22,7 +22,7 @@ Le informazioni di questa pagina sono destinate ai partecipanti al programma Off
 
 ## <a name="office-insider-versions-and-builds"></a>Versioni e build di Office Insider
 
-Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come Insider Slow, si riceverà un nuovo aggiornamento delle funzionalità di Office all'incirca una volta al mese, oltre a build successive contenenti correzioni importanti o aggiornamenti della sicurezza. L'elenco seguente mostra le ultime versioni e build rilasciate nel Canale mensile (mirato). **Le build più recenti sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti. Per le note sulla versione, vedere [Novità per i partecipanti al programma Office Insider](https://support.office.com/it-IT/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come Insider Slow, si riceverà un nuovo aggiornamento delle funzionalità di Office all'incirca una volta al mese, oltre a build successive contenenti correzioni importanti o aggiornamenti della sicurezza. L'elenco seguente mostra le ultime versioni e build rilasciate nel Canale mensile (mirato). **Le build più recenti sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti. Per le note sulla versione, vedere [Novità per i partecipanti al programma Office Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 > [!NOTE]
 > - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
@@ -30,6 +30,9 @@ Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come In
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+**12 dicembre 2019**<br/>
+Versione 1912 (Build 12325.20172)<br/>
 
 **10 dicembre 2019**<br/>
 Versione 1911 (Build 12228.20364)<br/>
@@ -198,8 +201,7 @@ Versione 1903 (Build 11425.20204)<br/>
 **Office Insider su Twitter**<br/> Su @OfficeInsider vengono pubblicati frequentemente post su versioni Insider e vengono ospitati eventi speciali per gli utenti di Insider.<br/> 
 [Seguici su Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Immagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+[![Immagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Scopri per primo le nuove funzionalità**

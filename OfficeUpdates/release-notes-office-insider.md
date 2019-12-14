@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
+ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890460"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40019852"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -22,17 +22,64 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 > [!NOTE]
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
-> - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build
-
- > [!NOTE]
-> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/it-IT/deployoffice/teams-install).
+> - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
+> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
 
+## <a name="version-2001-december-13"></a>Versione 2001: 13 dicembre
+*Versione 2001 (Build 12410.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Trascinamento dei messaggi di posta elettronica in un gruppo di cui si è proprietari:** è possibile spostare e copiare messaggi e conversazioni trascinandoli dalla Posta in arrivo. I messaggi trascinati verranno condivisi con tutti i membri del gruppo.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+- L'esecuzione di una query di unione che fa riferimento a tabelle ODBC collegate e include una clausola ORDER BY provoca l'arresto anomalo di Access a 64 bit.
+- La somma dei dati provenienti da query di unione in Access (Office 365) può comportare il troncamento dei dati decimali.
+- Le interfacce COM per ACE non sono esposte per l'uso all'esterno delle applicazioni di Office.
+
+### <a name="excel"></a>Excel
+- L'inserimento di un modello 3D (animato o statico) e il tentativo di salvare come immagine non funziona.
+- La scelta rapida da tastiera (ALT+CTRL+7/8) per avviare il feedback dalla visualizzazione Backstage è in conflitto con le tastiere AZERTY (ALT+ GR+7/8). Impatto: gli utenti potrebbero non essere in grado di usare alcuni caratteri, ad esempio: '\'.
+
+### <a name="outlook"></a>Outlook
+- Risolto un problema che causava l'invio di messaggi di posta elettronica all'indirizzo errato del destinatario.
+- Risolto un problema per cui Outlook concedeva erroneamente agli utenti l'accesso in &quot;lettura&quot; a una cassetta postale per cambiare lo stato letto/non letto di un messaggio.
+- Il Servizio Supporto Tecnico Clienti non può riprodurre la revoca del certificato di sicurezza nel sito Web. Per individuare la causa del problema, è necessario aggiungere registrazioni.
+- Risolto un problema che causava errori di sincronizzazione.
+
+### <a name="powerpoint"></a>PowerPoint
+- L'inserimento di un modello 3D (animato o statico) e il tentativo di salvare come immagine non funziona.
+
+### <a name="project"></a>Project
+- Il lavoro delle attività non viene calcolato nel riepilogo per le attività figlio programmate manualmente.
+- Il codice VBA di Project richiamato da un pulsante della barra multifunzione potrebbe non funzionare quando si prova a salvare un progetto basati su server.
+- Se Project non è già in esecuzione, l'apertura di file di Project da una raccolta documenti di SharePoint genera un errore e il file non viene aperto.
+
+### <a name="word"></a>Word
+- Il salvataggio di file esistenti potrebbe non funzionare.
+- Se si usano i tasti di direzione nella finestra dell'editor di ortografia e grammatica, può verificarsi uno sfarfallio intermittente.
+- Durante la risoluzione di un'attività di completamento, i commenti associati potrebbero non essere convertiti in commenti a punti.
+- L'inserimento di un modello 3D (animato o statico) e il tentativo di salvare come immagine non funziona.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+- È stato risolto un problema per cui i messaggi di aggiornamento di Office vengono visualizzati in una lingua diversa dal previsto. In futuro, i messaggi di aggiornamento di Office corrisponderanno correttamente alla lingua di visualizzazione di Windows.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-december-06"></a>Versione 1912: 6 dicembre
 *Versione 1912 (Build 12325.20012)*
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -47,7 +94,6 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 - **Riquadri a schede:** ora è possibile passare da un riquadro all'altro usando un'interfaccia a schede sul lato destro dell'app. L'interfaccia utente sarà visibile solo se sono presenti almeno due riquadri.
 
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
@@ -56,73 +102,45 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
-
 - È possibile che venga visualizzato un errore durante il salvataggio delle modifiche quando si usano alcuni set di caratteri non inglesi.
-
 - È possibile che venga visualizzato un errore durante l'accesso a un intervallo denominato nascosto.
-
 - La disabilitazione dell'accelerazione grafica hardware con risoluzione 4K può comportare un ritardo nel rendering delle celle durante lo scorrimento.
-
 - Se si elimina una formula lunga che si sovrappone a un bordo di cella, è possibile che rimanga visualizzata lungo il bordo di cella.
-
 - È stato risolto un problema di mancato caricamento della personalizzazione della barra multifunzione all'apertura di una cartella di lavoro incorporata.
-
 - Il rendering del menu a discesa al margine potrebbe non essere corretto.
 
 ### <a name="onenote"></a>OneNote
-
 - OneNote potrebbe non venire aperto tramite il componente aggiuntivo "Note riunione" di Outlook.
 
 ### <a name="outlook"></a>Outlook
-
 - Le etichette dei criteri di conservazione potrebbero non mostrare il periodo di conservazione tra parentesi.
-
 - Potrebbero essere visualizzati degli spazi nelle schede contatto con il Language Pack giapponese.
-
 - Le immagini inserite inline nei messaggi di posta elettronica di Outlook talvolta vengono ridimensionate.
 
 ### <a name="powerpoint"></a>PowerPoint
-
 - Se un utente ha due (o più) video diversi in una diapositiva in un file cloud, il rendering delle immagini dei video viene eseguito correttamente, ma quando l'utente fa clic su di esse per avviare la riproduzione, il contenuto del video è lo stesso.
-
 - In alcuni casi, lo scorrimento con i dispositivi touch non funziona.
-
 - Il rendering del menu a discesa al margine potrebbe non essere corretto.
-
 - I collegamenti sicuri da un'applicazione di Office a un'altra potrebbero non avviare l'applicazione collegata.
 
 ### <a name="project"></a>Project
-
 - Project potrebbe arrestarsi in modo anomalo quando si usa la funzionalità Confronta progetti.
-
 - Se è attiva la modalità scura, quando si passa al riquadro Controllo attività in un'attività con una risorsa sovrassegnata, non è possibile leggere la tabella.
-
 - L'impostazione delle risorse su attività prive di assegnazioni viene arrotondata a 1 giorno.
 
 ### <a name="word"></a>Word
-
 - Il salvataggio di un file dopo una stampa unione potrebbe non funzionare in determinate condizioni.
-
 - Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: &quot;Sono stati modificati gli stili, i blocchi predefiniti&quot;.
-
 - Il riquadro Commenti talvolta viene ricaricato quando si usa copia/incolla.
-
 - A volte i commenti non vengono incollati nell'ordine corretto.
-
 - Quando si applica un modello costituito da un elenco a più livelli con stili personalizzati ai documenti esistenti, è possibile che lo stile non venga mantenuto in determinate condizioni.
-
 - Quando si ridimensiona il bordo di uno schermo diviso, potrebbe comparire un altro schermo diviso.
-
-- Il rendering del menu a discesa al margine potrebbe non essere corretto
-
+- Il rendering del menu a discesa al margine potrebbe non essere corretto.
 - Quando si menziona un utente con @ in una scheda commento, potrebbe comparire un codice JSON.
-
 - I collegamenti sicuri da un'applicazione di Office a un'altra potrebbero non avviare l'applicazione collegata.
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
-
 - Per i prodotti basati sul giapponese, il nome e cognome dell'utente dell'account potrebbero essere visualizzati nell'ordine non corretto.
-
 - Quando si passa il puntatore del mouse sui commenti, è possibile che venga visualizzato un contorno di casella di testo attorno al commento.
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -130,14 +148,11 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 ## <a name="version-1912-november-15"></a>Versione 1912: 15 novembre
 *Versione 1912 (Build 12307.20000)*
 
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="insights-services"></a>Servizi Insights
-
-- **Query in linguaggio naturale in Idee in Excel:** nuova caratteristica in Idee di Excel per porre domande in linguaggio naturale sui dati
-
+- **Query in linguaggio naturale in Idee in Excel:** nuova caratteristica in Idee di Excel per porre domande in linguaggio naturale sui dati.
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -147,74 +162,43 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
-
-- <div><span>La funzionalità Testo in colonne può avere esito negativo per alcune localizzazioni</span></div>
-
-
-- <div>La modifica delle formule di matrice dinamica all'interno di una cella può comportare l'allineamento del testo all'esterno del contorno della cella</div>
-
+- La funzionalità Testo in colonne può non funzionare per alcune localizzazioni.
+- La modifica delle formule di matrice dinamica all'interno di una cella può comportare l'allineamento del testo all'esterno del contorno della cella.
 
 ### <a name="outlook"></a>Outlook
-
-- <div>Aggiunta della funzionalità di applicazione della configurazione S/MIME tramite Criteri di gruppo</div>
-
-
-- <div><span>Le immagini incorporate potrebbero apparire più piccole del previsto</span></div>
-
+- Aggiunta della funzionalità di applicazione della configurazione S/MIME tramite Criteri di gruppo.
+- Le immagini incorporate potrebbero apparire più piccole del previsto.
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>Il cursore potrebbe sparire dopo aver spostato lo stato attivo dal testo</span></div>
-
+- Il cursore potrebbe sparire dopo aver spostato lo stato attivo dal testo.
 
 ### <a name="project"></a>Project
-
-- <div><span>È possibile che gli utenti riscontrino un errore di licenza</span></div>
-
-
-- <div><span>Il pulsante Oggi nel controllo di selezione data può talvolta impostare la data non corretta</span></div>
-
+- È possibile che gli utenti riscontrino un errore di licenza.
+- Il pulsante Oggi nel controllo di selezione data può talvolta impostare la data non corretta.
 
 ### <a name="word"></a>Word
-
-- <div><span>Talvolta, facendo clic con il pulsante destro del mouse non viene selezionata l'intera parola</span></div>
-
-
-- <div>Il cursore potrebbe rimanere attivo all'interno di un oggetto dopo la conversione in un formato consigliato</div>
-
-
-- <div>Le immagini nei messaggi potrebbero essere ridimensionate in modo non corretto in alcuni scenari</div>
-
-
-- <div>Alcuni temi potrebbero rendere difficile determinare quale commento è selezionato</div>
-
-
-- <div><span>Selezionando un indicatore del commento ora dovrebbe essere visualizzato il riquadro commenti moderni, se nascosto</span></div>
-
+- Talvolta, facendo clic con il pulsante destro del mouse non viene selezionata l'intera parola.
+- Il cursore potrebbe rimanere attivo all'interno di un oggetto dopo la conversione in un formato consigliato.
+- Le immagini nei messaggi potrebbero essere ridimensionate in modo non corretto in alcuni scenari.
+- Alcuni temi potrebbero rendere difficile determinare quale commento è selezionato.
+- Selezionando un indicatore del commento ora dovrebbe essere visualizzato il riquadro commenti moderni, se nascosto.
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
-
-- <div><span>Rispondendo a un commento, la casella di testo potrebbe espandersi in verticale oltre il bordo del riquadro</span></div>
-
-
+- Rispondendo a un commento, la casella di testo potrebbe espandersi in verticale oltre il bordo del riquadro.
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-november-08"></a>Versione 1912: 8 novembre
 *Versione 1912 (Build 12231.20000)*
 
-
 [//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="user-lifecycle"></a>Ciclo di vita degli utenti
-
-- **Miglioramenti dell'esperienza utente per l'attivazione AFO:** aggiornamenti delle schermate che vengono visualizzate quando si attiva Office fornito con il nuovo PC
+- **Miglioramenti dell'esperienza utente per l'attivazione AFO:** aggiornamenti delle schermate che vengono visualizzate quando si attiva Office fornito con il nuovo PC.
 
 ### <a name="word"></a>Word
-
-- **Esperienza video online nuova e migliorata in Word :** esperienza video online nuova e più sicura, consente di inserire nuovi video e di riprodurre video esistenti in Word
-
+- **Esperienza video online nuova e migliorata in Word :** esperienza video online nuova e più sicura per l'inserimento di nuovi video e la riproduzione di video esistenti in Word.
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -224,49 +208,38 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="outlook"></a>Outlook
-
-- <div><span>Arresto anomalo intermittente associato al recupero di contenuto delle cartelle</span></div>
-
+- Arresto anomalo intermittente associato al recupero di contenuto delle cartelle.
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
-
-- <div><span>L'incollamento di un grafico da Excel a PowerPoint che riduceva le dimensioni del grafico</span></div>
-
-
+- L'incollamento di un grafico da Excel a PowerPoint può ridurre le dimensioni del grafico.
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1911-november-01"></a>Versione 1911: 1° novembre
 *Versione 1911 (Build 12228.20020)*
 
-
 [//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
-
-- **Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office
+- **Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office.
 
 - **Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- **Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office
+- **Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office.
 
 - **Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.
 
 ### <a name="visio"></a>Visio
-
-- **Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
 
 ### <a name="word"></a>Word
-
 - **Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.
 
 - **Miglioramenti apportati alla creazione condivisa:** l'esperienza di creazione condivisa è stata migliorata, aumentando la probabilità che gli altri utenti ricevano in tempo reale le modifiche apportate al contenuto.
 
 - **Visualizzazione rapida delle modifiche di altri utenti:** grazie ai miglioramenti della creazione condivisa, i collaboratori possono visualizzare le modifiche ancor più velocemente.
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -276,95 +249,45 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
-
-- <div><span>È stato risolto un problema che poteva causare l'arresto anomalo di Excel durante la modifica di un file protetto da una condivisione di rete non attendibile</span></div>
-
-
-- <div>È stato risolto un problema per cui l'eliminazione di fogli contenenti grafici sparkline che fanno riferimento a un altro foglio poteva far sì che il file venisse identificato come corrotto in fase di riapertura.</div>
-
-
-- <div>È stato risolto un problema per cui potevano essere ottenuti risultati non corretti durante la conversione di filtri rapporto con il resto della Tabella pivot per le query ai server tabulari SQL.</span></div>
-
-
-- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
-
-
-- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
-
+- È stato risolto un problema che poteva causare l'arresto anomalo di Excel durante la modifica di un file protetto da una condivisione di rete non attendibile.
+- È stato risolto un problema per cui l'eliminazione di fogli contenenti grafici sparkline che fanno riferimento a un altro foglio poteva far sì che il file venisse identificato come corrotto in fase di riapertura.
+- È stato risolto un problema per cui potevano essere ottenuti risultati non corretti durante la conversione di filtri rapporto con il resto della Tabella pivot per le query ai server tabulari SQL.
+- L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo.
+- L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo.
 
 ### <a name="outlook"></a>Outlook
-
-- <div>Un messaggio di posta elettronica inoltrato potrebbe essere privo di immagini incorporate</div>
-
-
-- <div><span>Lo strumento Ricerca sala potrebbe mostrare &quot;Nessuna&quot; per le sale disponibili</span></div>
-
-
-- <div><span>Gli utenti potrebbero non riuscire a creare profili di Outlook con restrizioni rigorose del tenant</div></span>
-
+- Un messaggio di posta elettronica inoltrato potrebbe essere privo delle immagini incorporate.
+- Lo strumento Ricerca sala potrebbe mostrare &quot;Nessuna&quot; per le sale disponibili.
+- Gli utenti potrebbero non riuscire a creare profili di Outlook con restrizioni rigorose del tenant.
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
-
+- L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo.
 
 ### <a name="project"></a>Project
-
-- <div><span>L'utente non è in grado di contrassegnare un'attività come completata e tale attività viene impostata su 99%</span></div>
-
-
-- <div>Le sovrassegnazioni non vengono risolte dal livellamento</div>
-
+- L'utente non è in grado di contrassegnare un'attività come completata e tale attività viene impostata su 99%.
+- Le sovrassegnazioni non vengono risolte dal livellamento.
 
 ### <a name="word"></a>Word
+- L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo.
+- L'apertura di documenti legacy e il successivo passaggio alla scheda Informazioni può causare un arresto anomalo.
+- I suggerimenti degli strumenti di correzione non vengono visualizzati nei menu di scelta rapida.
+- I criteri di contenuto vengono applicati ai commenti in modo errato.
+- I commenti legacy scritti con testo scuro non sono visibili in modalità scura.
+- Potrebbero essere visualizzati dei caratteri errati quando si usa la correzione automatica coreano/inglese.
+- Potrebbero essere applicate etichette criteri inferiori quando dovrebbe avere la priorità un'etichetta criteri di livello superiore.
+- I collegamenti di immagini cid: dai messaggi di Outlook&nbsp;ora possono essere interrotti quando richiesto.
+- L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo.
+- La ricerca dal riquadro di spostamento potrebbe non riuscire.
 
-- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
-
-
-- <div><span>L'apertura di documenti legacy e il successivo passaggio alla scheda Informazioni può causare un arresto anomalo</span></div>
-
-
-- <div><span>I suggerimenti degli strumenti di correzione non vengono visualizzati nei menu di scelta rapida</span></div>
-
-
-- <div><span>I criteri di contenuto vengono applicati ai commenti in modo errato</span></div>
-
-
-- <div><span>I commenti legacy scritti con testo scuro non sono visibili in modalità scura</span></div>
-
-
-- <div><span>Potrebbero essere visualizzati dei caratteri errati quando si usa la correzione automatica coreano/inglese</span></div>
-
-
-- <div><span>Potrebbero essere applicate etichette criteri inferiori quando dovrebbe avere la priorità un'etichetta criteri di livello superiore</div></span>
-
-
-- <div><span>I collegamenti di immagini cid: dai messaggi di Outlook&nbsp;ora possono essere interrotti quando richiesto.</div></span>
-
-
-- <div><span>L'uso simultaneo di Assistente vocale e Lente di ingrandimento potrebbe causare un arresto anomalo</span></div>
-
-
-- <div><span>La ricerca dal riquadro di spostamento potrebbe non riuscire</span></div>
-
-
-### <a name="office-suite"></a>Applicazioni Office
-
-- <div><span>Alcuni disegni potrebbero non essere visualizzati in anteprima o nelle presentazioni</span></div>
-
-
-- <div><span>Alcuni caratteri katakana potrebbero non essere visualizzati correttamente in una casella di testo verticale</span></div>
-
-
-- <div>Se si tenta di salvare un file in una condivisione di rete disconnessa, potrebbe verificarsi un arresto anomalo</div>
-
-
+### <a name="office-suite"></a>Famiglia di prodotti Office
+- Alcuni disegni potrebbero non essere visualizzati in anteprima o nelle presentazioni.
+- Alcuni caratteri katakana potrebbero non essere visualizzati correttamente in una casella di testo verticale.
+- Il tentativo di salvare un file in una condivisione di rete disconnessa può causare un arresto anomalo.
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1911-october-25"></a>Versione 1911: 25 ottobre
 *Versione 1911 (Build 12215.20006)*
-
 
 [//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 

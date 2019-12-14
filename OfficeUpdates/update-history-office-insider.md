@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
-ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 83aa929d5be14f8020f3f349e525c525da79b33a
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857864"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023767"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Cronologia degli aggiornamenti per il canale Office Insider
 
@@ -31,6 +31,9 @@ Se si è iscritti al livello Insider, si ricevono aggiornamenti frequenti conten
 Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NON RIMUOVERE)
+
+**12 dicembre 2019**<br/>
+Versione 2001 (Build 12410.20000)<br/>
 
 **2 dicembre 2019**<br/>
 Versione 1912 (build 12325.20012)<br/>
@@ -177,8 +180,7 @@ Versione 1905 (Build 11624.20000)<br/>
 **Office Insider su Twitter**<br/> Su @OfficeInsider vengono pubblicati frequentemente post su versioni Insider e vengono ospitati eventi speciali per gli utenti di Insider.<br/> 
 [Seguici su Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Immagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![Immagine con l'icona di Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Scopri per primo le nuove funzionalità**
