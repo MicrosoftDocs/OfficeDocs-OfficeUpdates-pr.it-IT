@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: c274cef54692cdb8f793edc78292cca275be8001
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 12389950564e67e2fe79efa1243695cc4e60c57f
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961761"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023561"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Office che utilizzano Windows Installer (MSI)
 
@@ -64,11 +64,11 @@ Utilizzare i collegamenti in questa pagina per ottenere ulteriori informazioni e
 
 [Aggiornamenti per la sicurezza e di altro tipo per giugno 2019: KB4505743](https://support.microsoft.com/help/4505743)
 
-[Aggiornamenti per la sicurezza o di altro tipo per maggio 2019: KB4501270](https://support.microsoft.com/it-IT/help/4501270)
+[Aggiornamenti per la sicurezza o di altro tipo per maggio 2019: KB4501270](https://support.microsoft.com/help/4501270)
 
-[Aggiornamenti per la sicurezza e di altro tipo per aprile 2019: KB4495300](https://support.microsoft.com/it-IT/help/4495300)
+[Aggiornamenti per la sicurezza e di altro tipo per aprile 2019: KB4495300](https://support.microsoft.com/help/4495300)
 
-[Aggiornamenti per la sicurezza o di altro tipo per marzo 2019: KB4491754](https://support.microsoft.com/it-IT/help/4491754) 
+[Aggiornamenti per la sicurezza o di altro tipo per marzo 2019: KB4491754](https://support.microsoft.com/help/4491754) 
 
 [Aggiornamenti per la sicurezza o di altro tipo per febbraio 2019: KB4488446](https://support.microsoft.com/help/4488446)
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Sono disponibili informazioni sui problemi noti di Office 365 ProPlus
-ms.openlocfilehash: 721c9a600b079b3214fa798a39a8ed728c89de93
-ms.sourcegitcommit: 7c1759a0e733ade767da00175afc1c43e8d07e3a
+ms.openlocfilehash: 73cd91d43e09900d81418427dab1da01d89f227b
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38640825"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023551"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemi noti di Office 365 ProPlus
 
@@ -24,7 +24,7 @@ Questa tabella offre un riepilogo dei problemi attuali attivi e dei problemi che
 
 > [!NOTE]
 >- L'elenco non è completo.
->- Se si verifica un problema in un canale diverso dal canale indicato come risolto, la risoluzione sarà presto effettuata. [Altre informazioni](https://docs.microsoft.com/it-IT/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
+>- Se si verifica un problema in un canale diverso dal canale indicato come risolto, la risoluzione sarà presto effettuata. [Altre informazioni](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
 >- I problemi risolti sono documentati anche nelle rispettive pagine del canale.
 
 <br>
