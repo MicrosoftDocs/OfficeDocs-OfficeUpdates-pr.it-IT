@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023601"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302975"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -154,8 +154,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/OfficeUp
 - **Applicare etichette di riservatezza ai documenti e ai messaggi di posta elettronica:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione. [Altre informazioni](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
-
-- **Viene ricevuta una richiesta di aggiornamento di Outlook dopo un errore:** quando Outlook rileva un errore che viene risolto in una versione successiva, chiede ai clienti di eseguire l'aggiornamento e la ricezione della correzione
 
 - **Applicare etichette di riservatezza ai documenti e ai messaggi di posta elettronica:** è possibile applicare etichette di riservatezza ai file e ai messaggi di posta elettronica per mantenerli conformi ai criteri di protezione delle informazioni dell'organizzazione. [Altre informazioni](https://aka.ms/officemipdocs)
 
