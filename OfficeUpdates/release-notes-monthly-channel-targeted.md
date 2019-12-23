@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: e7fc9ff0ba68aca9d73873c7c299fed4e7668236
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: c3fd98c4c475dff6a571b773948464dedf618cad
+ms.sourcegitcommit: f6921c3de1d0e6faaec5a6d2471791fdfa02528d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023621"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "40795740"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -29,6 +29,31 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-1912-december-19"></a>Versione 1912: 19 dicembre
+*Versione 1912 (Build 12325.20214)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="word"></a>Word
+
+- **Un'esperienza video più sicura:** i miglioramenti della sicurezza offrono un'esperienza video online più sicura. [Altre informazioni](https://support.office.com/it-IT/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava un considerevole ritardo nell'interazione con le cartelle delle cassette postali degli utenti usando le scelte rapide da tastiera.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-december-12"></a>Versione 1912: 12 dicembre
 *Versione 1912 (Build 12325.20172)*
