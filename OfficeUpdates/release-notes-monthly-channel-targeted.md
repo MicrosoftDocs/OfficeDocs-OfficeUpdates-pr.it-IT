@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: c3fd98c4c475dff6a571b773948464dedf618cad
-ms.sourcegitcommit: f6921c3de1d0e6faaec5a6d2471791fdfa02528d
+ms.openlocfilehash: 3e02226778b4ffb8b3d57361fcd0b6cff86820d5
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40795740"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889301"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -39,7 +39,7 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="word"></a>Word
 
-- **Un'esperienza video più sicura:** i miglioramenti della sicurezza offrono un'esperienza video online più sicura. [Altre informazioni](https://support.office.com/it-IT/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- **Un'esperienza video più sicura:** i miglioramenti della sicurezza offrono un'esperienza video online più sicura. [Altre informazioni](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)

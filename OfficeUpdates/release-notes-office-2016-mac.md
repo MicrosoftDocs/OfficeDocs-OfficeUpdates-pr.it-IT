@@ -10,19 +10,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni per Office 2016 per Mac a partire da settembre 2018
-ms.openlocfilehash: 7f489b97cf41119d1fc7bd884e2dde46434cb048
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2d001ad0d7ef43ef5484267f16b5c388a146cb23
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962213"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889281"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Cronologia aggiornamenti per Office 2016 per Mac
 
 Office 2016 per Mac è una versione di Office disponibile come acquisto di una copia unica presso un punto vendita al dettaglio o tramite un contratto multilicenza. Sarà supportato con aggiornamenti della sicurezza e correzioni di errore, se necessario, fino al 13 ottobre 2020. La versione minima di macOS supportata per Office 2016 per Mac è la 10.10 (Yosemite).
 
 > [!NOTE]
-> - Per motivi di sicurezza, Microsoft ha reso deprecato l'uso di SHA-1. [Ulteriori informazioni](https://docs.microsoft.com/it-IT/security-updates/SecurityAdvisories/2017/4010323)
+> - Per motivi di sicurezza, Microsoft ha reso deprecato l'uso di SHA-1. [Ulteriori informazioni](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - Per le note sulla versione per le versioni di Office 2016 per Mac precedenti al mese di settembre 2018, vedere [Note sulla versione per Office per Mac](release-notes-office-for-mac.md).  
 > - Per informazioni sulla versione di Office per Mac, che è quella fornita con gli abbonamenti di Office 365, vedere le [note sulla versione](release-notes-office-for-mac.md) e la [cronologia degli aggiornamenti](update-history-office-for-mac.md) per Office per Mac.
 > - Office 2019 per Mac è la versione più recente disponibile come acquisto di una copia unica. Per informazioni sulla versione per Office 2019 per Mac, vedere la [note sulla versione](release-notes-office-for-mac.md) e la [cronologia degli aggiornamenti](update-history-office-for-mac.md) per Office per Mac.
