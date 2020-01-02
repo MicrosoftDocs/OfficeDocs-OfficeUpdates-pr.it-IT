@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 3e02226778b4ffb8b3d57361fcd0b6cff86820d5
-ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
+ms.openlocfilehash: f11cd846890d876eede81090df2ea718022bb3f9
+ms.sourcegitcommit: e98fd276315194ca861f00d6bcd2795f13edf5d0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889301"
+ms.lasthandoff: 12/31/2019
+ms.locfileid: "40918442"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -29,6 +29,37 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-1912-december-30"></a>Versione 1912: 30 dicembre
+*Versione 1912 (Build 12325.20240)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Oggi il contesto segue gli oggetti SVG:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG quando si convertono questi oggetti in Office.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- <div>È stato risolto un problema che causava un blocco in Outlook agli utenti durante il recupero delle impostazioni del cloud.</div>
+
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEL BUG)
 
 ## <a name="version-1912-december-19"></a>Versione 1912: 19 dicembre
 *Versione 1912 (Build 12325.20214)*
