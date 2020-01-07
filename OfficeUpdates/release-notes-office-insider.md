@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
-ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
+ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
+ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019852"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40951094"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,41 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2001-january-03"></a>Versione 2001: 03 gennaio
+*Versione 2001 (Build 12425.20000)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+
+### <a name="excel"></a>Excel
+- È possibile che alcune linee dei bordi non vengano stampate come previsto in formato A4.
+- L'aggiunta di un'immagine all'intestazione o al piè di pagina di un oggetto grafico in un foglio con VBA potrebbe generare un errore.
+- Durante la formattazione di un'asse del grafico l'intervallo tra le etichette era limitato a 255.
+- È stato risolto un problema per cui si verificava un errore durante il tentativo di aggiornare una query XML in cui l'URL dell'origine dati veniva troncato.
+- Le statistiche della cartella di lavoro segnalavano un conteggio delle macro di tutte le cartelle di lavoro aperte, inclusa la cartella macro personale.
+
+### <a name="outlook"></a>Outlook
+- Il passaggio da una cartella all’altra potrebbe comportare un breve "lampo" bianco nell'elenco di posta/anteprima della posta. Questo comportamento era più marcato in modalità scura.
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema con il modello a oggetti in cui il metodo Shape.Paste applicava lo stato attivo alla forma incollata.&nbsp;
+- È stato migliorato uno scenario di copia e incolla:&nbsp;Copiare e incollare una forma da una diapositiva di PowerPoint a un'altra in un ciclo a livello di programmazione poteva risultare in un errore di eccezione.&nbsp;
+- Il rendering delle animazioni nelle intestazioni di sezione delle diapositive non veniva eseguito correttamente dopo aver collassato ed espanso le intestazioni.
+
+### <a name="project"></a>Project
+- È stato risolto un problema per cui la disposizione del testo non funzionava nelle visualizzazioni Gestione attività e Uso risorse.
+- È stato risolto un problema per cui, se una risorsa aveva più tariffe, il valore della tariffa nelle assegnazioni poteva non essere corretto.
+
+### <a name="word"></a>Word
+- Se veniva inserito un controllo in un'equazione, ad esempio un controllo contenuto testo, il salvataggio e l'apertura del file comportavano un errore di contenuto illeggibile.
+- Durante la creazione condivisa, i commenti aggiunti con Word online potevano non essere visualizzati in Word desktop.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+- È stato risolto un problema per cui veniva indicata una data di scadenza errata di una licenza valida quando si provava a cambiare licenza possedendone una sola.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-december-13"></a>Versione 2001: 13 dicembre
 *Versione 2001 (Build 12410.20000)*
@@ -232,7 +267,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 - **Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.
 
 ### <a name="visio"></a>Visio
-- **Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
+- **Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
 
 ### <a name="word"></a>Word
 - **Visualizzazione delle opzioni della Penna per Surface quando la si prende:** la prima volta che si usa la Penna per Surface in Word, Excel o PowerPoint, la scheda Disegno si attiverà per agevolare la selezione dei colori della penna.
@@ -294,7 +329,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="visio"></a>Visio
 
-- **Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Creare diagrammi di Visio chiari in Excel:** è possibile visualizzare i dati in modo semplice e rapido nei diagrammi di Visio in Excel. [Altre informazioni](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -513,7 +548,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Componente aggiuntivo Visualizzatore dati:** creazione rapida di diagrammi di flusso di Visio da Excel. [Altre informazioni](https://support.office.com/it-IT/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Componente aggiuntivo Visualizzatore dati:** creazione rapida di diagrammi di flusso di Visio da Excel. [Altre informazioni](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -709,15 +744,15 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare. [Altre informazioni](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare. [Altre informazioni](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare. [Altre informazioni](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare. [Altre informazioni](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="word"></a>Word
 
-- **Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare. [Altre informazioni](https://support.office.com/it-IT/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Pronti, partenza, disegna:** quando si afferra la Penna per Surface, si è pronti per disegnare. [Altre informazioni](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -768,7 +803,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Salvare un'illustrazione in formato SVG:** è possibile salvare un grafico, una forma o un'altra illustrazione in formato SVG (Scalable Vector Graphic), che può essere ridimensionato senza perdita di qualità dell'immagine. [Altre informazioni](https://support.office.com/it-IT/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Salvare un'illustrazione in formato SVG:** è possibile salvare un grafico, una forma o un'altra illustrazione in formato SVG (Scalable Vector Graphic), che può essere ridimensionato senza perdita di qualità dell'immagine. [Altre informazioni](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1240,7 +1275,7 @@ Se si sta lavorando a una bozza di presentazione, è possibile applicare lo stil
 - **Condivisione dei file più rapida**: è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.
 ### <a name="powerpoint"></a>PowerPoint
 
-- **L'impostazione per la stampa dei numeri di diapositiva in stampati è stata spostata nel menu Stampa per semplificare l'accesso:** trovarla nell'elenco a discesa Stampa > layout di stampa quando è selezionato un layout Stampati. L'opzione consente inoltre di attivare o disattivare facilmente la presentazione. [Altre informazioni](https://support.office.com/it-IT/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **L'impostazione per la stampa dei numeri di diapositiva in stampati è stata spostata nel menu Stampa per semplificare l'accesso:** trovarla nell'elenco a discesa Stampa > layout di stampa quando è selezionato un layout Stampati. L'opzione consente inoltre di attivare o disattivare facilmente la presentazione. [Altre informazioni](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **Condivisione dei file più rapida:** è possibile condividere i documenti direttamente dall'elenco degli ultimi file usati senza dover aprire il file.
 
@@ -1488,7 +1523,7 @@ La finestra di dialogo usata per contattare il supporto verrà ora visualizzata 
 
 #### <a name="open-document-links-in-word"></a>Aprire i collegamenti ai documenti in Word
 
-Quando si fa clic su un collegamento a un documento in Office, è possibile aggiornare la preferenza in modo da aprire l'app Word per impostazione predefinita.  Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Quando si fa clic su un collegamento a un documento in Office, è possibile aggiornare la preferenza in modo da aprire l'app Word per impostazione predefinita.  Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Guida introduttiva:
 
@@ -1509,7 +1544,7 @@ Per attivare l'esperienza di scelta, aprire un collegamento a un documento di Wo
 
 #### <a name="open-presentation-links-in-powerpoint"></a>Aprire i collegamenti alle presentazioni in PowerPoint
 
-Quando si fa clic su un collegamento a una presentazione in Office, è possibile aggiornare la preferenza in modo da aprire l'app PowerPoint per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Quando si fa clic su un collegamento a una presentazione in Office, è possibile aggiornare la preferenza in modo da aprire l'app PowerPoint per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Guida introduttiva:
 
@@ -1530,7 +1565,7 @@ Per attivare l'esperienza di scelta, aprire un collegamento a una presentazione 
 
 #### <a name="open-workbook-links-in-excel"></a>Aprire i collegamenti alle cartelle di lavoro in Excel
 
-Quando si fa clic su un collegamento a una cartella di lavoro in Office, è possibile aggiornare la preferenza in modo da aprire l'app Excel per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Quando si fa clic su un collegamento a una cartella di lavoro in Office, è possibile aggiornare la preferenza in modo da aprire l'app Excel per impostazione predefinita. Per aggiornare la preferenza, passare a File -> Opzioni -> Avanzate -> Gestione del link. Altre informazioni: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Guida introduttiva:
 
