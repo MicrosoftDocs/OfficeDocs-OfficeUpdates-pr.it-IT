@@ -3,19 +3,19 @@ title: Ultimi aggiornamenti non relativi alla sicurezza per le versioni di Offic
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/04/2019
+ms.date: 1/08/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti non relativi alla sicurezza delle versioni con licenza perpetua di Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: 85c94bef062f0ed71bbdcbfd1f1fd0684ba206be
-ms.sourcegitcommit: 37fc7174310b0a4dc6a816d675b8e1b7d9302ffd
+ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
+ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39678648"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40961653"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Ultimi aggiornamenti non relativi alla sicurezza per le versioni di Office che usano Windows Installer (MSI)
 
@@ -26,6 +26,21 @@ Questa pagina elenca gli aggiornamenti non relativi alla sicurezza per Office, c
 > - Le informazioni contenute in questo articolo non si applicano alle versioni Office 365, ad esempio Office 365 ProPlus.
 > - Per ulteriori informazioni sull'installazione degli aggiornamenti di Office, vedere [Installare gli aggiornamenti di Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="january-7-2020"></a>7 gennaio 2020
+
+**Office 2016**<br/>
+Aggiornamento per Microsoft Office 2016 ([KB4464586](https://support.microsoft.com/help/4464586)) <br/>
+Aggiornamento per Microsoft Office 2016 ([KB4484168](https://support.microsoft.com/help/4484168)) <br/>
+Aggiornamento per Microsoft Office 2016 ([KB4484218](https://support.microsoft.com/help/4484218)) <br/>
+Aggiornamento per Microsoft Outlook 2016 ([KB4484212](https://support.microsoft.com/help/4484212)) <br/>
+Aggiornamento per Microsoft PowerPoint 2016 ([KB4484216](https://support.microsoft.com/help/4484216)) <br/>
+Aggiornamento per Microsoft Project 2016 ([KB4484140](https://support.microsoft.com/help/4484140)) <br/>
+Aggiornamento per Microsoft Visio 2016 ([KB4464575](https://support.microsoft.com/help/4464575)) <br/>
+Aggiornamento per Visualizzatore di Microsoft Visio 2016 ([KB2920709](https://support.microsoft.com/help/2920709)) <br/>
+Aggiornamento per Microsoft Word 2016 ([KB4484219](https://support.microsoft.com/help/4484219)) <br/>
+Aggiornamento per Skype for Business 2016 ([KB4484213](https://support.microsoft.com/help/4484213)) <br/>
+
 
 ## <a name="december-3-2019"></a>3 dicembre 2019
 
