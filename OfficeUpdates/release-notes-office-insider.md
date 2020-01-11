@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
-ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
+ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
+ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40951094"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "41022051"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,38 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2001-january-10"></a>Versione 2001: 10 gennaio
+*Versione 2001 (Build 12430.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+- **Salvataggio delle forme come immagini:** con pochi clic del mouse è possibile salvare una forma, un'icona o un altro oggetto come file di immagine, così da poterlo riutilizzare altrove. [Altre informazioni](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+- **Gli utenti possono ora salvare gli oggetti in Word/Excel/Outlook come immagine per Windows:** con la funzionalità già vista in PowerPoint, gli utenti possono ora salvare gli oggetti in Word, Excel e Outlook come immagine. Gli oggetti includono forme, icone, immagini e altro ancora. L'opzione è accessibile tramite il menu di scelta rapida.
+
+### <a name="word"></a>Word
+- **Selezione facile dell'input penna in Word disegnandovi una forma intorno:** lo strumento Lazo della scheda Disegno consente di selezionare gli oggetti disegnati con l'input penna. È possibile selezionare singoli tratti o parole intere. La funzionalità è utile quando si ha molto input penna e si vuole lavorare solo con una parte. [Altre informazioni](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Salvataggio delle forme come immagini:** con pochi clic del mouse è possibile salvare una forma, un'icona o un altro oggetto come file di immagine, così da poterlo riutilizzare altrove. [Altre informazioni](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="onenote"></a>OneNote
+- Le linguette delle pagine possono apparire troppo piccole e vicine tra loro alla risoluzione del 100%.
+
+### <a name="word"></a>Word
+- In un set di commenti di grandi dimensioni, l'eliminazione di un commento verso la fine dell'elenco di commenti può far scorrere il riquadro fino in cima.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-january-03"></a>Versione 2001: 03 gennaio
 *Versione 2001 (Build 12425.20000)*
@@ -1752,7 +1784,7 @@ Passare alla scheda Disegno. Selezionare la penna. Disegnare un tratto input pen
 - È stato risolto un problema per cui l'uso del generatore di zoom per la visualizzazione di testo RTF poteva rendere difficile la lettura.
 
 ### <a name="project"></a>Project
-- Diverse correzioni su prestazioni e stabilità
+- Diverse correzioni a prestazioni e stabilità
 
 </BR></BR>
 
