@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
-ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
+ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39982266"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122295"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -33,6 +33,45 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 
 
+[//]: # (DO NOT REMOVE)
+
+
+## <a name="january-14-2020"></a>14 gennaio 2020
+*Versione 16.33 (Build 20011301)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Digitare una formula che restituisce più valori:** è possibile digitare rapidamente una formula che restituisce più valori, che si estenderanno automaticamente nelle celle adiacenti. [Altre informazioni](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **Creare e gestire query con VBA per Mac:** è possibile creare e gestire query di Power Query per origini supportate nel Mac con VBA.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **GIF in un batter d'occhio:** una diapositiva, un frame. Crea facilmente GIF a ripetizione continua in PowerPoint. [Altre informazioni](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+### <a name="word"></a>Word
+
+- **Accessibilità integrata: supporto di High Sierra:** è stato aggiunto il supporto per High Sierra, tra cui lingua, collegamenti e tabelle nel rotore, oltre al miglioramento del supporto per la ricerca.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>Aggiornamenti della sicurezza
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0651)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="december-10-2019"></a>10 dicembre 2019
 *Versione 16.32 (build 19120802)*

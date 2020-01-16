@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: cd63909491b0a9c3c838c3357fd8cfd4b0a98ced
-ms.sourcegitcommit: 7878888296fd804525e07ef84947f8133ab7dcba
+ms.openlocfilehash: 9499ba80668b7512888b27f32caef11454c0c1a3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41004324"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122125"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -30,13 +30,24 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 [//]: # (NON RIMUOVERE)
 
-## <a name="january-9-2020"></a>9 gennaio 2020
+## <a name="january-14-2020"></a>14 gennaio 2020
 
-[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+[//]: # (DO NOT REMOVE CONTENT STARTJanuary 14, 2020)
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 1912 (Build 12325.20298).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1912 (Build 12325.20288) <br/> |8 gennaio 2020 <br/> |46<br/> |
+|Versione 1911 (Build 12228.20364) <br/> |10 dicembre 2019 <br/> |151<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>Canale semestrale
 
-<i>La versione prevista è la numero 1908 (Build 11929.20562).</i>
+La versione più recente è la numero 1908 (Build 11929.20562).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
@@ -46,7 +57,7 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 ### <a name="semi-annual-targeted-channel"></a>Canale semestrale (mirato)
 
-<i>La versione prevista è la numero 1908 (Build 11929.20562).</i>
+La versione più recente è la numero 1908 (Build 11929.20562).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +65,8 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 |Versione 1908 (build 11929.20494) <br/> |22 novembre 2019 <br/> |64<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDJanuary 14, 2020)
+
 
 ## <a name="january-8-2020"></a>8 gennaio 2020
 

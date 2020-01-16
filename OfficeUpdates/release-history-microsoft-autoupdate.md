@@ -3,19 +3,19 @@ title: Cronologia delle versioni per Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: 5159c896b9293daa54a48228c86aa7fbc550870d
-ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
+ms.openlocfilehash: 9d81237da3cb66bbfe2242e270ca416e709ec30e
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889271"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122285"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -30,6 +30,25 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="january-2020-release"></a>Rilascio di gennaio 2020
+
+**Data di rilascio:** 14 gennaio 2020
+
+*Aggiornamento automatico Microsoft 4.19*
+
+ **Aggiornamenti delle funzionalità:**
+
+- Correzioni di bug e miglioramenti
+
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto di Microsoft AutoUpdate 4.19](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Hash SHA-256:**
+
+D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 ## <a name="december-2019-release"></a>Rilascio di dicembre 2019
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulla versione gli aggiornamenti della sicurezza di Office 365 ProPlus
-ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 421c8eadf21db20b7ee7fc783f3a3661f6681f75
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961781"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122015"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Note sulla versione per gli aggiornamenti della sicurezza di Office 365 ProPlus
 
@@ -25,6 +25,30 @@ Le note sulla versione forniscono informazioni sulle correzioni per la sicurezza
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.  
 
 [//]: # (NON ELIMINARE LA RIGA SOPRA, viene usata per la spaziatura)  
+
+## <a name="january-14-2020"></a>14 gennaio 2020
+Canale mensile: versione 1912 (Build 12325.20298)  
+Canale semestrale (mirato): versione 1908 (Build 11929.20562)  
+Canale semestrale: versione 1908 (Build 11929.20562)  
+Canale semestrale: versione 1902 (Build 11328.20512)  
+Canale semestrale: versione 1808 (Build 10730.20432)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0651)
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0653](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0653)
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+-   [CVE-2020-0652](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0652)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="december-10-2019"></a>10 dicembre 2019
 Canale mensile: versione 1911 (Build 12228.20364)  
