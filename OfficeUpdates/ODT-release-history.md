@@ -9,25 +9,33 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: 65dbad6110d38fd98fb7b6df94c2a54df2f89459
-ms.sourcegitcommit: 6570d42ebb04c11b9aa40dac7825ae8da9694e10
+ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
+ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37902402"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41230064"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
 Lo Strumento di distribuzione di Office (ODT) è uno strumento da riga di comando usato per scaricare e distribuire le versioni A portata di clic di Office, ad esempio Office 365 ProPlus, nei computer client. 
 
 
-Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È possibile specificare i prodotti e le lingue installati, la modalità di aggiornamento dei prodotti e se si vuole che l'esperienza di installazione sia visibile agli utenti. Per altre informazioni sull'uso di ODT, vedere [Panoramica dello Strumento di distribuzione di Office](https://docs.microsoft.com/it-IT/deployoffice/overview-of-the-office-2016-deployment-tool).
+Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È possibile specificare i prodotti e le lingue installati, la modalità di aggiornamento dei prodotti e se si vuole che l'esperienza di installazione sia visibile agli utenti. Per altre informazioni sull'uso di ODT, vedere [Panoramica dello Strumento di distribuzione di Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
  **Sistema operativo supportato**: Windows 10, Windows 7, Windows 8, Windows 8.1, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2. 
  
  **Istruzioni di installazione**: scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="january-16-2020"></a>16 gennaio 2020
+
+Versione 16.0.12325.20288
+- Risolve un problema per cui l'interfaccia utente di istallazione di Office veniva visualizzata in una lingua non corretta in caso di installazione di più lingue
+- Risolve un problema per cui si verificava un errore imprevisto al momento dell'installazione di alcuni pacchetti di strumenti di correzione durante l'installazione di Office.
+- Aggiunge il supporto per controllare, in modo facoltativo, la distribuzione iniziale della [funzionalità Microsoft Search in Bing](https://go.microsoft.com/fwlink/p/?linkid=2109345)
 
 
 ## <a name="october-31-2019"></a>31 ottobre 2019

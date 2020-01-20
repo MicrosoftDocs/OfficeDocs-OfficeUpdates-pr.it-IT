@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
-ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
+ms.openlocfilehash: 3889a3f93c8b83129928c95fd9880472de0be8eb
+ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "41022051"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41230084"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -25,7 +25,38 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
-[//]: # (NON RIMUOVERE)
+[//]: # (DO NOT REMOVE)
+
+## <a name="version-2002-january-17"></a>Versione 2002: 17 gennaio
+*Versione 2002 (Build 12508.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="word"></a>Word
+
+- **I messaggi di posta elettronica di notifica delle menzioni e dei commenti ora contengono anteprime:** le email di notifica delle menzioni e dei commenti ora includeranno le anteprime del testo del commento e il contesto di riferimento.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- In alcuni casi, lo strumento Verifica accessibilità non visualizzava i suggerimenti per le forme.
+
+### <a name="outlook"></a>Outlook
+
+- Le cartelle salvate in "Preferiti" nel riquadro di spostamento a sinistra scomparivano in modo intermittente.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui l'input penna non era corretto o non veniva eseguito durante le animazioni dell'input penna di PowerPoint.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-january-10"></a>Versione 2001: 10 gennaio
 *Versione 2001 (Build 12430.20000)*

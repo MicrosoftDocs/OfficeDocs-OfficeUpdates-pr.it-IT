@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: a3edffcc7a997e4dc2e512518a6a8050f60f7141
+ms.sourcegitcommit: 9b7d0cbf39e67f308c6c24821d3a736a43521e85
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122005"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41231859"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -29,6 +29,24 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2001-january-17"></a>Versione 2001: 17 gennaio
+*Versione 2001 (Build 12430.20120)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="word"></a>Word
+
+- **Selezione facile dell'input penna in Word disegnandovi una forma intorno:** lo strumento Lazo della scheda Disegno consente di selezionare gli oggetti disegnati con l'input penna. È possibile selezionare singoli tratti o parole intere. La funzionalità è utile quando si ha molto input penna e si vuole lavorare solo con una parte. [Altre informazioni](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- Il client Excel causava problemi in diversi scenari (ad esempio durante la stampa, l'esecuzione di macro, dello zoom) nella Versione 2001 in lingue diverse dall'inglese per gli utenti con build 12430.20050 e che eseguivano la versione di Excel a 32 bit. 
 
 ## <a name="version-2001-january-14"></a>Versione 2001: 14 gennaio
 *Versione 2001 (Build 12430.20050)*
