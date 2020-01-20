@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2020
-ms.openlocfilehash: d91f3ed15a726c96891eee51e4b53de4db71928b
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 0b31c340e651f3a2862c7fa996c060ce86b5a724
+ms.sourcegitcommit: 8c07d6182c66a7ea9e44d0bb7550a7a1d44877eb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122265"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "41214540"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2020
 
@@ -27,7 +27,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 
 ## <a name="version-1908-january-14"></a>Versione 1908: 14 gennaio
-*Versione 1908 (build 11929.20562)*
+*Versione 1908 (Build 11929.20562)*
 
 Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
@@ -39,6 +39,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Monitorare gli oggetti di database:** visualizzare chiaramente la scheda attiva, trascinare facilmente le schede per disporle in modo diverso e chiudere gli oggetti di database con un solo clic.
 
 - **Passaggio semplificato:** la nuova interfaccia di Gestione account consente di visualizzare tutti gli account aziendali e personali di Office 365 in un'unica posizione. Passare da uno all’altro non è mai stato così facile. [Altre informazioni](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Zoom con più spazio:** ingrandire la casella Zoom e cambiare il tipo di carattere. Tutte le modifiche verranno mantenute. [Altre informazioni](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
 ### <a name="excel"></a>Excel
 
@@ -80,8 +82,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Miglioramenti alla transizione Morphing:** ottenere la transizione perfetta. Morphing di tabelle e SmartArt con transizioni più agevoli
-
 - **Spostamento di forme migliorato:** assegnare un nome alle forme per un maggiore controllo sul modo in cui effettuano il morphing. [Altre informazioni](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **Ricerca rapida del file:** Come cercare un file utilizzato di recente? È sufficiente digitare nella casella di ricerca su File > Home page per trovare il file che si sta cercando.
@@ -118,7 +118,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="word"></a>Word
 
-- **Aggiungere colore alla pagina:** grazie ai nuovi colori disponibili per le pagine diventa un gioco da ragazzi cambiare rapidamente uno sfondo interamente bianco o nero.
+- **La modalità Strumenti di apprendimento dispone di ulteriore supporto per più colori della pagina:** in Strumenti di apprendimento in Word è stato aggiunto il supporto per altri colori del tema della pagina, per poter modificare il colore di sfondo della pagina. Molti utenti hanno difficoltà a leggere con uno sfondo completamente bianco o completamente nero, quindi è stata ampliata la scelta dei colori disponibili in Word su PC e Mac.
 
 - **Modifica semplificata con Editor input penna:** con un solo tratto della penna, si possono dividere o unire le parole, aggiungere una nuova riga o inserire parole. [Ulteriori informazioni](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
@@ -146,7 +146,9 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Controlli della privacy:** Controlli nuovi, aggiornati e migliorati per dati di diagnostica ed esperienze connesse. [Altre informazioni](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Le nuove icone di Office:** l’aspetto delle icone di Office è cambiato per riflettere l'esperienza semplice, potente e intelligente di Office.
+- **Le icone di Office hanno un nuovo aspetto:** le icone di Office sono state riprogettate per riflettere l'esperienza semplice potente e intelligente di Office.
+
+- **Installazione di Microsoft Teams:** Microsoft Teams viene installato per impostazione predefinita nelle nuove installazioni di Office 365 ProPlus. [Altre informazioni](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
