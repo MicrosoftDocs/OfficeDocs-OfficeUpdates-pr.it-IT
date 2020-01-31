@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea7f2bd55b0aa1088eec2219b562f28b83985a2f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122295"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629222"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -861,8 +861,8 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Sfondi moderni per la modalità focus:** scegliere tra gli sfondi Crepuscolo o Notte polare quando si è in modalità focus nella tab **Visualizzazione**. [Ulteriori informazioni](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Gruppi:** visualizzare i primi 10 gruppi principali e leggere o rispondere alle conversazioni di gruppo direttamente dalla cartella Gruppi.  <br/> <br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Famiglia di prodotti Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2017-0254): vulnerabilità di danneggiamento della memoria di Microsoft Office   |
 
@@ -933,66 +933,3 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |Word  <br/> |Opzioni aggiuntive per la modalità focus, tra cui Quercia, Mogano e Grafite. Solo per gli iscritti di Office 365. [Ulteriori informazioni](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx) <br/> |Risolvere vari problemi delle prestazioni, come i ritardi nella digitazione o nello scorrimento e le prestazioni rallentate quando si modifica un documento di grandi dimensioni.  |
 |Microsoft AutoUpdate  <br/> |Ulteriori funzionalità relative alla risoluzione dei problemi e alla registrazione.  <br/> |Numero di versione aggiornato a 3.8.3.  |
    
-## <a name="december-2016-release"></a>Rilascio di dicembre 2016
-
-
- **Data di rilascio:** 15 dicembre 2016 
-  
- *Versione 15.29.1 (Build 16121500)* 
-  
-Questa versione risolve un problema con l'apertura o il salvataggio di file in Word, Excel o PowerPoint quando la prima parte del percorso del file contiene spazi o determinati caratteri.
-
-<br/><br/>
-  
- **Data di rilascio:** 13 dicembre 2016 
-  
- *Versione 15.29.0 (Build 16120900)* 
-  
-Questa versione fornisce gli aggiornamenti seguenti.
-  
-|**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti non della sicurezza**|**Aggiornamenti della sicurezza**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> | Mantenere la fedeltà al documento originale, con collegamenti ipertestuali funzionanti, quando si esegue la conversione in PDF. [Ulteriori informazioni](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> Supporto migliorato per la creazione di documenti accessibili e l'utilizzo di VoiceOver e di altre assistive technology per leggere e modificare documenti. [Ulteriori informazioni](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
-|Excel  <br/> | Supporto migliorato per la creazione di documenti accessibili e l'uso di VoiceOver e di altri strumenti di assistive technology per leggere e modificare documenti. [Altre informazioni](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Risolvere un problema a causa del quale, quando si usa la convalida dei dati, se si immette testo nella finestra del messaggio di errore, Excel si arresta in modo anomalo.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)   |
-|PowerPoint  <br/> | Supporto migliorato per la creazione di documenti accessibili e l'utilizzo di VoiceOver e di altre assistive technology per leggere e modificare documenti. [Ulteriori informazioni](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
-|Famiglia di prodotti Office  <br/> | Supporto per tre lingue aggiuntive: greco, ungherese e slovacco  <br/> ||Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)  |
-|Microsoft AutoUpdate  <br/> || - Numero di versione aggiornato a 3.8.2.  <br/> - Affidabilità migliorata e correzioni di bug minori.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)  |
-   
-## <a name="november-2016-release"></a>Rilascio di novembre 2016
-
-
- **Data di rilascio:** 17 novembre 2016 
-  
- *Versione 15.28.0 (Build 16111700)* 
-  
-Questa versione risolve un problema con Outlook e le cartelle pubbliche in Exchange Server 2010. 
-
-<br/><br/>
-  
- **Data di rilascio:** 15 novembre 2016 
-  
- *Versione 15.28.0 (Build 16111501)* 
-  
-Questa versione risolve un problema con i pacchetti di aggiornamento per le singole applicazioni.
-
-<br/><br/>
-  
-
- **Data di rilascio:** 15 novembre 2016 
-  
- *Versione 15.28.0 (Build 16111300)* 
-  
-Questa versione fornisce gli aggiornamenti seguenti.
-  
-|**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti non della sicurezza**|**Aggiornamenti della sicurezza**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> |Nuove opzioni di supporto per regole grammaticali per ceco, ungherese, coreano, norvegese, polacco, russo e turco.  <br/> | Risolvere un problema a causa del quale Word non è in grado di salvare i documenti quando i fogli di calcolo di Excel con determinati contenuti al bordo sono incorporati nel documento.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-133](https://technet.microsoft.com/library/security/MS16-133): Aggiornamento della sicurezza per Microsoft Office (3199168) |
-|Excel  <br/> || Risolvere un problema a causa del quale Excel non è in grado di salvare le modifiche apportate a determinate configurazioni di archiviazione aziendali come le unità NetApp FAS. Excel ora adotta lo stesso metodo di salvataggio dei file di Word.  <br/> |Bollettino Microsoft sulla sicurezza [MS16-133](https://technet.microsoft.com/library/security/MS16-133): Aggiornamento della sicurezza per Microsoft Office (3199168)  <br/> |
-|PowerPoint  <br/> |Visualizzare riepiloghi interattivi e collegamenti di navigazione automatici che sono stati creati usando il comando Zoom in PowerPoint 2016 per Windows.  <br/> | Risolvere un problema a causa del quale le immagini non vengono sottoposte al rendering e sono sostituite con un errore che fa riferimento arID#.  ||
-|Outlook  <br/> |Individuare e risolvere problemi di accessibilità che si verificano durante la composizione di messaggi o inviti usando Verifica accessibilità. [Ulteriori informazioni](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | Risolvere un problema con il rilevamento automatico della lingua durante la composizione di e-mail. ||
-|Famiglia di prodotti Office  <br/> || - Miglioramenti significativi per gli utenti con particolari esigenze di accessibilità.  <br/><br/>  - È possibile configurare Segnalazione errori Microsoft per salvare l'ultimo log di arresto anomalo sul disco (impostazione predefinita: com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE). <br/> <br/>  - Messaggio di attivazione migliore per utenti E1/K1. Non viene più indicato agli utenti che si è verificato un errore, gli utenti possono accedere direttamente all'esperienza di sola visualizzazione.  <br/><br/> -  Formato del nome file dello strumento di installazione e di aggiornamento modificato. Esempio: Microsoft_Office_2016_15.28.16111300_Installer.pkg anziché Microsoft_Office_2016_15.28.0_161113_Installer.pkg.  ||
-|Microsoft AutoUpdate  <br/> |Include una nuova opzione per rilevare, scaricare e installare gli aggiornamenti automaticamente.  <br/> | - Numero di versione aggiornato a 3.8.1.  <br/> <br/>- Risolvere un problema di arresto anomalo di MAU quando sono installate versioni precedenti di Microsoft Silverlight, in particolare quando Silverlight è registrato con un LCID Null.  <br/><br/>  - Risolvere un problema di arresto anomalo di MAU quando si usa la preferenza ManifestServer.  <br/><br/> - Nome visualizzato del bundle Microsoft AU Daemon modificato in "Microsoft Update Assistant".  <br/><br/> - Il feed XML di MAU per le app del 2016 non include più un dizionario di trigger e si basa su "Update Version" per il rilevamento della versione.  <br/><br/> - In MAU ora viene visualizza la stringa di versione completa nella finestra di aggiornamento dell'applicazione. Esempio: 15.28.16110300 anziché solo 15.28.  ||
-   
-
-   
-

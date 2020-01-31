@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale per Office 365 ProPlus in 2017
-ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439231"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629263"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Note sulla versione per i rilasci del canale semestrale nel 2017
 
@@ -95,7 +95,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1705-october-10"></a>Versione 1705:10 ottobre
 *Versione 1705 (Build 8201.2200)*
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale Excel si blocca quando si espande oppure si comprime una tabella pivot e le intestazioni della tabella pivot si spostano sullo schermo.
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
@@ -118,7 +118,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 *Questa è la versione di Deferred Channel che è disponibile a partire dal 2017 giugno. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a gennaio 2018. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1705 (Build 8201,2200), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): le funzionalità di sicurezza di Microsoft Outlook ignorano la vulnerabilità
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
@@ -154,7 +154,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Usare una penna per selezionare e modificare gli oggetti:** Catturare i punti di controllo dell'oggetto con una penna digitale per ridimensionare, ruotare, spostare e altro.
 -   **Grafico mappa:** Confrontare i valori e visualizzare le categorie in aree geografiche diverse. [Ulteriori informazioni](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle cartelle di lavoro. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Salvare in cartelle recenti:** Salvare una cartella di lavoro in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Miglioramenti accessibilità:** Supporto migliorato per l'utilizzo della tastiera, Assistente vocale e altri strumenti di Assistive Technology per leggere e modificare le cartelle di lavoro. [Ulteriori informazioni](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -201,7 +201,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle e-mail. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni.   [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): le funzionalità di sicurezza di Microsoft Office ignorano la vulnerabilità
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): esecuzione di codice remoto in Microsoft Office
@@ -226,8 +226,8 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Rimozione dello sfondo:** consente di rimuovere un'immagine di sfondo con uno strumento di disegno a mano libera.
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle presentazioni. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   Digitazione in **tempo reale durante la creazione condivisa:** Vedere dove gli altri stanno lavorando nella presentazione e visualizzare le modifiche durante la digitazione. [Altre informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Digitazione in tempo reale durante la creazione condivisa:** Vedere dove gli altri stanno lavorando nella presentazione e visualizzare le modifiche durante la digitazione. [Ulteriori informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Salvare in cartelle recenti:** Salvare una presentazione in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Creare forme input penna precise:** Trascinare la gomma per segmenti al fine di rimuovere bit in eccesso dell'input penna, a destra fino alla riga più vicina.
 -   **Selezionare e modificare gli oggetti con una penna:** Utilizzare una penna digitale per spostare, ridimensionare oppure ruotare gli oggetti tramite gli appositi punti di controllo. In alternativa, utilizzare i pulsanti della penna per eseguire selezione con lazo dell'inchiostro.
@@ -388,7 +388,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema relativo al modo in cui vengono firmati alcuni file. Tale modalità di firma fa sì che i programmi antivirus contrassegnino i file e i problemi di protezione o accesso ai dati in Windows Information Protection (WIP).
 -   Consente di risolvere un problema che impedisce alla finestra di dialogo Novità di essere visualizzata.
--   Consente di risolvere un problema il quale alcuni aggiornamenti imprevisti di Office 2013 a Office 2016 non riescono quando si utilizza System Center Configuration Manager.
+-   Consente di risolvere un problema che causa l'esito negativo degli aggiornamenti non presidiati di Office 2013 a Office 2016 quando si utilizza Configuration Manager.
 -   Consente di risolvere un problema per il quale i componenti aggiuntivi legacy distribuiti dall'archivio attraverso il catalogo aziendale non vengono caricati.
 
 
@@ -597,8 +597,8 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale in Publisher non vengono visualizzate le immagini CMYK TIF
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Aggiornamenti delle funzionalità
--   **Stile di notifica di Windows:** Modifiche apportate all'aspetto delle notifiche per le chiamate in arrivo e le conversazioni. [Altre informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **Trasferimento consultivo:** All'interno di una chiamata, consultarsi con un altro utente tramite una chat o una chiamata prima di trasferire la chiamata a quell'utente. [Altre informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **Stile di notifica di Windows:** Modifiche apportate all'aspetto delle notifiche per le chiamate in arrivo e le conversazioni. [Ulteriori informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
+-   **Trasferimento consultivo:** All'interno di una chiamata, consultarsi con un altro utente tramite una chat o una chiamata prima di trasferire la chiamata a quell'utente. [Ulteriori informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **Notifiche del microfono:** Viene visualizzata una notifica nella conversazione quando l'audio del microfono viene disattivato nel sistema operativo oppure quando il microfono non rileva audio.
 -   **Disabilitare "Numero personale":** Utilizzare la voce del Registro di sistema DisableDisplayMyNumber per disattivare "Numero personale" nella tastiera del telefono.
 
@@ -742,7 +742,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale, dopo aver inserito un'immagine SVG in un documento di Office, tale immagine scompare quando il documento viene salvato e riaperto.
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   Risolvere un problema con i moduli VBA che possono causare l'interruzione del funzionamento o la visualizzazione non corretta dell'ordine Z dei frame.
--   Risolvere un problema per il quale un aggiornamento attivato da System Center Configuration Manager modifica le impostazioni di UpdateChannel nel Registro di sistema in qualcosa che non è un canale di aggiornamento valido.
+-   Consente di risolvere un problema a causa del quale un aggiornamento attivato da Configuration Manager modifica le impostazioni di UpdateChannel nel registro di sistema in qualcosa che non è un canale di aggiornamento valido.
 
 
 
@@ -751,7 +751,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 *Questa è la versione di Deferred Channel che è disponibile da febbraio 2017. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino a settembre 2017. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1701 (Build 7766,2092), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): esecuzione di codice remoto in Microsoft Office
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507): vulnerabilità di danneggiamento della memoria di Microsoft Office
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508): le funzionalità di sicurezza di Microsoft Office ignorano la vulnerabilità
@@ -810,7 +810,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1609-april-11"></a>Versione 1609:11 aprile
 *Versione 1609 (Build 7369.2127)*
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale Excel si arresta in modo anomalo quando l'utente prova a impostare autorizzazioni che permettono a un altro utente di modificare un intervallo.
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
@@ -827,7 +827,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 *Questa è la versione di Deferred Channel che è disponibile da ottobre 2016. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al 2017 giugno. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1609 (Build 7369,2127), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): le funzionalità di sicurezza di Microsoft Office ignorano la vulnerabilità
 
@@ -1064,7 +1064,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
 -   Risolvere un problema con i moduli VBA che possono causare l'interruzione del funzionamento o la visualizzazione non corretta dell'ordine Z dei frame.
--   Risolvere un problema per il quale un aggiornamento attivato da System Center Configuration Manager modifica le impostazioni di UpdateChannel nel Registro di sistema in qualcosa che non è un canale di aggiornamento valido.
+-   Consente di risolvere un problema a causa del quale un aggiornamento attivato da Configuration Manager modifica le impostazioni di UpdateChannel nel registro di sistema in qualcosa che non è un canale di aggiornamento valido.
 -   Consente di risolvere un problema per il quale, quando i file vengono sincronizzati da un sito di OneDrive for Business in un computer locale utilizzando il client di sincronizzazione di OneDrive, il salvataggio di un file sincronizzato di nuovo, aperto da un URL, causa il blocco di Word, Excel o PowerPoint.
 -   Consente di risolvere un problema con i controlli del modulo VBA a causa dei quali i controlli di un'etichetta trasparente vengono visualizzati opachi, può comportare che i moduli esistenti non vengano più visualizzati o non funzionino come previsto e che l'applicazione Office si blocchi quando si prova ad aprire un file con attivazione macro che contiene controlli modulo.
 -   Risolvere un problema in cui, quando si utilizzano le proprietà dei metadati gestiti, viene visualizzato un pulsante "Mostra dettagli" nella sezione Proprietà in File \> Informazioni anziché i valori dei metadati impostati.

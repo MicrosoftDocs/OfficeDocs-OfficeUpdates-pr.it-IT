@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale mensile per Office 365 ProPlus in 2016
-ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023591"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629243"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Note sulla versione per i rilasci mensili del canale in 2016
 
@@ -53,14 +53,14 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Rendere la combinazione di tasti CTRL+ALT+5 il collegamento per spostare una selezione a livello di oggetti per associare altre applicazioni.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
--   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle e-mail. [Altre informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle e-mail. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni.   [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **Tocco:** consente di trovare e riutilizzare i contenuti dei relativi documenti dell'organizzazione. [Altre informazioni](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
+-   **Tocco:** consente di trovare e riutilizzare i contenuti dei relativi documenti dell'organizzazione. [Ulteriori informazioni](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
--   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle presentazioni. [Altre informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **Digitazione in tempo reale durante la creazione condivisa:** Vedere dove gli altri stanno lavorando nella presentazione e visualizzare le modifiche durante la digitazione. [Altre informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle presentazioni. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Digitazione in tempo reale durante la creazione condivisa:** Vedere dove gli altri stanno lavorando nella presentazione e visualizzare le modifiche durante la digitazione. [Ulteriori informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Salvare in cartelle recenti:** Salvare una presentazione in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Creare forme input penna precise:** Trascinare la gomma per segmenti al fine di rimuovere bit in eccesso dell'input penna, a destra fino alla riga più vicina.
 -   **Selezionare e modificare gli oggetti con una penna:** Utilizzare una penna digitale per spostare, ridimensionare oppure ruotare gli oggetti tramite gli appositi punti di controllo. In alternativa, utilizzare i pulsanti della penna per eseguire selezione con lazo dell'inchiostro.
@@ -131,7 +131,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
 -   Risolvere un problema con i moduli VBA che possono causare l'interruzione del funzionamento o la visualizzazione non corretta dell'ordine Z dei frame.
--   Risolvere un problema per il quale un aggiornamento attivato da System Center Configuration Manager modifica le impostazioni di UpdateChannel nel Registro di sistema in qualcosa che non è un canale di aggiornamento valido.
+-   Consente di risolvere un problema a causa del quale un aggiornamento attivato da Configuration Manager modifica le impostazioni di UpdateChannel nel registro di sistema in qualcosa che non è un canale di aggiornamento valido.
 
 
 

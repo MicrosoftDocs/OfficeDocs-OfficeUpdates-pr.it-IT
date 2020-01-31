@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale (mirato) per Office 365 ProPlus in 2017
-ms.openlocfilehash: 6014107ae2471707d226602cc71efaa24f1de310
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439131"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629273"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>Note sulla versione per i rilasci del canale semestrale (mirato) in 2017
 
@@ -63,7 +63,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): vulnerabilità di danneggiamento della memoria di Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilità di danneggiamento della memoria di Microsoft Office
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema in cui l'utente non è in grado di chiudere una cartella di lavoro in visualizzazione protetta quando il nome file contiene parentesi quadre.
 -   Consente di risolvere un problema in cui, quando si tenta di inserire un oggetto in una cartella di lavoro esistente, Excel si arresta in modo anomalo quando l'utente fa clic su Sfoglia.
 -   Consente di risolvere un problema in cui, selezionando "Ridimensiona forma per correggere il testo" (nella porzione Opzioni testo/Casella di testo del riquadro Formato forma), non vengono apportate modifiche alla forma.
@@ -112,7 +112,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere in cui una query non viene eseguita se la query presenta un join con una chiave primaria di una tabella collegata Microsoft Dynamics.
 -   Consente di risolvere un problema per cui le posizioni decimali non vengono visualizzate per valori di valuta in una tabella Microsoft Dynamics.
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale Excel si arresta in modo anomalo quando si apre un file .XLL.
 -   Consente di risolvere un problema per cui lo stile motivo di una cella non viene visualizzato correttamente dopo l'aggiunta di un'intestazione o piè di pagina nella visualizzazione Layout di pagina.
 -   Consente di risolvere un problema per cui, incollando una copia di una Tabella pivot in un'altra cartella di lavoro, potrebbe verificarsi un arresto anomalo.
@@ -131,7 +131,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema per cui Outlook si arresta in modo anomalo quando l'utente prova a configurare un nuovo account e chiude la finestra senza completare la configurazione dell'account.
 -   Consente di risolvere un problema per cui Segna come già letto e Segna come da leggere vengono visualizzate come opzioni dei messaggi nella Posta in arrivo condivisa di un gruppo.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per cui PowerPoint si arresta in modo anomalo quando si apre una presentazione da un server di SharePoint precedente a SharePoint Server 2016.
 
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
@@ -181,7 +181,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): vulnerabilità di danneggiamento della memoria di Microsoft Office
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): vulnerabilità di danneggiamento della memoria di Microsoft Office
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale Excel si blocca quando si espande oppure si comprime una tabella pivot e le intestazioni della tabella pivot si spostano sullo schermo.
 -   Consente di risolvere un problema a causa del quale le schede vengono ignorate durante il copia e incolla di testo delimitato da tabulazione da Word, impedendo quindi di incollare tale testo nelle colonne.
 -   Consente di risolvere un problema a causa del quale Excel si arresta in modo anomalo quando si apre la finestra di dialogo Pubblica come pagina Web.
@@ -316,7 +316,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1705-august-8"></a>Versione 1705:8 agosto
 *Versione 1705 (Build 8201.2171)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema relativo alle operazioni di trascinamento della barra di scorrimento in modo che si sposti in un elenco di messaggi.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -328,7 +328,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1705-july-27"></a>Versione 1705:27 luglio
 *Versione 1705 (Build 8201.2158)*
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale vengono visualizzati degli errori quando si tenta di salvare le modifiche apportate ai documenti sincronizzati con il client OneDrive.
 -   Consente di risolvere un problema a causa del quale Excel si arresta in modo anomalo quando si aggiungono dati di un foglio di lavoro a un modello dati e il tema a contrasto elevato è impostato su nero.
 
@@ -340,7 +340,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale si verifica un errore di unione quando si aggiunge una forma dopo che un altro utente ha modificato il layout.
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale, durante la digitazione in coreano, consonanti e vocali vengono separate erroneamente.
 -   Consente di risolvere un problema a causa del quale l'indirizzo di recapito sulle buste viene stampato troppo vicino al bordo sinistro.
 
@@ -375,7 +375,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
--   Consente di risolvere un problema il quale alcuni aggiornamenti imprevisti di Office 2013 a Office 2016 non riescono quando si utilizza System Center Configuration Manager.
+-   Consente di risolvere un problema che causa l'esito negativo degli aggiornamenti non presidiati di Office 2013 a Office 2016 quando si utilizza Configuration Manager.
 -   Consente di risolvere un problema per il quale i componenti aggiuntivi legacy distribuiti dall'archivio attraverso il catalogo aziendale non vengono caricati.
 
 
@@ -402,14 +402,14 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Usare una penna per selezionare e modificare gli oggetti:** Catturare i punti di controllo dell'oggetto con una penna digitale per ridimensionare, ruotare, spostare e altro.
 -   **Grafico mappa:** Confrontare i valori e visualizzare le categorie in aree geografiche diverse. [Ulteriori informazioni](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle cartelle di lavoro. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Salvare in cartelle recenti:** Salvare una cartella di lavoro in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Miglioramenti accessibilità:** Supporto migliorato per l'utilizzo della tastiera, Assistente vocale e altri strumenti di Assistive Technology per leggere e modificare le cartelle di lavoro. [Ulteriori informazioni](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Aggiornamento della sicurezza per Microsoft Office (3217868)
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale la password di protezione dei fogli Excel non viene visualizzata quando la si applica a livello di programmazione per cartelle di lavoro create in Excel 2010 o versioni precedenti.
 -   Consente di risolvere un problema a causa del quale Unisci e centra non funziona nei fogli di lavoro raggruppati.
 -   Consente di risolvere un problema a causa del quale le nuove funzioni introdotto dopo la pubblicazione di Office 2016 (ad esempio, TEXTJOIN, CONCAT, IFS, MAXIFS e MINIFS) sono mancanti.
@@ -439,7 +439,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle e-mail. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni.   [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): le funzionalità di sicurezza di Microsoft Office ignorano la vulnerabilità
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): esecuzione di codice remoto in Microsoft Office
@@ -460,14 +460,14 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Rimozione dello sfondo:** consente di rimuovere un'immagine di sfondo con uno strumento di disegno a mano libera.
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle presentazioni. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   Digitazione in **tempo reale durante la creazione condivisa:** Vedere dove gli altri stanno lavorando nella presentazione e visualizzare le modifiche durante la digitazione. [Altre informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Digitazione in tempo reale durante la creazione condivisa:** Vedere dove gli altri stanno lavorando nella presentazione e visualizzare le modifiche durante la digitazione. [Ulteriori informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Salvare in cartelle recenti:** Salvare una presentazione in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Creare forme input penna precise:** Trascinare la gomma per segmenti al fine di rimuovere bit in eccesso dell'input penna, a destra fino alla riga più vicina.
 -   **Selezionare e modificare gli oggetti con una penna:** Utilizzare una penna digitale per spostare, ridimensionare oppure ruotare gli oggetti tramite gli appositi punti di controllo. In alternativa, utilizzare i pulsanti della penna per eseguire selezione con lazo dell'inchiostro.
 -   **Miglioramenti accessibilità:** Supporto migliorato per l'utilizzo della tastiera, Assistente vocale e altri strumenti di Assistive Technology per leggere e modificare le presentazioni. [Ulteriori informazioni](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale PowerPoint si arresta in modo anomalo quando l'utente è nel riquadro Idee per progetti se il file mfplat.dll non è installato nel computer.
 -   Consente di risolvere un problema a causa del quale il pulsante di comando per un componente aggiuntivo non funziona dopo l'aggiornamento del componente aggiuntivo o dopo la rimozione o il download del componente aggiuntivo dall'Office Store.
 
@@ -602,7 +602,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1701-may-9"></a>Versione 1701:9 maggio
 *Versione 1701 (Build 7766.2084)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale gli utenti visualizzano a intermittenza che la selezione dei messaggi all'interno dell'elenco salta quando si eliminano i messaggi.
 -   Consente di risolvere un problema che causa arresti in modo anomalo intermittenti.
 -   Aggiungere la chiave del Registro di sistema HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Outlook\\Options\\General\\DisableSupportBackstage per consentire agli amministratori di nascondere la scelta Supporto nella scheda File.
@@ -628,7 +628,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1701-april-11"></a>Versione 1701:11 aprile
 * Versione 1701 (Build 7766.2076)*
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale una nuova finestra viene visualizzata come disattivata quando è aperta una cartella di lavoro xls.
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
@@ -638,7 +638,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale l'utente visualizza un nuovo tipo di archivio "Microsoft Exchange" nella finestra di dialogo "Nuovo file di dati di Outlook", ma la selezione di tale archivio rende inutilizzabile il profilo utente.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale si verifica un errore d'immagine mancante quando l'utente seleziona "Salva con nome" e sceglie un percorso alternativo per un file PowerPoint che è salvato su un dispositivo rimovibile, ad esempio, una chiavetta USB.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
@@ -658,7 +658,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Aggiornamento della sicurezza per Microsoft Office (3217868)
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale Excel potrebbe arrestarsi in modo anomalo quando si inseriscono i collegamenti ipertestuali.
 -   Consente di risolvere un problema a causa del quale Excel non funziona in modo corretto quando si aggiungono mapping XML.
 -   Consente di risolvere un problema a causa del quale il pulsante di comando per un componente aggiuntivo non funziona dopo l'aggiornamento del componente aggiuntivo o dopo la rimozione o il download del componente aggiuntivo dall'Office Store.
@@ -788,8 +788,8 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema in cui all’apertura di alcuni file XML, la data di inizio delle attività non è impostata correttamente a causa di un problema con l'assegnazione.
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Aggiornamenti delle funzionalità
--   **Stile di notifica di Windows:** Modifiche apportate all'aspetto delle notifiche per le chiamate in arrivo e le conversazioni. [Altre informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **Trasferimento consultivo:** All'interno di una chiamata, consultarsi con un altro utente tramite una chat o una chiamata prima di trasferire la chiamata a quell'utente. [Altre informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **Stile di notifica di Windows:** Modifiche apportate all'aspetto delle notifiche per le chiamate in arrivo e le conversazioni. [Ulteriori informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
+-   **Trasferimento consultivo:** All'interno di una chiamata, consultarsi con un altro utente tramite una chat o una chiamata prima di trasferire la chiamata a quell'utente. [Ulteriori informazioni](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **Notifiche del microfono:** Viene visualizzata una notifica nella conversazione quando l'audio del microfono viene disattivato nel sistema operativo oppure quando il microfono non rileva audio.
 -   **Disabilitare "Numero personale":** Utilizzare la voce del Registro di sistema DisableDisplayMyNumber per disattivare "Numero personale" nella tastiera del telefono.
 
@@ -889,7 +889,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Condivisi con l'utente corrente:** visualizzare i documenti condivisi dagli altri utenti andando a File \> Apri \> Condivisi con l'utente corrente. [Ulteriori informazioni](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 -   **Modifica dei colori:** utilizzare Aiutami per impostare il colore per il tipo di carattere, per l'evidenziazione, per il completamento di una forma e altro. [Ulteriori informazioni](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale la visualizzazione di un documento in modalità di lettura impedisce al tasto TAB di funzionare in modo corretto all'interno di un secondo documento che viene visualizzato in modalità di stampa.
 -   Consente di risolvere un problema a causa del quale Word si arresta in modo anomalo quando vengono caricate più raccolte del correttore grammaticale.
 -   Consente di risolvere un problema in cui i tratti con input penna scompaiono dopo due o tre tratti.
@@ -909,7 +909,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale, dopo aver inserito un'immagine SVG in un documento di Office, tale immagine scompare quando il documento viene salvato e riaperto.
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   Risolvere un problema con i moduli VBA che possono causare l'interruzione del funzionamento o la visualizzazione non corretta dell'ordine Z dei frame.
--   Risolvere un problema per il quale un aggiornamento attivato da System Center Configuration Manager modifica le impostazioni di UpdateChannel nel Registro di sistema in qualcosa che non è un canale di aggiornamento valido.
+-   Consente di risolvere un problema a causa del quale un aggiornamento attivato da Configuration Manager modifica le impostazioni di UpdateChannel nel registro di sistema in qualcosa che non è un canale di aggiornamento valido.
 
 
 
@@ -918,7 +918,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 Nota: gli aggiornamenti della sicurezza descritti nel Bollettino Microsoft sulla sicurezza [MS17-002](https://technet.microsoft.com/library/security/ms17-002) non si applicano alla versione di Word in questa versione del canale.
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Risolvere un problema in cui l'utilizzo di una finestra di dialogo Modifica misura causa l'arresto anomalo di Excel.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
