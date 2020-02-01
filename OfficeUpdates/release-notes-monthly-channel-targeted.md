@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 2102838b298c0a0ef27ba36e7bfd101697b2651e
-ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
+ms.openlocfilehash: 9172c2b791b4dde78a7683174e13f3664d6c9bc1
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41576579"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629211"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -29,6 +29,33 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2001-january-29"></a>Versione 2001: 29 gennaio
+*Versione 2001 (build 12430.20184)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="word"></a>Word
+
+- **Salvataggio delle forme come immagini:** con pochi clic del mouse è possibile salvare una forma, un'icona o un altro oggetto come file di immagine, così da poterlo riutilizzare altrove. [Altre informazioni](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che causava arresti anomali quando gli utenti rinominavano una firma.
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-january-27"></a>Versione 2001: 27 gennaio
 *Versione 2001 (build 12430.20170)*
