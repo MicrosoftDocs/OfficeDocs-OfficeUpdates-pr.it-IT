@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 3889a3f93c8b83129928c95fd9880472de0be8eb
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: bd7a0012ea1f348df0c7f581ba06ef1bf05e3324
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230084"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650834"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -25,7 +25,38 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
-[//]: # (DO NOT REMOVE)
+[//]: # (NON RIMUOVERE)
+
+## <a name="version-2002-january-31"></a>Versione 2002: 31 gennaio
+*Versione 2002 (Build 12513.20010)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Leggere e rispondere all'istante:** Rispondere ai commenti e alle menzioni direttamente dalla posta elettronica senza aprire la cartella di lavoro.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui i messaggi di posta elettronica in scadenza in base ai criteri di conservazione visualizzavano due etichette. Una indicava che la posta sarebbe scaduta entro un giorno e l'altra entro due giorni.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui l'indicatore del commento non era visibile in modalità di lettura con colore di pagina &quot;Inverso&quot;.
+
+- È stato risolto un problema per cui la formattazione in corsivo veniva persa dopo aver modificato un commento, usato il corsivo per il testo e postato il commento.
+
+- È stato risolto un problema per cui nel menu di scelta rapida dei commenti non venivano visualizzati i comandi per i commenti (Modifica commento, Rispondi a commento, Elimina commento, Risolvi commento).
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-january-17"></a>Versione 2002: 17 gennaio
 *Versione 2002 (Build 12508.20000)*

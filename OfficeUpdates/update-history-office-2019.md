@@ -3,19 +3,19 @@ title: Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/23/2020
+ms.date: 1/31/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: 5b0dad68a65a5fce15e6fa363de8b20ac31e4bea
-ms.sourcegitcommit: d1eb4fe4ab2606a94e786011de3f77635ee3b987
+ms.openlocfilehash: 03b593cc62807efef4f4c902d32ba7dec2aadf89
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41519155"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650774"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -58,6 +58,7 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|
+|30 gennaio 2020   |Versione 2001 (build 12430.20184)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |22 gennaio 2020   |Versione 1912 (Build 12325.20344)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |14 gennaio 2020   |Versione 1912 (Build 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |8 gennaio 2020   |Versione 1912 (Build 12325.20288)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
