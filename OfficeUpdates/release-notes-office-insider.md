@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 89ce9133b52a016c05b5ab4282f8820ce1e538cf
-ms.sourcegitcommit: 65dfebaad3ea5e0ccdf3cf29f8bca8c24a886e05
+ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
+ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711304"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931962"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,65 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2002-february-07"></a>Versione 2002: 7 febbraio
+*Versione 2002 (Build 12527.20040)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="access"></a>Access
+
+- **Aumentare la produttività in Progettazione query, nella visualizzazione SQL e nella finestra Relazioni:** fare clic con il pulsante destro del mouse su una tabella per aprirla, progettarla, ridimensionarla e nasconderla. Cercare e sostituire il testo nella visualizzazione SQL. Selezionare più tabelle nella finestra Relazioni.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- Questo aggiornamento consente di risolvere un problema relativo all'uso di un oggetto ADODB. L'oggetto Recorder nel codice VB potrebbe erroneamente segnalare un errore.
+
+- Questo aggiornamento risolve un problema in Microsoft Access che causava un errore d'identificazione della colonna Identity in una tabella di SQL Server collegata e la segnalazione di righe eliminate in modo non corretto.
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema relativo all'arresto anomalo di Excel quando si usa Testo in colonne con matrici dinamiche.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui scorrendo il calendario con la visualizzazione per mese, non è possibile visualizzare gli eventi del calendario precedente.
+
+- Risolve un problema che causa l'arresto anomalo quando si visualizzano più di 30 calendari in un ambiente Citrix.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui, dopo aver chiuso un file, PowerPoint non lo rimuove immediatamente dalla raccolta presentazioni se sono in esecuzione gestori di eventi. Di conseguenza, il numero di presentazioni aperte riportate dal modello a oggetti non è corretto e viene impedita la chiusura di PowerPoint.
+
+- È stato risolto un problema con l'evidenziatore: i testi bianchi con colori di evidenziazione scuri vengono stampati come neri in gradazioni di grigio.
+
+### <a name="word"></a>Word
+
+- L'aggiornamento e lo scorrimento di un sommario possono talvolta visualizzare un'area grigia sul documento.
+
+- È stato risolto un problema per cui, se un documento è stato creato in modo condiviso, la versione bozza di un commento radice potrebbe non essere mantenuta.
+
+- È stato risolto un problema per cui quando ci si spostava tra le schede commento talvolta il commento inizialmente selezionato veniva visualizzato con un'evidenziazione della selezione.
+
+- È stato risolto un problema per cui l'utilizzo di "Sfoglia" per salvare un file non funzionava se un commento veniva scritto ma non pubblicato e l'utente provava a salvare il file.
+
+- Con SlideTrack abilitato e il riquadro commenti chiuso, CTRL + ALT + M potrebbe non aprire il riquadro commenti.
+
+- È stato risolto un problema per cui quando si aggiungeva una @menzione in una tabella poteva venire generato il messaggio di errore: "una tabella in questo documento è stata danneggiata".
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema che potrebbe aver causato l'installazione errata del pacchetto di strumenti di correzione norvegese Nynorsk (nn-no).
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-january-31"></a>Versione 2002: 31 gennaio
 *Versione 2002 (Build 12513.20010)*
