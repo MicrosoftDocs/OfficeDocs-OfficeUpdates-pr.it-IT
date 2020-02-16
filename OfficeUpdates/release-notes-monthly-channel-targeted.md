@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 9172c2b791b4dde78a7683174e13f3664d6c9bc1
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.openlocfilehash: 37292929bc5d1301d662a8ced97c7cabc6d273de
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629211"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978704"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -29,6 +29,130 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2002-february-11"></a>Versione 2002: 11 febbraio
+*Versione 2002 (Build 12527.20092)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/it-IT/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Trascinamento dei messaggi di posta elettronica in un gruppo di cui si è proprietari:** è possibile spostare e copiare messaggi e conversazioni trascinandoli dalla Posta in arrivo. I messaggi trascinati verranno condivisi con tutti i membri del gruppo.
+
+### <a name="word"></a>Word
+
+- **Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- **Icone delle barre di stato più chiare:** ora le icone della barra di stato sono più facili da vedere.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- I modelli di Access non dovrebbero più causare errori nelle colonne degli allegato all'interno di un database. Dopo aver creato un'istanza di un modello, si dovrebbe essere in grado di aggiungere un campo degli allegati al database.
+
+- Questo aggiornamento consente di risolvere un problema relativo all'uso di un oggetto ADODB. L'oggetto Recorder nel codice VB potrebbe erroneamente segnalare un errore.
+
+- Questo aggiornamento risolve un problema in Microsoft Access che causava un errore d'identificazione della colonna Identity in una tabella di SQL Server collegata e la segnalazione di righe eliminate in modo non corretto.
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema i comandi di commento nel menu di scelta rapida non venivano visualizzati.
+
+
+- È stato risolto un problema che causava arresti anomali convertendo il testo in colonne con celle con una matrice con espansione.
+
+
+- È stato risolto un problema relativo all'arresto anomalo di Excel quando si usa Testo in colonne con matrici dinamiche.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui scorrendo il calendario con la visualizzazione per mese, non è possibile visualizzare gli eventi del calendario precedente.
+
+- Le cartelle salvate in "Preferiti" nel riquadro di spostamento a sinistra scomparivano in modo intermittente.
+
+
+- È stato risolto un problema che causava un arresto anomalo specificando un indirizzo Da non valido.
+
+
+- È stato risolto un problema per cui, in alcuni scenari, l'opzione per disabilitare l'evidenziazione degli elementi contrassegnati non veniva rispettata.
+
+- È stato risolto un problema che causava un arresto anomalo annullando la configurazione dell'account.
+
+
+- È stato risolto un problema per cui i messaggi di posta elettronica in scadenza in base ai criteri di conservazione visualizzavano due etichette. Una indicava che la posta sarebbe scaduta entro un giorno e l'altra entro due giorni.
+
+
+- È stato risolto un problema che causava l'arresto anomalo visualizzando più di 30 calendari in un ambiente Citrix.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui l'input penna non era corretto o non veniva eseguito durante le animazioni dell'input penna di PowerPoint.
+
+- È stato risolto un problema per cui, dopo aver chiuso un file, PowerPoint non lo rimuove immediatamente dalla raccolta presentazioni se sono in esecuzione gestori di eventi. Di conseguenza, il numero di presentazioni aperte riportate dal modello a oggetti non è corretto e viene impedita la chiusura di PowerPoint.
+
+
+- È stato risolto un problema con l'evidenziatore: i testi bianchi con colori di evidenziazione scuri vengono stampati come neri in gradazioni di grigio.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui il 100% delle attività di tipo durata fissa poteva avere il valore di percentuale di completamento calcolato erroneamente a meno del 100%.
+
+
+### <a name="word"></a>Word
+
+- L'aggiornamento e lo scorrimento di un sommario possono talvolta visualizzare un'area grigia sul documento.
+
+
+- È stato risolto un problema per cui l'utilizzo di "Sfoglia" per salvare un file non funzionava se un commento veniva scritto ma non pubblicato e l'utente provava a salvare il file.
+
+
+- È stato risolto un problema per cui, quando ci si spostava tra le schede commento, talvolta il commento inizialmente selezionato veniva visualizzato con un'evidenziazione della selezione.
+
+
+- È stato risolto un problema per cui la formattazione in corsivo veniva persa dopo aver modificato un commento, applicato il corsivo al testo e postato il commento.
+
+
+- È stato risolto un problema per cui l'indicatore del commento non era visibile in modalità di lettura con colore di pagina Inverso.
+
+
+- È stato risolto un problema per cui, se un documento è stato creato in modo condiviso, la versione bozza di un commento radice potrebbe non essere mantenuta.
+
+
+- Con SlideTrack abilitato e il riquadro commenti chiuso, CTRL + ALT + M potrebbe non aprire il riquadro commenti.
+
+
+- È stato risolto un problema per cui quando si aggiungeva una @menzione in una tabella poteva venire generato il messaggio di errore: "una tabella in questo documento è stata danneggiata".
+
+
+- È stato risolto un problema per cui nel menu di scelta rapida dei commenti non venivano visualizzati i comandi per i commenti (Modifica commento, Rispondi a commento, Elimina commento, Risolvi commento).
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema che potrebbe aver causato l'installazione errata del pacchetto di strumenti di correzione norvegese Nynorsk (nn-no).
+
+
+- Questo cambiamento affronta i problemi segnalati con le schede grafiche che utilizzano le GPU integrate Intel.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-january-29"></a>Versione 2001: 29 gennaio
 *Versione 2001 (build 12430.20184)*
