@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
-ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
+ms.openlocfilehash: f403048ef51f48be9f4939e46e10324f110b3c80
+ms.sourcegitcommit: 38f19728803d3e3a20b16932a92cbb400dcdfb29
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931962"
+ms.lasthandoff: 02/19/2020
+ms.locfileid: "42155445"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,51 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2003-february-14"></a>Versione 2003: 14 febbraio
+*Versione 2003 (Build 12607.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Nuova esperienza per le reti Wi-Fi captive:** è mai capitato di connettersi a una rete Wi-Fi che richiede di accedere con una pagina Web? Outlook ora consente di rimanere connessi in scenari di questo tipo.
+
+### <a name="word"></a>Word
+
+- **Editor input penna disponibile nella casella degli strumenti da disegno:** selezionare Disegno e quindi scegliere Editor input penna per modificare il documento con un dito o una penna digitale. [Altre informazioni](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+### <a name="office-suite"></a>Applicazioni Office
+
+- **Icone delle barre di stato più chiare:** ora le icone della barra di stato sono più facili da vedere
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema a causa del quale gli utenti perdevano l'accesso alla finestra di dialogo delle autorizzazioni del calendario "Opzioni disponibilità".
+
+- È stato risolto un problema a causa del quale potrebbe essere visualizzato l'avviso "Si è verificato un problema con l'apertura di questo elemento" quando si aprono istanze di riunioni ricorrenti inviate da un fuso orario diverso.
+
+- È stato risolto un problema a causa del quale gli utenti potrebbero non essere in grado di riaprire un file .msg dopo aver trascinato un allegato da quel messaggio.
+
+- È stato risolto un problema a causa del quale, dopo aver caricato un allegato da Outlook a OneDrive, il nome file potrebbe cambiare se il nome dell'allegato contiene delle parentesi.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema che potrebbe causare un errore durante il salvataggio di un documento in PowerPoint o Word che contiene un grafico di Excel.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema a causa del quale le immagini nei documenti perdono la trasparenza quando vengono esportate in PDF.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-february-07"></a>Versione 2002: 7 febbraio
 *Versione 2002 (Build 12527.20040)*
