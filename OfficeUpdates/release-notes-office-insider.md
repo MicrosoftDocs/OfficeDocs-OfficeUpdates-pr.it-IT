@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: f403048ef51f48be9f4939e46e10324f110b3c80
-ms.sourcegitcommit: 38f19728803d3e3a20b16932a92cbb400dcdfb29
+ms.openlocfilehash: 3bc1a3c2908fda240b041ae59a851f5f48ec9574
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "42155445"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228405"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,45 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2003-february-21"></a>Versione 2003: 21 febbraio
+*Versione 2003 (Build 12615.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- **Selezionare il colore perfetto:** usare i codici colore esadecimali per scegliere esattamente il colore desiderato per il tipo di carattere, l’evidenziatore del testo e altro ancora.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema che può essere stato riscontrato dagli utenti nel rinominare le misure delle tabelle pivot.
+- È stato risolto un problema di prestazioni che può essere stato riscontrato dagli utenti nell’utilizzo di una macro VBA per eliminare il contenuto di un intervallo.
+- È stato risolto un problema che causava il lampeggio dell’interfaccia utente durante l'esecuzione di una macro che interagiva con la barra multifunzione.
+- È stato risolto un problema per cui i file CSV venivano caricati erroneamente quando la prima parola nel file era TABLE.
+- È stato risolto un problema per cui gli utenti potevano riscontrare arresti anomali durante il passaggio da una cartella di lavoro a un’altra con un livello di zoom diverso.
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema che impediva agli utenti di aprire messaggi di cartelle pubbliche quando Outlook era rimasto in esecuzione durante la notte.
+- È stata risolta una race condition in cui i pulsanti "Consenti" e "Nega" nella pagina delle autorizzazioni venivano disabilitati durante il flusso di lavoro di autenticazione per l'aggiunta di un account Gmail.
+- È stato risolto un problema per cui Outlook generava in modo inatteso l'output di registrazione in alcuni scenari, anche quando la registrazione era disattivata.
+
+### <a name="word"></a>Word
+- È stato risolto un problema per cui le schede di commento non venivano sempre evidenziate quando si passava il puntatore del mouse su di esse.
+- Durante una sessione di creazione condivisa di documenti attiva, l'aggiunta diretta di un'immagine in una scheda di commento può comportare l'aggiunta di un contrassegno. Questo problema è stato risolto.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+- Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-february-14"></a>Versione 2003: 14 febbraio
 *Versione 2003 (Build 12607.20000)*
