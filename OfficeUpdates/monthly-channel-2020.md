@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2020
-ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278587"
+ms.locfileid: "42282830"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile nel 2020
 
@@ -31,9 +31,28 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-### <a name="outlook"></a>Outlook
+### <a name="excel"></a>Excel
 
-- **Aggiornamenti al riquadro delle cartelle di Outlook:** il nuovo elenco di cartelle in arrivo con Aesthetic v1 avrà un design e un funzionamento aggiornato e i gruppi verranno elevati alla stessa gerarchia delle cartelle e dei preferiti.
+ - **
+Ora è possibile salvare gli oggetti in Word ed Excel in formato SVG:** 
+Gli utenti hanno la possibilità di salvare oggetti come grafici, forme, input penna, icone, immagini e altro ancora in formato SVG  [Scopri di più](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Statistiche della cartella di lavoro:** 
+Celle, formule, grafici, tabelle... Li contiamo noi al tuo posto.
+
+- **Profiling dei dati nell'editor di query:** Ottenere un'analisi a colpo d'occhio dei dati nelle colonne, identificare gli errori e i valori vuoti, vedere gli istogrammi di distribuzione e altro ancora.
+
+### <a name="outlook"></a>Outlook
+- **Aggiornamenti al riquadro delle cartelle di Outlook:** 
+Il nuovo elenco di cartelle in arrivo con Aesthetic v1 avrà un design e un funzionamento aggiornati, e i gruppi verranno elevati alla stessa gerarchia delle Cartelle e dei Preferiti.
+
+### <a name="word"></a>Word
+
+- **
+Ora è possibile salvare gli oggetti in Word ed Excel in formato SVG:** 
+Gli utenti hanno la possibilità di salvare oggetti come grafici, forme, input penna, icone, immagini e altro ancora in formato SVG  [Scopri di più](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: 9d848fcfeca988113987408e7f27f512e2475e24
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: dc67527537f3c8700854f7e1a68bf02976c1976d
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978794"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42282820"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -56,8 +56,9 @@ Le informazioni seguenti si applicano alle versioni con contratto multilicenza d
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Versioni definitive di Office 2016 C2R e Office 2019
 Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e Office 2019, che condividono la stessa data di rilascio e gli stessi numeri di versione.
 
-|**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
+|**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|
+|25 febbraio 2020   |Versione 2002 (Build 12527.20194)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |11 febbraio 2020   |Versione 2001 (Build 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |30 gennaio 2020   |Versione 2001 (build 12430.20184)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |22 gennaio 2020   |Versione 1912 (Build 12325.20344)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
