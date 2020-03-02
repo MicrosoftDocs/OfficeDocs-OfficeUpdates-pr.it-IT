@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2020
-ms.openlocfilehash: 9c3fb7b64b95ee2a0d6f2ae831a2c028fb9e6ba0
-ms.sourcegitcommit: 9161b86498b6aadb2cdfbb951c5ea93439922ea2
+ms.openlocfilehash: 70eabceb2467ad78cb64bf9e45c617317c640cc0
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322592"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345114"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile nel 2020
 
@@ -24,6 +24,20 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 >
 >- Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo.  Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, gli aggiornamenti a Office 365 ProPlus (e Office 365 Business) includeranno Microsoft Teams.  La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2002-march-01"></a>Versione 2002: 1 marzo
+*Versione 2002 (Build 12527.20242)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- <div>È stato risolto un problema per cui le applicazioni di terze parti non riuscivano a inviare messaggi di posta elettronica.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-february-25"></a>Versione 2002: 25 febbraio
 *Versione 2002 (Build 12527.20194)*

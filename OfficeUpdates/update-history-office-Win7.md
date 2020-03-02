@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai clienti le note sulla versione per la cronologia degli aggiornamenti per Office 365 ProPlus per Windows 7
-ms.openlocfilehash: 57dc775623bda52d3a265f75df3304d7b165c768
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 787ecad94262a996d29e416a808742250140129a
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122370"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345125"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Cronologia degli aggiornamenti per Office 365 ProPlus in Windows 7 
 
@@ -35,6 +35,12 @@ Le versioni nel canale semestrale rimangono in genere disponibili solo per 14 me
 Questa disponibilità estesa per la versione 2002 si applica anche ad altri canali di aggiornamento, come quello mensile e quello semestrale (mirato), ma solo per i dispositivi che eseguono Windows 7.
 
 ##
+
+
+[//]: # (NON RIMUOVERE)
+
+
+
 
 > [!NOTE]
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).

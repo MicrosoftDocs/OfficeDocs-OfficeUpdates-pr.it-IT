@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 3bc1a3c2908fda240b041ae59a851f5f48ec9574
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228405"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345145"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,49 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2003-february-28"></a>Versione 2003: 28 febbraio
+*Versione 2003 (Build 12619.20002)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Notifica di evento imprevisto per gli amministratori IT:** gli amministratori globali dei tenant di Microsoft 365 e gli amministratori delle app di Office verranno avvisati degli eventi imprevisti di Outlook e Office 365 Exchange che interessano gli utenti tramite una nuova notifica nel riquadro a destra in Outlook per Windows.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Migliorata l'esperienza di input penna in forma per la creazione di diagrammi:** è possibile disegnare diagrammi più efficaci e convertirli in oggetti di Office da modificare [Scopri di più](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui il testo in un filtro dati non veniva ridimensionato correttamente nell'anteprima di stampa.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per la cui i dati relativi all'ultima modifica di un file venivano aggiornati quando si aggiungeva un allegato a un messaggio di posta elettronica o si salvava un allegato da un messaggio di posta elettronica trascinandolo, anziché tramite un menu.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui spostandosi con TAB in una scheda commento, lo stato attivo sulla casella di modifica del commento non era visibile.
+
+- Se veniva inserito un controllo in un'equazione, ad esempio un controllo contenuto testo, il salvataggio e l'apertura del file comportavano un errore di contenuto illeggibile.
+
+- È stato risolto un problema per cui non era possibile salvare un file protetto in precedenza da password, in uno spazio di archiviazione cloud.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-february-21"></a>Versione 2003: 21 febbraio
 *Versione 2003 (Build 12615.20000)*
