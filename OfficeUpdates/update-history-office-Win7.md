@@ -9,32 +9,38 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai clienti le note sulla versione per la cronologia degli aggiornamenti per Office 365 ProPlus per Windows 7
-ms.openlocfilehash: 57dc775623bda52d3a265f75df3304d7b165c768
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 787ecad94262a996d29e416a808742250140129a
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122370"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345125"
 ---
-# <a name="update-history-for-office-365-proplus-on-windows-7"></a><span data-ttu-id="487d1-103">Cronologia degli aggiornamenti per Office 365 ProPlus in Windows 7</span><span class="sxs-lookup"><span data-stu-id="487d1-103">Update history for Office 365 ProPlus on Windows 7</span></span> 
+# <a name="update-history-for-office-365-proplus-on-windows-7"></a><span data-ttu-id="64995-103">Cronologia degli aggiornamenti per Office 365 ProPlus in Windows 7</span><span class="sxs-lookup"><span data-stu-id="64995-103">Update history for Office 365 ProPlus on Windows 7</span></span> 
 
  > [!NOTE]
 >
->- <span data-ttu-id="487d1-104">Il supporto per Windows 7 è terminato il 14 gennaio 2020.</span><span class="sxs-lookup"><span data-stu-id="487d1-104">Support for Windows 7 ended on January 14, 2020.</span></span> [<span data-ttu-id="487d1-105">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="487d1-105">Learn more</span></span>](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
->- <span data-ttu-id="487d1-106">Office 365 ProPlus non è più supportato in Windows 7, ma continuerà a ricevere gli aggiornamenti della sicurezza fino a gennaio 2023.</span><span class="sxs-lookup"><span data-stu-id="487d1-106">Office 365 ProPlus is no longer supported on Windows 7 but will continue to get security updates until January 2023.</span></span> [<span data-ttu-id="487d1-107">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="487d1-107">Learn more</span></span>](https://docs.microsoft.com/DeployOffice/windows-7-support)
->- <span data-ttu-id="487d1-108">Per gli utenti privati che eseguono Office in Windows 7, vedere [Office e fine del supporto di Windows 7](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)</span><span class="sxs-lookup"><span data-stu-id="487d1-108">If you’re a home user running Office on Windows 7, see [Windows 7 end of support and Office.](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)</span></span>
-<span data-ttu-id="487d1-109">La versione 2002 è l'ultima versione di Office 365 ProPlus che sarà disponibile per i dispositivi che eseguono Windows 7 dopo la fine del supporto di Windows 7 nel mese di gennaio 2020.</span><span class="sxs-lookup"><span data-stu-id="487d1-109">Version 2002 is the last version of Office 365 ProPlus that will be available for devices running Windows 7 after Windows 7 goes out of support in January 2020.</span></span>  
+>- <span data-ttu-id="64995-104">Il supporto per Windows 7 è terminato il 14 gennaio 2020.</span><span class="sxs-lookup"><span data-stu-id="64995-104">Support for Windows 7 ended on January 14, 2020.</span></span> [<span data-ttu-id="64995-105">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="64995-105">Learn more</span></span>](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
+>- <span data-ttu-id="64995-106">Office 365 ProPlus non è più supportato in Windows 7, ma continuerà a ricevere gli aggiornamenti della sicurezza fino a gennaio 2023.</span><span class="sxs-lookup"><span data-stu-id="64995-106">Office 365 ProPlus is no longer supported on Windows 7 but will continue to get security updates until January 2023.</span></span> [<span data-ttu-id="64995-107">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="64995-107">Learn more</span></span>](https://docs.microsoft.com/DeployOffice/windows-7-support)
+>- <span data-ttu-id="64995-108">Per gli utenti privati che eseguono Office in Windows 7, vedere [Office e fine del supporto di Windows 7](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)</span><span class="sxs-lookup"><span data-stu-id="64995-108">If you’re a home user running Office on Windows 7, see [Windows 7 end of support and Office.](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)</span></span>
+<span data-ttu-id="64995-109">La versione 2002 è l'ultima versione di Office 365 ProPlus che sarà disponibile per i dispositivi che eseguono Windows 7 dopo la fine del supporto di Windows 7 nel mese di gennaio 2020.</span><span class="sxs-lookup"><span data-stu-id="64995-109">Version 2002 is the last version of Office 365 ProPlus that will be available for devices running Windows 7 after Windows 7 goes out of support in January 2020.</span></span>  
 
-<span data-ttu-id="487d1-110">La versione 2002 dovrebbe essere disponibile nei canali seguenti:</span><span class="sxs-lookup"><span data-stu-id="487d1-110">Version 2002 is expected to be available in the following channels:</span></span>
-- <span data-ttu-id="487d1-111">Canale mensile alla fine di febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="487d1-111">Monthly Channel in late February 2020</span></span>
-- <span data-ttu-id="487d1-112">Canale semestrale (mirato) a marzo 2020</span><span class="sxs-lookup"><span data-stu-id="487d1-112">Release notes for Semi-Annual Channel (Targeted) releases in 2020</span></span>
-- <span data-ttu-id="487d1-113">Canale semestrale a luglio 2020</span><span class="sxs-lookup"><span data-stu-id="487d1-113">Semi-Annual Channel in July 2020</span></span>
+<span data-ttu-id="64995-110">La versione 2002 dovrebbe essere disponibile nei canali seguenti:</span><span class="sxs-lookup"><span data-stu-id="64995-110">Version 2002 is expected to be available in the following channels:</span></span>
+- <span data-ttu-id="64995-111">Canale mensile alla fine di febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="64995-111">Monthly Channel in late February 2020</span></span>
+- <span data-ttu-id="64995-112">Canale semestrale (mirato) a marzo 2020</span><span class="sxs-lookup"><span data-stu-id="64995-112">Semi-Annual Channel (Targeted) in March 2020</span></span>
+- <span data-ttu-id="64995-113">Canale semestrale a luglio 2020</span><span class="sxs-lookup"><span data-stu-id="64995-113">Semi-Annual Channel in July 2020</span></span>
 
-<span data-ttu-id="487d1-114">Le versioni nel canale semestrale rimangono in genere disponibili solo per 14 mesi, ma viene fatta un'eccezione solo per la versione 2002 in modo che sia allineata ai tempi di disponibilità degli aggiornamenti della sicurezza del la disponibilità per allinearsi a quanto previsto dal piano del programma degli aggiornamenti della sicurezza estesa per Windows 7.</span><span class="sxs-lookup"><span data-stu-id="487d1-114">Versions on Semi-Annual Channel are usually available for only 14 months, but we're making an exception just for Version 2002 to align with how long Extended Security Updates (ESU) for Windows 7 are available.</span></span>
+<span data-ttu-id="64995-114">Le versioni nel canale semestrale rimangono in genere disponibili solo per 14 mesi, ma viene fatta un'eccezione solo per la versione 2002 in modo che sia allineata ai tempi di disponibilità degli aggiornamenti della sicurezza del la disponibilità per allinearsi a quanto previsto dal piano del programma degli aggiornamenti della sicurezza estesa per Windows 7.</span><span class="sxs-lookup"><span data-stu-id="64995-114">Versions on Semi-Annual Channel are usually available for only 14 months, but we're making an exception just for Version 2002 to align with how long Extended Security Updates (ESU) for Windows 7 are available.</span></span>
 
-<span data-ttu-id="487d1-115">Questa disponibilità estesa per la versione 2002 si applica anche ad altri canali di aggiornamento, come quello mensile e quello semestrale (mirato), ma solo per i dispositivi che eseguono Windows 7.</span><span class="sxs-lookup"><span data-stu-id="487d1-115">This extended availability for Version 2002 also applies to other update channels, such as Monthly and Semi-Annual (Targeted), but only applies to devices running Windows 7.</span></span>
+<span data-ttu-id="64995-115">Questa disponibilità estesa per la versione 2002 si applica anche ad altri canali di aggiornamento, come quello mensile e quello semestrale (mirato), ma solo per i dispositivi che eseguono Windows 7.</span><span class="sxs-lookup"><span data-stu-id="64995-115">This extended availability for Version 2002 also applies to other update channels, such as Monthly and Semi-Annual (Targeted), but only applies to devices running Windows 7.</span></span>
 
 ##
 
+
+[//]: # (NON RIMUOVERE)
+
+
+
+
 > [!NOTE]
-> <span data-ttu-id="487d1-116">Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="487d1-116">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="64995-117">Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="64995-117">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
