@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: dc67527537f3c8700854f7e1a68bf02976c1976d
-ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
+ms.openlocfilehash: d76beb68ed6a3e64b5ad8070566e2e864fd898e2
+ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42282820"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42403805"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -58,6 +58,7 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|
+|1 marzo 2020   |Versione 2002 (Build 12527.20242)  |È stato risolto un problema per cui le applicazioni di terze parti non riuscivano a inviare messaggi di posta elettronica da Outlook. <br/>  |
 |25 febbraio 2020   |Versione 2002 (Build 12527.20194)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |11 febbraio 2020   |Versione 2001 (Build 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |30 gennaio 2020   |Versione 2001 (build 12430.20184)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
@@ -69,7 +70,6 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 |18 novembre 2019   |Versione 1910 (Build 12130.20390)  |Diverse correzioni di bug e miglioramenti delle prestazioni.<br/>  |
 |12 novembre 2019   |Versione 1910 (Build 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |8 ottobre 2019   |Versione 1909 (Build 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1331) <br/> |
-|10 settembre 2019   |Versione 1908 (Build 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-1297) <br/>  |
 
 
 
