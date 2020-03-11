@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345145"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568862"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,36 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2003-march-06"></a>Versione 2003: 6 marzo
+*Versione 2003 (Build 12624.20086)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui una regola creata in Outlook Web Access non veniva mantenuta nel server Exchange e generava un conflitto.
+- È stato risolto un problema per cui nella modalità scura di Outlook non veniva visualizzato l'elenco a discesa nel campo "Da:".
+- Risolve un problema che impediva agli utenti di allegare un file al messaggio di posta elettronica tramite Esplora file se il file era aperto in un'altra applicazione.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui le anteprime consigliate lampeggiavano durante il passaggio del mouse su di esse. In alcuni questo causava un arresto anomalo di PowerPoint.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema con la funzionalità Confronta per i documenti protetti per la modifica.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema con Word/Excel/PowerPoint per cui il nome dell'entità utente (UPN) non distingueva più tra maiuscole e minuscole, causando la visualizzazione di un numero inferiore di errori durante l'uso dei file in SharePoint.
+
+- È stato risolto un problema estetico per cui il pulsante OK nella finestra di dialogo File\Opzioni veniva visualizzato come disattivato, anche se questo non influiva sulla funzionalità.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
+
+[//]: # (NON RIMUOVERE L'INIZIO DEI CONTENUTI RELATIVI AI DETTAGLI DELLE FUNZIONALITÀ)
 
 ## <a name="version-2003-february-28"></a>Versione 2003: 28 febbraio
 *Versione 2003 (Build 12619.20002)*
@@ -2451,7 +2481,7 @@ Creare un file docm in OneDrive for Business, condividerlo con i colleghi e coll
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema di arresto anomalo che si verificava facendo clic su "ESC" in Opzioni
+- È stato risolto un problema di arresto anomalo che si verificava facendo clic su ESC in Opzioni
 - È stato risolto un problema di arresto anomalo quando si rispondeva ai commenti
 - È stato risolto un problema che si verificava effettuando copia e incolla da Word a PowerPoint Online
 
@@ -2496,7 +2526,7 @@ Aprire un documento di SharePoint o OneDrive aperto da altri utenti. Verificare 
 ## <a name="notable-fixes"></a>Correzioni importanti:
 
 ### <a name="word"></a>Word 
-- È stato risolto un problema di arresto anomalo che si verificava facendo clic su "ESC" in Opzioni
+- È stato risolto un problema di arresto anomalo che si verificava facendo clic su ESC in Opzioni
 - È stato risolto un problema che si verificava effettuando copia e incolla da Word a PowerPoint Online
 
 ### <a name="excel"></a>Excel

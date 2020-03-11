@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: f9520e4be3f349c9bb2333d551e6b6c149822155
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 90560ad20c016ad985a3382c2030a1c1d792e507
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345107"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568842"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="march-6-2020"></a>6 marzo 2020
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+
+### <a name="semi-annual-channel"></a>Canale semestrale
+
+<i>La versione prevista è la numero 1908 (Build 11929.20648).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1908 (Build 11929.20606) <br/> |11 febbraio 2020 <br/> |64<br/> |
+|Versione 1908 (Build 11929.20562) <br/> |14 gennaio 2020 <br/> |73<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canale semestrale (mirato)
+
+<i>La versione prevista è la numero 2002 (Build 12527.20278).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1908 (Build 11929.20606) <br/> |11 febbraio 2020 <br/> |291<br/> |
+|Versione 1908 (Build 11929.20562) <br/> |14 gennaio 2020 <br/> |292<br/> |
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DELLA PREVISIONE)
 
 ## <a name="march-1-2020"></a>1 marzo 2020
 
