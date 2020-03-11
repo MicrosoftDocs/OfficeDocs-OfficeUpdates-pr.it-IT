@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: 90560ad20c016ad985a3382c2030a1c1d792e507
-ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
+ms.openlocfilehash: 5d77b6ec5df86de35ef51c6ea8fa16ce9285b9a4
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/09/2020
-ms.locfileid: "42568842"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586403"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
 
@@ -30,13 +30,23 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 [//]: # (NON RIMUOVERE)
 
-## <a name="march-6-2020"></a>6 marzo 2020
+## <a name="march-10-2020"></a>10 marzo 2020
 
-[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 2002 (Build 12527.20278).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2002 (Build 12527.20242) <br/> |1 marzo 2020 <br/> |40<br/> |
+|Versione 2002 (Build 12527.20194) <br/> |25 febbraio 2020 <br/> |266<br/> |
+
+
+[//]: # (NON RIMUOVERE - INIZIO CONTENUTO - 10 marzo 2020)
 
 ### <a name="semi-annual-channel"></a>Canale semestrale
 
-<i>La versione prevista è la numero 1908 (Build 11929.20648).</i>
+La versione più recente è la numero 1908 (Build 11929.20648).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
@@ -46,7 +56,7 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 ### <a name="semi-annual-targeted-channel"></a>Canale semestrale (mirato)
 
-<i>La versione prevista è la numero 2002 (Build 12527.20278).</i>
+La versione più recente è la numero 2002 (Build 12527.20278).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 |Versione 1908 (Build 11929.20562) <br/> |14 gennaio 2020 <br/> |292<br/> |
 
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DELLA PREVISIONE)
+[//]: # (NON RIMUOVERE - FINE CONTENUTO - 10 marzo 2020)
+
+## <a name="march-6-2020"></a>6 marzo 2020
+
+
+
 
 ## <a name="march-1-2020"></a>1 marzo 2020
 
