@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale per Office 365 ProPlus in 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439091"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549197"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Note sulla versione per i rilasci del canale semestrale nel 2016
 
@@ -89,7 +89,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema in cui il menu a discesa Dimensioni campo per i tipi di dati numerici non visualizza alcun valore, il che impedisce all'utente di specificare il tipo di campo Numero quando crea o modifica una tabella.
 
 ### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
--   **Ottenere i miglioramenti & Transform:** Nuove o migliorate funzionalità di trasformazione dei dati e di connettività dei dati per Power query. [Altre informazioni](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Ottenere i miglioramenti & Transform:** Nuove o migliorate funzionalità di trasformazione dei dati e di connettività dei dati per Power query. [Ulteriori informazioni](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Connessioni a dati esterni:** Dati query da origini JSON e SQL data warehouse di Azure.
 -   **Miglioramenti di Power Query:** Trasformazione dei dati nuova e migliorata e funzionalità di connettività dei dati. [Ulteriori informazioni](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Supporto per Large Address Aware:** Versioni a 32 bit di Excel possono utilizzare più memoria, se disponibile. [Ulteriori informazioni](https://support.microsoft.com/kb/3160741)
@@ -258,7 +258,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
@@ -280,7 +280,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
@@ -291,7 +291,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1602-august-9"></a>Versione 1602:9 agosto
 *Versione 1602 (Build 6741.2063)*
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema, dovuto a un aggiornamento della sicurezza recente, a causa del quale aprendo un file HTML da un percorso non attendibile viene visualizzata una schermata vuota senza errori su Excel, anziché consentire all'utente di aprire il file in Visualizzazione protetta.
 
 ### <a name="onenote-security-updates"></a>OneNote: Aggiornamenti della sicurezza
@@ -316,13 +316,13 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 *Questa è la versione di Deferred Channel che è disponibile da febbraio 2016. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al 2016 ottobre. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1602 (Build 6741,2063), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema, dovuto a un aggiornamento della sicurezza recente, a causa del quale aprendo un file HTML da un percorso non attendibile viene visualizzata una schermata vuota senza errori su Excel, anziché consentire all'utente di aprire il file in Visualizzazione protetta.
 
 ### <a name="onenote-security-updates"></a>OneNote: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza

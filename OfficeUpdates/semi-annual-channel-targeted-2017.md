@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale (mirato) per Office 365 ProPlus in 2017
 ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629273"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549237"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>Note sulla versione per i rilasci del canale semestrale (mirato) in 2017
 
@@ -32,8 +32,8 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
  ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel
 
-### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
--   Consente di risolvere un problema in cui l'utente visualizza un messaggio di "Errore irreparabile" non corretto quando viene aperta una cartella di lavoro di Office 2007 o versione precedente (.xls o .xla)con le macro.
+### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+-   Consente di risolvere un problema in cui l'utente visualizza un messaggio di "Errore irreparabile" non corretto quando viene aperta una cartella di lavoro di Office 2007 o versione precedente (.xls o .xla) con le macro.
 -   Consente di risolvere un problema a causa del quale l'apertura di una cartella di lavoro dalla riga di comando potrebbe comportare la perdita del Rich Text Format di una cella.
 
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
@@ -109,7 +109,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 *Versione 1708 (Build 8431.2107)*
 
 ### <a name="access-non-security-updates"></a>Access: Aggiornamenti non della sicurezza
--   Consente di risolvere in cui una query non viene eseguita se la query presenta un join con una chiave primaria di una tabella collegata Microsoft Dynamics.
+-   Consente di risolvere un problema in cui una query non viene eseguita se la query presenta un join con una chiave primaria di una tabella collegata Microsoft Dynamics.
 -   Consente di risolvere un problema per cui le posizioni decimali non vengono visualizzate per valori di valuta in una tabella Microsoft Dynamics.
 
 ### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
@@ -137,14 +137,14 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): vulnerabilità di danneggiamento della memoria di Microsoft Office
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per cui Word si arresta in modo anomalo quando si apre il riquadro Attività per un documento aperto da un server di SharePoint precedente a SharePoint Server 2016.
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
--   Consente di risolvere un problema per cui l'avanzamento di Ripristino online non viene visualizzato all'utente.
+-   Consente di risolvere un problema per cui l'avanzamento di Ripristino online non viene mostrato all'utente.
 -   Consente di risolvere un problema per cui le proprietà dei file Office non vengono visualizzate in Esplora file.
 -   Consente di risolvere un problema in cui i pulsanti dei componenti aggiuntivi Office spariscono dalla barra multifunzione quando è presente un secondo documento aperto.
 -   Consente di risolvere un problema per cui alcuni moduli VBA con nomi con caratteri a due byte non possono essere aperti.
@@ -157,8 +157,8 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="access-feature-updates"></a>Access: Aggiornamenti delle funzionalità
 -   **Proprietà Nome etichetta:** migliora l'accessibilità poiché associa un'etichetta a un controllo presente in una maschera.
 -   **L'operazione di modifica di un nuovo elemento è più accessibile:** utilizzare i tasti di scelta rapida CTRL+E per modificare un nuovo elemento dalla casella combinata oppure dalla casella di riepilogo.
--   **Connettore Dynamics:** consente di importare i dati oppure collegare i dati archiviati in Microsoft Dynamics. [Ulteriori informazioni](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Connettore Salesforce:** Importare i dati oppure collegare i dati archiviati in Salesforce. [Ulteriori informazioni](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Dynamics Connector:** consente di importare i dati oppure collegare i dati archiviati in Microsoft Dynamics. [Ulteriori informazioni](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
+-   **Connettore Salesforce:** importare i dati oppure collegare i dati archiviati in Salesforce. [Ulteriori informazioni](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
 -   **Miglioramenti di "Aggiungi colonna da esempi":** supporta più trasformazioni di Data/ora, Matematica e Colonna indice.
@@ -170,10 +170,10 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Condivisione delle query**: Esportare qualsiasi definizione query in un file ODC (Office Database Connection), quindi condividerlo nelle cartelle di lavoro o con altri utenti.
 -   **Caricamento dei dati:** Caricare i dati da una query direttamente in Tabelle pivot o Grafici pivot senza dover salvare i dati nel modello di dati.
 -   **Attività di un file condiviso:** selezionare il pulsante Attività nell'angolo superiore destro del file per visualizzare quando un file condiviso in OneDrive for Business o SharePoint è stato condiviso, modificato, rinominato o ripristinato.
--   **Safe links:** When a user clicks on a link, Office 365 Advanced Threat Protection (ATP) inspects the link to see if it’s malicious. If the link is deemed malicious, the user is redirected to a warning page instead of the original target URL. [More information](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **Collegamenti sicuri:** quando un utente fa clic su un collegamento, Office 365 Advanced Threat Protection (ATP) esamina il collegamento per verificare se è dannoso. Se il collegamento è ritenuto dannoso, l'utente viene reindirizzato a una pagina di avviso anziché all'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **Funzionalità di importazione dei dati migliorata:** È possibile importare e creare facilmente dati da diverse origini. Gestire le query e le connessioni delle cartelle di lavoro con il riquadro laterale Query e collegamento e condividere le query con altri utenti tramite file ODC. [Ulteriori informazioni](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
--   **Modifiche nei file condivisi**: Visualizzazione dell'autore delle modifiche apportate alle cartelle di lavoro condivise e ripristino delle versioni precedenti. [Ulteriori informazioni](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
--   **Selezione con lazo tramite pulsante della penna:** Utilizzare i pulsanti della penna digitale supportati per eseguire una selezione con Lazo dell'inchiostro senza accedere alla barra multifunzione.
+-   **Modifiche nei file condivisi**: visualizzare l'autore delle modifiche apportate alle cartelle condivise e ripristinare le versioni precedenti. [Ulteriori informazioni](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **Selezione con Lazo tramite pulsante della penna:** utilizzare i pulsanti della penna digitale supportati per eseguire una selezione con Lazo dell'inchiostro senza accedere alla barra multifunzione.
 
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): vulnerabilità di danneggiamento della memoria di Microsoft Office
@@ -191,8 +191,8 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Miglioramenti dell'accessibilità:** è più facile leggere e modificare testo, tabelle, elenchi e immagini nei messaggi di posta elettronica quando si utilizza un'utilità per la lettura dello schermo.
--   **Configurazione di nuovi account:** Impostare nuovi account con una nuova procedura guidata che richiede meno passaggi manuali.
--   **Attach dialog for links:** When attaching a link using Attach File on the ribbon, you can select whether to add it as a link or as an attachment. If you don’t want to see this dialog each time, go to File \> Options \> General and specify how you want links to be attached under “Attachment options.”
+-   **Configurazione di nuovi account:** impostare nuovi account con una nuova procedura guidata che richiede meno passaggi manuali.
+-   **Finestra di dialogo Allega per link:** quando si allega un link tramite l'opzione Allega file sulla barra multifunzione, è possibile selezionare se aggiungerlo come link o come allegato. Se non si desidera visualizzare sempre questa finestra di dialogo, andare a File \> Opzioni \> Generale e specificare in che modo allegare i link in "Opzioni allegato".
 -   **Supporto di allegati in locale:** I file di SharePoint Server in locale vengono visualizzati come file recenti in Messaggio \> Allega file, OneDrive for Business in locale e i siti del team di SharePoint sono visualizzati in Allega file \> Esplora percorsi Web e i file locali possono essere caricati nei siti di OneDrive for Business in locale.
 -   **Classificazioni aziendali per gruppi:**  quando si crea o modifica un gruppo, è possibile assegnare un livello di classificazione commerciale definito dall'amministratore tenant, ad esempio Riservato, classificazione che viene poi visualizzata nell'intestazione del gruppo.
 -   **Accesso guest ai gruppi di Office 365:** collaborare con utenti esterni all'organizzazione autorizzandoli ad accedere alle conversazioni dei gruppi, ai file, agli inviti al calendario e al blocco appunti dei gruppi. [Ulteriori informazioni](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
@@ -203,29 +203,29 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): vulnerabilità della divulgazione delle informazioni relative a Microsoft Office Outlook
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): vulnerabilità di danneggiamento della memoria di Microsoft Office Outlook
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale non è possibile configurare un account IMAP in Outlook.
 -   Consente di risolvere un problema che causa un arresto anomalo intermittente quando si apre Outlook.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
--   **Inserimento di immagini online:** La nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
--   **Sottotitoli codificati per i video:** Aggiungere sottotitoli codificati a un video per renderlo più accessibile. [Ulteriori informazioni](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **Inserimento di immagini online:** la nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
+-   **Sottotitoli codificati per i video:** aggiungere sottotitoli codificati a un video per renderlo più accessibile. [Ulteriori informazioni](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Narrazione di una registrazione:** Includere video di se stessi durante il commento quando si effettua la registrazione di una presentazione. Le registrazioni possono includere animazioni, input penna, audio e video.
 -   **Attività di un file condiviso:** selezionare il pulsante Attività nell'angolo superiore destro del file per visualizzare quando un file condiviso in OneDrive for Business o SharePoint è stato condiviso, modificato, rinominato o ripristinato.
 -   **Creazione di testo alternativo:** un servizio basato su cloud genera automaticamente testo alternativo per le immagini di una presentazione.
--   **Safe links:** When a user clicks on a link, Office 365 Advanced Threat Protection (ATP) inspects the link to see if it’s malicious. If the link is deemed malicious, the user is redirected to a warning page instead of the original target URL. [More information](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **Collegamenti sicuri:** quando un utente fa clic su un collegamento, Office 365 Advanced Threat Protection (ATP) esamina il collegamento per verificare se è dannoso. Se il collegamento è ritenuto dannoso, l'utente viene reindirizzato a una pagina di avviso anziché all'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **Miglioramenti per la progettazione:** suggerisce idee per progetti professionali per elenchi orientati all'azione.
--   **Modifiche nei file condivisi:** Visualizzazione dell'autore delle modifiche apportate alle presentazioni condivise e ripristino delle versioni precedenti. [Ulteriori informazioni](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **Modifiche nei file condivisi** Visualizzazione dell'autore delle modifiche apportate alle presentazioni condivise e ripristino delle versioni precedenti. [Ulteriori informazioni](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Aggiornamenti della sicurezza
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): vulnerabilità relativa all'esecuzione di codice remoto in PowerPoint
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): vulnerabilità relativa all'esecuzione di codice remoto in PowerPoint
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale i caratteri definiti dall'utente finale (EUDC, End-User Defined Character) che sono collegati ai tipi di carattere non vengono visualizzati.
 
 ### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
--   Consente di risolvere un problema a causa del quale Project si arresta anomalo quando si aprono determinati file da Project Online.
+-   Consente di risolvere un problema a causa del quale Project si arresta in modo anomalo quando si aprono determinati file da Project Online.
 -   Consente di risolvere un problema a causa del quale l'inizio effettivo potrebbe essere erroneamente cancellato quando si imposta il lavoro rimanente.
 -   Consente di risolvere un problema a causa del quale la data di inizio effettivo delle assegnazioni può mostrare dati diversi da quelli riportati dalla risorsa tramite la definizione dello stato in Project Web App.
 -   Consente di risolvere un problema a causa del quale il lavoro effettivo potrebbe essere riprogrammato se la data di fine dell'attività viene modificata.
@@ -286,7 +286,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Inserimento di immagini online:** la nuova pagina di destinazione per selezionare immagini e informazioni sull'attribuzione è automaticamente inserita con l'immagine.
 -   **Creazione di testo alternativo:** un servizio basato su cloud genera automaticamente testo alternativo per le immagini di un documento.
 -   **Attività di un file condiviso:** selezionare il pulsante Attività nell'angolo superiore destro del file per visualizzare quando un file condiviso in OneDrive for Business o SharePoint è stato condiviso, modificato, rinominato o ripristinato.
--   **Safe links:** When a user clicks on a link, Office 365 Advanced Threat Protection (ATP) inspects the link to see if it’s malicious. If the link is deemed malicious, the user is redirected to a warning page instead of the original target URL. [More information](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **Collegamenti sicuri:** quando un utente fa clic su un collegamento, Office 365 Advanced Threat Protection (ATP) esamina il collegamento per verificare se è dannoso. Se il collegamento è ritenuto dannoso, l'utente viene reindirizzato a una pagina di avviso anziché all'URL di destinazione originale. [Ulteriori informazioni](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **Modifiche nei file condivisi:** Visualizzazione dell'autore delle modifiche apportate ai documenti condivisi e ripristino delle versioni precedenti. [Ulteriori informazioni](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
@@ -365,7 +365,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema per il quale il collegamento della riunione di Outlook non trasmette sempre correttamente l'URI interno.
 -   Ampliato il pulsante per partecipare alla riunione per correggere il troncamento di alcune lingue localizzate.
 
-### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
+### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per il quale le tabelle non vengono visualizzate correttamente dopo determinate azioni.
 -   Consente di risolvere un problema per il quale le modifiche a citazioni a volte vengono visualizzate come una singola azione di annullamento invece di singole azioni consecutive.
 -   Consente di risolvere un problema in cui l'annullamento viene disabilitato dopo determinate azioni.
@@ -467,7 +467,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Selezionare e modificare gli oggetti con una penna:** Utilizzare una penna digitale per spostare, ridimensionare oppure ruotare gli oggetti tramite gli appositi punti di controllo. In alternativa, utilizzare i pulsanti della penna per eseguire selezione con lazo dell'inchiostro.
 -   **Miglioramenti accessibilità:** Supporto migliorato per l'utilizzo della tastiera, Assistente vocale e altri strumenti di Assistive Technology per leggere e modificare le presentazioni. [Ulteriori informazioni](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale PowerPoint si arresta in modo anomalo quando l'utente è nel riquadro Idee per progetti se il file mfplat.dll non è installato nel computer.
 -   Consente di risolvere un problema a causa del quale il pulsante di comando per un componente aggiuntivo non funziona dopo l'aggiornamento del componente aggiuntivo o dopo la rimozione o il download del componente aggiuntivo dall'Office Store.
 
@@ -475,7 +475,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Elenco a discesa rapido per l'impostazione di predecessori:** Usare il menu a discesa del diagramma di Gantt per scegliere quali predecessori o successori collegare a un'attività.
 -   **Nome Riepilogo attività:**   campo attività di sola lettura in cui viene visualizzato il nome dell'attività di riepilogo dell'attività.  
 
-### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
+### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
 -   Consente di correggere la finestra di dialogo Crea sito di progetto che visualizza la posizione corretta del sito ora che in Project Online ogni Enterprise Project Template (EPT) ha il proprio URL per i siti di progetto.
 -   Consente di risolvere un problema a causa del quale l'evento VBA BeforeClose viene attivato prima del prompt Salva e non si dispone di un modo programmatico per stabilire la risposta dell'utente al prompt di salvataggio.
 -   Consente di risolvere un problema a causa del quale % fisica completamento non esegue il roll up correttamente per le attività che iniziano dopo la data dello stato del progetto.
@@ -577,7 +577,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Lettura migliorata con strumenti di apprendimento:** Nuovi comandi nelle competenze di lettura boost della Modalità di lettura modificando testo spaziatura, mostrando le interruzioni di pagina tra sillabe ed evidenziando ogni parola del documento letto ad alta voce. [Ulteriori informazioni](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Identificazione delle forme:** consente di trasformare automaticamente i disegni in forme utilizzando Disegno \> Converti in forma. [Ulteriori informazioni](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Aggiornamento della sicurezza per Microsoft Office (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): vulnerabilità di danneggiamento della memoria di Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
@@ -658,7 +658,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Aggiornamento della sicurezza per Microsoft Office (3217868)
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale Excel potrebbe arrestarsi in modo anomalo quando si inseriscono i collegamenti ipertestuali.
 -   Consente di risolvere un problema a causa del quale Excel non funziona in modo corretto quando si aggiungono mapping XML.
 -   Consente di risolvere un problema a causa del quale il pulsante di comando per un componente aggiuntivo non funziona dopo l'aggiornamento del componente aggiuntivo o dopo la rimozione o il download del componente aggiuntivo dall'Office Store.
@@ -723,7 +723,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="onenote-feature-updates"></a>OneNote: Aggiornamenti delle funzionalità
 -   **Controllare la sincronizzazione di file e immagini:** Accedere a File \> Opzioni \> Sincronizza per controllare che tutti i file e le immagini vengano scaricati automaticamente per tutte le pagine nei blocchi appunti.
 
-### <a name="onenote-non-security-updates"></a>OneNote: aggiornamenti non relativi alla sicurezza
+### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale OneNote si arresta in modo anomalo quando viene stampata un'immagine di dimensioni superiori rispetto alla pagina.
 -   Consente di risolvere un problema a causa del quale un utente non può eliminare un modello di pagina personalizzato.
 
