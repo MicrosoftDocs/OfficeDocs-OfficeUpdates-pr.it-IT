@@ -1,7 +1,7 @@
 ---
 title: Note sulla versione per gli aggiornamenti della sicurezza di Office 365 ProPlus
 ms.author: andrewmo
-author: ''
+author: TimDavenport
 manager: andrewmo
 ms.audience: ITPro
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulla versione gli aggiornamenti della sicurezza di Office 365 ProPlus
-ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978624"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586651"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Note sulla versione per gli aggiornamenti della sicurezza di Office 365 ProPlus
 
@@ -25,6 +25,28 @@ Le note sulla versione forniscono informazioni sulle correzioni per la sicurezza
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.  
 
 [//]: # (NON ELIMINARE LA RIGA SOPRA, viene usata per la spaziatura)  
+
+## <a name="march-10-2020"></a>10 marzo 2020
+Canale mensile: versione 2002 (Build 12527.20278)  
+Canale semestrale (mirato): versione 2002 (Build 12527.20278)  
+Canale semestrale: versione 1908 (Build 11929.20648)  
+Canale semestrale: versione 1902 (Build 11328.20554)  
+Office 365 ProPlus in Windows 7: versione 2002 (Build 12527.20278)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0851)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="february-11-2020"></a>11 febbraio 2020
 Canale mensile: versione 2001 (Build 12430.20264)  
