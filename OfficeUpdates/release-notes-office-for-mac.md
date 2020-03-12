@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 044a7df52545af6adcc57d58cb8299f17b5c7244
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: b8a86eca77d1a167f83fb985522d05a091085903
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978744"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586593"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -37,6 +37,29 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 
 
+
+
+
+## <a name="march-10-2020"></a>10 marzo 2020
+*Versione 16.35 (Build 20030802)*
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO CON DETTAGLI SULLA SICUREZZA)
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="powerpoint"></a>PowerPoint
+
+- **Capacità di comprimere la finestra corrente della diapositiva nella visualizzazione relatore:** trascinando la linea di divisione nel lato sinistro dello schermo, è possibile comprimere la visualizzazione corrente della diapositiva in modo da visualizzare solo la "diapositiva successiva" per la durata della presentazione.
+
+### <a name="security-updates"></a>Aggiornamenti della sicurezza
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0851)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0892)
+
+[//]: # (NON RIMUOVERE LA FINE DEL CONTENUTO CON I DETTAGLI SULLA SICUREZZA)
 
 ## <a name="february-11-2020"></a>11 febbraio 2020
 *Versione 16.34 (Build 20020900)*

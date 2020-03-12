@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549177"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586573"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -29,6 +29,114 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2003-march-10"></a>Versione 2003: 10 marzo
+*Versione 2003 (Build 12624.20176)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema estetico per cui il pulsante OK nella finestra di dialogo File\Opzioni veniva visualizzato come disattivato, anche se questo non influiva sulla funzionalità.
+
+- È stato risolto un problema riscontrato dagli utenti quando rinominavano le misure delle tabelle pivot.
+
+- È stato risolto un problema per cui il testo in un filtro dati non veniva ridimensionato correttamente nell'anteprima di stampa.
+
+- È stato risolto un problema di prestazioni che può essere stato riscontrato dagli utenti nell’utilizzo di una macro VBA per eliminare il contenuto di un intervallo.
+
+- È stato risolto un problema che causava il lampeggio dell’interfaccia utente durante l'esecuzione di una macro che interagiva con la barra multifunzione.
+
+- È stato risolto un problema per cui i file CSV venivano caricati erroneamente quando la prima parola nel file era TABLE.
+
+- È stato risolto un problema per cui gli utenti potevano riscontrare arresti anomali durante il passaggio da una cartella di lavoro a un’altra con un livello di zoom diverso.
+
+- È stato risolto un problema per cui a volte le funzioni VALORE.CUBO restituivano un risultato non corretto.
+
+- La modifica risolve un errore di run-time nel modello a oggetti e l'arresto anomalo dell'app (Excel, Word) che si verificano quando i componenti aggiuntivi chiedono elementi host nei documenti/fogli di lavoro che contengono forme con blocchi noSelect.
+
+- Risolve un problema che causava un arresto anomalo di Outlook sincronizzando le impostazioni.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui una regola creata in Outlook Web Access veniva cancellata nel server Exchange generando un conflitto.
+
+- È stato risolto un problema che causava un arresto anomalo di Outlook sincronizzando le impostazioni.
+
+- È stato risolto un problema per cui nella modalità scura di Outlook non veniva visualizzato l'elenco a discesa nel campo "Da:".
+
+- È stato risolto un problema per cui Outlook generava in modo inatteso l'output di registrazione in alcuni scenari, anche quando la registrazione era disattivata.
+
+- È stato risolto un problema che impediva agli utenti di aprire messaggi di cartelle pubbliche quando Outlook era rimasto in esecuzione durante la notte.
+
+- È stata risolta una race condition in cui i pulsanti "Consenti" e "Nega" nella pagina delle autorizzazioni venivano disabilitati durante il flusso di lavoro di autenticazione per l'aggiunta di un account Gmail.
+
+- È stato risolto un problema per cui gli utenti perdevano l'accesso alla finestra di dialogo delle autorizzazioni del calendario &quot;Opzioni disponibilità&quot;.
+
+- È stato risolto un problema per cui veniva visualizzato l'avviso &quot;Si è verificato un problema con l'apertura di questo elemento&quot; quando si aprivano le istanze di riunioni ricorrenti inviate da un fuso orario diverso.
+
+- È stato risolto un problema a causa del quale gli utenti potrebbero non essere in grado di riaprire un file .msg dopo aver trascinato un allegato da quel messaggio.
+
+- È stato risolto un problema a causa del quale, dopo aver caricato un allegato da Outlook a OneDrive, il nome file potrebbe cambiare se il nome dell'allegato contiene delle parentesi.
+
+- È stato risolto un problema che impediva agli utenti di allegare un file al messaggio di posta elettronica tramite Esplora file se il file era aperto in un'altra applicazione.
+
+- È stato risolto un problema che causava un arresto anomalo di Outlook sincronizzando le impostazioni.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui le anteprime consigliate lampeggiavano durante il passaggio del mouse su di esse. In alcuni casi questo causava un arresto anomalo di PowerPoint.
+
+- È stato risolto un problema estetico per cui il pulsante OK nella finestra di dialogo File\Opzioni veniva visualizzato come disattivato, anche se questo non influiva sulla funzionalità.
+
+- È stato risolto un problema che causava un errore durante il salvataggio di un documento in PowerPoint o Word se il documento conteneva un grafico di Excel.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui la percentuale di completamento dell'attività si modificava erroneamente in un valore inferiore al 100% dopo che l'attività era stata contrassegnata come completata.
+
+- È stato risolto un problema per cui l'evento OnUndoOrRedo non veniva lanciato senza prima eseguire il metodo OpenUndoTransaction.
+
+- È stato risolto un problema per cui le date delle attività di riepilogo non sempre venivano calcolate correttamente.
+
+### <a name="visio"></a>Visio
+
+- Nel riquadro Informazioni forma, la sezione Proprietà forma mostrava dettagli incoerenti quando il file veniva aperto nella versione desktop di Visio. Ora il problema è stato risolto.
+
+- Nelle versioni precedenti al 2016, le bitmap importate non venivano visualizzate a causa di alcuni controlli di sicurezza. Questo problema è stato risolto nell'abbonamento di Visio.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui le schede di commento non venivano sempre evidenziate quando si passava il puntatore del mouse su di esse.
+
+- È stato risolto un problema per cui spostandosi tramite TAB in una scheda commento, lo stato attivo sulla casella di modifica del commento non era visibile.
+
+- È stato risolto un problema estetico per cui il pulsante OK nella finestra di dialogo File\Opzioni veniva visualizzato come disattivato, anche se questo non influiva sulla funzionalità.
+
+- Durante una sessione di creazione condivisa di documenti attiva, l'aggiunta diretta di un'immagine in una scheda di commento può comportare l'aggiunta di un contrassegno. Questo problema è stato risolto.
+
+- Se veniva inserito un controllo in un'equazione, ad esempio un controllo contenuto testo, il salvataggio e l'apertura del file comportavano un errore di contenuto illeggibile.
+
+- È stato risolto un problema per cui non era possibile salvare un file protetto in precedenza da password, in uno spazio di archiviazione cloud.
+
+- È stato risolto un problema con la funzionalità Confronta per i documenti protetti per la modifica.
+
+- È stato risolto un problema per cui le immagini nei documenti perdevano la trasparenza quando venivano esportate in PDF.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
+
+- È stato risolto un problema in Word/Excel/PowerPoint per cui il nome dell'entità utente (UPN) non distingueva più tra maiuscole e minuscole, causando la visualizzazione di un numero inferiore di errori durante l'uso dei file in SharePoint.
+
+- È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 ## <a name="version-2002-march-05"></a>Versione 2002: 5 marzo
 *Versione 2002 (Build 12527.20278)*
