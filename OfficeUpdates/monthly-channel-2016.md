@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale mensile per Office 365 ProPlus in 2016
 ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549247"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42614997"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Note sulla versione per i rilasci mensili del canale in 2016
 
@@ -581,7 +581,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 -   Consente di migliorare l'aspetto dei messaggi che contengono tabelle con valori DPI elevati.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per il quale il salvataggio automatico di una presentazione che contiene un grafico, causa l'arresto anomalo di PowerPoint.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
@@ -686,7 +686,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale Outlook non invia il contenuto dei messaggi quando si invia la posta elettronica tramite file msg.
 -   Update the Inbox Repair Tool (scanpst.exe) so that it can detect and correct file corruption issues related to how .pst files are indexed and searched. This type of corruption can prevent .pst files from loading, cause Outlook to crash, or cause high CPU utilization.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale viene visualizzato un messaggio di errore quando si prova a salvare un file ripristinato oppure ad aprire il file originale. Questo errore si verifica se PowerPoint è stato riavviato dopo un arresto anomalo e si utilizza il riquadro attività Ripristino documenti.
 -   Consente di risolvere un problema a causa del quale PowerPoint si arresta in modo anomalo quando si prova a salvare un file di ripristino creato da un precedente arresto anomalo del programma.
 -   Consente di risolvere un problema per il quale, se si dispone di una presentazione con un tabella e la presentazione viene salvata come PDF, PowerPoint si arresta in modo anomalo.

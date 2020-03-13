@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale mensile per Office 365 ProPlus in 2017
 ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549267"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615005"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Note sulla versione per i rilasci mensili del canale in 2017
 
@@ -48,7 +48,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Roaming delle informazioni di verifica revisione:** Lo stato dei messaggi già letti o da leggere letto per evidenziare diapositive condivise modificate da altri utenti è archiviato in un servizio roaming (anziché nel computer dell'utente), in modo che queste informazioni possano essere sincronizzate su più dispositivi o piattaforme.
 -   **Accedere rapidamente ai siti e gruppi:** Utilizzare il menu File per utilizzare i documenti archiviati nei siti e gruppi più usati.
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema in cui le attività vengono visualizzate come completate anche se non è così.
 -   Consente di risolvere un problema in cui Project si interrompe quando si utilizza la funzionalità della sequenza delle attività.
 -   Consente di risolvere un problema in cui la scala cronologica non mostra le relative etichette.
@@ -99,7 +99,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale, quando si utilizza Monitoraggio eventi accessibile (AccEvent.exe), Outlook si arresta in modo anomalo durante il passaggio da una cartella all'altra.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema in cui i riferimenti a Flash Player basati sui codici di incorporamento di YouTube causano l&apos;apertura di una nuova finestra per la riproduzione del video. I vecchi codici di incorporamento sono ora aggiornati al riferimento HTML5 basato sui video di YouTube affinché vengano riprodotti correttamente.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -147,7 +147,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Vista della lavagna delle attività:** ordinare le attività nelle schede nella vista della lavagna delle attività. Ordinare nuovamente e spostare le schede tra le colonne della lavagna, così come avviene per i progetti Agile.
 -   **Progetti Agile:** gestire i progetti Agile utilizzando backlog, lavagne delle attività, sprint e molto altro ancora. Sono supportate sia la metodologia Scrum sia la metodologia Kanban. [Ulteriori informazioni](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale la disponibilità delle risorse non viene visualizzata in Creazione team.
 -   Consente di risolvere un problema a causa del quale gli indicatori grafici non vengono visualizzati correttamente.
 -   Consente di risolvere un problema a causa del quale Project si blocca durante il livellamento orario o giornaliero.
@@ -204,7 +204,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 -   **Run a slide show with your digital pen:** Use your Surface Pen, or other pen with a Bluetooth button, to advance your slides. Windows 10 Fall Creators Update is required. [More information](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale Project potrebbe arrestarsi in modo anomalo quando si accede a report che includono molte immagini.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
@@ -362,7 +362,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): vulnerabilità relativa all'esecuzione di codice remoto in PowerPoint
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): vulnerabilità relativa all'esecuzione di codice remoto in PowerPoint
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale Project si arresta anomalo quando si aprono determinati file da Project Online.
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
@@ -379,7 +379,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1707-august-29"></a>Versione 1707:29 agosto
 *Versione 1707 (Build 8326.2096)*
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale i caratteri definiti dall'utente finale (EUDC, End-User Defined Character) che sono collegati ai tipi di carattere non vengono visualizzati.
 
 
@@ -472,7 +472,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Suoni utili per migliorare l'accessibilità:** attivare gli avvisi audio per ottenere assistenza durante il lavoro. Sono disponibili in File \> Opzioni \> Accessibilità. Non sono necessari componenti aggiuntivi. [Ulteriori informazioni](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Percorsi dei file per account:** Quando si apre o si salva un file, l'elenco dei percorsi è organizzato in base all'account associato.
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per il quale il lavoro effettivo viene erroneamente trasferito a una risorsa aziendale quando sostituisce una risorsa locale e il lavoro protetto è abilitato.
 -   Consente di risolvere un problema per il quale Project si arresta in modo anomalo nel caso in cui si disponga di una tabella in cui la prima colonna, è Nome attività, la colonna è bloccata e si seleziona un'attività.
 -   Consente di risolvere un problema per il quale è possibile assegnare la stessa risorsa più volte alla stessa attività attraverso la visualizzazione Gestione attività.
@@ -618,7 +618,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Miglioramenti per la progettazione:** La finestra di progettazione suggerisce ora idee di progettazione per i grafici aggiunti alle diapositive.
 -   **Supporto per Windows Information Protection (WIP):**    PowerPoint è ora un'app illuminata e può distinguere tra dati aziendali e personali, determinando in modo corretto quali proteggere, in base ai criteri configurati.   [Altre informazioni](https://aka.ms/wiptechnet)
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di correggere la finestra di dialogo Crea sito di progetto che visualizza la posizione corretta del sito ora che in Project Online ogni Enterprise Project Template (EPT) ha il proprio URL per i siti di progetto.
 -   Consente di risolvere un problema a causa del quale l'evento VBA BeforeClose viene attivato prima del prompt Salva e non si dispone di un modo programmatico per stabilire la risposta dell'utente al prompt di salvataggio.
 -   Consente di risolvere un problema a causa del quale % fisica completamento non esegue il roll up correttamente per le attività che iniziano dopo la data dello stato del progetto.
@@ -722,7 +722,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1703-may-9"></a>Versione 1703:9 maggio
 *Versione 1703 (Build 7967.2161)*
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
@@ -861,14 +861,14 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Rimozione dello sfondo:** consente di rimuovere un'immagine di sfondo con uno strumento di disegno a mano libera.
 -   **Miglioramenti per la progettazione:** suggerisce idee per progetti professionali per elenchi orientati all'azione.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale PowerPoint si arresta in modo anomalo quando l'utente è nel riquadro Idee per progetti se il file mfplat.dll non è installato nel computer.
 -   Consente di risolvere un problema a causa del quale il pulsante di comando per un componente aggiuntivo non funziona dopo l'aggiornamento del componente aggiuntivo o dopo la rimozione o il download del componente aggiuntivo dall'Office Store.
 
 ### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
 -   **Nome Riepilogo attività:**   campo attività di sola lettura in cui viene visualizzato il nome dell'attività di riepilogo dell'attività.  
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale le informazioni iniziali vengono perse durante il salvataggio di un progetto.
 -   Consente di risolvere un problema a causa del quale le stampe sono di difficile lettura per i piani di progetto di grandi dimensioni.
 -   Consente di risolvere un problema a causa del quale i progetti modificati in Project Web App non mostrano i valori corretti per i campi formula.

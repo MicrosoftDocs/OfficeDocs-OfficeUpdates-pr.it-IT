@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale (mirato) per Office 365 ProPlus in 2017
 ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549237"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615002"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>Note sulla versione per i rilasci del canale semestrale (mirato) in 2017
 
@@ -131,7 +131,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema per cui Outlook si arresta in modo anomalo quando l'utente prova a configurare un nuovo account e chiude la finestra senza completare la configurazione dell'account.
 -   Consente di risolvere un problema per cui Segna come già letto e Segna come da leggere vengono visualizzate come opzioni dei messaggi nella Posta in arrivo condivisa di un gruppo.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per cui PowerPoint si arresta in modo anomalo quando si apre una presentazione da un server di SharePoint precedente a SharePoint Server 2016.
 
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
@@ -221,7 +221,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): vulnerabilità relativa all'esecuzione di codice remoto in PowerPoint
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): vulnerabilità relativa all'esecuzione di codice remoto in PowerPoint
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale i caratteri definiti dall'utente finale (EUDC, End-User Defined Character) che sono collegati ai tipi di carattere non vengono visualizzati.
 
 ### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
@@ -475,7 +475,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Elenco a discesa rapido per l'impostazione di predecessori:** Usare il menu a discesa del diagramma di Gantt per scegliere quali predecessori o successori collegare a un'attività.
 -   **Nome Riepilogo attività:**   campo attività di sola lettura in cui viene visualizzato il nome dell'attività di riepilogo dell'attività.  
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di correggere la finestra di dialogo Crea sito di progetto che visualizza la posizione corretta del sito ora che in Project Online ogni Enterprise Project Template (EPT) ha il proprio URL per i siti di progetto.
 -   Consente di risolvere un problema a causa del quale l'evento VBA BeforeClose viene attivato prima del prompt Salva e non si dispone di un modo programmatico per stabilire la risposta dell'utente al prompt di salvataggio.
 -   Consente di risolvere un problema a causa del quale % fisica completamento non esegue il roll up correttamente per le attività che iniziano dopo la data dello stato del progetto.
@@ -608,7 +608,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Aggiungere la chiave del Registro di sistema HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Outlook\\Options\\General\\DisableSupportBackstage per consentire agli amministratori di nascondere la scelta Supporto nella scheda File.
 -   Aggiungere la chiave del Registro di sistema HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Outlook\\Options\\General\\DisableOutlookFeedbackFeatures per consentire agli amministratori di disattivare le opzioni "Feedback Outlook 2016" e "Blog di Outlook" in File \> Feedback.
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
@@ -638,7 +638,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale l'utente visualizza un nuovo tipo di archivio "Microsoft Exchange" nella finestra di dialogo "Nuovo file di dati di Outlook", ma la selezione di tale archivio rende inutilizzabile il profilo utente.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale si verifica un errore d'immagine mancante quando l'utente seleziona "Salva con nome" e sceglie un percorso alternativo per un file PowerPoint che è salvato su un dispositivo rimovibile, ad esempio, una chiavetta USB.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza

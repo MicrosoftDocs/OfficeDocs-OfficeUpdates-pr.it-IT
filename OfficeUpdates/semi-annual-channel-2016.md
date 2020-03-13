@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale per Office 365 ProPlus in 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549197"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615034"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Note sulla versione per i rilasci del canale semestrale nel 2016
 
@@ -244,7 +244,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 *Questa è la versione di Deferred Channel che è disponibile a partire dal 2016 giugno. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al febbraio 2017. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1605 (Build 6965,2092), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-120](https://technet.microsoft.com/library/security/ms16-120): aggiornamento della sicurezza per Microsoft Graphics Component (3192884)
 
 ### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
@@ -300,7 +300,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-097](https://technet.microsoft.com/library/security/ms16-097): aggiornamento della sicurezza per Microsoft Graphics Component (3177393)
 
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza

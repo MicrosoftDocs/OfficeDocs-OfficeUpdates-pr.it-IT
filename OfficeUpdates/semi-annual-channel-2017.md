@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale per Office 365 ProPlus in 2017
 ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549227"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615074"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Note sulla versione per i rilasci del canale semestrale nel 2017
 
@@ -102,7 +102,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): le funzionalità di sicurezza di Microsoft Outlook ignorano la vulnerabilità
 -   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): vulnerabilità della divulgazione delle informazioni relative a Microsoft Outlook
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): vulnerabilità elevazione di privilegi in Skype for Business
 
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
@@ -247,7 +247,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Elenco a discesa rapido per l'impostazione di predecessori:** Usare il menu a discesa del diagramma di Gantt per scegliere quali predecessori o successori collegare a un'attività.
 -   **Nome Riepilogo attività:**   campo attività di sola lettura in cui viene visualizzato il nome dell'attività di riepilogo dell'attività.  
 
-### <a name="project-non-security-updates"></a>Project: Aggiornamenti non della sicurezza
+### <a name="project-non-security-updates"></a>Project: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per cui i valori selezionati per una grafico o tabella non sono visibili nel riquadro tabella/grafico.
 -   Consente di correggere la finestra di dialogo Crea sito di progetto che visualizza la posizione corretta del sito ora che in Project Online ogni Enterprise Project Template (EPT) ha il proprio URL per i siti di progetto.
 -   Consente di risolvere un problema a causa del quale l'evento VBA BeforeClose viene attivato prima del prompt Salva e non si dispone di un modo programmatico per stabilire la risposta dell'utente al prompt di salvataggio.
@@ -774,7 +774,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1609-may-9"></a>Versione 1609:9 maggio
 *Versione 1609 (Build 7369.2130)*
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
 ### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
@@ -793,7 +793,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 *Questa è la versione di Deferred Channel che è disponibile da ottobre 2016. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al 2017 giugno. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1609 (Build 7369,2130), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Office
 
 ### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza

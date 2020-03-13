@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale (mirato) per Office 365 ProPlus in 2016
 ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549217"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615066"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Note sulla versione per i rilasci del canale semestrale (mirato) in 2016
 
@@ -313,7 +313,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema che si verifica quando l'utente trascina un messaggio di posta elettronica in una cartella del file PST e Outlook gli chiede di eseguire una correzione di tale file.
 -   Consente di risolvere un problema a causa del quale non vengono visualizzate le immagini presenti negli inviti alle riunioni inviati da Outlook 2016. Tale errore si verifica quando il destinatario utilizza Outlook 2013 oppure Outlook 2010.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale l'utente non riesce a salvare un file aperto e contrassegnato in una raccolta documenti di SharePoint; inoltre, nella libreria è stato impostato Sì per l'opzione "Estrazione obbligatoria dei documenti prima della modifica".
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
@@ -465,7 +465,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Creazione condivisa di elementi grafici Smart:** Più utenti possono modificare componenti differenti di un elemento grafico SmartArt contemporaneamente.
 -   **Miglioramenti di PowerPoint Designer:** Suggerimenti per la progettazione di più immagini, estrattore di colori e riconoscimento facciale. [Ulteriori informazioni](https://blogs.office.com/2016/03/24/powerpoint-designer-whats-new-and-whats-next/)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale l'utente visualizza un messaggio relativo al mancato aggiornamento di un documento, quando sta partecipando alla creazione condivisa di una presentazione dotata di un componente aggiuntivo dei contenuti.
 -   Consente di risolvere un problema a causa del quale viene visualizzato un messaggio di errore quando si prova a salvare un file ripristinato oppure ad aprire il file originale. Questo errore si verifica se PowerPoint è stato riavviato dopo un arresto anomalo e si utilizza il riquadro attività Ripristino documenti.
 -   Consente di risolvere un problema a causa del quale PowerPoint si arresta in modo anomalo quando si prova a salvare un file di ripristino creato da un precedente arresto anomalo del programma.
@@ -547,7 +547,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
 -   Update the Inbox Repair Tool (scanpst.exe) so that it can detect and correct file corruption issues related to how .pst files are indexed and searched. This type of corruption can prevent .pst files from loading, cause Outlook to crash, or cause high CPU utilization.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: aggiornamenti non relativi alla sicurezza
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale viene visualizzato un messaggio di errore quando si prova a salvare un file ripristinato oppure ad aprire il file originale. Questo errore si verifica se PowerPoint è stato riavviato dopo un arresto anomalo e si utilizza il riquadro attività Ripristino documenti.
 -   Consente di risolvere un problema a causa del quale PowerPoint si arresta in modo anomalo quando si prova a salvare un file di ripristino creato da un precedente arresto anomalo del programma.
 -   Consente di risolvere un problema a causa del quale numeri e spazi vengono persi durante il salvataggio di una presentazione in formato rtf oppure durante la copia del testo in un editor di testo RTF, ad esempio, WordPad.
