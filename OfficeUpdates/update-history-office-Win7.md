@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai clienti le note sulla versione per la cronologia degli aggiornamenti per Office 365 ProPlus per Windows 7
-ms.openlocfilehash: 64964bc3e806179414c77568c04f449f105fbef3
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586363"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612462"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Cronologia degli aggiornamenti per Office 365 ProPlus in Windows 7 
 
@@ -34,8 +34,11 @@ Le versioni nel canale semestrale rimangono in genere disponibili solo per 14 me
 
 Questa disponibilità estesa per la versione 2002 si applica anche ad altri canali di aggiornamento, come quello mensile e quello semestrale (mirato), ma solo per i dispositivi che eseguono Windows 7.
 
-##
+È possibile continuare a distribuire versioni precedenti alla versione 2002 nei dispositivi che eseguono Windows 7, purché la versione precedente sia ancora supportata. Ad esempio, è possibile continuare a usare la versione 1908 del Canale semestrale su dispositivi che eseguono Windows 7 fino a marzo 2021, ovvero quando la versione 1908 non sarà più supportata nel Canale semestrale.
 
+Il secondo martedì di ogni mese, verrà rilasciata una nuova build della versione 2002 con gli aggiornamenti della sicurezza, se necessario. Sarà disponibile una sola build per ogni architettura (x86 o x64) e potrà essere usata con qualsiasi canale di aggiornamento distribuito. Non saranno disponibili build separate della versione 2002 per ogni canale. Ad esempio, è possibile usare la stessa build per aggiornare i dispositivi che eseguono Windows 7 e usano il Canale mensile o il Canale semestrale.
+
+##
 
 [//]: # (NON RIMUOVERE)
 
