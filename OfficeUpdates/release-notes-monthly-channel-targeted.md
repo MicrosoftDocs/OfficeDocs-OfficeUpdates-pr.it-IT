@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586573"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622130"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -35,8 +35,17 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 
 Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
-
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a>PowerPoint
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a>Word
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+</br>
 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
@@ -60,6 +69,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - La modifica risolve un errore di run-time nel modello a oggetti e l'arresto anomalo dell'app (Excel, Word) che si verificano quando i componenti aggiuntivi chiedono elementi host nei documenti/fogli di lavoro che contengono forme con blocchi noSelect.
 
 - Risolve un problema che causava un arresto anomalo di Outlook sincronizzando le impostazioni.
+
+
 
 ### <a name="outlook"></a>Outlook
 
@@ -95,6 +106,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema che causava un errore durante il salvataggio di un documento in PowerPoint o Word se il documento conteneva un grafico di Excel.
 
+
+
 ### <a name="project"></a>Project
 
 - È stato risolto un problema per cui la percentuale di completamento dell'attività si modificava erroneamente in un valore inferiore al 100% dopo che l'attività era stata contrassegnata come completata.
@@ -125,9 +138,10 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema con la funzionalità Confronta per i documenti protetti per la modifica.
 
-- È stato risolto un problema per cui le immagini nei documenti perdevano la trasparenza quando venivano esportate in PDF.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+
+
+### <a name="office-suite"></a>Applicazioni Office
 
 - Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
 

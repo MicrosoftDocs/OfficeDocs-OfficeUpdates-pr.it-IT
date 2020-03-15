@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
-ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
+ms.openlocfilehash: a62e8d030c01685f6ab688666bccd15a7cf87cea
+ms.sourcegitcommit: 802bdce1e86a4da5ca91a537f208be94417d622e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/09/2020
-ms.locfileid: "42568862"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637424"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,54 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2004-march-13"></a>Versione 2004: 13 marzo
+*Versione 2004 (Build 12703.20010)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+
+### <a name="excel"></a>Excel
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a>PowerPoint
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a>Word
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+
+### <a name="access"></a>Access
+- È stato risolto un problema per cui nell'interfaccia utente delle versioni internazionali di Access venivano visualizzate stringhe in inglese.
+
+### <a name="excel"></a>Excel
+- È stato risolto un problema di prestazioni che talvolta gli utenti sperimentavano quando modificavano un intervallo di celle elevato a livello di programmazione.
+- È stato risolto un problema di prestazioni che si verificava durante l'apertura di file CSV in ambiente giapponese.
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema per la cui i dati relativi all'ultima modifica di un file venivano aggiornati aggiungendo un allegato a un messaggio di posta elettronica o salvando un allegato da un messaggio di posta elettronica mediante trascinamento, anziché tramite un menu.
+- Risolve un problema per cui nel riquadro Trova espanso premendo il tasto Invio non si avviava la ricerca; era invece necessario fare clic sul pulsante Cerca.
+- È stato risolto un problema per cui la ricerca non mostrava informazioni sugli utenti quando l'opzione "Mostra le foto degli utenti quando disponibili" era disabilitata.
+
+### <a name="project"></a>Project
+- È stato risolto un problema per cui le date delle attività di riepilogo non sempre venivano calcolate correttamente.
+- È stato risolto un problema per cui l'evento OnUndoOrRedo non veniva lanciato senza prima eseguire il metodo OpenUndoTransaction.
+
+### <a name="word"></a>Word
+- È stato risolto un problema per cui digitando o modificando un commento e usando la combinazione di tasti CTRL+A veniva selezionato il testo nell'area di disegno anziché nella scheda del commento.
+- È stato risolto un problema per cui l'allineamento delle parole in un documento veniva modificato se si provava a modificare il documento dopo la stampa con Quick Print.
+- È stato risolto un problema che si verificava unendo due documenti in uno.
+- È stato risolto un problema per cui quando si contrassegnavano le revisioni contenenti delle equazioni si verificava un errore durante il salvataggio del file.
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
 
 ## <a name="version-2003-march-06"></a>Versione 2003: 6 marzo
 *Versione 2003 (Build 12624.20086)*
