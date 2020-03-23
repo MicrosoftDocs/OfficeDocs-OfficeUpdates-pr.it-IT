@@ -28,7 +28,7 @@
 ### [Note sulla versione per il canale Insider](release-notes-office-insider.md)
 ### [Note sulla versione per il Canale mensile (mirato)](release-notes-monthly-channel-targeted.md)
 
-## [Cronologia degli aggiornamenti per Windows 7](update-history-office-Win7.md)
+## [Cronologia degli aggiornamenti in Windows 7](update-history-office-Win7.md)
 
 ## [Cronologia delle versioni per ODT](ODT-release-history.md)
 

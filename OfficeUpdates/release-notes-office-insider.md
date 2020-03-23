@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: a62e8d030c01685f6ab688666bccd15a7cf87cea
-ms.sourcegitcommit: 802bdce1e86a4da5ca91a537f208be94417d622e
+ms.openlocfilehash: d9c7ef29b0384bb2f3be769beb59c9f16d9ea711
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637424"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890133"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,75 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2004-march-20"></a>Versione 2004: 20 marzo
+*Versione 2004 (Build 12711.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Aggiornamento visivo del calendario:** l'anno scorso abbiamo presentato un'esperienza di posta elettronica rinnovata e quest'anno è il turno del calendario. Gli aggiornamenti sono innovativi ma familiari, in modo che gli utenti esperti di Outlook siano subito più produttivi.
+
+- **Protezione dei dati nel gruppo:** l'etichetta di riservatezza che si sceglie quando si crea un gruppo viene applicata ai messaggi di posta elettronica, ai documenti e ai siti del team del gruppo
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Aggiornamento delle diapositive durante la presentazione:** è possibile aggiornare le diapositive modificate da altri autori durante la presentazione.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- Questa modifica risolve i ritardi nell'elaborazione di immagini con informazioni sul protocollo non valide o in formato non corretto.
+
+### <a name="outlook"></a>Outlook
+
+- Questa modifica risolve i ritardi nell'elaborazione di immagini con informazioni sul protocollo non valide o in formato non corretto.
+
+- Questa modifica risolve un problema per cui le ultime modifiche apportate alle bozze di messaggi di posta elettronica non venivano aggiornate.
+
+- È stato risolto un problema per cui fare clic con il pulsante destro del mouse su un file e scegliere "Invia a" non funzionava.
+
+- È stato risolto un problema per cui, se un utente aveva personalizzato il percorso di ricerca per la Rubrica, l'ambito di risoluzione dei nomi di Outlook era limitato al percorso personalizzato e non includeva l'elenco indirizzi globale.
+
+- È stato risolto un problema per cui, all'interno di un set di risultati della ricerca restituiti, l'ordinamento dei risultati in base alla categoria non mostrava i colori delle categorie.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui l'evento "ProjectBeforeTaskChange" di Visual Basic, Applications Edition (VBA) non veniva attivato quando un utente faceva clic sul pulsante "Disattiva" disponibile nella barra multifunzione Attività nel gruppo Programmazione.
+
+- Impostando i dettagli su predecessore o successore da una visualizzazione di tipo modulo, l'evento ProjectBeforeTaskChange Visual Basic Applications (VBA) non sempre acquisiva le modifiche. Ad esempio, eliminando una dipendenza e facendo clic su OK nel modulo, l'evento non veniva attivato. Questo comportamento è stato corretto.
+
+- È stato risolto un problema per cui i valori più recenti per il costo effettivo del lavoro eseguito (ACWP) non venivano visualizzati dopo avere apportato una modifica, ad esempio dopo aver cambiato la data.
+
+- È stato risolto un problema per cui, aprendo un progetto dal menu Usati di recente (MRU), il file di progetto veniva aperto con accesso in lettura/scrittura.
+
+- Questa modifica risolve un problema per cui, creando un'attività manuale con una data e un'ora di inizio, ma non una durata, l'attività veniva visualizzata con un orario non corretto nella sequenza temporale.
+
+- È stato risolto un problema per cui la stampa di una sequenza temporale usando il calendario Hijri comportava l'omissione o la duplicazione di un mese nella visualizzazione stampa.
+
+- Questa modifica risolve un problema relativo all'uso di Pianificazione team con oggetti GDI, che poteva comportare la sovrassegnazione di oggetti GDI e di conseguenza condizioni di memoria insufficiente.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui la funzionalità di invio commenti era disabilitata.
+
+- Questa modifica risolve i ritardi nell'elaborazione di immagini con informazioni sul protocollo non valide o in formato non corretto.
+
+- Questa modifica risolve un problema che impediva all'account manager di inviare messaggi, causando un blocco nelle applicazioni di terze parti.
+
+- Questa modifica risolve un problema per cui il Sommario veniva aggiornato con stili del titolo non presenti nel documento.
+
+- È stato risolto un problema per cui le firme digitali salvate nei documenti di Word venivano rimosse al momento dell'invio dei documenti.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-march-13"></a>Versione 2004: 13 marzo
 *Versione 2004 (Build 12703.20010)*
