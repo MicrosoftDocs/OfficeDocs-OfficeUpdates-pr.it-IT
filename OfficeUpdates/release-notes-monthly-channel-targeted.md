@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
-ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
+ms.openlocfilehash: 9a3e95424b71d1c5511de436b2747b1777463dcb
+ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42706956"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926306"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -27,6 +27,30 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2003-march-23"></a>Versione 2003: 23 marzo
+*Versione 2003 (Build 12624.20296)*
+
+- Diverse correzioni di bug e miglioramenti delle prestazioni.
+
+## <a name="version-2003-march-21"></a>Versione 2003: 21 marzo
+*Versione 2003 (Build 12624.20276)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Partecipare alle riunioni senza uscire dalla Posta in arrivo:** non è necessario passare al Calendario per partecipare alle riunioni online. Con il Calendario aggiunto al riquadro Da fare, si può partecipare qualsiasi riunione con un semplice clic del mouse.
+
+- **Aggiornamento visivo del calendario:** l'anno scorso abbiamo presentato un'esperienza di posta elettronica rinnovata e quest'anno è il turno del calendario. Gli aggiornamenti sono innovativi ma familiari, in modo che gli utenti esperti di Outlook siano subito più produttivi.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Aggiornamento delle diapositive durante la presentazione:** è possibile aggiornare le diapositive modificate da altri autori durante la presentazione.
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
