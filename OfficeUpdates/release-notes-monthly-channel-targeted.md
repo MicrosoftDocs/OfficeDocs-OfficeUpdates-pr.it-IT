@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 9a3e95424b71d1c5511de436b2747b1777463dcb
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
+ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926306"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42951706"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -29,6 +29,11 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2003-march-25"></a>Versione 2003: 25 marzo
+*Versione 2003 (Build 12624.20320)*
+
+- Diverse correzioni di bug e miglioramenti delle prestazioni.
 
 ## <a name="version-2003-march-23"></a>Versione 2003: 23 marzo
 *Versione 2003 (Build 12624.20296)*

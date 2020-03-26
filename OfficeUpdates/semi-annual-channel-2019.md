@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: de069e864ee597379553958a3b839261ce13d04a
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: d94ed6de9109afbea9f4be9abb8625fb2eedc735
+ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615069"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959384"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -180,6 +180,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1808-october-08"></a>Versione 1808: 8 ottobre
+
 *Versione 1808 (Build 10730.20386)*
 
 Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
@@ -332,7 +333,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="project-feature-updates"></a>Project: Aggiornamenti delle funzionalità
 
-- **Visualizzare ulteriori informazioni sulle schede della lavagna delle attività:** quando il titolo da solo non è esplicativo, è possibile personalizzare le schede della lavagna delle attività per mostrare tutti i dettagli più importanti. [Altre informazioni](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+- **Visualizzare ulteriori informazioni sulle schede della lavagna delle attività:** quando il titolo da solo non è esplicativo, è possibile personalizzare le schede della bacheca attività per mostrare tutti i dettagli più importanti. [Altre informazioni](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 - **Nuovo look di Office:** le app di Office ora sono caratterizzate da icone moderne più semplici e accessibili, mentre nella barra multifunzione sono presenti oggetti visivi aggiornati che evidenziano le potenti funzionalità di collaborazione disponibili nelle app di Office.
 
 ### <a name="publisher-feature-updates"></a>Publisher: aggiornamenti delle funzionalità
@@ -591,7 +592,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
  - **Visualizzazione di dati con nuovi grafici**: scegliere tra 11 grafici e aggiungerne uno a maschere e report per visualizzare meglio i dati e prendere decisioni informate. [Ulteriori informazioni](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
- - **Modifica collaborativa:** collaborare con altri utenti contemporaneamente all'interno della cartella di lavoro. [Altre informazioni](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
+ - **Modifica collaborativa:** collaborare con altri utenti contemporaneamente all'interno della cartello di lavoro. [Altre informazioni](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **Il salvataggio automatico di file nel cloud è ora abilitato per impostazione predefinita:** ciò significa che gli utenti non dovranno più preoccuparsi di perdere le modifiche nei documenti archiviati in OneDrive o SharePoint Online. Le modifiche vengono salvate automaticamente nel cloud e gli utenti non dovranno più premere esplicitamente CTRL+S o il pulsante Salva. Tuttavia, è necessario comprendere questa modifica al comportamento in modo da non apportare modifiche accidentali ai documenti. Si noti che gli utenti possono disattivare il salvataggio automatico con l'interruttore Salva automaticamente posto nella parte superiore dello schermo. È consigliabile comunicare ai propri utenti questa modifica imminente e fornire loro informazioni su come sfruttare al meglio questa nuova funzionalità in Office 365. [Altre informazioni sul salvataggio automatico](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) e [Altre informazioni su cosa è importante che gli amministratori IT sappiano sul salvataggio automatico](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Funzionalità migliorate per la modifica di celle e barra della formula:** è ora possibile usare CTRL+A per selezionare il testo in una cella o nella barra della formula. È stato migliorato anche il supporto di emoji e altri caratteri complessi. [Altre informazioni](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Miglioramenti di Verifica accessibilità:** Verifica accessibilità ha ricevuto aggiornamenti relativi al supporto per gli standard internazionali e consigli per rendere più accessibili le cartelle di lavoro. [Altre informazioni](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
