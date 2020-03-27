@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: d94ed6de9109afbea9f4be9abb8625fb2eedc735
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: b03cf0f98c4444a19167759a1805f750866bcb78
+ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959384"
+ms.locfileid: "42982525"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -314,7 +314,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Guardare le diapositive prendere vita:** inserire grafici 3D animati per visualizzare cuori pulsanti, pianeti in orbita e la furia di un T-Rex sullo schermo. [Altre informazioni](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **I bozzetti vengono rielaborati:** testi e forme disegnati a mano vengono ridisegnati in diagrammi sofisticati. Basta selezionare i tratti input penna per iniziare. [Altre informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Mostrare cosa c'è dietro un'immagine:** inserire un'immagine in un foglio di lavoro, selezionare l'impostazione predefinita e osservare la modifica nella trasparenza. È tutto! [Altre informazioni](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Input penna per diapositive meravigliose:** è possibile convertire l'input penna in forme e testo standard e quindi ottenere idee di progettazione delle diapositive intelligenti da PowerPoint Designer. [Altre informazioni](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 - **Pubblicare in Microsoft Stream:** è possibile condividere una presentazione come un video in modo più sicuro all'interno dell'organizzazione tramite Microsoft Stream. [Altre informazioni](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Esportare in video 4K:** ora è possibile esportare una presentazione in formato video con risoluzione 4K.  [Altre informazioni](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Possibilità di inserire SVG con filtri applicati:** gli utenti di Office ora possono inserire SVG a cui sono applicati filtri. [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
