@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2020
-ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 3015dec03cba319ffeaa8a97794b5236ffd6c879
+ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615106"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42982505"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2020
 
@@ -144,6 +144,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Perché reinventare quando è possibile riutilizzare?:** per risparmiare tempo, è possibile riutilizzare le diapositive create personalmente o condivise da altri utenti. [Altre informazioni](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **Convertire l'input penna a mano libera in forme, testo o equazioni matematiche in PowerPoint per Office 365:** è possibile passare dall'input penna a mano libera al testo, a un'espressione matematica o alle forme di Office, con un paio di tratti. [Altre informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+- **Input penna per diapositive meravigliose:** è possibile convertire l'input penna in forme e testo standard e quindi ottenere idee di progettazione delle diapositive intelligenti da PowerPoint Designer. [Altre informazioni](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
 ### <a name="visio"></a>Visio
 
