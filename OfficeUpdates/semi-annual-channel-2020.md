@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2020
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983896"
+ms.locfileid: "43024528"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2020
 
@@ -39,28 +39,28 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
 
-- <div><span>È stato risolto un problema per cui alcuni utenti potrebbero aver riscontrato più finestre pop-up quando nella cartella di lavoro erano presenti collegamenti esterni.&nbsp;</span></div>
+- È stato risolto un problema per cui alcuni utenti potrebbero aver riscontrato la presenza di più finestre pop-up quando nella cartella di lavoro erano presenti collegamenti esterni.
 
 
-- <div><span style="display:inline !important;">La funzionalità Testo in colonne può non essere disponibile per alcune impostazioni locali.</span><br></div>
+- La funzionalità Testo in colonne può non essere disponibile per alcune impostazioni locali.
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">È possibile che venga visualizzato un errore durante l'accesso a un intervallo denominato nascosto.</span></div>
+- È possibile che venga visualizzato un errore durante l'accesso a un intervallo denominato nascosto.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>È stato risolto un problema correlato al metodo Shape.Paste: quando l'utente copia e incolla la forma usando il metodo&nbsp;Shape.Paste&nbsp;<span style="font-size:13.3333px;display:inline !important;">modifica la selezione nella forma incollata.</span></div>
+- È stato risolto un problema correlato al metodo Shape.Paste: quando l'utente copia e incolla la forma usando il metodo Shape.Paste modifica la selezione nella forma incollata.
 
 
 ### <a name="word"></a>Word
 
-- <div>È stato risolto un problema per cui, in alcuni casi, il salvataggio di un file esistente comportava sempre la visualizzazione della finestra di dialogo Salva con nome e l’effettivo mancato salvataggio del file.<br></div>
+- È stato risolto un problema per cui, in alcuni casi, il salvataggio di un file esistente comportava sempre la visualizzazione della finestra di dialogo Salva con nome e l’effettivo mancato salvataggio del file.
 
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
-- <div><span>Questa modifica risolve il rallentamento del rendering di alcuni grafici a dispersione con marcatori.</span></div>
+- Questa modifica risolve il rallentamento del rendering di alcuni grafici a dispersione con marcatori.
 
 ## <a name="version-1902-march-10"></a>Versione 1902: 10 marzo
 *Versione 1902 (Build 11328.20554)*

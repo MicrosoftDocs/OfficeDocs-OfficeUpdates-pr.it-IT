@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: d9c7ef29b0384bb2f3be769beb59c9f16d9ea711
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 82db5c6be4e891c0d2a50532605409d296b6d571
+ms.sourcegitcommit: 973f5df717e5ed982ac91d5cc66bef6207618405
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890133"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43028257"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,39 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2004-march-27"></a>Versione 2004: 27 marzo
+*Versione 2004 (Build 12718.20010)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Nuova opzione per disabilitare i suggerimenti di @menzioni durante la composizione dei messaggi di posta elettronica:** si trovano i suggerimenti per la selezione delle menzioni più fastidiosi che utili? Ora è possibile disattivarli.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+- Risolve un problema che causava l'assenza del pulsante "Salva nel cloud" da Strumenti allegati.
+- Risolve un problema che impediva agli utenti di aggiungere una firma rispondendo a un messaggio protetto con Digital Rights Management da una finestra Inspector quando l'utente non ha l'autorizzazione di proprietario per il messaggio a cui sta rispondendo.
+- Risolve un problema che impediva agli utenti di aggiungere altri allegati da un percorso Web a una riunione creata in precedenza.
+
+### <a name="powerpoint"></a>PowerPoint
+- Questa modifica risolve un errore che poteva causare un errore nel salvataggio dei file di PowerPoint contenenti emoji.
+
+### <a name="project"></a>Project
+- È stato risolto un problema per cui, eseguendo "CustomFieldValueListGetItem" quando non esiste una tabella di ricerca per il campo personalizzato, viene creata una tabella di ricerca vuota anche se non dovrebbe esserlo.
+
+### <a name="word"></a>Word
+- Questa modifica risolve un problema per cui selezionando più pagine selezionata nel menu Visualizza, il riquadro Commenti poteva apparire vuoto.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-march-20"></a>Versione 2004: 20 marzo
 *Versione 2004 (Build 12711.20000)*

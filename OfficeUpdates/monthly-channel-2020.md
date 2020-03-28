@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2020
-ms.openlocfilehash: 1bd7a4503aff8e0d9e946f8878339189c2c9b644
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
+ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953026"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030923"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile nel 2020
 
@@ -37,12 +37,13 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - **Nuova esperienza per le reti Wi-Fi captive:** è mai capitato di connettersi a una rete Wi-Fi che richiede di accedere con una pagina Web? Outlook ora consente di rimanere connessi in scenari di questo tipo.
 
-
-
-
 ### <a name="word"></a>Word
 
 - **Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
