@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: 3390ed2aaf7be5b1676c3bb373ce51082b89b374
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 34802aa3e76bf9db7e0a44b8baa6844445598da8
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959364"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046131"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
-Office 365 ProPlus viene aggiornato regolarmente con nuove funzionalità, aggiornamenti della sicurezza e di altro tipo. Questi aggiornamenti vengono rilasciati tramite i [canali di aggiornamento](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). A ciascun rilascio in ogni canale di aggiornamento è assegnato un numero di versione e di build. 
+Office 365 ProPlus viene aggiornato regolarmente con nuove funzionalità, aggiornamenti della sicurezza e di altro tipo. Questi aggiornamenti vengono rilasciati tramite i [canali di aggiornamento](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). A ciascun rilascio in ogni canale di aggiornamento è assegnato un numero di versione e di build.
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus viene rinominato **App Microsoft 365 per grandi imprese**. Per altre informazioni sulla modifica del nome [leggere questo post del blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Per informazioni dettagliate sulla decorrenza della modifica e sulle operazioni che gli amministratori devono eseguire [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - Questi numeri di versione e build si applicano anche a Office 365 Business, Visio Pro per Office 365 e Project Online Desktop Client. Office 365 Business è la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.

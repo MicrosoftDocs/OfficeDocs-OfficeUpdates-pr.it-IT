@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 1e7adea823c50641eaeedab8169f54be70c730f6
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 8cf6f5299ffbe0afa3eada8a2e3f0929730dbba9
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951716"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046141"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -23,6 +23,14 @@ Le informazioni di questa pagina sono destinate ai partecipanti al programma Off
 ## <a name="office-insider-versions-and-builds"></a>Versioni e build di Office Insider
 
 Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come Insider Slow, si riceverà un nuovo aggiornamento delle funzionalità di Office all'incirca una volta al mese, oltre a build successive contenenti correzioni importanti o aggiornamenti della sicurezza. L'elenco seguente mostra le ultime versioni e build rilasciate nel Canale mensile (mirato). **Le build più recenti sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti. Per le note sulla versione, vedere [Novità per i partecipanti al programma Office Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus viene rinominato **App Microsoft 365 per grandi imprese**. Per altre informazioni sulla modifica del nome [leggere questo post del blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Per informazioni dettagliate sulla decorrenza della modifica e sulle operazioni che gli amministratori devono eseguire [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
