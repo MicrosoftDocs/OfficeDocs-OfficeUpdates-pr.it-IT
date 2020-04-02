@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2020
-ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
-ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
+ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030923"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081784"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile nel 2020
 
@@ -24,6 +24,28 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 >
 >- Spesso le funzionalità vengono implementate (e a volte corrette) ogni mese per un periodo di tempo.  Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dall'inizio di luglio, gli aggiornamenti a Office 365 ProPlus (e Office 365 Business) includeranno Microsoft Teams.  La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2003-march-31"></a>Versione 2003: 31 marzo
+*Versione 2003 (Build 12624.20382)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="onenote"></a>OneNote
+
+- Miglioramento della sincronizzazione e della stabilità del server disabilitando temporaneamente lo spostamento delle pagine nel Cestino. Agli utenti che vogliono eliminare una pagina verrà mostrata una finestra di dialogo in cui viene chiesto se si vuole eliminare la pagina definitivamente.
+
+- Informazioni per gli utenti tramite la Barra informazioni sulle rettifiche temporanee in Microsoft OneNote che consentono di migliorare la sincronizzazione e la disponibilità dei servizi durante l'uso elevato in tutto il mondo.
+
+- Miglioramento della sincronizzazione e della stabilità del servizio modificando temporaneamente la frequenza con cui vengono create le cronologie delle versioni delle pagine.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui l'utente non poteva immettere il lavoro previsto rapportato alla scala cronologica quando era attivata l'opzione per proteggere il lavoro effettivo.
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 ## <a name="version-2003-march-25"></a>Versione 2003: 25 marzo
 *Versione 2003 (Build 12624.20320)*
@@ -61,11 +83,17 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 - È stato risolto un problema di prestazioni durante la creazione di grafici dai modelli.
 
+### <a name="onenote"></a>OneNote
+
+- Miglioramento della sincronizzazione e della stabilità del servizio riducendo temporaneamente a 50 MB la dimensione massima consentita per i nuovi allegati incorporati. Per i file che superano questo limite, gli utenti avranno la possibilità di caricare il file in OneDrive e inserire un collegamento in OneNote.
+
+- Miglioramento della sincronizzazione e della stabilità del servizio disabilitando temporaneamente la registrazione dei video in-app in OneNote 2016. I blocchi appunti locali non vengono interessati da questa operazione.
+
+- Miglioramento della sincronizzazione e della stabilità del servizio modificando temporaneamente la frequenza di sincronizzazione in OneNote 2016.
 
 ### <a name="outlook"></a>Outlook
 
 - È stato risolto un problema che causava la visualizzazione del processo di Outlook in esecuzione in Gestione attività dopo la chiusura.
-
 
 ### <a name="powerpoint"></a>PowerPoint
 
