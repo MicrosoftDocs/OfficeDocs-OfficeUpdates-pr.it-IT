@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951706"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076275"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -29,6 +29,32 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2003-march-31"></a>Versione 2003: 31 marzo
+*Versione 2003 (Build 12624.20382)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="access"></a>Access
+
+- **Riquadro attività Aggiungi tabelle:** il nuovo riquadro attività Aggiungi tabelle è finalmente disponibile. Questa funzionalità consente la selezione/selezione multipla più semplice delle tabelle che si vogliono aggiungere/rimuovere nell'intervallo di query, senza passare alla finestra di dialogo "Mostra tabelle" per le query e per la visualizzazione relazioni. Include anche una nuova scheda "collegamenti" per visualizzare le tabelle collegate, una casella di ricerca per filtrare l'elenco corrente, la funzionalità "trascinamento della selezione" e altro ancora.
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="project"></a>Project
+
+- <div><span style="display:inline !important;">È stato risolto un problema per cui l'utente non poteva immettere il lavoro previsto rapportato alla scala cronologica quando era attivata l'opzione di protezione del lavoro effettivo.</span><br></div>
+
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
 
 ## <a name="version-2003-march-25"></a>Versione 2003: 25 marzo
 *Versione 2003 (Build 12624.20320)*

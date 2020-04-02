@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: 2b816a44d0ca102510aa595c1705a9de2395efcf
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 9c206097e0e0a82b3caacbc464be0a1d761ce177
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959374"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081768"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -59,6 +59,7 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|
+|31 marzo 2020|Versione 2003 (Build 12624.20382)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |25 marzo 2020|Versione 2003 (Build 12624.20320)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |10 marzo 2020|Versione 2002 (Build 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |1 marzo 2020   |Versione 2002 (Build 12527.20242)  |È stato risolto un problema per cui le applicazioni di terze parti non riuscivano a inviare messaggi di posta elettronica da Outlook. <br/>  |
