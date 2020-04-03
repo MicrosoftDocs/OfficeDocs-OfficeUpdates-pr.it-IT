@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
-ms.openlocfilehash: 5ffb00f0901f621dbfd82fb46f0de21bc043b592
-ms.sourcegitcommit: 088650343fbff4054950593d3b42d216ae7414cb
+ms.openlocfilehash: 8bd5842337668ad99a33df31650ed8752ffca0fa
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052071"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076239"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Cronologia degli aggiornamenti per il canale Office Insider
 
@@ -41,7 +41,7 @@ Per le note sulla versione, vedere [Note sulla versione di Insider per la versio
 [//]: # (NON RIMUOVERE)
 
 **30 marzo 2020**<br/>
-Versione 2004 (Build 12725.20006)<br/>
+Versione 2004 (Build 12725.20006) (ripristinata) <br/>
 
 **23 marzo 2020**<br/>
 Versione 2004 (Build 12718.20010)<br/>
@@ -87,6 +87,7 @@ Versione 1912 (build 12325.20012)<br/>
 
 **18 novembre 2019**<br/>
 Versione 1912 (Build 12312.20002) (ripristinata) <br/>
+
 **12 novembre 2019**<br/>
 Versione 1912 (Build 12307.20000)<br/>
 
