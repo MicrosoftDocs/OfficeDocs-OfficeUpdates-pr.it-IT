@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 82db5c6be4e891c0d2a50532605409d296b6d571
-ms.sourcegitcommit: 973f5df717e5ed982ac91d5cc66bef6207618405
+ms.openlocfilehash: 4bfa4d71cd6f4170f56df5b159c747b59e4da74d
+ms.sourcegitcommit: 48ebf0ac6da9e208ff6242200d07013ea3c12dad
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028257"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43131104"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,6 +26,8 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NON RIMUOVERE)
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
 
 ## <a name="version-2004-march-27"></a>Versione 2004: 27 marzo
 *Versione 2004 (Build 12718.20010)*
