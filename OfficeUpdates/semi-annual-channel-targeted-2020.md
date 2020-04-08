@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2020
-ms.openlocfilehash: ee3fac9129ce3c5819340c2a51a6fe33e4965166
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
+ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081798"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43159838"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2020
 
@@ -43,7 +43,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Trovare gli elementi cercati:** è possibile cercare comandi, persone, file, foto, notizie e molto altro ancora. [Altre informazioni](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **Altre icone che corrispondono al proprio umore:** sono state aggiunte più di 300 nuove icone. Per scoprirle, scegliere Inserisci > Icone. [Altre informazioni](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nella cartella di lavoro, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
@@ -79,8 +78,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Cercare testo contenente errori di ortografia o di digitazione:** Outlook troverà il testo cercato anche quando l'ortografia non è corretta.
 
-- **Altre icone che corrispondono al proprio umore:** sono state aggiunte più di 300 nuove icone. Per scoprirle, scegliere Inserisci > Icone. [Altre informazioni](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
-
 - **I messaggi di phishing sono facilmente individuabili:** la posta indesiderata e i messaggi di phishing hanno un aspetto diverso, in modo da poterli identificare e rimuovere facilmente dalla posta in arrivo.
 
 - **Protezione avanzata dalle minacce:** con Office 365 Advanced Threat Protection, si è protetti dalle minacce tramite collegamenti ipertestuali negli oggetti di posta elettronica, messaggi allegati, messaggi firmati, percorsi di rete e così via.
@@ -103,7 +100,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Nuovi strumenti di correzione:** niente più preoccupazione per le parole. PowerPoint offre suggerimenti relativi a grammatica e ortografia. [Altre informazioni](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-- **Visualizzare il numero della diapositiva sugli stampati:** è possibile aggiungere il numero della diapositiva nella versione cartacea degli stampati.
 
 - **Sottotitoli e sottotitoli in tempo reale:** le parole del relatore vengono visualizzate automaticamente sullo schermo come sottotitoli o tradotti in sottotitoli nella lingua scelta. [Altre informazioni](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
@@ -111,7 +107,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Trovare gli elementi cercati:** è possibile usare la casella di ricerca per eseguire ricerche relative a testo, comandi, guida e tanto altro ancora. [Altre informazioni](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **Altre icone che corrispondono al proprio umore:** sono state aggiunte più di 300 nuove icone. Per scoprirle, scegliere Inserisci > Icone. [Altre informazioni](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **Trovare e correggere titoli di diapositive mancanti:** i titoli delle diapositive ottimizzano la presentazione e rendono le diapositive accessibili per tutti gli utenti, anche con diverse abilità. L’opzione Verifica accessibilità mostra dove mancano i titoli in modo da aggiungerli in pochi secondi. [Altre informazioni](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -148,8 +143,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Creare diagrammi di Visio chiari in Excel:** è possibile creare un diagramma di flussi o un organigramma inserendo i dati in un foglio di lavoro. [Altre informazioni](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
-
-- **Convertitore di Microsoft Equation Editor:** il convertitore consente di convertire le equazioni create usando Microsoft Equation Editor nel formato MathML di Office per consentire la modifica.
 
 - **Editor per curriculum unito all’Assistente curriculum LinkedIn:** l’editor per il curriculum offre una selezione di controlli grammaticali e stilistici appositamente studiati per i curriculum, per rendere la scrittura più precisa e professionale.
 

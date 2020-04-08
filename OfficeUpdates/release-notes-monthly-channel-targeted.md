@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
+ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076275"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43150974"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -29,6 +29,32 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2003-april-03"></a>Versione 2003: 3 aprile
+*Versione 2003 (Build 12624.20410)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- L'uso di Application.Evaluate di VBA talvolta non funzionava per le funzioni definite dall'utente.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava un arresto anomalo quando si usava il pulsante "X" del mouse.
+
+### <a name="project"></a>Project
+
+- Quando i dati predecessore/successore venivano modificati in una visualizzazione Maschera, veniva generato un ProjectBeforeTaskChangeevent aggiuntivo.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema che causava un arresto anomalo quando si usava il pulsante "X" del mouse.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-march-31"></a>Versione 2003: 31 marzo
 *Versione 2003 (Build 12624.20382)*
