@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890113"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521054"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,30 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="april-2020-release"></a>Versione di aprile 2020
+
+**Data di rilascio:** 14 aprile 2020
+
+*Microsoft Auto Update 4.22*
+
+ **Aggiornamenti delle funzionalità:**
+
+- Correzione rapida per la sicurezza: Microsoft AutoUpdate impedirà eventuali connessioni non sicure delle versioni precedenti.
+- Gli utenti che hanno disattivato Aggiornamenti automatici vedranno l'interfaccia utente di Microsoft AutoUpdate solo una volta alla settimana.
+- Per i dispositivi Mac OS con SSD, si osserveranno un maggiore rapidità degli aggiornamenti e una riduzione del tempo di inattività delle app causato dagli aggiornamenti.
+
+
+Vedi [CVE-2020-0984](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0984)
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto di Microsoft AutoUpdate 4.22](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Hash SHA-256:**
+
+2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
+<br/><br/>
 
 ## <a name="march-2020-release"></a>Rilascio di marzo 2020
 

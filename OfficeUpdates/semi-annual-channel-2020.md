@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2020
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076274"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521024"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2020
 
@@ -27,6 +27,46 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 
 
 
+## <a name="version-1908-april-14"></a>Versione 1908: 14 aprile
+*Versione 1908 (Build 11929.20708)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che causava il rallentamento delle prestazioni quando si eliminavano colonne contenenti celle unite.
+
+- È stato risolto un problema relativo al ridimensionamento del testo nei controlli modulo in visualizzazione Anteprima di stampa.
+
+### <a name="skype"></a>Skype
+
+- È stato risolto un problema relativo al nome titolo per la conversazione su schede mentre erano in corso più conversazioni.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava un arresto anomalo durante l'arresto di Outlook.
+
+- È stato risolto un problema che causava la visualizzazione di un elenco sale vuoto in alcuni scenari.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema con l'evidenziatore: i testi bianchi con colori di evidenziazione scuri vengono stampati come neri in gradazioni di grigio.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema relativo ad Adatta testo in una tabella.
+
+
+## <a name="version-1902-april-14"></a>Versione 1902: 14 aprile
+*Versione 1902 (Build 11328.20564)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-march-10"></a>Versione 1908: 10 marzo
 *Versione 1908 (Build 11929.20648)*

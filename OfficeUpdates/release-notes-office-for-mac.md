@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 8008445d01b850dedf96f6354716e36c527e1e39
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622140"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521278"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -34,10 +34,25 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 
 [//]: # (NON RIMUOVERE)
+## <a name="april-14-2020"></a>14 aprile 2020
+*Versione 16.36 (Build 20041300)*
 
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
 
+- **Uso automatico dei nuovi tipi di dati**: quando si digita un valore di dati che assomiglia a un'azione o a una posizione geografica possibile, Excel offre la possibilità di convertirlo nel tipo di dati connesso appropriato: Azioni o Dati geografici.
+- **Stampa di fogli di lavoro con orientamento diverso**: quando si stampa un'intera cartella di lavoro contemporaneamente, Excel per Mac può stampare ogni foglio in orizzontale o verticale in base alle opzioni in Layout di pagina.
+- **Ottenere le statistiche sulla cartella di lavoro:** l'opzione Statistiche cartella di lavoro fornisce una panoramica del contenuto di una cartella di lavoro per facilitare la ricerca del contenuto.
 
+### <a name="outlook"></a>Outlook
 
+- **Ricerca offline nel Calendario in Outlook Mac**: se si esegue una ricerca nel Calendario in Outlook Mac mentre si è offline, è possibile: visualizzare gli eventi e gli appuntamenti.
+
+### <a name="security-updates"></a>Aggiornamenti della sicurezza
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>10 marzo 2020

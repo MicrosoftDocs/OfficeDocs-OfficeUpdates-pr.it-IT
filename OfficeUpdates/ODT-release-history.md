@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: b9cb0e347e785f14c1dd23ae9cfbcaa327ce4873
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230064"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521214"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -29,6 +29,13 @@ Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="april-15-2020"></a>15 aprile 2020
+
+Versione 16.0.12624.20320 (setup.exe versione 16.0.12624.20290)
+- Aggiunge il supporto per versioni di Office alla fine del ciclo di vita specifiche per Windows 7
+- Risolve un problema per cui le impostazioni di personalizzazione potrebbero non essere applicate come previsto
+- Risolve un problema per cui i file CAT estranei possono essere scaricati in modo imprevisto
 
 ## <a name="january-16-2020"></a>16 gennaio 2020
 

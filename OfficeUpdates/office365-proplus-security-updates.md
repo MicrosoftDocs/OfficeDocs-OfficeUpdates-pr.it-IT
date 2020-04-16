@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulla versione gli aggiornamenti della sicurezza di Office 365 ProPlus
-ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046091"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521281"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Note sulla versione per gli aggiornamenti della sicurezza di Office 365 ProPlus
 
@@ -33,6 +33,35 @@ Le note sulla versione forniscono informazioni sulle correzioni per la sicurezza
 > - Queste informazioni si applicano anche a Office 365 Business, ovvero la versione di Office fornita con alcuni piani di Office 365, ad esempio Business Premium.  
 
 [//]: # (NON ELIMINARE LA RIGA SOPRA, viene usata per la spaziatura)  
+
+## <a name="april-14-2020"></a>14 aprile 2020
+Canale mensile: versione 2003 (Build 12624.20442)  
+Canale semestrale (mirato): versione 2002 (Build 12527.20442)  
+Canale semestrale: versione 1908 (Build 11929.20708)  
+Canale semestrale: versione 1902 (Build 11328.20564)  
+Office 365 ProPlus in Windows 7: versione 2002 (Build 12527.20442)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0979)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0980)
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0760)
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0961)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="march-10-2020"></a>10 marzo 2020
 Canale mensile: versione 2002 (Build 12527.20278)  

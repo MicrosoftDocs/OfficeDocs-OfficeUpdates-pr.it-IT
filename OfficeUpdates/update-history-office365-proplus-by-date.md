@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco completo di rilasci di Office 365 ProPlus, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: f70e7b3f33d08b92cb748069df368b7d5211a1fc
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: ffd28edabb121ba87836ccab21e87f83700186e6
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081783"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521094"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)
 
@@ -38,10 +38,10 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile<br/>|2003<br/>|12624.20382<br/>|31 marzo 2020<br/>|Viene rilasciata la versione 2004<br/>|
-|Semestrale (mirato)<br/>|2002<br/>|12527.20278<br/>|10 marzo 2020<br/>|8 settembre 2020<br/>|
-|Semestrale<br/>|1908<br/>|11929.20648<br/>|10 marzo 2020<br/>|9 marzo 2021<br/>|
-|Semestrale<br/>|1902<br/>|11328.20554<br/>|10 marzo 2020<br/>|8 settembre 2020<br/>|
+|Mensile<br/>|2003<br/>|12624.20466<br/>|15 aprile 2020<br/>|Viene rilasciata la versione 2004<br/>|
+|Semestrale (mirato)<br/>|2002<br/>|12527.20442<br/>|14 aprile 2020<br/>|8 settembre 2020<br/>|
+|Semestrale<br/>|1908<br/>|11929.20708<br/>|14 aprile 2020<br/>|9 marzo 2021<br/>|
+|Semestrale<br/>|1902<br/>|11328.20564<br/>|14 aprile 2020<br/>|8 settembre 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +53,8 @@ La tabella seguente fornisce un elenco di numeri di versione e build per ciascun
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|15 aprile|[Versione 2003 (Build 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
+|2020|14 aprile|[Versione 2003 (Build 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[Versione 2002 (Build 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[Versione 1908 (Build 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[Versione 1902 (Build 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|31 marzo|[Versione 2003 (Build 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
 |2020|25 marzo|[Versione 2003 (Build 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | |
 |2020|10 marzo|[Versione 2002 (Build 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[Versione 2002 (Build 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[Versione 1908 (Build 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[Versione 1902 (Build 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
