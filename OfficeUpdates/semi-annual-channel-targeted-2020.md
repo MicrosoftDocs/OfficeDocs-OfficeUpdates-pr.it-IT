@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2020
-ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
-ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
+ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43159838"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521374"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2020
 
@@ -24,6 +24,75 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 >
 > - Spesso le funzionalità (e talvolta persino le correzioni) vengono distribuite nel Canale semestrale (mirato) in un certo arco di tempo. Se una funzionalità descritta di seguito non è ancora disponibile, non c'è da preoccuparsi. Arriverà a breve. [Altre informazioni](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams è incluso nelle nuove installazioni del Canale semestrale (mirato), a partire dalla versione 1902. Teams verrà aggiunto alle installazioni esistenti del Canale semestrale (mirato) quando queste verranno aggiornate alla versione 1908 o successiva. Per altre informazioni, vedere [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2002-april-14"></a>Versione 2002: 14 aprile
+*Versione 2002 (Build 12527.20442)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- Digitare una formula che restituisce più valori: è possibile digitare rapidamente una formula che restituisce più valori, che si estenderanno automaticamente nelle celle adiacenti. [Altre informazioni](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- Sei potenti funzioni: sono state aggiunte sei nuove funzioni per potenziare i fogli di calcolo, ovvero FILTRO, DATI.ORDINA, DATI.ORDINA.PER, UNICI, SEQUENZA e MATR.CASUALE.  [Altre informazioni](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- Cercare a sinistra, cercare a destra... È arrivato CERCA.X, per trovare tutto il necessario in una tabella o in un intervallo, riga per riga.  [Altre informazioni](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- In alcuni casi, Excel si arrestava in modo anomalo alla riapertura di una cartella di lavoro incorporata in Word o PowerPoint.
+
+- Durante il salvataggio in formato CSV, in alcuni casi Excel univa tutte le colonne in una singola colonna.
+
+- L'uso di Range.ClearContents in un intervallo in un foglio protetto poteva richiedere più tempo del previsto.
+
+- È stato risolto un problema relativo al ridimensionamento del testo nei controlli modulo in visualizzazione Anteprima di stampa.
+
+- Le macro VBA che interagiscono con la barra multifunzione possono essere eseguite con ScreenUpdating inaspettatamente impostato su True.
+
+- È stato risolto un problema per cui i collegamenti esterni non vengono aggiornati durante il riempimento (copia in basso o tra fogli di lavoro) se la cartella di lavoro di origine è chiusa.
+
+- L'uso di Application.Evaluate di VBA talvolta non funzionava per le funzioni definite dall'utente.
+
+- È stato risolto un problema di prestazioni durante la creazione di grafici dai modelli.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava l'espansione improvvisa dell'intestazione del gruppo in alcuni scenari.
+
+- È stato risolto un problema che causava un arresto anomalo selezionando alcuni risultati della ricerca.
+
+- È stato risolto un problema che causava un arresto anomalo usando il pulsante X del mouse.
+
+- È stato risolto un problema che causava l'assenza del pulsante Salva nel cloud da Strumenti allegati.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato migliorato uno scenario di copia e incolla: copiare la forma in una diapositiva di PowerPoint e incollarla in un'altra diapositiva in un ciclo poteva non riuscire e generare un'eccezione.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui Project può arrestarsi in modo anomalo quando si salvano progetti creati con versioni precedenti.
+
+- È stato risolto un problema per cui l'evento ProjectBeforeTaskChange non rileva quando un'attività è stata attivata o disattivata tramite il pulsante Disattiva.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema che causava un arresto anomalo usando il pulsante X del mouse.
+
+- È stato risolto un problema relativo all'adattamento del testo in una tabella.
+
+- È stato risolto un problema per cui le righe orizzontali inserite non sono più brevi e centrate.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-march-10"></a>Versione 2002: 10 marzo
 *Versione 2002 (Build 12527.20278)*
@@ -177,8 +246,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.
 
 - **Un'esperienza video più sicura:** i miglioramenti della sicurezza offrono un'esperienza video online più sicura. [Altre informazioni](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
-
-- **Conoscere l’identità dei collaboratori:** è possibile vedere con facilità l’identità dei collaboratori e la loro rispettiva posizione in [documento/foglio di calcolo/presentazione]
 
 - **Salvataggio delle forme come immagini:** con pochi clic del mouse è possibile salvare una forma, un'icona o un altro oggetto come file di immagine, così da poterlo riutilizzare altrove. [Altre informazioni](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 

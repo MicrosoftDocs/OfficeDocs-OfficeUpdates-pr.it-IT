@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: cf477b7b6387eefc1959a1da4de6e73b264808da
-ms.sourcegitcommit: 6ef4d6dd466260609bebaf7bc6ef952d268e6897
+ms.openlocfilehash: 1e760feeba1fa9c4cec937cb946de22052594021
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43206473"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521294"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -27,6 +27,183 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2004-april-15"></a>Versione 2004: 15 aprile
+*Versione 2004 (Build 12730.20150)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Il supporto per il connettore Facebook sta per terminare:** a partire dal 2020 aprile, Excel non supporterà più connessioni dati esterne che usano il connettore Facebook.
+
+### <a name="outlook"></a>Outlook
+
+- **Nuova opzione per disabilitare i suggerimenti di @menzioni durante la composizione dei messaggi di posta elettronica in Outlook:** si trovano i suggerimenti per la selezione delle menzioni più fastidiosi che utili? Ora è possibile disattivarli.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Sincronizzazione delle modifiche durante la presentazione:** è possibile sincronizzare le modifiche in qualsiasi momento vengano apportate, anche in modalità presentazione.
+
+### <a name="word"></a>Word
+
+- **Annotare la copia privata:** è possibile creare note scritte a mano visibili solo a se stessi creando una copia privata di un documento condiviso. Passare alla Visualizza > Crea una copia privata per iniziare.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- Sono stati risolti problemi relativi al ridimensionamento e all'aggiornamento di tabelle nel riquadro attività.
+
+- È stato risolto un problema per cui nell'interfaccia utente delle versioni internazionali di Access venivano visualizzate stringhe in inglese.
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui, selezionando un intervallo di celle in un foglio, veniva selezionata una singola cella.
+
+- Aprendo nella versione corrente di Excel le cartelle di lavoro salvate con una firma digitale in Excel 2016, la firma poteva essere invalidata.
+
+- È stato risolto un problema che in alcuni casi causava il blocco anomalo di Excel dopo aver copiato un foglio di calcolo contenente una tabella pivot.
+
+- Application.Evaluate (VBA) talvolta non funzionava per le funzioni definite dall'utente.
+
+- È stato risolto un problema di prestazioni che talvolta gli utenti sperimentavano quando modificavano un intervallo di celle elevato a livello di programmazione.
+
+- È stato risolto un problema di prestazioni che si verificava durante l'apertura di file CSV in ambiente giapponese.
+
+- È stato risolto un problema per cui, inserendo un modello di grafico definito dall'utente come predefinito, veniva salvato come istogramma.
+
+- È stato risolto un problema per cui le etichette dati apparivano vuote quando le celle di dati sottostanti non avevano una didascalia.
+
+- È stato risolto un problema per cui Excel poteva smettere di rispondere riducendo le dimensioni di un grafico con alcuni intervalli dell'asse x.
+
+- È stato risolto un problema per cui, durante la condivisione/creazione in modalità condivisa di un foglio di Excel con lo stile di riferimento R1C1 abilitato, passando il mouse sull'icona di presenza utente non compariva il riferimento di cella attivo in modalità R1C1.
+
+- Questa modifica risolve i ritardi nell'elaborazione di immagini con informazioni sul protocollo non valide o in formato non corretto.
+
+### <a name="outlook"></a>Outlook
+
+- Questa modifica risolve i ritardi nell'elaborazione di immagini con informazioni sul protocollo non valide o in formato non corretto.
+
+- Questa modifica risolve un problema per cui le ultime modifiche apportate alle bozze di messaggi di posta elettronica non venivano aggiornate.
+
+- È stato risolto un problema per cui fare clic con il pulsante destro del mouse su un file e scegliere "Invia a" non funzionava.
+
+- È stato risolto un problema per cui i delegati vedevano gerarchie di cartelle diverse su computer diversi per le cassette postali condivise.
+
+- È stato risolto un problema che causava la scomparsa occasionale delle categorie dai messaggi di posta elettronica.
+
+- È stato risolto un problema che causava la mancata attivazione di alcuni promemoria cambiando il fuso orario in un computer.
+
+- È stato risolto un problema che causava l'arresto anomalo provando a visualizzare le proprietà di un modulo dell'organizzazione.
+
+- È stato risolto un problema per cui, se un utente aveva personalizzato il percorso di ricerca per la Rubrica, l'ambito di risoluzione dei nomi di Outlook era limitato al percorso personalizzato e non includeva l'elenco indirizzi globale.
+
+- È stato risolto un problema che causava l'assenza del pulsante "Salva nel cloud" da Strumenti allegati.
+
+- È stato risolto un problema che impediva agli utenti di aggiungere una firma rispondendo a un messaggio protetto con Digital Rights Management da una finestra Inspector quando l'utente non ha l'autorizzazione di proprietario per il messaggio a cui sta rispondendo.
+
+- È stato risolto un problema che impediva agli utenti di aggiungere altri allegati da un percorso Web a una riunione creata in precedenza.
+
+- È stato risolto un problema per la cui i dati relativi all'ultima modifica di un file venivano aggiornati quando si aggiungeva un allegato a un messaggio di posta elettronica o si salvava un allegato da un messaggio di posta elettronica trascinandolo, anziché tramite un menu.
+
+- È stato risolto un problema per cui nel riquadro Trova espanso premendo INVIO non si avviava la ricerca, ma era necessario fare clic sul pulsante Cerca.
+
+- È stato risolto un problema per cui, all'interno di un set di risultati della ricerca restituiti, l'ordinamento dei risultati in base alla categoria non mostrava i colori delle categorie.
+
+- È stato risolto un problema per cui la ricerca non mostrava informazioni sugli utenti quando l'opzione "Mostra fotografie dell'utente quando disponibili" era disabilitata.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Questa modifica risolve un errore che poteva causare un errore nel salvataggio dei file di PowerPoint contenenti emoji.
+
+- Questa modifica risolve un problema per cui, nel rendering di un grafico di Excel legacy incorporato come oggetto OLE in PowerPoint o Word, non sempre veniva visualizzato il titolo del grafico.
+
+- È stato risolto un problema per cui la formattazione di un testo copiato da Excel a PowerPoint poteva essere modificata.
+
+- Questa modifica risolve un problema per cui la ricerca di caratteri speciali con l'opzione "Solo parole intere" non funzionava come previsto.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui le date delle attività di riepilogo non sempre venivano calcolate correttamente.
+
+- È stato risolto un problema per cui l'evento OnUndoOrRedo non veniva lanciato senza prima eseguire il metodo OpenUndoTransaction.
+
+- È stato risolto un problema per cui l'evento "ProjectBeforeTaskChange" di Visual Basic, Applications Edition (VBA) non veniva attivato quando un utente faceva clic sul pulsante "Disattiva" disponibile nella barra multifunzione Attività nel gruppo Programmazione.
+
+- Impostando i dettagli su predecessore o successore da una visualizzazione di tipo modulo, l'evento ProjectBeforeTaskChange Visual Basic Applications (VBA) non sempre acquisiva le modifiche. Ad esempio, eliminando una dipendenza e facendo clic su OK nel modulo, l'evento non veniva attivato. Questo comportamento è stato corretto.
+
+- È stato risolto un problema per cui i valori più recenti per il costo effettivo del lavoro eseguito (ACWP) non venivano visualizzati dopo avere apportato una modifica, ad esempio dopo aver cambiato la data.
+
+- È stato risolto un problema per cui, aprendo un progetto dal menu Usati di recente (MRU), il file di progetto veniva aperto con accesso in lettura/scrittura.
+
+- Questa modifica risolve un problema per cui, creando un'attività manuale con una data e un'ora di inizio, ma non una durata, l'attività veniva visualizzata con un orario non corretto nella sequenza temporale.
+
+- È stato risolto un problema per cui la stampa di una sequenza temporale usando un calendario Hijri comportava l'omissione o la duplicazione di un mese nella visualizzazione stampa.
+
+- Questa modifica risolve un problema relativo all'uso di Pianificazione team con oggetti GDI, che poteva comportare la sovrassegnazione di oggetti GDI e di conseguenza condizioni di memoria insufficiente.
+
+- È stato risolto un problema per cui, eseguendo "CustomFieldValueListGetItem" quando non esiste una tabella di ricerca per il campo personalizzato, viene creata una tabella di ricerca vuota anche se non dovrebbe esserlo.
+
+- Quando i dati predecessore/successore venivano modificati in una visualizzazione Maschera, veniva generato un ProjectBeforeTaskChangeevent aggiuntivo.
+
+- È stato risolto un problema per cui l'utente non poteva immettere il lavoro previsto rapportato alla scala cronologica quando era attivata l'opzione per proteggere il lavoro effettivo.
+
+### <a name="word"></a>Word
+
+- Questa modifica risolve un problema per cui, posizionando il cursore su un suggerimento, non veniva evidenziata la relativa scheda.
+
+- Questa modifica risolve un problema per cui selezionando più pagine selezionata nel menu Visualizza, il riquadro Commenti poteva apparire vuoto.
+
+- È stato risolto un problema per cui la funzionalità di invio commenti era disabilitata.
+
+- Questa modifica risolve un problema che causava la scomparsa temporanea del testo nelle forme raggruppate usando lo strumento di selezione Lazo.
+
+- Questa modifica risolve i ritardi nell'elaborazione di immagini con informazioni sul protocollo non valide o in formato non corretto.
+
+- Questa modifica risolve un problema per cui, nel rendering di un grafico di Excel legacy incorporato come oggetto OLE in PowerPoint o Word, non sempre veniva visualizzato il titolo del grafico.
+
+- Questa modifica risolve un problema che impediva all'account manager di inviare messaggi, causando un blocco nelle applicazioni di terze parti.
+
+- Questa modifica risolve un problema della visualizzazione a due pagine per cui, creando un commento, l'ancoraggio del commento non sempre era visibile.
+
+- È stato risolto un problema per cui digitando o modificando un commento e usando la combinazione di tasti CTRL+A veniva selezionato il testo nell'area di disegno anziché nella scheda del commento.
+
+- È stato risolto un problema per cui, in un paragrafo il cui stile è un predecessore di uno stile collegato a un elenco, la numerazione dell'elenco poteva andare persa.
+
+- Questa modifica risolve un problema per cui il Sommario veniva aggiornato con stili del titolo non presenti nel documento.
+
+- È stato risolto un problema per cui l'allineamento delle parole in un documento veniva modificato se si provava a modificare il documento dopo la stampa con Quick Print.
+
+- È stato risolto un problema che si verificava unendo due documenti in uno.
+
+- È stato risolto un problema per cui le firme digitali salvate nei documenti di Word venivano rimosse al momento dell'invio dei documenti.
+
+- È stato risolto un problema per cui quando si contrassegnavano le revisioni contenenti delle equazioni si verificava un errore durante il salvataggio del file.
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2003-april-14"></a>Versione 2003: 14 aprile
+*Versione 2003 (Build 12624.20466)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+- Diverse correzioni di bug e miglioramenti delle prestazioni.
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
