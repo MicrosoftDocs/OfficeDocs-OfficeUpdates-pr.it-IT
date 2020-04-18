@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 4bfa4d71cd6f4170f56df5b159c747b59e4da74d
-ms.sourcegitcommit: 48ebf0ac6da9e208ff6242200d07013ea3c12dad
+ms.openlocfilehash: 3ab0d2f47e3efb78f305e175b2ad8bc07f6fad98
+ms.sourcegitcommit: 33869248c8872c2d7dc27c265f5ba50bd1598d3f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43131104"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43548163"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -27,7 +27,131 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-april-17"></a>Versione 2005:17 aprile
+*Versione 2005 (Build 12810.20002)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+- Sono state aumentate le dimensioni dei controlli per la modifica del riferimento di cella nella finestra di dialogo Barre di errore personalizzate usata con i grafici.
+- Aprendo nella versione corrente di Excel le cartelle di lavoro salvate con una firma digitale in Excel 2016, la firma poteva essere invalidata.
+- È stato risolto un problema relativo al ridimensionamento delle caselle di controllo nei controlli modulo al momento della stampa.
+- Application.Evaluate (VBA) talvolta non funzionava per le funzioni definite dall'utente.
+- Questa modifica risolve un problema per cui le informazioni sulla formattazione condizionale non venivano salvate correttamente nei file XLSB.
+
+### <a name="onenote"></a>OneNote
+- È stato risolto un problema per cui le interruzioni di riga venivano archiviate come schede verticali.
+
+### <a name="outlook"></a>Outlook
+- Risolve un problema che impediva agli utenti di aggiungere un gruppo di contatti personale come partecipante alla riunione.
+- Risolve un problema che impediva la visualizzazione in Assistente Pianificazione dell'oggetto delle riunioni pianificate tra più di 2 mesi.
+- Risolve un problema che causava il troncamento del corpo del messaggio durante l'inoltro di messaggi HTML di grandi dimensioni.
+- Aggiunta della funzionalità di applicazione della configurazione di firma predefinita S/MIME tramite Criteri di gruppo.
+- Risolve un problema per cui le regole di eliminazione create per le cassette postali diverse da quella principale dell'utente non erano più valide.
+- Risolve un problema che causava la perdita di allegati quando si inoltrava un messaggio crittografato.
+
+### <a name="project"></a>Project
+- Quando i dati predecessore/successore venivano modificati in una visualizzazione Maschera, veniva generato un ProjectBeforeTaskChangeevent aggiuntivo.
+- È stato risolto un problema per cui Project può arrestarsi in modo anomalo quando si cambia il campo Stato bacheca in un progetto connesso a un elenco attività di SharePoint.
+- È stato risolto un problema per cui Project può arrestarsi in modo anomalo quando si salvano progetti creati con versioni precedenti.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2004-april-10"></a>Versione 2004: 10 aprile
+*Versione 2004 (Build 12730.20024)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="access"></a>Access
+
+- **Ignorare la finestra di dialogo Mostra tabella, passare direttamente a un riquadro attività e semplificare l'aggiunta di tabelle alle relazioni e alle query:** aggiungere tabelle e query facendo clic su quattro schede, selezionando più nomi, eseguendo una ricerca testuale e trascinando da un riquadro attività che resta aperto mentre si lavora.
+
+### <a name="excel"></a>Excel
+
+- **Selezione di contenuti Premium di M365:** dare vita ai propri documenti. Esplora migliaia di immagini di archivio, icone e adesivi gratuiti [Altre informazioni](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="outlook"></a>Outlook
+
+- **Selezione di contenuti Premium di M365:** dare vita ai propri documenti. Esplora migliaia di immagini di archivio, icone e adesivi gratuiti [Altre informazioni](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **Mantenere la qualità elevata delle immagini quando inserite in un messaggio di posta elettronica:** è disponibile una nuova opzione di Outlook per limitare la compressione quando si inviano immagini come parte del contenuto del messaggio di posta elettronica
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Selezione di contenuti Premium di M365:** dare vita ai propri documenti. Esplora migliaia di immagini di archivio, icone e adesivi gratuiti [Altre informazioni](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **Sincronizzazione delle modifiche durante la presentazione:** è possibile sincronizzare le modifiche in qualsiasi momento vengano apportate, anche in modalità presentazione.
+
+### <a name="word"></a>Word
+
+- **Selezione di contenuti Premium di M365:** dare vita ai propri documenti. Esplora migliaia di immagini di archivio, icone e adesivi gratuiti [Altre informazioni](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **Annotare la copia privata:** è possibile creare note scritte a mano visibili solo a se stessi creando una copia privata di un documento condiviso. Passare alla Visualizza > Crea una copia privata per iniziare.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- Sono stati risolti problemi relativi al ridimensionamento e all'aggiornamento di tabelle nel riquadro attività.
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui, selezionando un intervallo di celle in un foglio, veniva selezionata una singola cella.
+
+- È stato risolto un problema per cui Excel poteva smettere di rispondere riducendo le dimensioni di un grafico con alcuni intervalli dell'asse x.
+
+- È stato risolto un problema per cui, inserendo un modello di grafico definito dall'utente come predefinito, veniva salvato come istogramma.
+
+- È stato risolto un problema per cui le etichette dati apparivano vuote quando le celle di dati sottostanti non avevano una didascalia.
+
+- È stato risolto un problema per cui, durante la condivisione/creazione in modalità condivisa di un foglio di Excel con lo stile di riferimento R1C1 abilitato, passando il mouse sull'icona di presenza utente non compariva il riferimento di cella attivo in modalità R1C1.
+
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che causava la scomparsa occasionale delle categorie dai messaggi di posta elettronica.
+
+- Risolve un problema per cui i delegati vedevano gerarchie di cartelle diverse su computer diversi per le cassette postali condivise.
+
+- Risolve un problema che causava l'arresto anomalo provando a visualizzare le proprietà di un modulo dell'organizzazione.
+
+- Risolve un problema che causava la mancata attivazione di alcuni promemoria cambiando il fuso orario in un computer.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Questa modifica risolve un problema per cui, nel rendering di un grafico di Excel legacy incorporato come oggetto OLE in PowerPoint o Word, non sempre veniva visualizzato il titolo del grafico.
+
+- È stato risolto un problema per cui la formattazione di un testo copiato da Excel a PowerPoint poteva essere modificata.
+
+- Questa modifica risolve un problema per cui la ricerca di caratteri speciali con l'opzione "Solo parole intere" non funzionava come previsto.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui l'utente non poteva immettere il lavoro previsto rapportato alla scala cronologica quando era attivata l'opzione per proteggere il lavoro effettivo.
+
+### <a name="word"></a>Word
+
+- Questa modifica risolve un problema per cui, posizionando il cursore su un suggerimento, non veniva evidenziata la relativa scheda.
+
+- Questa modifica risolve un problema che causava la scomparsa temporanea del testo nelle forme raggruppate usando lo strumento di selezione Lazo.
+
+- Questa modifica risolve un problema per cui, nel rendering di un grafico di Excel legacy incorporato come oggetto OLE in PowerPoint o Word, non sempre veniva visualizzato il titolo del grafico.
+
+- Questa modifica risolve un problema della visualizzazione a due pagine per cui, creando un commento, l'ancoraggio del commento non sempre era visibile.
+
+- È stato risolto un problema per cui, in un paragrafo il cui stile è un predecessore di uno stile collegato a un elenco, la numerazione dell'elenco poteva andare persa.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-march-27"></a>Versione 2004: 27 marzo
 *Versione 2004 (Build 12718.20010)*
