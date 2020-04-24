@@ -9,23 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
-ms.openlocfilehash: 266e82407bc35a4efb8ed825b920a10a7cee4616
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: fdc96ba846e44d0c423d6747aba38f1bb184c983
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43520994"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715342"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Cronologia degli aggiornamenti per il canale Office Insider
 
 Le informazioni di questa pagina sono destinate ai partecipanti al programma Office Insider che vogliono sapere se hanno installato l'aggiornamento più recente o sono alla ricerca di un elenco delle ultime build Insider. Fare clic [qui](https://insider.office.com/) per altre informazioni sul programma Office Insider.
 
-
 > [!IMPORTANT]
-> Office 365 ProPlus viene rinominato **App Microsoft 365 per grandi imprese**. Per altre informazioni sulla modifica del nome [leggere questo post del blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Per informazioni dettagliate sulla decorrenza della modifica e sulle operazioni che gli amministratori devono eseguire [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
 
+> Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004.Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.Nella nostra documentazione, in genere è sufficiente fare riferimento ad Microsoft 365 Apps.
 
 
 > [!NOTE]
@@ -39,6 +36,11 @@ Se si è iscritti al livello Insider, si ricevono aggiornamenti frequenti conten
 Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NON RIMUOVERE)
+
+
+=======
+**20 aprile 2020**<br/>
+Versione 2005 (Build 12816.20000) (ripristinata) <br/>
 
 **14 aprile 2020**<br/>
 Versione 2005 (Build 12810.20002)<br/>

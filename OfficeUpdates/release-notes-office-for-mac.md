@@ -8,25 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Office 356
-ms.openlocfilehash: 8008445d01b850dedf96f6354716e36c527e1e39
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Microsoft 365 Apps
+ms.openlocfilehash: 6eae8ac8a39d5225d781a0e93c5d8f0830559ddd
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521278"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715142"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
  
-Office per Mac, che viene fornito con una sottoscrizione a Office 365, viene aggiornato regolarmente per offrire nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti di altro tipo.
+Office per Mac, che viene fornito con una sottoscrizione a Microsoft 365 Apps, viene aggiornato regolarmente per offrire nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti di altro tipo.
   
 Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utilizzare Microsoft AutoUpdate, avviare un'applicazione Office, come Word, quindi scegliere **Guida** > **Verifica aggiornamenti**. Se si è un amministratore e si desidera aggiornare i computer della propria organizzazione con gli strumenti di distribuzione software esistenti, è possibile scaricare e distribuire i pacchetti di aggiornamento per ciascuna applicazione.
 
   
 > [!NOTE]
 > - Se si è un partecipante al programma Office Insider, vedere [Note sulla versione per le build Insider Fast di Office 2016 per Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
-> - A partire dal rilascio 16.17 di settembre 2018, queste note sulla versione si applicano anche a Office 2019 per Mac, che è una versione di Office per Mac disponibile come acquisto di una copia unica da un punto vendita o tramite un contratto multilicenza. Tuttavia, alcune funzionalità elencate nelle note sulla versione sono disponibili solo se si dispone di una sottoscrizione a Office 365.
+> - A partire dal rilascio 16.17 di settembre 2018, queste note sulla versione si applicano anche a Office 2019 per Mac, che è una versione di Office per Mac disponibile come acquisto di una copia unica da un punto vendita o tramite un contratto multilicenza. Tuttavia, alcune funzionalità elencate nelle note sulla versione sono disponibili solo se si dispone di una sottoscrizione a Microsoft 365 Apps.
 > - Spesso le funzionalità vengono implementate (e a volte corrette) nel canale mensile per un periodo di tempo. Ciò consente di assicurare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno. [Altre informazioni](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - A volte, invece di rilasciare nuove funzionalità, gli aggiornamenti riguardano miglioramenti generali della qualità e delle prestazioni. In particolare, se un'app non è riportata di seguito significa che l'aggiornamento include solo miglioramenti della qualità e delle prestazioni.
 
@@ -46,7 +46,7 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 ### <a name="outlook"></a>Outlook
 
-- **Ricerca offline nel Calendario in Outlook Mac**: se si esegue una ricerca nel Calendario in Outlook Mac mentre si è offline, è possibile: visualizzare gli eventi e gli appuntamenti.
+- **Ricerca offline nel calendario di Outlook su Mac**: è ora possibile cercare gli eventi e gli appuntamenti nel Calendario di Outlook su Mac quando si è offline.
 
 ### <a name="security-updates"></a>Aggiornamenti della sicurezza
 
@@ -943,8 +943,8 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Sfondi moderni per la modalità focus:** scegliere tra gli sfondi Crepuscolo o Notte polare quando si è in modalità focus nella tab **Visualizzazione**. [Ulteriori informazioni](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Gruppi:** visualizzare i primi 10 gruppi principali e leggere o rispondere alle conversazioni di gruppo direttamente dalla cartella Gruppi.  <br/> <br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Famiglia di prodotti Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2017-0254): vulnerabilità di danneggiamento della memoria di Microsoft Office   |
 

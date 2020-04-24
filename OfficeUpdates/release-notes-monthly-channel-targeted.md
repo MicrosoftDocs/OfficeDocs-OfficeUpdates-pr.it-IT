@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 1e760feeba1fa9c4cec937cb946de22052594021
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 8c308b50fe0a9be3b7949f3d3a8d8f4488b62f2b
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521294"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715024"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -22,13 +22,28 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 
 > [!NOTE]
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
-> - Microsoft Teams in installazioni esistenti di Office 365 ProPlus: a partire dalla fine di giugno, Microsoft Teams verrà incluso nelle installazioni esistenti di Office 365 ProPlus (e Office 365 Business) quando si eseguono gli aggiornamenti di queste installazioni. La data in cui Teams verrà aggiunto dipende dal canale di aggiornamento usato. Per altre informazioni fare riferimento a [Distribuire Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
 
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
+
+## <a name="version-2004-april-21"></a>Versione 2004: 21 aprile
+*Versione 2004 (Build 12730.20182)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che ha causato il cambiamento inatteso della larghezza del riquadro delle cartelle.
+
+- Risolve un problema che causava un blocco uscendo da Outlook.
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUG DI FINE CONTENUTO)
 
 ## <a name="version-2004-april-15"></a>Versione 2004: 15 aprile
 *Versione 2004 (Build 12730.20150)*
