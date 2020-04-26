@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: e89f899f5a890b5db7b2ebaa0cc495f9b623f699
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
+ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714716"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43804902"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -25,6 +25,35 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-april-24"></a>Versione 2005: 24 aprile
+*Versione 2005 (Build 12816.20006)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+- Questa modifica consente di risolvere un problema per cui il valore R quadrato per una linea di tendenza (nel caso di intercetta y forzata), non era corretto, anche se la funzione REGR.LIN restituiva il valore corretto.
+- Questa modifica risolve un problema per cui il formato della linea di tendenza del grafico personalizzata non sempre veniva salvato.
+
+### <a name="outlook"></a>Outlook
+- È stato risolto un problema per cui il pulsante Categorizza per i calendari di gruppo sulla barra multifunzione di Office era disabilitato.
+- È stato risolto un problema per cui i clienti aziendali con cartelle di gruppo non implementate o non funzionanti visualizzavano un messaggio di tipo "Outlook non risponde".
+
+### <a name="powerpoint"></a>PowerPoint
+- È stato risolto un problema per cui, posizionando il puntatore del mouse sul simbolo dell'asterisco (*), non venivano mostrati il nome utente dell'ultima persona ad aggiornare il documento e la data della modifica.
+
+### <a name="word"></a>Word
+- Abilitando l'opzione "Mostra segnalibri", i segnalibri non venivano visualizzati. Questo problema è stato risolto.
+- Questa modifica risolve un problema per cui il testo con collegamenti ipertestuali poteva non essere visualizzato se era abilitata l'opzione "Mostra codici di campo anziché i relativi valori".
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
