@@ -1,5 +1,5 @@
 ---
-title: Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
+title: Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,32 +8,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
-description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Office 365 ProPlus per ogni canale di aggiornamento.
-ms.openlocfilehash: ce1a2b84f2eaf59a55431c15c3ff87b033f08bc4
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
+ms.openlocfilehash: c424e6b96022b145f2483b455bf4a49488b54eed
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521224"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714666"
 ---
-# <a name="download-sizes-for-updates-to-office-365-proplus"></a>Dimensioni di download per gli aggiornamenti di Office 365 ProPlus
+# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
 Il nostro obiettivo è fornire informazioni sulle dimensioni degli aggiornamenti, se possibile, in anticipo per aiutare i clienti aziendali a pianificare l'utilizzo della larghezza di banda di rete.
 
-Nelle tabelle seguenti vengono riportate le dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Office 365 ProPlus. Le dimensioni del download potrebbero variare fino a 50 MB. Per aggiornare una versione meno recente a quella attuale, tenere presente che la dimensione del file di download sarà superiore.
+Nelle tabelle seguenti vengono riportate le dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Microsoft 365 Apps. Le dimensioni del download potrebbero variare fino a 50 MB. Per aggiornare una versione meno recente a quella attuale, tenere presente che la dimensione del file di download sarà superiore.
 
 Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download potrebbe essere molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB.
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus viene rinominato **App Microsoft 365 per grandi imprese**. Per altre informazioni sulla modifica del nome [leggere questo post del blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Per informazioni dettagliate sulla decorrenza della modifica e sulle operazioni che gli amministratori devono eseguire [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
-
+> Office 365 ProPlus viene rinominato App di Microsoft 365 per grandi imprese a partire dalle versione 2004.Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 > [!NOTE]
-> - Le dimensioni di download approssimative elencate nelle tabelle sono valide soltanto per la versione x64 en-us di Office 365 ProPlus.
+> - Le dimensioni di download approssimative elencate nelle tabelle sono valide soltanto per la versione x64 en-us di Microsoft 365 Apps.
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
@@ -586,9 +582,9 @@ La versione più recente è la numero 1908 (Build 11929.20388).
 
 ## <a name="related-topics"></a>Argomenti correlati
 
-- [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Panoramica dei canali di aggiornamento per Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](update-history-office365-proplus-by-date.md)
+- [Cronologia degli aggiornamenti per Microsoft 365 Apps (elencati in ordine cronologico)](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
