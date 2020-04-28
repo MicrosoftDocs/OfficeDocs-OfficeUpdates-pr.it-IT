@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 6d0e2f0d76eaad219e6fb8652bba6a8794f45e48
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 4d1a84a0d31e51080e81e7b071b7e007236a977f
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715296"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907875"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Cronologia degli aggiornamenti per Canale mensile (mirato) di Office per Windows
 
@@ -35,6 +35,9 @@ Se si è iscritti al livello Canale mensile (mirato), noto in precedenza come In
 
 
 [//]: # (NON RIMUOVERE)
+
+**25 aprile 2020**<br/>
+Versione 2004 (Build 12730.20206)<br/>
 
 **21 aprile 2020**<br/>
 Versione 2004 (Build 12730.20182)<br/>

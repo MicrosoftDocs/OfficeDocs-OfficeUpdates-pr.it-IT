@@ -1,5 +1,5 @@
 ---
-title: Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
+title: Informazioni sulle versioni degli aggiornamenti a Microsoft 365 Apps
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,43 +9,39 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Viene fornito ai professionisti IT un elenco delle versioni più recenti per Office 365 ProPlus per ciascun canale di aggiornamenti e collegamenti alle note sulle versioni e alla cronologia degli aggiornamenti
-ms.openlocfilehash: 033ddc631a8d76f92306752fe743763cf6b18af7
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+description: Viene fornito ai professionisti IT un elenco delle versioni più recenti per Microsoft 365 Apps per ciascun canale di aggiornamenti e collegamenti alle note sulle versioni e alla cronologia degli aggiornamenti
+ms.openlocfilehash: c025c0afd3428c3381aeac16821ddd0eb22904b0
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046121"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43781589"
 ---
-# <a name="release-information-for-updates-to-office-365-proplus"></a>Informazioni sulle versioni degli aggiornamenti a Office 365 ProPlus
+# <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informazioni sulle versioni degli aggiornamenti a Microsoft 365 Apps
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus viene rinominato **App Microsoft 365 per grandi imprese**. Per altre informazioni sulla modifica del nome [leggere questo post del blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Per informazioni dettagliate sulla decorrenza della modifica e sulle operazioni che gli amministratori devono eseguire [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+> Office 365 ProPlus viene rinominato App di Microsoft 365 per grandi imprese a partire dalle versione 2004.Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 
-
-
-## <a name="security-updates-for-office-365-proplus-releases"></a>Aggiornamenti della sicurezza per le versioni di Office 365 ProPlus
+## <a name="security-updates-for-microsoft-365-apps-releases"></a>Aggiornamenti di sicurezza per Microsoft 365 Apps
 
 Per un elenco completo degli aggiornamenti della sicurezza, vedere l'articolo seguente:
- - [Aggiornamenti della sicurezza per Office 365 ProPlus](office365-proplus-security-updates.md)
+ - [Aggiornamenti di sicurezza per Microsoft 365 Apps](office365-proplus-security-updates.md)
 
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Cronologia degli aggiornamenti per le versioni di Office 365 ProPlus
+## <a name="update-history-for-microsoft-365-apps-releases"></a>Cronologia degli aggiornamenti per le versioni di Microsoft 365 Apps
 
 Per un elenco completo delle versioni e delle versioni supportate per ogni canale, vedere l'articolo seguente:
- - [Cronologia degli aggiornamenti per Office 365 ProPlus (elencati in ordine cronologico)](update-history-office365-proplus-by-date.md)
+ - [Cronologia degli aggiornamenti per Microsoft 365 Apps (elencati in ordine cronologico)](update-history-office365-proplus-by-date.md)
 
 
- ## <a name="update-sizes-for-office-365-proplus-releases"></a>Dimensioni degli aggiornamenti per le versioni di Office 365 ProPlus
+ ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Dimensioni degli aggiornamenti per le versioni di Microsoft 365 Apps
 
 Per un elenco completo delle dimensioni degli aggiornamenti delle versioni, vedere l'articolo seguente:
- - [Dimensioni di download per gli aggiornamenti di Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
+ - [Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps](download-sizes-office365-proplus-updates.md)
 
-## <a name="release-notes-for-office-365-proplus-releases"></a>Note sulla versione per Office 365 ProPlus
+## <a name="release-notes-for-microsoft-365-apps-releases"></a>Note sulla versione per le versioni di Microsoft 365 Apps
 
 Per un elenco completo delle note sulle versioni per canale di aggiornamento e anno, vedere gli articoli seguenti:
  - Mensile: [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
@@ -58,7 +54,7 @@ Per un elenco completo delle note sulle versioni per canale di aggiornamento e a
 
 ## <a name="office-for-mac-release-information"></a>Informazioni sulle versioni di Office per Mac
 
-Per informazioni sugli aggiornamenti a Office per Mac, che è incluso in qualsiasi piano di sottoscrizione di Office 365 contenente Office 365 ProPlus, vedere gli articoli seguenti:
+Per informazioni sugli aggiornamenti a Office per Mac, che è incluso in qualsiasi piano di abbonamento di Microsoft 365 contenente Microsoft 365 Apps, vedere gli articoli seguenti:
  - [Cronologia degli aggiornamenti per Office per Mac](update-history-office-for-mac.md)
  - [Note sulla versione per Office per Mac](release-notes-office-for-mac.md)
  - [Cronologia delle versioni per MAU](release-history-microsoft-autoupdate.md)
@@ -66,11 +62,11 @@ Per informazioni sugli aggiornamenti a Office per Mac, che è incluso in qualsia
 
 ## <a name="related-topics"></a>Argomenti correlati
 
-- [Panoramica dei canali di aggiornamento per Office 365 ProPlus](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Panoramica dei canali di aggiornamento per Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Distribuzione di Office](https://docs.microsoft.com/deployoffice/)
-- [Novità di Office 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
-- [Roadmap di Office 365](https://products.office.com/business/office-365-roadmap)
-- [Panoramica del Centro messaggi di Office 365](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [Novità in Microsoft 365 Apps](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [Roadmap di Microsoft 365 Apps](https://products.office.com/business/office-365-roadmap)
+- [Panoramica del Centro messaggi di Microsoft 365 Apps](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Informazioni sulla versione di Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Guida di Microsoft Security Update](https://portal.msrc.microsoft.com/)
 
