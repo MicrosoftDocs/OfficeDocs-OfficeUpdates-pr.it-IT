@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 8c308b50fe0a9be3b7949f3d3a8d8f4488b62f2b
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: f0ae7d9c965c4ffea21e31859760ebea550ac3e7
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715024"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907890"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -28,7 +28,30 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-[//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2004-april-25"></a>Versione 2004: 25 aprile
+*Versione 2004 (Build 12730.20206)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava l'arresto anomalo di Outlook aprendo file .msg o .oft salvati in locale dopo un aggiornamento di Windows.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui se si usava Project connesso a Project Web App e il separatore decimale era una virgola, il metodo Add di TaskDependencies poteva non funzionare quando veniva aggiunto un elemento lag a una dipendenza.
+
+
+### <a name="office-suite"></a>Applicazioni Office
+
+- Questa correzione risolve un errore che si verificava quando si limitava l'accesso e la protezione dei file con una password, contemporaneamente.
+
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
 
 ## <a name="version-2004-april-21"></a>Versione 2004: 21 aprile
 *Versione 2004 (Build 12730.20182)*
