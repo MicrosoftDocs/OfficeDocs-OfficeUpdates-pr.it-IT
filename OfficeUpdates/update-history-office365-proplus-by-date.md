@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT un elenco completo di rilasci di App di Microsoft 365, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: 9a2b66ad416ac01f335b70e1875c18bf6464b3d9
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 6361bc4ad78d7774956ffdac4d1e52cec4492fe0
+ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907929"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947390"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Cronologia degli aggiornamenti per App di Microsoft 365 (elencati in ordine cronologico)
 
@@ -33,7 +33,7 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensile<br/>|2003<br/>|12624.20466<br/>|15 aprile 2020<br/>|Viene rilasciata la versione 2004<br/>|
+|Mensile<br/>|2004<br/>|12730.20236<br/>|29 aprile 2020<br/>|Rilasciata la versione 2005<br/>|
 |Semestrale (mirato)<br/>|2002<br/>|12527.20442<br/>|14 aprile 2020<br/>|8 settembre 2020<br/>|
 |Semestrale<br/>|1908<br/>|11929.20708<br/>|14 aprile 2020<br/>|9 marzo 2021<br/>|
 |Semestrale<br/>|1902<br/>|11328.20564<br/>|14 aprile 2020<br/>|8 settembre 2020<br/>|
@@ -48,7 +48,7 @@ La tabella seguente fornisce un elenco dei numeri di versione e di build per ogn
 
 |**Anno**|**Data di rilascio**|**Canale mensile**|**Canale semestrale (mirato)**|**Canale semestrale**|
 |:-----|:-----|:-----|:-----|:-----|
-|
+|2020|29 aprile|[Versione 2004 (Build 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | |
 |2020|15 aprile|[Versione 2003 (Build 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
 |2020|14 aprile|[Versione 2003 (Build 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[Versione 2002 (Build 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[Versione 1908 (Build 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[Versione 1902 (Build 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|31 marzo|[Versione 2003 (Build 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |

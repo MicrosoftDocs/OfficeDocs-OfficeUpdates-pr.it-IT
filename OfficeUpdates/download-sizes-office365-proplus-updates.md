@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: 009406a5de679ac785a59637825b95826cf271a3
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 40a9f946735ced5c1e0d0dab09499ef3eeee86e0
+ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907908"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947359"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
@@ -33,6 +33,22 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="april-29-2020"></a>29 aprile 2020
+
+[//]: # (DO NOT REMOVE CONTENT STARTApril 29, 2020)
+
+### <a name="monthly-channel"></a>Canale mensile
+
+La versione più recente è la numero 2004 (Build 12730.20236).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2003 (Build 12624.20466) <br/> |15 aprile 2020 <br/> |174<br/> |
+|Versione 2003 (Build 12624.20442) <br/> |14 aprile 2020 <br/> |322<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDApril 29, 2020)
 
 
 
