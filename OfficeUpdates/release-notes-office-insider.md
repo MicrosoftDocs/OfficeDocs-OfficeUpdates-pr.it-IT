@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
-ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
+ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43804902"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997479"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,7 +26,60 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
+
+## <a name="version-2005-may-01"></a>Versione 2005: 1 maggio
+*Versione 2005 (Build 12827.20030)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Collegamenti migliorati nei messaggi di posta elettronica:** quando si include un collegamento a un file, il nome del file sostituisce l'URL. È possibile modificare le autorizzazioni per consentire l'accesso a tutti i destinatari. [Altre informazioni](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema di rendering dei valori in un asse data nella tabella dati del grafico.
+- È stato risolto un problema che impediva la disabilitazione delle interruzioni di pagina dopo il passaggio a Layout di pagina o Anteprima interruzioni di pagina.
+- È stato risolto un problema di perdita degli stili di linea del grafico dopo aver nascosto e visualizzato le colonne con i dati della serie.
+- L'inserimento di una colonna in un elenco filtrato richiedeva più tempo del previsto.
+- Possibile arresto anomalo durante il tentativo di elencare le modifiche in un nuovo foglio di una cartella di lavoro usando la modalità "cartella di lavoro condivisa" legacy.
+- È stato risolto il problema che poteva impedire il salvataggio della formattazione personalizzata dei grafici pivot quando era abilitata l'opzione "Inverti se negativo".
+- È stato risolto un problema per cui non veniva salvata la formattazione personalizzata per un singolo punto dati in un grafico pivot se era stata selezionata l'opzione "Inverti se negativo".
+- Questa modifica risolve un problema per cui il carattere "@" caricato in un file CSV comportava la conversione della stringa dopo il carattere "@" in una formula.
+- È stato risolto un problema per cui i valori decimali della funzione sequenza non venivano arrotondati correttamente.
+
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che impediva il caricamento dei collegamenti sicuri molto lunghi su cui gli utenti facevano clic nel client desktop di Outlook a causa di un troncamento.
+- È stato risolto un problema per cui le cartelle di Outlook con nomi contenenti caratteri del set di caratteri a due byte (DBCS) talvolta scomparivano durante la sincronizzazione con il server. Questo succedeva con Outlook configurato con un account IMAP ed eseguito in un sistema con le impostazioni locali impostate su giapponese.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui, se un utente creava un commento senza pubblicarlo e chiudeva il riquadro Commenti, quindi apriva una nuova finestra, si spostava tra più diapositive, chiudeva la finestra e infine riapriva il riquadro Commenti nella presentazione originale, i commenti bozza non erano disponibili.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui se si usava Project connesso a Project Web App e il separatore decimale era una virgola, il metodo Add di TaskDependencies aveva esito negativo quando veniva aggiunto un elemento Lag.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui l'inserimento di commenti in un documento in modalità di collaborazione non sempre funzionava.
+- Questo cambiamento risolve un problema per cui la scheda Persone lampeggiava se veniva selezionata la menzione con @.
+- È stata risolto il problema per cui alla chiusura di un documento con commenti in bozza veniva chiesto di confermare la chiusura del documento senza salvare la bozza. Annullando il messaggio, il documento veniva chiuso invece di rimanere aperto.
+- È stato risolto un problema per cui durante la traduzione di un commento pubblicato veniva visualizzato l'errore "L'inserimento del testo tradotto non è riuscito".
+- In visualizzazione Web/Strumento di lettura immersiva, la selezione di un suggerimento determinava lo scorrimento verso l'alto anche se era già visualizzato. Questo problema è stato risolto.
+- È stato risolto un problema per cui, quando si provava a salvare un file contenente una macro con un nuovo nome, il file veniva salvato con estensione docx e il nome file WRO0004.docx, indipendentemente dall'immissione dell'utente, rendendo il documento inutilizzabile.
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
 
 ## <a name="version-2005-april-24"></a>Versione 2005: 24 aprile
 *Versione 2005 (Build 12816.20006)*
