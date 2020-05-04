@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 4cc33840330268060d799d6e5ff4ae077b77a248
-ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
+ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947394"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997469"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile nel 2020
 
@@ -57,7 +57,7 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 - **Nuove immagini per dare vita ai messaggi:** migliaia di immagini, icone e adesivi gratuiti da usare nei messaggi di posta elettronica. Per iniziare, selezionare Inserisci > Immagini > Immagini di archivio. [Altre informazioni](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
-- **Nuova Ricerca sala:** è possibile cercare sale riunioni in base a diverse caratteristiche.
+- **Supporto suggerimenti per il luogo di una riunione ricorrente:** cercare sale riunioni con la pianificazione di riunioni ricorrenti.
 
 ### <a name="powerpoint"></a>PowerPoint
 
