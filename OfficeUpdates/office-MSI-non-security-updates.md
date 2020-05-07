@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti non relativi alla sicurezza delle versioni con licenza perpetua di Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: 39c7da6800f60a66963a559177fe96b4cba43a22
-ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
+ms.openlocfilehash: 228333b39b81bad7979768354d11a70124c816e6
+ms.sourcegitcommit: 31188461773c3aee326d76f9e1d3cb5d511e6fe3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43170236"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44042983"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Ultimi aggiornamenti non relativi alla sicurezza per le versioni di Office che usano Windows Installer (MSI)
 
@@ -22,9 +22,18 @@ Questa pagina elenca gli aggiornamenti non relativi alla sicurezza per Office, c
 
 > [!NOTE]
 > - Le informazioni contenute in questo articolo si applicano solo alle versioni con licenza perpetua di Office che usano la tecnologia di installazione di Windows Installer (MSI). Ad esempio, Office Professional Plus 2016.
-> - Le informazioni contenute in questo articolo non si applicano alle versioni Office 365, ad esempio Office 365 ProPlus.
+> - Le informazioni in questo articolo non sono valide per le app di Microsoft 365.
 > - Per ulteriori informazioni sull'installazione degli aggiornamenti di Office, vedere [Installare gli aggiornamenti di Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="may-5-2020"></a>5 maggio 2020
+
+**Office 2016**<br/>
+Aggiornamento per Microsoft Office 2016 ([KB4484339](https://support.microsoft.com/help/4484339))<br/> Aggiornamento per Microsoft Office 2016 ([KB4484328](https://support.microsoft.com/help/4484328))<br/> Aggiornamento per Microsoft Office 2016 ([KB4484327](https://support.microsoft.com/help/4484327))<br/> Aggiornamento per Microsoft Office 2016 ([KB4484325](https://support.microsoft.com/help/4484325))<br/> Aggiornamento per Microsoft Outlook 2016 ([KB4484343](https://support.microsoft.com/help/4484343))<br/> Aggiornamento per Microsoft PowerPoint 2016 ([KB4484337](https://support.microsoft.com/help/4484337))<br/> Aggiornamento per Microsoft Project 2016 ([KB4484345](https://support.microsoft.com/help/4484345))<br/> Aggiornamento per Microsoft Word 2016 ([KB4484341](https://support.microsoft.com/help/4484341))<br/> 
+
+
+**Office 2013**<br/>
+Aggiornamento per Skype for Business 2015 ([KB4484289](https://support.microsoft.com/help/4484289))<br/>
 
 ## <a name="april-7-2020"></a>7 aprile 2020
 
@@ -74,15 +83,4 @@ Aggiornamento per Microsoft Office 2016 ([KB4484170](https://support.microsoft.c
 Aggiornamento per Microsoft Outlook 2016 ([KB4484172](https://support.microsoft.com/help/4484172)) <br/>
 Aggiornamento per Skype for Business 2016 ([KB4484133](https://support.microsoft.com/help/4484133)) <br/>
 
-## <a name="november-5-2019"></a>5 novembre 2019
 
-**Office 2016**<br/>
-Aggiornamento per Microsoft Access 2016 ([KB4475539](https://support.microsoft.com/help/4475539)) <br/>
-Aggiornamento per Microsoft Office 2016 ([KB4484138](https://support.microsoft.com/help/4484138)) <br/>
-Aggiornamento per Microsoft Office 2016 ([KB4484137](https://support.microsoft.com/help/4484137)) <br/>
-Aggiornamento per Microsoft Office 2016 ([KB4475588](https://support.microsoft.com/help/4475588)) <br/>
-Aggiornamento per Microsoft Office 2016 ([KB4475552](https://support.microsoft.com/help/4475552)) <br/>
-Aggiornamento per Microsoft Office 2016 ([KB4484145](https://support.microsoft.com/help/4484145)) <br/>
-Aggiornamento per Microsoft Outlook 2016 ([KB4484139](https://support.microsoft.com/help/4484139)) <br/>
-Aggiornamento per Microsoft PowerPoint 2016 ([KB4484134](https://support.microsoft.com/help/4484134)) <br/>
-Aggiornamento per Microsoft Word 2016 ([KB4484135](https://support.microsoft.com/help/4484135)) <br/>
