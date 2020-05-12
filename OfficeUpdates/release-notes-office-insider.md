@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
+ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997479"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44170626"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -26,7 +26,44 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE)
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2006-may-08"></a>Versione 2006: 8 marzo
+*Versione 2006 (Build 12829.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+
+### <a name="outlook"></a>Outlook
+
+- **Risultati migliori in un batter d'occhio:** l'esperienza di ricerca è stata aggiornata in modo da renderla più intelligente, più rapida e più affidabile che mai. [Altre informazioni](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti. [Altre informazioni](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### <a name="word"></a>Word
+
+- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Abbiamo esaminato e risolto il problema per cui una distribuzione di Office 365 ProPlus tramite InTune veniva sospesa dopo un arresto del sistema operativo.
+
+[//]: # (NON RIMUOVERE FINE DEL CONTENUTO DEI BUG)
 
 ## <a name="version-2005-may-01"></a>Versione 2005: 1 maggio
 *Versione 2005 (Build 12827.20030)*
@@ -81,14 +118,9 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 [//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
 
+
 ## <a name="version-2005-april-24"></a>Versione 2005: 24 aprile
 *Versione 2005 (Build 12816.20006)*
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -109,6 +141,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 - Questa modifica risolve un problema per cui il testo con collegamenti ipertestuali poteva non essere visualizzato se era abilitata l'opzione "Mostra codici di campo anziché i relativi valori".
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 
 ## <a name="version-2005-april-17"></a>Versione 2005:17 aprile
 *Versione 2005 (Build 12810.20002)*
@@ -139,9 +172,8 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 - È stato risolto un problema per cui Project può arrestarsi in modo anomalo quando si cambia il campo Stato bacheca in un progetto connesso a un elenco attività di SharePoint.
 - È stato risolto un problema per cui Project può arrestarsi in modo anomalo quando si salvano progetti creati con versioni precedenti.
 
-
-
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 
 ## <a name="version-2004-april-10"></a>Versione 2004: 10 aprile
 *Versione 2004 (Build 12730.20024)*

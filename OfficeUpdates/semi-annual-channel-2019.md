@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: b03cf0f98c4444a19167759a1805f750866bcb78
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982525"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163528"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -35,7 +35,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove funzionalità e s
 ## <a name="version-1902-december-10"></a>Versione 1902: 10 dicembre
 *Versione 1902 (build 11328.20492)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -99,7 +99,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-november-12"></a>Versione 1902: 12 novembre
 *Versione 1902 (Build 11328.20468)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -134,7 +134,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ## <a name="version-1808-november-12"></a>Versione 1808: 12 novembre
 *Versione 1808 (Build 10730.20416)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -154,7 +154,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-october-08"></a>Versione 1902: 8 ottobre
 *Versione 1902 (Build 11328.20438)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -183,12 +183,12 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 *Versione 1808 (Build 10730.20386)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1902-september-10"></a>Versione 1902: 10 settembre
 *Versione 1902 (Build 11328.20420)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -212,7 +212,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ## <a name="version-1808-september-10"></a>Versione 1808: 10 settembre
 *Versione 1808 (Build 10730.20380)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -225,7 +225,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-august-13"></a>Versione 1902: 13 agosto
 *Versione 1902 (Build 11328.20392)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
 - È stato risolto un problema per cui l'icona di cancellazione del filtro veniva visualizzata sia per i filtri dei dati filtrati che per quelli non filtrati nelle tabelle.
@@ -247,7 +247,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ## <a name="version-1808-august-13"></a>Versione 1808 13 agosto
 *Versione 1808 (Build 10730.20370)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
 - È stato risolto un problema in cui l’impostazione API non funzionava nella raccolta di JavaScript per Office in determinati scenari [Altre informazioni](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -256,7 +256,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ## <a name="version-1803-august-13"></a>Versione 1803 13 agosto
 *Versione 1803 (Build 9126.2432)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: aggiornamenti non relativi alla sicurezza
 - È stato risolto un problema per cui l'API impostazione nella libreria JavaScript di Office non funzionava in determinati scenari. [Altre informazioni](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -264,7 +264,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ## <a name="version-1902-july-09"></a>Versione 1902: 9 luglio
 *Versione 1902 (Build 11328.20368)*
-<br/>Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access: aggiornamenti delle funzionalità
@@ -432,7 +432,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ## <a name="version-1808-july-09"></a>Versione 1808: 9 luglio
 *Versione 1808 (Build 10730.20360)*
-<br/>Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
@@ -447,12 +447,12 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ## <a name="version-1803-july-09"></a>Versione 1803: 9 luglio
 *Versione 1803 (Build 9126.2428)*
-<br/>Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>Versione 1808: 11 giugno
 *Versione 1808 (Build 10730.20348)*
-<br/>Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
  - È stato risolto un problema relativo a Rimuovi firma durante l'estrazione di un file.
@@ -462,7 +462,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ## <a name="version-1803-june-11"></a>Versione 1803: 11 giugno
 *Versione 1803 (Build 9126.2388)*
-<br/>Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 
+<br/>Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 
 
 ## <a name="version-1808-may-14"></a>Versione 1808: 14 maggio
 *Versione 1808 (Build 10730.20344)*   
@@ -501,7 +501,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato aggiunto il supporto per il componente aggiuntivo di Word Creazione guidata cartolina giapponese per la nuova era giapponese. 
 
 ## <a name="version-1803-april-9"></a>Versione 1803: 9 aprile
-- Aggiornamenti della sicurezza elencati [qui](office365-proplus-security-updates.md)
+- Aggiornamenti della sicurezza elencati [qui](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1808-march-12"></a>Versione 1808: 12 marzo
 *Versione 1808 (Build 10730.20304)*
@@ -520,7 +520,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema che può causare il blocco dell'aggiornamento di Office per un certo tempo durante il tentativo di download.
 
 ## <a name="version-1803-march-12"></a>Versione 1803: 12 marzo 
-- Aggiornamenti della sicurezza elencati [qui](office365-proplus-security-updates.md)
+- Aggiornamenti della sicurezza elencati [qui](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1808-february-12"></a>Versione 1808: 12 febbraio
 *Versione 1808 (Build 10730.20280)*
