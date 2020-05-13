@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2010 che utilizzano A portata di clic.
-ms.openlocfilehash: 36eb997635e01c6b9acd0ccc48aec4348c1e1dee
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: f11e6287ecdbda4afb7959489c03ba8f5fee83be
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521004"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211211"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Cronologia degli aggiornamenti per i prodotti Office 2010 A portata di clic
 
 > [!IMPORTANT]
-Il supporto per Office 2010 termina il 13 ottobre 2020. Se non è stato ancora iniziato a eseguire l'aggiornamento dell'ambiente Office 2010, è consigliabile iniziare subito. Per altre informazioni, vedere [Roadmap della fine del supporto di Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
+Il supporto per Office 2010 terminerà il 13 Ottobre 2020. Se non è stato ancora iniziato l'aggiornamento dell'ambiente di Office 2010, è consigliabile iniziare subito. Per altre informazioni, vedere [Roadmap della fine del supporto di Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
 
 
 I seguenti prodotti Office 2010 vengono mantenuti aggiornati automaticamente con A portata di clic.
@@ -33,7 +33,7 @@ I seguenti prodotti Office 2010 vengono mantenuti aggiornati automaticamente con
 Se si usa uno di questi prodotti e si vuole verificare se è aggiornato, controllare il numero di versione di Office e, se necessario, aggiornare Office manualmente.
   
 > [!NOTE]
-> La versione più recente di Office 2010 è **14.0.7248.5000**, che è stata rilasciata il 14 aprile 2020.
+> La versione più recente di Office 2010 è **14.0.7249.5000**, che è stata rilasciata il 12 maggio 2020.
   
 Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
   
@@ -57,7 +57,8 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
   
 |**Anno di pubblicazione**|**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|:-----|
-|2020|14 aprile  <br/> |14.0.7248.5000  <br/> |[KB 4549670](https://support.microsoft.com/help/4549670 ) <br/> |
+|2020|12 maggio  <br/> |14.0.7249.5000  <br/> |[KB 4549680](https://support.microsoft.com/help/4549680 ) <br/> |
+||14 aprile  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||11 marzo  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
 ||11 febbraio  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
 ||14 gennaio  <br/> |14.0.7244.5000  <br/> |[KB 4536554](https://support.microsoft.com/help/4536554) <br/> |
