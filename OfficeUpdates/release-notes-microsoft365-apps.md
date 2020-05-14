@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco delle versioni più recenti per Microsoft 365 Apps per ciascun canale di aggiornamenti e collegamenti alle note sulle versioni e alla cronologia degli aggiornamenti
-ms.openlocfilehash: 892731e23b47f5c918d08db7b54a3ffc1a2acfa9
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: b6300a7742b43f0c820882c0362079e05530c55d
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163608"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211101"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informazioni sulle versioni degli aggiornamenti a Microsoft 365 Apps
 
@@ -33,18 +33,20 @@ Per un elenco completo degli aggiornamenti della sicurezza, vedere l'articolo se
 ## <a name="update-history-for-microsoft-365-apps-releases"></a>Cronologia degli aggiornamenti per le versioni di Microsoft 365 Apps
 
 Per un elenco completo delle versioni e delle versioni supportate per ogni canale, vedere l'articolo seguente:
- - [Cronologia degli aggiornamenti per Microsoft 365 Apps (elencati in ordine cronologico)](update-history- microsoft365-apps-by-date.md)
+
+- [Cronologia degli aggiornamenti per Microsoft 365 Apps elencati in ordine cronologico](update-history-microsoft365-apps-by-date.md)
 
 
  ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Dimensioni degli aggiornamenti per le versioni di Microsoft 365 Apps
 
 Per un elenco completo delle dimensioni degli aggiornamenti delle versioni, vedere l'articolo seguente:
- - [Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps](download-sizes-microsoft365-apps-updates .md)
+ - [Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps](download-sizes-microsoft365-apps-updates.md)
 
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Note sulla versione per le versioni di Microsoft 365 Apps
 
 Per un elenco completo delle note sulle versioni per canale di aggiornamento e anno, vedere gli articoli seguenti:
  - Mensile: [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
+ - Canale Enterprise mensile: [2020](monthly-enterprise-channel-2020.md)
  - Semestrale (mirato): [2020](semi-annual-channel-targeted-2020.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - Semestrale: [2020](semi-annual-channel-2020.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
