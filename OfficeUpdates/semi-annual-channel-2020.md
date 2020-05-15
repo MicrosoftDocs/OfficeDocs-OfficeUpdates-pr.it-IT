@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 6619411170491543c4853e6db56fa845a7adc6e3
+ms.sourcegitcommit: fb97680a81c7d96b0f0f539dc3e3c8c28ad654e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210861"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44222079"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2020
 
@@ -65,6 +65,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema che causava l'assenza del pulsante "Salva nel cloud" da Strumenti allegati.
 
 - Per impostazione predefinita, le etichette dei criteri di conservazione visualizzano il periodo di conservazione tra parentesi. Questa operazione fornisce una chiave del registro di sistema che consente agli amministratori di specificare che solo il nome del criterio deve essere visualizzato. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = Predefinito.  1 = Verrà visualizzato solo il NomeCriterio nel testo dei criteri di conservazione.
+
 
 ### <a name="word"></a>Word
 
