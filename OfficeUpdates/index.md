@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Fornisce ai professionisti IT i collegamenti al contenuto del rilascio di Office per Office 365 ProPlus, Office per Mac, Office perpetuo e prodotti Office Server
-ms.openlocfilehash: 2bdea84afebdfdfd525776aaa50e2540c9d67507
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 9b70612a1296b764edd1f17357ef6f659bbcc701
+ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714546"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44163448"
 ---
 # <a name="office-updates"></a>Aggiornamenti di Office
 
@@ -33,10 +33,10 @@ Ottenere informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza
                 <div class="card">
                     <div class="cardText">
                         <h3>Microsoft 365 Apps</h3>
-                        <p><a href="release-notes-office365-proplus.md">Note sulla versione</a></p>
-                        <p><a href="update-history-office365-proplus-by-date.md">Cronologia degli aggiornamenti (per data)</a></p>
-                        <p><a href="download-sizes-office365-proplus-updates.md">Dimensioni dell’aggiornamento</a></p>
-                        <p><a href="office365-proplus-security-updates.md">Aggiornamenti della sicurezza</a></p>
+                        <p><a href="release-notes-microsoft365-apps.md">Note sulla versione</a></p>
+                        <p><a href="update-history-microsoft365-apps-by-date.md">Cronologia degli aggiornamenti (per data)</a></p>
+                        <p><a href="download-sizes-microsoft365-apps-updates.md">Dimensioni dell’aggiornamento</a></p>
+                        <p><a href="microsoft365-apps-security-updates.md">Aggiornamenti della sicurezza</a></p>
                     </div>
                 </div>
             </div>
