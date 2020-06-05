@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2019
-ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163528"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565071"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2019
 
@@ -165,7 +165,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="project"></a>Project
 
-- È stato risolto un problema di mancata creazione del file PDF o XPS nello scenario seguente:</div><ul><li>Si apre un progetto.</li><li>Si fa clic sul menu File, poi su Esporta e quindi sul pulsante <b>Crea PDF/XPS</b>.</li><li>Nella finestra di dialogo Sfoglia si immette un nome file e si fa clic su OK.</li></ul>
+- È stato risolto un problema di mancata creazione del file PDF o XPS nello scenario seguente:<ul><li>Si apre un progetto.</li><li>Si fa clic sul menu File, poi su Esporta e quindi sul pulsante <b>Crea PDF/XPS</b>.</li><li>Nella finestra di dialogo Sfoglia si immette un nome file e si fa clic su OK.</li></ul>
 
 ### <a name="word"></a>Word
 
