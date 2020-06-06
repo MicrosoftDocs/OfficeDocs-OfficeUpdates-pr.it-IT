@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Fornisce ai professionisti IT i collegamenti al contenuto del rilascio di Office per Office 365 ProPlus, Office per Mac, Office perpetuo e prodotti Office Server
-ms.openlocfilehash: 9b70612a1296b764edd1f17357ef6f659bbcc701
-ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
+ms.openlocfilehash: 5f7f223ea6bac5b7af6dffd3c461e4071eeb12ac
+ms.sourcegitcommit: c32d5e03d3c8dbfaba32a8d5349edc3ce1577a38
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44163448"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44588390"
 ---
 # <a name="office-updates"></a>Aggiornamenti di Office
 
@@ -48,8 +48,8 @@ Ottenere informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza
                 <div class="card">
                     <div class="cardText">
                         <h3>Office per Mac</h3>
-                        <p><a href="release-notes-office-for-mac.md">Note sulla versione (Office 365, 2019)</a></p>
-                        <p><a href="update-history-office-for-mac.md">Cronologia degli aggiornamenti (Office 365, 2019)</a></p>
+                        <p><a href="release-notes-office-for-mac.md">Note sulla versione (Microsoft 365, 2019)</a></p>
+                        <p><a href="update-history-office-for-mac.md">Cronologia degli aggiornamenti (Microsoft 365, 2019)</a></p>
                         <p><a href="release-notes-office-2016-mac.md">Note sulla versione (2016)</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">Rilasci di MAU</a></p>
                      </div>
@@ -81,12 +81,11 @@ Ottenere informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office (con licenza perpetua)</h3>
+                        <h3>Office (licenza perpetua)</h3>
                             <p><a href="update-history-office-2019.md">Office 2016 e 2019 (C2R)</a></p>
                             <p><a href="office-updates-msi.md">Aggiornamenti di Office 2010, 2013 e 2016 (MSI)</a></p>
-                            <p><a href="outlook-updates-msi.md">Aggiornamenti di Outlook 2010, 2013 e 2016 (MSI)</a></p>
-                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Aggiornamenti di Skype for business</a></p>
                             <p><a href="msp-files-office-2016.md">File di Office 2016. msp</a></p>
+                            <p><a href="msp-files-office-2013.md">File di Office 2013. msp</a></p>
                     </div>
                 </div>
             </div>
@@ -98,9 +97,9 @@ Ottenere informazioni sulle caratteristiche, sugli aggiornamenti della sicurezza
                 <div class="card">
                     <div class="cardText">
                         <h3>Altre risorse Office</h3>
-                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Novità di Office 365</a></p>
-                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Roadmap di Office 365</a></p>
-                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Mantenersi aggiornati sulle modifiche a Office 365</a></p>
+                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Novità di Microsoft 365</a></p>
+                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Roadmap di Microsoft 365</a></p>
+                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Rimanere in cima alle modifiche di Microsoft 365</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Blog di Office</a></p>
                     </div>
                 </div>

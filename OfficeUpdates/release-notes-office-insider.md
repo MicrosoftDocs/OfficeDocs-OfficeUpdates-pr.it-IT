@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: b803fe8ec20f102d2c8cf3e68cbddb042beffb6e
-ms.sourcegitcommit: be205676acfa15f0c2170593b0b5ad721bea4f2d
+ms.openlocfilehash: 0e58405ba80e3656e5e3d4b8aef45dbd1df272d3
+ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44424588"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581785"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -30,6 +30,66 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2006-june-05"></a>Versione 2006:05 giugno
+*Versione 2006 (Build 13001,20002)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Ordina/filtra durante la collaborazione in Excel:** È ora possibile ordinare e filtrare il file di Excel durante la collaborazione con altri utenti. Questa nuova funzionalità impedisce l'impatto degli ordinamenti e dei filtri di altri utenti durante la CoAuthoring del documento.
+
+- **Creare tabelle pivot da DataSet in Power bi all'interno di Excel:** È possibile creare tabelle pivot in Excel connesse a DataSet archiviati in Power BI con pochi clic.In questo modo è possibile ottenere il meglio di entrambe le tabelle pivot e Power BI. Calcolare, riepilogare e analizzare i dati con tabelle pivot dai DataSet di sicurezza Power BI. [Altre informazioni](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+
+### <a name="outlook"></a>Outlook
+
+- **Riaprire rapidamente gli elementi dalla sessione precedente:** È stata aggiunta un'opzione per riaprire rapidamente gli elementi da una sessione di Outlook precedente. Se Outlook si arresta in modo anomalo o lo Chiudi, sarà possibile rilanciare rapidamente gli elementi quando si riapre l'app. Questa funzionalità è attiva per impostazione predefinita. Per disattivarla, passare a opzioni > opzioni generali > avvio.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema a causa del quale i valori personalizzati sull'asse del grafico non vengono applicati correttamente.
+- È stato risolto un problema a causa del quale i fogli di lavoro contenenti più formule con nomi definiti risultavano più volte durante il salvataggio dei file.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema a causa del quale la finestra IME (Input Method Editor) potrebbe sovrapporsi al testo sottostante immesso tramite l'IME quando si utilizzano più monitor con risoluzioni diverse.
+- È stato risolto un problema a causa del quale la visualizzazione di un modello durante la composizione di un nuovo messaggio di posta elettronica potrebbe causare un arresto anomalo.
+- È stato risolto un problema a causa del quale gli utenti non sono stati in grado di scambiare cartelle pubbliche 2010 dopo Outlook versione 1911.
+- È stato risolto un problema a causa del quale il pulsante categorizza per i calendari di gruppo nella barra multifunzione di Office è stato disabilitato.
+- È stato risolto un problema che causava arresti anomali in Outlook da parte di utenti con contatti in conflitto.
+- È stato risolto un problema che ha portato all'elenco a discesa Archivio online nelle proprietà delle cartelle di essere mancanti per gli utenti su monitor DPI elevati.
+- È stato risolto un problema che causava la verifica di un arresto anomalo di Outlook quando si utilizzano collegamenti ipertestuali nei messaggi di posta elettronica di testo normale.
+- È stato risolto un problema per il quale Outlook non è stato in grado di analizzare i nomi di file lunghi codificati con RFC2231.
+- È stato risolto un problema che causava l'intermittenza degli utenti di Outlook durante l'utilizzo di screen reader.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema relativo all'apertura di file configurati dal server con l'autenticazione basata su moduli.
+- È stato risolto un problema a causa del quale i file di PowerPoint con grafici o cartelle di lavoro incorporati potrebbero causare errori durante il salvataggio del file.
+- È stato risolto un problema a causa del quale un riquadro dei commenti chiuso dall'utente avrebbe riaperto automaticamente.
+- È stato risolto un problema a causa del quale l'editor diapositive di una diapositiva verrebbe sovrapposto alla diapositiva successiva.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema che impediva l'eliminazione o la riassegnazione delle attività orfane dopo l'eliminazione del piano padre.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema a causa del quale i timestamp nei riquadri dei commenti non erano basati sull'ora locale del sistema.
+- È stato risolto un problema a causa del quale i commenti tra l'app Web e l'applicazione desktop non erano sincronizzati.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+
 
 ## <a name="version2006may29"></a>Versione 2006:29 maggio
 *Versione 2006 (Build 12920,20000)*
@@ -125,7 +185,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 - È stato risolto un problema a causa del quale l'incollamento del codice HTML in WordMail per il calendario non funzionava.
 - È stato risolto un problema a causa del quale la risposta a un commento in una sessione condivisa potrebbe causare il blocco di Word.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2006-may-15"></a>Versione 2006:15 maggio
 *Versione 2006 (Build 12905.20000)*
@@ -323,7 +383,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 - È stato risolto un problema per cui Project può arrestarsi in modo anomalo quando si cambia il campo Stato bacheca in un progetto connesso a un elenco attività di SharePoint.
 - È stato risolto un problema per cui Project può arrestarsi in modo anomalo quando si salvano progetti creati con versioni precedenti.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 
 ## <a name="version-2004-april-10"></a>Versione 2004: 10 aprile
@@ -517,7 +577,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 - È stato risolto un problema per cui le firme digitali salvate nei documenti di Word venivano rimosse al momento dell'invio dei documenti.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2004-march-13"></a>Versione 2004: 13 marzo
 *Versione 2004 (Build 12703.20010)*
@@ -634,7 +694,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 - È stato risolto un problema per cui non era possibile salvare un file protetto in precedenza da password, in uno spazio di archiviazione cloud.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
 
@@ -674,10 +734,10 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 - È stato risolto un problema per cui le schede di commento non venivano sempre evidenziate quando si passava il puntatore del mouse su di esse.
 - Durante una sessione di creazione condivisa di documenti attiva, l'aggiunta diretta di un'immagine in una scheda di commento può comportare l'aggiunta di un contrassegno. Questo problema è stato risolto.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 - Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2003-february-14"></a>Versione 2003: 14 febbraio
 *Versione 2003 (Build 12607.20000)*
@@ -722,7 +782,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 - È stato risolto un problema a causa del quale le immagini nei documenti perdono la trasparenza quando vengono esportate in PDF.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2002-february-07"></a>Versione 2002: 7 febbraio
 *Versione 2002 (Build 12527.20040)*
@@ -777,7 +837,7 @@ Questo articolo contiene le note sulla versione per le build Insider di Word, Ex
 
 - È stato risolto un problema per cui quando si aggiungeva una @menzione in una tabella poteva venire generato il messaggio di errore: "una tabella in questo documento è stata danneggiata".
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - È stato risolto un problema che potrebbe aver causato l'installazione errata del pacchetto di strumenti di correzione norvegese Nynorsk (nn-no).
 
