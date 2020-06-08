@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Office 365 ProPlus nel 2018
-ms.openlocfilehash: 827436fccc1ba336e216d3d2b18d48a4b7168a12
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 59a294ac6eeb5a462d5a080f57e74b4afeffe739
+ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615077"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44163598"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale (mirato) nel 2018
 
@@ -27,7 +27,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 
  
 > [!NOTE]
-> - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](office365-proplus-security-updates.md).
+> - Le informazioni sugli aggiornamenti della sicurezza per ciascun canale di aggiornamento di Office 365 ProPlus saranno elencate separatamente in [Aggiornamenti della sicurezza](microsoft365-apps-security-updates.md).
 
 ## <a name="version-1808-december-11"></a>Versione 1808: 11 dicembre
 *Versione 1808 (Build 10730.20262)*
