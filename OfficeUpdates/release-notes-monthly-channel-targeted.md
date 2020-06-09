@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
-ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
+ms.openlocfilehash: 2213653fbbc529ab849142e1bf5427952299ff2a
+ms.sourcegitcommit: 9d2fb1f431933f304b68891c07a3b4eed5fdb936
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563676"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618932"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Note sulla versione per il Canale mensile (mirato) di Office
 
@@ -32,6 +32,20 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2005-june-08"></a>Versione 2005:8 giugno
+*Versione 2005 (Build 12827,20336)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema con la finestra di dialogo Sostituisci tipi di carattere in cui l'elenco a discesa Sostituisci caratteri Visualizza solo i caratteri all'interno della presentazione anziché quelli installati nel sistema.
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2005-june-04"></a>Versione 2005:04 giugno
 *Versione 2005 (Build 12827,20320)*
@@ -64,13 +78,13 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 - Questo consente di correggere un arresto anomalo quando gli utenti dispongono di commenti sia moderni che legacy in un file, attivando così un aggiornamento dei commenti.
 
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto il problema ValidateInstall Fail rate impostando la convalida di installazione di Bing addon su true per impostazione predefinita e considerando che il risultato restituito da MSI come operazione di installazione ha avuto esito positivo.
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2005-may-29"></a>Versione 2005:29 maggio
 *Versione 2005 (Build 12827,20268)*
@@ -102,12 +116,12 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 
 - Risolto un problema che indusse gli utenti delle versioni di Windows 10 server a visualizzare lo stato di avviso antivirus: non valido. Questa versione di Windows supporta il rilevamento antivirus, ma non è stato trovato alcun antivirus nonostante l'installazione corretta di anti virus.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - L'host di Office si stava bloccando in Windows, quando un componente aggiuntivo viene attivato mentre la chiave del registro di sistema HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth è impostata su zero. Questa modifica consente di risolvere il problema.
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2005-may-21"></a>Versione 2005:21 maggio
 *Versione 2005 (Build 12827,20210)*
@@ -144,7 +158,7 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2005-may-14"></a>Versione 2005:14 maggio
 *Versione 2005 (Build 12827,20160)*
@@ -278,7 +292,7 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 
 - È stato risolto un problema per cui, quando si provava a salvare un file contenente una macro con un nuovo nome, il file veniva salvato con estensione docx e il nome file WRO0004.docx, indipendentemente dall'immissione dell'utente, rendendo il documento inutilizzabile.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Quando a un utente viene assegnato un criterio che lo sposta solo ai team, è ancora in grado di utilizzare il componente aggiuntivo di Skype for Business Outlook per pianificare le riunioni.  Dopo questo aggiornamento, non sarà più possibile programmare le riunioni di Skype for business dopo che il client ha letto il criterio che indica che l'utente è solo per i team e immette la modalità di partecipazione alle riunioni.  Inoltre, il componente aggiuntivo di Outlook per Skype for business non si attiverà durante l'avvio, se il client Skype for business è in modalità solo partecipazione alle riunioni.
 
@@ -404,7 +418,7 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
 
 ## <a name="version-2004-april-21"></a>Versione 2004: 21 aprile
 *Versione 2004 (Build 12730.20182)*
@@ -444,7 +458,7 @@ Questo articolo contiene le note sulla versione per le build del Canale mensile 
 - **Annotare la copia privata:** è possibile creare note scritte a mano visibili solo a se stessi creando una copia privata di un documento condiviso. Passare alla Visualizza > Crea una copia privata per iniziare.
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
 
@@ -601,7 +615,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ## <a name="version-2003-april-09"></a>Versione 2003: 9 aprile
 *Versione 2003 (Build 12624.20442)*
 
-[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
@@ -621,7 +635,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Selezione di contenuti Premium di M365:** dare vita ai propri documenti. Esplora migliaia di immagini di archivio, icone e adesivi gratuiti [Altre informazioni](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
 
 <br/>
 
@@ -656,12 +670,12 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2003-march-31"></a>Versione 2003: 31 marzo
 *Versione 2003 (Build 12624.20382)*
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="access"></a>Access
@@ -697,7 +711,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ## <a name="version-2003-march-21"></a>Versione 2003: 21 marzo
 *Versione 2003 (Build 12624.20276)*
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="outlook"></a>Outlook
@@ -717,7 +731,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 *Versione 2003 (Build 12624.20224)*
 
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
@@ -741,7 +755,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Riquadri a schede:** ora è possibile passare da un riquadro all'altro usando un'interfaccia a schede sul lato destro dell'app. L'interfaccia utente sarà visibile solo se sono presenti almeno due riquadri.
 
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
 
 <br/>
 
@@ -758,12 +772,12 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2003-march-10"></a>Versione 2003: 10 marzo
 *Versione 2003 (Build 12624.20176)*
 
-Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
@@ -880,7 +894,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 ## <a name="version-2002-march-05"></a>Versione 2002: 5 marzo
 *Versione 2002 (Build 12527.20278)*
@@ -917,7 +931,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2002-february-24"></a>Versione 2002: 24 febbraio
 *Versione 2002 (Build 12527.20194)*
@@ -1100,7 +1114,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Questo cambiamento affronta i problemi segnalati con le schede grafiche che utilizzano le GPU integrate Intel.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE DEL CONTENUTO DEI BUG)
 
 [//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
