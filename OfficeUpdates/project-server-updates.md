@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Trovare e gestire gli aggiornamenti per Project Server 2013 e Project Server 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
-ms.openlocfilehash: e07faf7d801da2feaa5293b58e60a569f9bf5d6f
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: cb72af910fde540407a40ff466ce803762e35907
+ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211121"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44666658"
 ---
 # <a name="project-server-updates"></a>Aggiornamenti per Project Server
 
@@ -29,6 +29,7 @@ Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori 
   
 |**Data di rilascio**|**Numero KB**|
 |:-----|:-----|:-----|
+|Giugno 2020  <br/> |[KB4484407](https://support.microsoft.com/kb/4484407) <br/>|
 |Maggio 2020  <br/> |[KB4484360](https://support.microsoft.com/kb/4484360) <br/>|
 |Aprile 2020  <br/> |[KB4484318](https://support.microsoft.com/kb/4484318) <br/>|
 |Marzo 2020  <br/> |[KB4484279](https://support.microsoft.com/kb/4484279) <br/>|
@@ -99,6 +100,7 @@ Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori 
 
 |**Data di rilascio**|**Numero KB**|
 |:-----|:-----|:-----|
+|Giugno 2020  <br/>  |[KB4484412](https://support.microsoft.com/kb/4484412) <br/>|
 |Maggio 2020  <br/>  |[KB4484388](https://support.microsoft.com/kb/4484388) <br/>|
 |Aprile 2020  <br/>  |[KB4484323](https://support.microsoft.com/kb/4484323) <br/>|
 |Marzo 2020  <br/>  |[KB4484239](https://support.microsoft.com/kb/4484239) <br/>|
