@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: e754309f8f647f13b6db0a1b6f4cbcfac2f4ffe5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668117"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814305"
 ---
 # <a name="release-notes-for-office-insiders"></a>Note sulla versione per i partecipanti al programma Office Insider
 
@@ -30,6 +30,81 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2007-june-19"></a>Versione 2007:19 giugno
+*Versione 2007 (Build 13012,20000)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per il quale CustomUI XML per una scheda della barra multifunzione personalizzata è stato rimosso quando si salva una cartella di lavoro in SharePoint/OneDrive.
+- È stato risolto un problema a causa del quale le cartelle di lavoro sono di sola lettura quando il file è stato consigliato solo in sola lettura.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema a causa del quale la finestra IME (Input Method Editor) avrebbe sovrapposto il testo sottostante immesso tramite l'IME quando si utilizzano più monitor con risoluzioni diverse.
+- È stato risolto un problema che causava la possibilità per gli utenti di visualizzare il seguente errore durante la chiusura di un appuntamento precedentemente salvato: "l'elemento non può essere salvato perché è stato modificato da un altro utente o in un'altra finestra. Si desidera creare una copia nella cartella predefinita per l'elemento? "
+- È stato risolto un problema a causa del quale le date nel calendario Mini non sono state visualizzate in grassetto per gli utenti in Giappone.
+- È stato risolto un problema che impediva ai promemoria del calendario di mostrare gli orari esatti per le riunioni in arrivo in meno di una settimana.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema a causa del quale l'indicatore di colore della presenza di un utente non è stato aggiornato nella raccolta condivisa durante una sessione di creazione condivisa in tempo reale.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema a causa del quale, se le attività a durata fissa sono al 100% complete ma la finitura effettiva non è specificata, l'attività% completata verrebbe visualizzata come meno del 100%.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema a causa del quale il colore del collegamento ipertestuale HTML non è stato eseguito correttamente.
+
+### <a name="office-suite"></a>Applicazioni Office
+
+- È stato risolto un problema a causa del quale gli URL non basati su http o HTTPS non venivano visualizzati nell'elenco utilizzato più di recente.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+
+## <a name="version-2007-june-12"></a>Versione 2007:12 giugno
+*Versione 2007 (Build 13006,20002)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Ottenere i dati dell'organizzazione da Power bi usando i tipi di dati:** I tipi di dati di Excel di Power BI sono ora disponibili per gli addetti alle attività nelle organizzazioni con Office 365 E5/A5 o Microsoft 365 E5/A5. Ottenere le informazioni necessarie e aggiornare facilmente è fondamentale per molti flussi di lavoro giornalieri. È possibile accedere alla propria azienda o alle informazioni dell'organizzazione da Power BI come tipo di dati in Excel, aumentando così la possibilità di inserire informazioni collegate nei fogli di calcolo. [Altre informazioni](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- È stato risolto un problema a causa del quale non è stato possibile identificare una colonna Identity in una tabella collegata di SQL Server, in modo che le righe venissero segnalate come eliminate erroneamente.
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema a causa del quale non è stato possibile formattare correttamente le linee griglia principali dei grafici radar.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema a causa del quale l'evento ProjectBeforeTaskChange non è stato attivato quando è stata apportata una modifica all'attività di riepilogo del progetto, ovvero il campo inizio/attività del progetto.
+- È stato risolto un problema a causa del quale un aggiornamento di base o reimpostazione della previsione potrebbe modificare le risorse del costo e del lavoro preventivate in termini di tempo e la previsione potrebbe rispecchiare valori di budget non corretti
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema a causa del quale la possibilità di cancellare la formattazione all'interno del riquadro dei commenti tramite il pulsante Pulisci formattazione nella barra multifunzione di Office non funzionava.
+- È stato risolto un problema a causa del quale la modifica delle dimensioni di una tabella quando il righello non è visualizzato ha causato il lampeggio di altre applicazioni in esecuzione in background.
+- È stato risolto un problema a causa del quale, in modalità di creazione condivisa, le risposte ai commenti a volte non vengono visualizzate nel riquadro osservazioni, ma sono visibili nel riquadro revisioni.
+- È stato risolto un problema a causa del quale se Word disponeva di un elenco di più di 50 documenti aperti di frequente, dopo aver salvato e aperto un documento, viene visualizzata una cronologia delle revisioni anche se non sono state apportate revisioni al documento.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2006-june-05"></a>Versione 2006:05 giugno
 *Versione 2006 (Build 13001,20002)*
@@ -577,7 +652,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema per cui le firme digitali salvate nei documenti di Word venivano rimosse al momento dell'invio dei documenti.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-march-13"></a>Versione 2004: 13 marzo
 *Versione 2004 (Build 12703.20010)*
@@ -665,7 +740,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="outlook"></a>Outlook
 
-- **Notifica di evento imprevisto per gli amministratori IT:** gli amministratori globali dei tenant di Microsoft 365 e gli amministratori delle app di Office verranno avvisati degli eventi imprevisti di Outlook e Office 365 Exchange che interessano gli utenti tramite una nuova notifica nel riquadro a destra in Outlook per Windows.
+- **Notifica di evento imprevisto per gli amministratori IT:** gli amministratori globali dei tenant di Microsoft 365 e gli amministratori delle app di Office verranno avvisati degli eventi imprevisti di Outlook e Office 365 Exchange che interessano gli utenti tramite una nuova notifica nel riquadro a destra in Outlook per Windows. [Altre informazioni](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -698,7 +773,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2003-february-21"></a>Versione 2003: 21 febbraio
 *Versione 2003 (Build 12615.20000)*
@@ -734,10 +809,10 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 - È stato risolto un problema per cui le schede di commento non venivano sempre evidenziate quando si passava il puntatore del mouse su di esse.
 - Durante una sessione di creazione condivisa di documenti attiva, l'aggiunta diretta di un'immagine in una scheda di commento può comportare l'aggiunta di un contrassegno. Questo problema è stato risolto.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 - Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-february-14"></a>Versione 2003: 14 febbraio
 *Versione 2003 (Build 12607.20000)*
@@ -837,8 +912,8 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema per cui quando si aggiungeva una @menzione in una tabella poteva venire generato il messaggio di errore: "una tabella in questo documento è stata danneggiata".
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto un problema che potrebbe aver causato l'installazione errata del pacchetto di strumenti di correzione norvegese Nynorsk (nn-no).
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)

@@ -9,16 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
-ms.openlocfilehash: 13263186e115180da3b989267f23721b13790f93
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
+ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668078"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44853954"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Cronologia degli aggiornamenti per Office beta Channel
 
-Le informazioni di questa pagina sono destinate ai partecipanti al programma Office Insider che vogliono sapere se hanno installato l'aggiornamento più recente o sono alla ricerca di un elenco delle ultime build Insider. Fare clic [qui](https://insider.office.com/) per altre informazioni sul programma Office Insider.
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!IMPORTANT]
 > - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
@@ -29,13 +30,20 @@ Le informazioni di questa pagina sono destinate ai partecipanti al programma Off
 > - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
 > - Le note sulla versione vengono aggiornate con minore frequenza e gli aggiornamenti per più build possono essere combinati fino al numero di build per cui vengono pubblicate le note sulla versione.
 
-## <a name="office-beta-versions-and-builds"></a>Versioni e build di Office beta
+## <a name="office-beta-channel-versions-and-builds"></a>Versioni e build di Office beta Channel
 
-Se si è iscritti a livello di Insider, è possibile ottenere aggiornamenti frequenti con nuove funzionalità e miglioramenti. Nell'elenco seguente è illustrata una cronologia delle versioni beta e delle build recenti, con **la build rilasciata più di recente**. Le nuove compilazioni contengono tutti gli aggiornamenti contenuti nelle compilazioni precedenti.
+Se si è iscritti a livello di Insider, è possibile ottenere aggiornamenti frequenti con nuove funzionalità e miglioramenti. Nell'elenco seguente è illustrata una cronologia delle versioni e delle compilazioni del canale Beta recenti, con **la build rilasciata più di recente**. Le nuove compilazioni contengono tutti gli aggiornamenti contenuti nelle compilazioni precedenti.
 
-Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
+Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
+
 
 [//]: # (NON RIMUOVERE)
+
+**23 giugno 2020**<br/>
+Versione 2007 (Build 13020,20004)<br/>
+
+**15 giugno 2020**<br/>
+Versione 2007 (Build 13012,20000)<br/>
 
 **Giugno 09, 2020**<br/>
 Versione 2007 (Build 13006,20002)<br/>
