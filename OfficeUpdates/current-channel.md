@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
-ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
+ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44810868"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874782"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del canale corrente in 2020
 
@@ -35,6 +35,74 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-june-24"></a>Versione 2005:24 giugno
+*Versione 2005 (Build 12827,20470)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- Questo bug è stato risolto. si dovrebbe essere in grado di chiamare il tipo di dati data/ora esteso nel codice senza riscontrare alcun crash nell'app. Si prega di informare il team se si verificano ulteriori problemi.
+
+
+- Questo problema è stato risolto. è ora possibile ripristinare la versione di accesso più aggiornata e utilizzare DAO/VBA per gestire e modificare un tipo di dati Decimal. Si prega di informare il team di accesso se si verificano ulteriori problemi con l'utilizzo del tipo di dati.
+
+
+### <a name="excel"></a>Excel
+
+- Risolto un problema che causava la rimozione di XML CustomUI per una scheda della barra multifunzione personalizzata durante il salvataggio in SharePoint/OneDrive.
+
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- Risolto un problema a causa del quale Outlook non è stato in grado di abilitare i criteri di protezione dalla perdita dei dati per gli utenti che hanno pagato il servizio che si trovano in M365 Business Plus plans.
+
+
+- Risolto un problema che indusse gli utenti a visualizzare la data di creazione degli allegati copiati nel file System tramite il drag and drop getting set to January 1, 4501.
+
+
+- Risolto un problema che indusse gli utenti a visualizzare le regole nel computer in uso &quot; non corrispondono alle regole del messaggio di Microsoft Exchange &quot; quando si aggiornano le regole in Outlook.
+
+
+- Risolto un problema che indusse gli utenti dei miglioramenti del calendario condiviso a visualizzare gli errori del calendario.
+
+
+- È stato risolto un problema che causava l'utilizzo di arresti anomali e crash intermittenti in alcuni scenari.
+
+
+- Risolto un problema che indusse gli utenti a visualizzare continuamente gli avvisi di Outlook per l'esecuzione dello strumento di ripristino Posta in arrivo.
+
+
+- Risolto un problema che causava la ricerca di una funzionalità in Suggerisci una funzionalità per restituire nessun risultato e lasciare che l'utente non disponga di alcuna opzione per inviare una nuova idea di funzionalità.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema di arresto anomalo del riquadro dei suggerimenti.
+
+
+### <a name="project"></a>Project
+
+- Risolto un problema a causa del quale un'attività contrassegnata con il 100% è stata modificata erroneamente per essere meno del 100% completata.
+
+### <a name="word"></a>Word
+
+- Risolto un problema che potrebbe aver causato un arresto anomalo durante il trascinamento di alcuni contenuti dall'app.
+
+
+### <a name="office-suite"></a>Applicazioni Office
+
+- Questa modifica si blocca quando si esegue il caricamento e la riproduzione di contenuto animato, ad esempio GIF o modelli 3D.
+
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2005-june-09"></a>Versione 2005: giugno 09
 *Versione 2005 (Build 12827,20336)*
@@ -344,7 +412,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema che causava un arresto anomalo quando si usava il pulsante "X" del mouse.
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-march-31"></a>Versione 2003: 31 marzo
 *Versione 2003 (Build 12624.20382)*
@@ -426,7 +494,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema per cui le date delle attività di riepilogo non sempre venivano calcolate correttamente.
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2002-march-10"></a>Versione 2002: 10 marzo
 *Versione 2002 (Build 12527.20278)*
@@ -502,7 +570,7 @@ Celle, formule, grafici, tabelle... Li contiamo noi al tuo posto.
 
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-february-19"></a>Versione 2001: 19 febbraio
 *Versione 2001 (Build 12430.20288)*
@@ -603,7 +671,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - Risolve un problema che causava arresti anomali quando gli utenti rinominavano una firma.
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-1912-january-22"></a>Versione 1912: 22 gennaio
 *Versione 1912 (Build 12325.20344)*
@@ -617,7 +685,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-1912-january-14"></a>Versione 1912: 14 gennaio
 *Versione 1912 (Build 12325.20298)*
@@ -666,7 +734,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - L'organizzatore di blocchi predefiniti può visualizzare un avviso non valido: "sono stati modificati gli stili, i blocchi predefiniti".
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto un problema per cui gli aggiornamenti di Office potrebbero inaspettatamente scaricare file dalla rete CDN di Office anziché dall'origine prevista, ad esempio una condivisione locale o di rete o la posizione specificata da Configuration Manager.
 

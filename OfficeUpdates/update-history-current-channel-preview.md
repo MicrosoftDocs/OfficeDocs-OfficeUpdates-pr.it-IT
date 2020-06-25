@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: e2a72a34490e4403f36f3288fe01c18135f9a7a1
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: b162030edbc15fd4d9dd5c7ce78b75853dc417da
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796697"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874832"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Cronologia degli aggiornamenti per il canale corrente di Office (anteprima) per Windows
 
@@ -24,7 +24,7 @@ Per ulteriori informazioni sul programma Insiders, fare clic [qui](https://insid
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versioni e compilazioni del canale corrente di Office (anteprime)
 
 Se si è iscritti al livello di canale corrente (Preview), che in precedenza era denominato Insider Slow, viene visualizzato un nuovo aggiornamento delle funzionalità di Office approssimativamente una volta al mese, oltre a compilazioni successive che contengono correzioni importanti o aggiornamenti della sicurezza. Nell'elenco seguente sono riportate le versioni e i compilamenti recenti del canale corrente (Preview), con **la compilazione rilasciata più di recente**. Le nuove compilazioni contengono tutti gli aggiornamenti contenuti nelle compilazioni precedenti.
-Per trovare le note sulla versione, vedere [What ' s New for Office Insiders](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Per trovare le note sulla versione, [vedere](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview). Inoltre, è possibile vedere [cosa c'è di nuovo per gli addetti ai lavori di Office](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 
 > [!IMPORTANT]
