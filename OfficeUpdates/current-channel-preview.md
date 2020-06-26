@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796687"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889062"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione per il canale corrente di Office (anteprima)
 
@@ -32,6 +32,46 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 [//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
 [//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
+
+## <a name="version-2006-june-25"></a>Versione 2006:25 giugno
+*Versione 2006 (Build 13001,20266)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="visio"></a>Visio
+
+- **Rendere i diagrammi di Visio lucidi in Excel:** Creare un diagramma di flusso o un organigramma in base ai dati di un foglio di lavoro.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- <div>Questo problema è stato risolto. Si prega di informare il team se si verificano ulteriori problemi con questo processo.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Consente <span style="display:inline !important;">di risolvere un problema che ha causato <span>&nbsp;</span> la verifica degli utenti</span> <span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">la data di creazione degli &nbsp; allegati che sono stati copiati nel file System tramite il drag and drop getting &nbsp; set to January 1, 4501.</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Consente di risolvere un problema che ha causato l'errore degli utenti dei miglioramenti del calendario condiviso per visualizzare gli errori del calendario.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Risolve un problema che indusse gli utenti a visualizzare continuamente la richiesta di Outlook per l'esecuzione dello strumento di ripristino Posta in arrivo.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Consente di risolvere un problema che ha causato la ricerca di una funzionalità in Suggerisci una funzionalità per restituire nessun risultato e lasciare che l'utente non disponga di alcuna opzione per inviare una nuova idea di funzionalità.</span><br></div>
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2006-june-18"></a>Versione 2006:18 giugno
 *Versione 2006 (Build 13001,20198)*
@@ -925,7 +965,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 *Versione 2003 (Build 12624.20224)*
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
@@ -949,7 +989,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Riquadri a schede:** ora è possibile passare da un riquadro all'altro usando un'interfaccia a schede sul lato destro dell'app. L'interfaccia utente sarà visibile solo se sono presenti almeno due riquadri.
 
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
 
 <br/>
 
@@ -1183,7 +1223,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2002-february-18"></a>Versione 2002: 18 febbraio
 *Versione 2002 (Build 12527.20138)*
@@ -1205,7 +1245,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - **Icone delle barre di stato più chiare:** ora le icone della barra di stato sono più facili da vedere.
 
@@ -1301,14 +1341,14 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema per cui nel menu di scelta rapida dei commenti non venivano visualizzati i comandi per i commenti (Modifica commento, Rispondi a commento, Elimina commento, Risolvi commento).
 
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto un problema che potrebbe aver causato l'installazione errata del pacchetto di strumenti di correzione norvegese Nynorsk (nn-no).
 
 
 - Questo cambiamento affronta i problemi segnalati con le schede grafiche che utilizzano le GPU integrate Intel.
 
-[//]: # (NON RIMUOVERE FINE DEL CONTENUTO DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 [//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
