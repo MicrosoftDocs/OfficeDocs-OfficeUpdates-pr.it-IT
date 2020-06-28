@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
+ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874792"
+ms.lasthandoff: 06/26/2020
+ms.locfileid: "44906911"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione per il canale beta
 
@@ -30,6 +30,34 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2007-june-26"></a>Versione 2007:26 giugno
+*Versione 2007 (Build 13020,20004)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- È stato risolto un problema a causa del quale il gestore di tabelle collegate richiedeva una chiave primaria se veniva aggiornata una tabella SQL collegata.
+- È stato risolto un problema a causa del quale le query nell'editor di query scorrono fuori dalla visualizzazione.
+- È stato risolto un problema a causa del quale l'esecuzione delle query richiedeva circa il doppio del tempo necessario per il completamento del previsto.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema a causa del quale gli utenti non sono stati in grado di "inviare" o "Invia per conto di" di una lista di distribuzione.
+- È stato risolto un problema a causa del quale l'inserimento di un'immagine in linea in un messaggio, quindi il salvataggio del messaggio come bozza porterebbe a un ridimensionamento dell'immagine.
+- È stato risolto un problema che indusse il corpo di un messaggio di mancato recapito a passare da Unicode a ASCII dopo la modifica dell'oggetto.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema a causa del quale i collegamenti di Project Planner negli ambienti cloud della community pubblica sono stati disabilitati.
+
+### <a name="office-suite"></a>Applicazioni Office
+
+- È stato risolto un problema a causa del quale il testo inserito in un formato SVG (Scalable Vector Graphic) era illeggibile dopo l'inserimento di un file di Word, Excel o PowerPoint, il salvataggio e la chiusura del file e quindi la riapertura del file.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2007-june-19"></a>Versione 2007:19 giugno
 *Versione 2007 (Build 13012,20000)*
@@ -769,11 +797,11 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema per cui non era possibile salvare un file protetto in precedenza da password, in uno spazio di archiviazione cloud.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-february-21"></a>Versione 2003: 21 febbraio
 *Versione 2003 (Build 12615.20000)*
@@ -809,10 +837,10 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 - È stato risolto un problema per cui le schede di commento non venivano sempre evidenziate quando si passava il puntatore del mouse su di esse.
 - Durante una sessione di creazione condivisa di documenti attiva, l'aggiunta diretta di un'immagine in una scheda di commento può comportare l'aggiunta di un contrassegno. Questo problema è stato risolto.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 - Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2003-february-14"></a>Versione 2003: 14 febbraio
 *Versione 2003 (Build 12607.20000)*
