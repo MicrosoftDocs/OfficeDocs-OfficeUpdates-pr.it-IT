@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874782"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015628"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del canale corrente in 2020
 
@@ -35,6 +35,89 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2006-june-30"></a>Versione 2006:30 giugno
+*Versione 2006 (Build 13001,20266)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Nomi di file più lunghi:** Excel per Windows Desktop ora supporta i file di OneDrive/SharePoint con nomi e percorsi fino a 400 caratteri.
+
+### <a name="outlook"></a>Outlook
+
+- **Nuova opzione per disabilitare i suggerimenti di @menzioni durante la composizione dei messaggi di posta elettronica in Outlook:** si trovano i suggerimenti per la selezione delle menzioni più fastidiosi che utili? Ora è possibile disattivarli.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+
+- **Notifica di evento imprevisto per gli amministratori IT:** gli amministratori globali dei tenant di Microsoft 365 e gli amministratori delle app di Office verranno avvisati degli eventi imprevisti di Outlook e Office 365 Exchange che interessano gli utenti tramite una nuova notifica nel riquadro a destra in Outlook per Windows. [Altre informazioni](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Pulsanti aggiuntivi aggiunti alle notifiche di toast di Outlook:** I pulsanti azione rapida vengono ora visualizzati nelle notifiche di toast di Outlook durante l'esecuzione di Outlook su Windows 10
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Prestazioni video del flusso migliorate in PowerPoint:** Sono stati apportati miglioramenti alle prestazioni di riproduzione dei video di Microsoft Stream per ridurre al minimo il tempo di caricamento del video e creare un'esperienza di visualizzazione uniforme. Utilizzare i video aziendali da Microsoft Stream per creare presentazioni migliori.
+
+### <a name="teams"></a>Teams
+
+- **I numeri di telefono dei partecipanti PSTN sono mascherati da utenti esterni:** Per i clienti che dispongono di servizi di audioconferenza abilitati per le riunioni dei team, il numero di telefono del partecipante PSTN verrà mascherato dagli utenti che hanno partecipato al di fuori dell'organizzazione.
+
+- **Modo semplificato per gestire le impostazioni di notifica dei canali:** Tramite l'elenco dei team e dei canali o dall'intestazione del canale, gli utenti possono gestire rapidamente le proprie impostazioni di notifica attivando o disattivando tutte le attività con un solo clic o tuffandosi in profondità in Custom per impostare le permutazioni preferite.
+
+- **Walkie talkie:** Comunicazione vocale immediata tramite push-to-Talk.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- È stato risolto un problema a causa del quale l'esecuzione delle query richiedeva circa il doppio del tempo necessario per il completamento del previsto.
+
+
+### <a name="excel"></a>Excel
+
+- Risolto un problema che causava la rimozione di XML CustomUI per una scheda della barra multifunzione personalizzata durante il salvataggio in SharePoint/OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Risolto un problema che indusse gli utenti a visualizzare la data di creazione degli allegati copiati nel file System tramite il drag and drop getting set to January 1, 4501.
+
+- Risolto un problema che indusse gli utenti dei miglioramenti del calendario condiviso a visualizzare gli errori del calendario.
+
+
+- Risolto un problema che indusse gli utenti a visualizzare continuamente gli avvisi di Outlook per l'esecuzione dello strumento di ripristino Posta in arrivo.
+
+
+- Risolto un problema che causava la combinazione di tasti CTRL + clic per interrompere l'utilizzo quando le impostazioni del cloud erano abilitate.
+
+
+- Risolto un problema che causava la ricerca di una funzionalità in Suggerisci una funzionalità per restituire nessun risultato e lasciare che l'utente non disponga di alcuna opzione per inviare una nuova idea di funzionalità.
+
+
+### <a name="project"></a>Project
+
+- Risolto un problema a causa del quale non è stato possibile aprire progetti nel client di Project Desktop da Project Web App se l'URL è stato terminato in. com.
+
+
+- Risolto un problema a causa del quale l'evento ProjectBeforeTaskChange non viene generato quando viene apportata una modifica all'attività di riepilogo del progetto, ovvero il campo inizio/attività del progetto.
+
+
+- Risolto un problema a causa del quale un'attività contrassegnata con il 100% è stata modificata erroneamente per essere meno del 100% completata.
+
+
+### <a name="word"></a>Word
+
+- Risolto un problema nell'apertura di documenti di Word da Custom Document Delivery (aspx) quando l'URL contiene un componente di query.
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2005-june-24"></a>Versione 2005:24 giugno
 *Versione 2005 (Build 12827,20470)*
@@ -494,7 +577,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema per cui le date delle attività di riepilogo non sempre venivano calcolate correttamente.
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-march-10"></a>Versione 2002: 10 marzo
 *Versione 2002 (Build 12527.20278)*
@@ -570,7 +653,7 @@ Celle, formule, grafici, tabelle... Li contiamo noi al tuo posto.
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2001-february-19"></a>Versione 2001: 19 febbraio
 *Versione 2001 (Build 12430.20288)*
@@ -671,7 +754,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - Risolve un problema che causava arresti anomali quando gli utenti rinominavano una firma.
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-january-22"></a>Versione 1912: 22 gennaio
 *Versione 1912 (Build 12325.20344)*
@@ -685,7 +768,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-january-14"></a>Versione 1912: 14 gennaio
 *Versione 1912 (Build 12325.20298)*
@@ -734,7 +817,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - L'organizzatore di blocchi predefiniti può visualizzare un avviso non valido: "sono stati modificati gli stili, i blocchi predefiniti".
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - È stato risolto un problema per cui gli aggiornamenti di Office potrebbero inaspettatamente scaricare file dalla rete CDN di Office anziché dall'origine prevista, ad esempio una condivisione locale o di rete o la posizione specificata da Configuration Manager.
 

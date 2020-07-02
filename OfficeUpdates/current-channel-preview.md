@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889062"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001180"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione per il canale corrente di Office (anteprima)
 
@@ -360,12 +360,9 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 ## <a name="version-2005-may-21"></a>Versione 2005:21 maggio
 *Versione 2005 (Build 12827,20210)*
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+[//]: # (NON RIMUOVERE I DETTAGLI DELLA FUNZIONALITÀ DI INIZIO CONTENUTO)
 
-### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-### <a name="excel"></a>Excel
 
-- **Ottenere i dati dell'organizzazione da Power bi usando i tipi di dati di Excel:** È possibile inserire dati dall'organizzazione utilizzando i tipi di dati di Excel. Convertire una cella nella cartella di lavoro e ottenere ulteriori informazioni e aggiornare i dati in qualsiasi momento.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1348,7 +1345,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Questo cambiamento affronta i problemi segnalati con le schede grafiche che utilizzano le GPU integrate Intel.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE DEL CONTENUTO DEI BUG)
 
 [//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
