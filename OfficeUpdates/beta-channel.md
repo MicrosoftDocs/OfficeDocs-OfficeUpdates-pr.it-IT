@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
-ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
+ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
+ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/26/2020
-ms.locfileid: "44906911"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "45037080"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione per il canale beta
 
@@ -30,6 +30,58 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2007-july-03"></a>Versione 2007:03 luglio
+*Versione 2007 (Build 13029,20006)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Creare polli in Outlook con Quick Poll:** Creare facilmente un sondaggio, raccogliere voti e visualizzare i risultati all'interno di un messaggio di posta elettronica per [saperne di più](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Nuova Ricerca sala:** è possibile cercare sale riunioni in base a diverse caratteristiche.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema a causa del quale le tabelle del modello di dati create in determinate versioni di Excel non sono state visualizzate in ' Anteprima tabella ' anche se la query associata alla tabella non è stata modificata.
+- È stato risolto un problema a causa del quale la disabilitazione dei riferimenti ' Ignora relativo/assoluto ' nella finestra di dialogo Definisci nome \ applica nomi provocherebbe la mancata funzione delle formule.
+- È stato risolto un problema a causa del quale la cancellazione di un filtro dati avanzato potrebbe perdere la formattazione della tabella.
+- È stato risolto un problema a causa del quale il percorso completo di un documento PDF incorporato verrebbe visualizzato nella didascalia del documento anziché solo nel nome del file.
+- È stato risolto un problema a causa del quale, dopo aver disabilitato il connettore Cloud di Wolfram e quindi aver salvato e riaperto una cartella di lavoro di Excel, potrebbe verificarsi un arresto anomalo.
+- È stato risolto un problema a causa del quale l'avvio di Excel con il componente aggiuntivo del Risolutore abilitato comporterebbe un arresto anomalo.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema a causa del quale Outlook si blocca se sono presenti più di 130 destinatari nella riga ' a' e sono state migliorate anche le prestazioni di rendering del testo.
+- È stato risolto un problema nella barra da fare in cui gli eventi che si sono verificati più di due giorni, visualizzati la stessa ora di fine per tutti i giorni successivi.
+- È stato risolto un problema che causava l'interruzione dell'aggiornamento da parte degli utenti di Outlook per alcuni minuti dopo l'utilizzo dei calendari condivisi.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema a causa del quale incollare HTML in un'area di testo di una diapositiva verrebbe incollato in una casella di testo creata nella parte superiore della diapositiva.
+- È stato risolto un problema a causa del quale la selezione di tutte le diapositive nella visualizzazione relatore, quindi l'uscita dalla visualizzazione relatore tramite ALT + TAB e tornando alla presentazione e facendo clic su' termina Mostra ' comporterebbe un'eccezione non gestita.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema a causa del quale il progetto potrebbe bloccarsi all'apertura di alcuni file XML.
+- È stato risolto un problema a causa del quale non è stato possibile aprire un file di progetto da una raccolta documenti di SharePoint se la raccolta era in modalità moderna.
+- È stato risolto un problema a causa del quale non è stato possibile aprire progetti nel client Project Desktop da Project Web App se l'URL è stato terminato in '. com '.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema durante la modalità di creazione condivisa quando si è verificato un conflitto di Unione e l'utente ha già scelto di ignorare le modifiche, non è più possibile visualizzare l'opzione per salvare o ignorare le modifiche.
+- È stato risolto un problema che, quando si tenta di salvare un file contenente una macro con un nuovo nome, potrebbe essere salvato con un'estensione docx e il nome del file "WRO0004.docx", indipendentemente da ciò che l'utente ha immesso, rendendo il documento inutilizzabile.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2007-june-26"></a>Versione 2007:26 giugno
 *Versione 2007 (Build 13020,20004)*
@@ -680,7 +732,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema per cui le firme digitali salvate nei documenti di Word venivano rimosse al momento dell'invio dei documenti.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
 
 ## <a name="version-2004-march-13"></a>Versione 2004: 13 marzo
 *Versione 2004 (Build 12703.20010)*
@@ -797,7 +849,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema per cui non era possibile salvare un file protetto in precedenza da password, in uno spazio di archiviazione cloud.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
 
@@ -940,8 +992,8 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema per cui quando si aggiungeva una @menzione in una tabella poteva venire generato il messaggio di errore: "una tabella in questo documento è stata danneggiata".
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - È stato risolto un problema che potrebbe aver causato l'installazione errata del pacchetto di strumenti di correzione norvegese Nynorsk (nn-no).
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
