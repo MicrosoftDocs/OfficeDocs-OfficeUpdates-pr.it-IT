@@ -9,12 +9,11 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
-ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
-ms.translationtype: MT
+ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
+ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45015628"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45049486"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del canale corrente in 2020
 
@@ -825,3 +824,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 > [!NOTE]
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
+
+[//]: # (NON MODIFICARE L'INIZIO DEL CONTENUTO DEI METADATI DELL'INTERFACCIA DI AMMINISTRAZIONE)
+[//]: # (| Win32 | CC | Produzione | | 16.0.13001.20266 | versione-2006-giugno-30 |)
+[//]: # (NON MODIFICARE L'ESTREMITÀ DEL CONTENUTO DEI METADATI DELL'INTERFACCIA DI AMMINISTRAZIONE)
