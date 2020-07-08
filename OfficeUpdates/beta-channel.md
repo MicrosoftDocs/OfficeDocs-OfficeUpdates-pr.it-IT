@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
-ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
+ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "45037080"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052629"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione per il canale beta
 
@@ -997,3 +997,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 - È stato risolto un problema che potrebbe aver causato l'installazione errata del pacchetto di strumenti di correzione norvegese Nynorsk (nn-no).
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+[//]: # (NON MODIFICARE L'INIZIO DEL CONTENUTO DEI METADATI DELL'INTERFACCIA DI AMMINISTRAZIONE)
+[//]: # (NON MODIFICARE L'ESTREMITÀ DEL CONTENUTO DEI METADATI DELL'INTERFACCIA DI AMMINISTRAZIONE)
