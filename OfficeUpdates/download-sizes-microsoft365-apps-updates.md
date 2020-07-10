@@ -9,424 +9,362 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: b1d25b4ab4db03580e3a108fcb0435a659c2df0f
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 8fd7abbc8ed7c24162c9daeef0d0a2fad8d05bab
+ms.sourcegitcommit: e94688d66388221a9ebd9d29f49487544da5cc49
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211716"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45083362"
 ---
-# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="388b6-103">Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="388b6-103">Download sizes for updates to Microsoft 365 Apps</span></span>
+# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="1fb39-103">Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="1fb39-103">Download sizes for updates to Microsoft 365 Apps</span></span>
 
-<span data-ttu-id="388b6-104">Il nostro obiettivo è fornire informazioni sulle dimensioni degli aggiornamenti, se possibile, in anticipo per aiutare i clienti aziendali a pianificare l'utilizzo della larghezza di banda di rete.</span><span class="sxs-lookup"><span data-stu-id="388b6-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
+<span data-ttu-id="1fb39-104">Il nostro obiettivo è fornire informazioni sulle dimensioni degli aggiornamenti, se possibile, in anticipo per aiutare i clienti aziendali a pianificare l'utilizzo della larghezza di banda di rete.</span><span class="sxs-lookup"><span data-stu-id="1fb39-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
 
-<span data-ttu-id="388b6-105">Nelle tabelle seguenti vengono riportate le dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="388b6-105">The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release.</span></span> <span data-ttu-id="388b6-106">Le dimensioni del download potrebbero variare fino a 50 MB.</span><span class="sxs-lookup"><span data-stu-id="388b6-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="388b6-107">Per aggiornare una versione meno recente a quella attuale, tenere presente che la dimensione del file di download sarà superiore.</span><span class="sxs-lookup"><span data-stu-id="388b6-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
+<span data-ttu-id="1fb39-105">Nelle tabelle seguenti vengono riportate le dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="1fb39-105">The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release.</span></span> <span data-ttu-id="1fb39-106">Le dimensioni del download potrebbero variare fino a 50 MB.</span><span class="sxs-lookup"><span data-stu-id="1fb39-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="1fb39-107">Per aggiornare una versione meno recente a quella attuale, tenere presente che la dimensione del file di download sarà superiore.</span><span class="sxs-lookup"><span data-stu-id="1fb39-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
 
-<span data-ttu-id="388b6-108">Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download potrebbe essere molto più elevata rispetto a quella riportata nella tabella.</span><span class="sxs-lookup"><span data-stu-id="388b6-108">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table.</span></span> <span data-ttu-id="388b6-109">Il download completo potrebbe arrivare fino a 1 GB.</span><span class="sxs-lookup"><span data-stu-id="388b6-109">It could entail a full download, which could be at least 1 GB.</span></span>
+<span data-ttu-id="1fb39-108">Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download potrebbe essere molto più elevata rispetto a quella riportata nella tabella.</span><span class="sxs-lookup"><span data-stu-id="1fb39-108">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table.</span></span> <span data-ttu-id="1fb39-109">Il download completo potrebbe arrivare fino a 1 GB.</span><span class="sxs-lookup"><span data-stu-id="1fb39-109">It could entail a full download, which could be at least 1 GB.</span></span>
 
 
 > [!IMPORTANT]
-> - <span data-ttu-id="388b6-110">Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti.</span><span class="sxs-lookup"><span data-stu-id="388b6-110">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="388b6-111">Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="388b6-111">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
-> - <span data-ttu-id="388b6-112">Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004.</span><span class="sxs-lookup"><span data-stu-id="388b6-112">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span><span data-ttu-id="388b6-113">Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="388b6-113"> To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span><span data-ttu-id="388b6-114">Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="388b6-114"> In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
+> - <span data-ttu-id="1fb39-110">Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti.</span><span class="sxs-lookup"><span data-stu-id="1fb39-110">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="1fb39-111">Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="1fb39-111">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
+> - <span data-ttu-id="1fb39-112">Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004.</span><span class="sxs-lookup"><span data-stu-id="1fb39-112">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span><span data-ttu-id="1fb39-113">Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="1fb39-113"> To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span><span data-ttu-id="1fb39-114">Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="1fb39-114"> In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
 
 
 > [!NOTE]
-> - <span data-ttu-id="388b6-115">Le dimensioni di download approssimative elencate nelle tabelle sono valide soltanto per la versione x64 en-us di Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="388b6-115">The approximate download size listed in the tables only applies to the en-us x64 version of Microsoft 365 Apps.</span></span>
-> - <span data-ttu-id="388b6-116">Vengono elencate le versioni rilasciate negli ultimi quattro mesi.</span><span class="sxs-lookup"><span data-stu-id="388b6-116">Releases from the last four months are listed.</span></span>
+> - <span data-ttu-id="1fb39-115">Le dimensioni di download approssimative elencate nelle tabelle sono valide soltanto per la versione x64 en-us di Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="1fb39-115">The approximate download size listed in the tables only applies to the en-us x64 version of Microsoft 365 Apps.</span></span>
+> - <span data-ttu-id="1fb39-116">Vengono elencate le versioni rilasciate negli ultimi quattro mesi.</span><span class="sxs-lookup"><span data-stu-id="1fb39-116">Releases from the last four months are listed.</span></span>
 
 [//]: # (NON RIMUOVERE)
 
-## <a name="may-12-2020"></a><span data-ttu-id="388b6-118">12 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-118">May 12, 2020</span></span>
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DELLA PREVISIONE)
+
+
+## <a name="june-30-2020"></a><span data-ttu-id="1fb39-120">30 giugno 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-120">June 30, 2020</span></span>
+
+### <a name="current-channel"></a><span data-ttu-id="1fb39-121">Canale corrente</span><span class="sxs-lookup"><span data-stu-id="1fb39-121">Current Channel</span></span>
+
+<span data-ttu-id="1fb39-122">La versione più recente è la numero 2006 (Build 13001.20266).</span><span class="sxs-lookup"><span data-stu-id="1fb39-122">The most current release is Version 2006 (Build 13001.20266).</span></span>
+
+|<span data-ttu-id="1fb39-123">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-123">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-124">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-124">**Release date**</span></span>|<span data-ttu-id="1fb39-125">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-125">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="1fb39-126">Versione 2005 (Build 12827.20470)</span><span class="sxs-lookup"><span data-stu-id="1fb39-126">Version 2005 (Build 12827.20470)</span></span> <br/> |<span data-ttu-id="1fb39-127">24 giugno 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-127">June 24, 2020</span></span> <br/> |<span data-ttu-id="1fb39-128">155</span><span class="sxs-lookup"><span data-stu-id="1fb39-128">155</span></span><br/> |
+|<span data-ttu-id="1fb39-129">Versione 2005 (Build 12827.20336)</span><span class="sxs-lookup"><span data-stu-id="1fb39-129">Version 2005 (Build 12827.20336)</span></span> <br/> |<span data-ttu-id="1fb39-130">9 giugno 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-130">June 9, 2020</span></span> <br/> |<span data-ttu-id="1fb39-131">154</span><span class="sxs-lookup"><span data-stu-id="1fb39-131">154</span></span><br/> |
+
+
+## <a name="june-24-2020"></a><span data-ttu-id="1fb39-132">24 giugno 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-132">June 24, 2020</span></span>
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO24 giugno 2020)
+
+### <a name="current-channel"></a><span data-ttu-id="1fb39-134">Canale corrente</span><span class="sxs-lookup"><span data-stu-id="1fb39-134">Current Channel</span></span>
+
+<span data-ttu-id="1fb39-135">La versione più recente è la numero 2005 (Build 12827.20470).</span><span class="sxs-lookup"><span data-stu-id="1fb39-135">The most current release is Version 2005 (Build 12827.20470).</span></span>
+
+|<span data-ttu-id="1fb39-136">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-136">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-137">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-137">**Release date**</span></span>|<span data-ttu-id="1fb39-138">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-138">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="1fb39-139">Versione 2005 (Build 12827.20336)</span><span class="sxs-lookup"><span data-stu-id="1fb39-139">Version 2005 (Build 12827.20336)</span></span> <br/> |<span data-ttu-id="1fb39-140">9 giugno 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-140">June 9, 2020</span></span> <br/> |<span data-ttu-id="1fb39-141">55</span><span class="sxs-lookup"><span data-stu-id="1fb39-141">55</span></span><br/> |
+|<span data-ttu-id="1fb39-142">Versione 2005 (Build 12827.20268)</span><span class="sxs-lookup"><span data-stu-id="1fb39-142">Version 2005 (Build 12827.20268)</span></span> <br/> |<span data-ttu-id="1fb39-143">2 giugno 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-143">June 2, 2020</span></span> <br/> |<span data-ttu-id="1fb39-144">63</span><span class="sxs-lookup"><span data-stu-id="1fb39-144">63</span></span><br/> |
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO24 giugno 2020)
+
+
+## <a name="june-9-2020"></a><span data-ttu-id="1fb39-146">9 giugno 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-146">June 9, 2020</span></span>
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO9 giugno 2020)
+
+### <a name="current-channel"></a><span data-ttu-id="1fb39-148">Canale corrente</span><span class="sxs-lookup"><span data-stu-id="1fb39-148">Current Channel</span></span>
+
+<span data-ttu-id="1fb39-149">La versione più recente è la numero 2005 (Build 12827.20336).</span><span class="sxs-lookup"><span data-stu-id="1fb39-149">The most current release is Version 2005 (Build 12827.20336).</span></span>
+
+|<span data-ttu-id="1fb39-150">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-150">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-151">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-151">**Release date**</span></span>|<span data-ttu-id="1fb39-152">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-152">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="1fb39-153">Versione 2005 (Build 12827.20268)</span><span class="sxs-lookup"><span data-stu-id="1fb39-153">Version 2005 (Build 12827.20268)</span></span> <br/> |<span data-ttu-id="1fb39-154">2 giugno 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-154">June 2, 2020</span></span> <br/> |<span data-ttu-id="1fb39-155">58</span><span class="sxs-lookup"><span data-stu-id="1fb39-155">58</span></span><br/> |
+|<span data-ttu-id="1fb39-156">Versione 2004 (Build 12730.20270)</span><span class="sxs-lookup"><span data-stu-id="1fb39-156">Version 2004 (Build 12730.20270)</span></span> <br/> |<span data-ttu-id="1fb39-157">12 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-157">May 12, 2020</span></span> <br/> |<span data-ttu-id="1fb39-158">182</span><span class="sxs-lookup"><span data-stu-id="1fb39-158">182</span></span><br/> |
+
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="1fb39-159">Canale Enterprise mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-159">Monthly Enterprise Channel</span></span>
+
+<span data-ttu-id="1fb39-160">La versione più recente è la numero 2004 (Build 12730.20430).</span><span class="sxs-lookup"><span data-stu-id="1fb39-160">The most current release is Version 2004 (Build 12730.20430).</span></span>
+
+|<span data-ttu-id="1fb39-161">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-161">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-162">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-162">**Release date**</span></span>|<span data-ttu-id="1fb39-163">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-163">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="1fb39-164">Versione 2003 (Build 12624.20588)</span><span class="sxs-lookup"><span data-stu-id="1fb39-164">Version 2003 (Build 12624.20588)</span></span> <br/> |<span data-ttu-id="1fb39-165">12 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-165">May 12, 2020</span></span> <br/> |<span data-ttu-id="1fb39-166">168</span><span class="sxs-lookup"><span data-stu-id="1fb39-166">168</span></span><br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="1fb39-167">Canale Enterprise semestrale (Anteprima)</span><span class="sxs-lookup"><span data-stu-id="1fb39-167">Semi-Annual Enterprise Channel (Preview)</span></span>
+
+<span data-ttu-id="1fb39-168">La versione più recente è la numero 2002 (Build 12527.20720).</span><span class="sxs-lookup"><span data-stu-id="1fb39-168">The most current release is Version 2002 (Build 12527.20720).</span></span>
+
+|<span data-ttu-id="1fb39-169">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-169">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-170">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-170">**Release date**</span></span>|<span data-ttu-id="1fb39-171">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-171">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="1fb39-172">Versione 2002 (Build 12527.20612)</span><span class="sxs-lookup"><span data-stu-id="1fb39-172">Version 2002 (Build 12527.20612)</span></span> <br/> |<span data-ttu-id="1fb39-173">12 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-173">May 12, 2020</span></span> <br/> |<span data-ttu-id="1fb39-174">55</span><span class="sxs-lookup"><span data-stu-id="1fb39-174">55</span></span><br/> |
+|<span data-ttu-id="1fb39-175">Versione 2002 (Build 12527.20442)</span><span class="sxs-lookup"><span data-stu-id="1fb39-175">Version 2002 (Build 12527.20442)</span></span> <br/> |<span data-ttu-id="1fb39-176">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-176">April 14, 2020</span></span> <br/> |<span data-ttu-id="1fb39-177">70</span><span class="sxs-lookup"><span data-stu-id="1fb39-177">70</span></span><br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="1fb39-178">Canale Enterprise semestrale</span><span class="sxs-lookup"><span data-stu-id="1fb39-178">Semi-Annual Enterprise Channel</span></span>
+
+<span data-ttu-id="1fb39-179">La versione più recente è la numero 1908 (Build 11929.20838).</span><span class="sxs-lookup"><span data-stu-id="1fb39-179">The most current release is Version 1908 (Build 11929.20838).</span></span>
+
+|<span data-ttu-id="1fb39-180">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-180">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-181">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-181">**Release date**</span></span>|<span data-ttu-id="1fb39-182">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-182">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="1fb39-183">Versione 1908 (Build 11929.20776)</span><span class="sxs-lookup"><span data-stu-id="1fb39-183">Version 1908 (Build 11929.20776)</span></span> <br/> |<span data-ttu-id="1fb39-184">12 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-184">May 12, 2020</span></span> <br/> |<span data-ttu-id="1fb39-185">60</span><span class="sxs-lookup"><span data-stu-id="1fb39-185">60</span></span><br/> |
+|<span data-ttu-id="1fb39-186">Versione 1908 (build 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="1fb39-186">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="1fb39-187">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-187">April 14, 2020</span></span> <br/> |<span data-ttu-id="1fb39-188">70</span><span class="sxs-lookup"><span data-stu-id="1fb39-188">70</span></span><br/> |
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO9 giugno 2020)
+
+
+
+
+## <a name="june-2-2020"></a><span data-ttu-id="1fb39-190">2 giugno 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-190">June 2, 2020</span></span>
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO2 giugno 2020)
+
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-192">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-192">Monthly Channel</span></span>
+
+<span data-ttu-id="1fb39-193">La versione più recente è la numero 2005 (Build 12827.20268).</span><span class="sxs-lookup"><span data-stu-id="1fb39-193">The most current release is Version 2005 (Build 12827.20268).</span></span>
+
+|<span data-ttu-id="1fb39-194">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-194">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-195">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-195">**Release date**</span></span>|<span data-ttu-id="1fb39-196">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-196">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="1fb39-197">Versione 2004 (Build 12730.20352)</span><span class="sxs-lookup"><span data-stu-id="1fb39-197">Version 2004 (Build 12730.20352)</span></span> <br/> |<span data-ttu-id="1fb39-198">21 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-198">May 21, 2020</span></span> <br/> |<span data-ttu-id="1fb39-199">175</span><span class="sxs-lookup"><span data-stu-id="1fb39-199">175</span></span><br/> |
+|<span data-ttu-id="1fb39-200">Versione 2004 (Build 12730.20270)</span><span class="sxs-lookup"><span data-stu-id="1fb39-200">Version 2004 (Build 12730.20270)</span></span> <br/> |<span data-ttu-id="1fb39-201">12 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-201">May 12, 2020</span></span> <br/> |<span data-ttu-id="1fb39-202">181</span><span class="sxs-lookup"><span data-stu-id="1fb39-202">181</span></span><br/> |
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO2 giugno 2020)
+
+## <a name="may-21-2020"></a><span data-ttu-id="1fb39-204">21 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-204">May 21, 2020</span></span>
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO21 maggio 2020)
+
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-206">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-206">Monthly Channel</span></span>
+
+<span data-ttu-id="1fb39-207">La versione più recente è la numero 2004 (Build 12730.20352).</span><span class="sxs-lookup"><span data-stu-id="1fb39-207">The most current release is Version 2004 (Build 12730.20352).</span></span>
+
+|<span data-ttu-id="1fb39-208">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-208">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-209">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-209">**Release date**</span></span>|<span data-ttu-id="1fb39-210">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-210">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="1fb39-211">Versione 2004 (Build 12730.20270)</span><span class="sxs-lookup"><span data-stu-id="1fb39-211">Version 2004 (Build 12730.20270)</span></span> <br/> |<span data-ttu-id="1fb39-212">12 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-212">May 12, 2020</span></span> <br/> |<span data-ttu-id="1fb39-213">62</span><span class="sxs-lookup"><span data-stu-id="1fb39-213">62</span></span><br/> |
+|<span data-ttu-id="1fb39-214">Versione 2004 (Build 12730.20250)</span><span class="sxs-lookup"><span data-stu-id="1fb39-214">Version 2004 (Build 12730.20250)</span></span> <br/> |<span data-ttu-id="1fb39-215">4 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-215">May 4, 2020</span></span> <br/> |<span data-ttu-id="1fb39-216">71</span><span class="sxs-lookup"><span data-stu-id="1fb39-216">71</span></span><br/> |
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO21 maggio 2020)
+
+## <a name="may-12-2020"></a><span data-ttu-id="1fb39-218">12 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-218">May 12, 2020</span></span>
 
 [//]: # (NON RIMUOVERE INIZIO CONTENUTO12 maggio 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-120">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-120">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-220">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-220">Monthly Channel</span></span>
 
-<span data-ttu-id="388b6-121">La versione più recente è la numero 2004 (Build 12730.20270).</span><span class="sxs-lookup"><span data-stu-id="388b6-121">The most current release is Version 2004 (Build 12730.20270).</span></span>
+<span data-ttu-id="1fb39-221">La versione più recente è la numero 2004 (Build 12730.20270).</span><span class="sxs-lookup"><span data-stu-id="1fb39-221">The most current release is Version 2004 (Build 12730.20270).</span></span>
 
-|<span data-ttu-id="388b6-122">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-122">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-123">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-123">**Release date**</span></span>|<span data-ttu-id="388b6-124">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-124">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-222">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-222">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-223">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-223">**Release date**</span></span>|<span data-ttu-id="1fb39-224">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-224">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-125">Versione 2004 (Build 12730.20250)</span><span class="sxs-lookup"><span data-stu-id="388b6-125">Version 2004 (Build 12730.20250)</span></span> <br/> |<span data-ttu-id="388b6-126">4 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-126">May 4, 2020</span></span> <br/> |<span data-ttu-id="388b6-127">188</span><span class="sxs-lookup"><span data-stu-id="388b6-127">188</span></span><br/> |
-|<span data-ttu-id="388b6-128">Versione 2004 (Build 12730.20236)</span><span class="sxs-lookup"><span data-stu-id="388b6-128">Version 2004 (Build 12730.20236)</span></span> <br/> |<span data-ttu-id="388b6-129">29 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-129">April 29, 2020</span></span> <br/> |<span data-ttu-id="388b6-130">172</span><span class="sxs-lookup"><span data-stu-id="388b6-130">172</span></span><br/> |
+|<span data-ttu-id="1fb39-225">Versione 2004 (Build 12730.20250)</span><span class="sxs-lookup"><span data-stu-id="1fb39-225">Version 2004 (Build 12730.20250)</span></span> <br/> |<span data-ttu-id="1fb39-226">4 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-226">May 4, 2020</span></span> <br/> |<span data-ttu-id="1fb39-227">188</span><span class="sxs-lookup"><span data-stu-id="1fb39-227">188</span></span><br/> |
+|<span data-ttu-id="1fb39-228">Versione 2004 (Build 12730.20236)</span><span class="sxs-lookup"><span data-stu-id="1fb39-228">Version 2004 (Build 12730.20236)</span></span> <br/> |<span data-ttu-id="1fb39-229">29 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-229">April 29, 2020</span></span> <br/> |<span data-ttu-id="1fb39-230">172</span><span class="sxs-lookup"><span data-stu-id="1fb39-230">172</span></span><br/> |
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="388b6-131">Canale Enterprise mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-131">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="1fb39-231">Canale Enterprise mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-231">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="388b6-132">La versione più recente è la numero 2003 (Build 12624.20588).</span><span class="sxs-lookup"><span data-stu-id="388b6-132">The most current release is Version 2003 (Build 12624.20588).</span></span>
+<span data-ttu-id="1fb39-232">La versione più recente è la numero 2003 (Build 12624.20588).</span><span class="sxs-lookup"><span data-stu-id="1fb39-232">The most current release is Version 2003 (Build 12624.20588).</span></span>
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="388b6-133">Canale semestrale (mirato)</span><span class="sxs-lookup"><span data-stu-id="388b6-133">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1fb39-233">Canale semestrale (mirato)</span><span class="sxs-lookup"><span data-stu-id="1fb39-233">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="388b6-134">La versione più recente è la numero 2002 (Build 12527.20612).</span><span class="sxs-lookup"><span data-stu-id="388b6-134">The most current release is Version 2002 (Build 12527.20612).</span></span>
+<span data-ttu-id="1fb39-234">La versione più recente è la numero 2002 (Build 12527.20612).</span><span class="sxs-lookup"><span data-stu-id="1fb39-234">The most current release is Version 2002 (Build 12527.20612).</span></span>
 
-|<span data-ttu-id="388b6-135">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-135">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-136">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-136">**Release date**</span></span>|<span data-ttu-id="388b6-137">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-137">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-235">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-235">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-236">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-236">**Release date**</span></span>|<span data-ttu-id="1fb39-237">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-237">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-138">Versione 2002 (Build 12527.20442)</span><span class="sxs-lookup"><span data-stu-id="388b6-138">Version 2002 (Build 12527.20442)</span></span> <br/> |<span data-ttu-id="388b6-139">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-139">April 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-140">67</span><span class="sxs-lookup"><span data-stu-id="388b6-140">67</span></span><br/> |
-|<span data-ttu-id="388b6-141">Versione 2002 (Build 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="388b6-141">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="388b6-142">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-142">March 10, 2020</span></span> <br/> |<span data-ttu-id="388b6-143">79</span><span class="sxs-lookup"><span data-stu-id="388b6-143">79</span></span><br/> |
+|<span data-ttu-id="1fb39-238">Versione 2002 (Build 12527.20442)</span><span class="sxs-lookup"><span data-stu-id="1fb39-238">Version 2002 (Build 12527.20442)</span></span> <br/> |<span data-ttu-id="1fb39-239">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-239">April 14, 2020</span></span> <br/> |<span data-ttu-id="1fb39-240">67</span><span class="sxs-lookup"><span data-stu-id="1fb39-240">67</span></span><br/> |
+|<span data-ttu-id="1fb39-241">Versione 2002 (Build 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="1fb39-241">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="1fb39-242">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-242">March 10, 2020</span></span> <br/> |<span data-ttu-id="1fb39-243">79</span><span class="sxs-lookup"><span data-stu-id="1fb39-243">79</span></span><br/> |
 
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="388b6-144">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="388b6-144">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="1fb39-244">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="1fb39-244">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="388b6-145">La versione più recente è la numero 1908 (Build 11929.20776).</span><span class="sxs-lookup"><span data-stu-id="388b6-145">The most current release is Version 1908 (Build 11929.20776).</span></span>
+<span data-ttu-id="1fb39-245">La versione più recente è la numero 1908 (Build 11929.20776).</span><span class="sxs-lookup"><span data-stu-id="1fb39-245">The most current release is Version 1908 (Build 11929.20776).</span></span>
 
-|<span data-ttu-id="388b6-146">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-146">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-147">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-147">**Release date**</span></span>|<span data-ttu-id="388b6-148">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-148">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-246">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-246">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-247">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-247">**Release date**</span></span>|<span data-ttu-id="1fb39-248">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-248">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-149">Versione 1908 (build 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="388b6-149">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="388b6-150">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-150">April 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-151">66</span><span class="sxs-lookup"><span data-stu-id="388b6-151">66</span></span><br/> |
-|<span data-ttu-id="388b6-152">Versione 1908 (Build 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="388b6-152">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="388b6-153">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-153">March 10, 2020</span></span> <br/> |<span data-ttu-id="388b6-154">77</span><span class="sxs-lookup"><span data-stu-id="388b6-154">77</span></span><br/> |
+|<span data-ttu-id="1fb39-249">Versione 1908 (build 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="1fb39-249">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="1fb39-250">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-250">April 14, 2020</span></span> <br/> |<span data-ttu-id="1fb39-251">66</span><span class="sxs-lookup"><span data-stu-id="1fb39-251">66</span></span><br/> |
+|<span data-ttu-id="1fb39-252">Versione 1908 (Build 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="1fb39-252">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="1fb39-253">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-253">March 10, 2020</span></span> <br/> |<span data-ttu-id="1fb39-254">77</span><span class="sxs-lookup"><span data-stu-id="1fb39-254">77</span></span><br/> |
 
 
 [//]: # (NON RIMUOVERE FINE CONTENUTO12 maggio 2020)
 
 
-## <a name="may-4-2020"></a><span data-ttu-id="388b6-156">4 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-156">May 4, 2020</span></span>
+## <a name="may-4-2020"></a><span data-ttu-id="1fb39-256">4 maggio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-256">May 4, 2020</span></span>
 
 [//]: # (NON RIMUOVERE INIZIO CONTENUTO4 maggio 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-158">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-158">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-258">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-258">Monthly Channel</span></span>
 
-<span data-ttu-id="388b6-159">La versione più recente è la numero 2004 (Build 12730.20250).</span><span class="sxs-lookup"><span data-stu-id="388b6-159">The most current release is Version 2004 (Build 12730.20250).</span></span>
+<span data-ttu-id="1fb39-259">La versione più recente è la numero 2004 (Build 12730.20250).</span><span class="sxs-lookup"><span data-stu-id="1fb39-259">The most current release is Version 2004 (Build 12730.20250).</span></span>
 
-|<span data-ttu-id="388b6-160">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-160">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-161">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-161">**Release date**</span></span>|<span data-ttu-id="388b6-162">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-162">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-260">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-260">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-261">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-261">**Release date**</span></span>|<span data-ttu-id="1fb39-262">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-262">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-163">Versione 2004 (Build 12730.20236)</span><span class="sxs-lookup"><span data-stu-id="388b6-163">Version 2004 (Build 12730.20236)</span></span> <br/> |<span data-ttu-id="388b6-164">29 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-164">April 29, 2020</span></span> <br/> |<span data-ttu-id="388b6-165">46</span><span class="sxs-lookup"><span data-stu-id="388b6-165">46</span></span><br/> |
-|<span data-ttu-id="388b6-166">Versione 2003 (Build 12624.20466)</span><span class="sxs-lookup"><span data-stu-id="388b6-166">Version 2003 (Build 12624.20466)</span></span> <br/> |<span data-ttu-id="388b6-167">15 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-167">April 15, 2020</span></span> <br/> |<span data-ttu-id="388b6-168">177</span><span class="sxs-lookup"><span data-stu-id="388b6-168">177</span></span><br/> |
+|<span data-ttu-id="1fb39-263">Versione 2004 (Build 12730.20236)</span><span class="sxs-lookup"><span data-stu-id="1fb39-263">Version 2004 (Build 12730.20236)</span></span> <br/> |<span data-ttu-id="1fb39-264">29 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-264">April 29, 2020</span></span> <br/> |<span data-ttu-id="1fb39-265">46</span><span class="sxs-lookup"><span data-stu-id="1fb39-265">46</span></span><br/> |
+|<span data-ttu-id="1fb39-266">Versione 2003 (Build 12624.20466)</span><span class="sxs-lookup"><span data-stu-id="1fb39-266">Version 2003 (Build 12624.20466)</span></span> <br/> |<span data-ttu-id="1fb39-267">15 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-267">April 15, 2020</span></span> <br/> |<span data-ttu-id="1fb39-268">177</span><span class="sxs-lookup"><span data-stu-id="1fb39-268">177</span></span><br/> |
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="388b6-169">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="388b6-169">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="1fb39-269">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="1fb39-269">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="388b6-170">La versione più recente è la numero 1908 (Build 11929.20752).</span><span class="sxs-lookup"><span data-stu-id="388b6-170">The most current release is Version 1908 (Build 11929.20752).</span></span>
+<span data-ttu-id="1fb39-270">La versione più recente è la numero 1908 (Build 11929.20752).</span><span class="sxs-lookup"><span data-stu-id="1fb39-270">The most current release is Version 1908 (Build 11929.20752).</span></span>
 
-|<span data-ttu-id="388b6-171">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-171">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-172">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-172">**Release date**</span></span>|<span data-ttu-id="388b6-173">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-173">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-271">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-271">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-272">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-272">**Release date**</span></span>|<span data-ttu-id="1fb39-273">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-273">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-174">Versione 1908 (build 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="388b6-174">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="388b6-175">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-175">April 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-176">62</span><span class="sxs-lookup"><span data-stu-id="388b6-176">62</span></span><br/> |
-|<span data-ttu-id="388b6-177">Versione 1908 (Build 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="388b6-177">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="388b6-178">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-178">March 10, 2020</span></span> <br/> |<span data-ttu-id="388b6-179">77</span><span class="sxs-lookup"><span data-stu-id="388b6-179">77</span></span><br/> |
+|<span data-ttu-id="1fb39-274">Versione 1908 (build 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="1fb39-274">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="1fb39-275">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-275">April 14, 2020</span></span> <br/> |<span data-ttu-id="1fb39-276">62</span><span class="sxs-lookup"><span data-stu-id="1fb39-276">62</span></span><br/> |
+|<span data-ttu-id="1fb39-277">Versione 1908 (Build 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="1fb39-277">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="1fb39-278">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-278">March 10, 2020</span></span> <br/> |<span data-ttu-id="1fb39-279">77</span><span class="sxs-lookup"><span data-stu-id="1fb39-279">77</span></span><br/> |
 
 
 [//]: # (NON RIMUOVERE FINE CONTENUTO4 maggio 2020)
 
-## <a name="april-29-2020"></a><span data-ttu-id="388b6-181">29 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-181">April 29, 2020</span></span>
+## <a name="april-29-2020"></a><span data-ttu-id="1fb39-281">29 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-281">April 29, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 29, 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-183">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-183">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-283">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-283">Monthly Channel</span></span>
 
-<span data-ttu-id="388b6-184">La versione più recente è la numero 2004 (Build 12730.20236).</span><span class="sxs-lookup"><span data-stu-id="388b6-184">The most current release is Version 2004 (Build 12730.20236).</span></span>
+<span data-ttu-id="1fb39-284">La versione più recente è la numero 2004 (Build 12730.20236).</span><span class="sxs-lookup"><span data-stu-id="1fb39-284">The most current release is Version 2004 (Build 12730.20236).</span></span>
 
-|<span data-ttu-id="388b6-185">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-185">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-186">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-186">**Release date**</span></span>|<span data-ttu-id="388b6-187">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-187">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-285">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-285">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-286">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-286">**Release date**</span></span>|<span data-ttu-id="1fb39-287">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-287">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-188">Versione 2003 (Build 12624.20466)</span><span class="sxs-lookup"><span data-stu-id="388b6-188">Version 2003 (Build 12624.20466)</span></span> <br/> |<span data-ttu-id="388b6-189">15 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-189">April 15, 2020</span></span> <br/> |<span data-ttu-id="388b6-190">174</span><span class="sxs-lookup"><span data-stu-id="388b6-190">174</span></span><br/> |
-|<span data-ttu-id="388b6-191">Versione 2003 (Build 12624.20442)</span><span class="sxs-lookup"><span data-stu-id="388b6-191">Version 2003 (Build 12624.20442)</span></span> <br/> |<span data-ttu-id="388b6-192">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-192">April 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-193">322</span><span class="sxs-lookup"><span data-stu-id="388b6-193">322</span></span><br/> |
+|<span data-ttu-id="1fb39-288">Versione 2003 (Build 12624.20466)</span><span class="sxs-lookup"><span data-stu-id="1fb39-288">Version 2003 (Build 12624.20466)</span></span> <br/> |<span data-ttu-id="1fb39-289">15 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-289">April 15, 2020</span></span> <br/> |<span data-ttu-id="1fb39-290">174</span><span class="sxs-lookup"><span data-stu-id="1fb39-290">174</span></span><br/> |
+|<span data-ttu-id="1fb39-291">Versione 2003 (Build 12624.20442)</span><span class="sxs-lookup"><span data-stu-id="1fb39-291">Version 2003 (Build 12624.20442)</span></span> <br/> |<span data-ttu-id="1fb39-292">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-292">April 14, 2020</span></span> <br/> |<span data-ttu-id="1fb39-293">322</span><span class="sxs-lookup"><span data-stu-id="1fb39-293">322</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDApril 29, 2020)
 
-
-
 [//]: # (NON RIMUOVERE FINE CONTENUTO26 aprile 2020)
 
-## <a name="april-15-2020"></a><span data-ttu-id="388b6-196">15 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-196">April 15, 2020</span></span>
+## <a name="april-15-2020"></a><span data-ttu-id="1fb39-296">15 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-296">April 15, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 15, 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-198">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-198">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-298">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-298">Monthly Channel</span></span>
 
-<span data-ttu-id="388b6-199">La versione più recente è la numero 2003 (Build 12624.20466).</span><span class="sxs-lookup"><span data-stu-id="388b6-199">The most current release is Version 2003 (Build 12624.20466).</span></span>
+<span data-ttu-id="1fb39-299">La versione più recente è la numero 2003 (Build 12624.20466).</span><span class="sxs-lookup"><span data-stu-id="1fb39-299">The most current release is Version 2003 (Build 12624.20466).</span></span>
 
-|<span data-ttu-id="388b6-200">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-200">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-201">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-201">**Release date**</span></span>|<span data-ttu-id="388b6-202">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-202">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-300">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-300">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-301">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-301">**Release date**</span></span>|<span data-ttu-id="1fb39-302">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-302">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-203">Versione 2003 (Build 12624.20442)</span><span class="sxs-lookup"><span data-stu-id="388b6-203">Version 2003 (Build 12624.20442)</span></span> <br/> |<span data-ttu-id="388b6-204">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-204">April 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-205">52</span><span class="sxs-lookup"><span data-stu-id="388b6-205">52</span></span><br/> |
-|<span data-ttu-id="388b6-206">Versione 2003 (Build 12624.20382)</span><span class="sxs-lookup"><span data-stu-id="388b6-206">Version 2003 (Build 12624.20382)</span></span> <br/> |<span data-ttu-id="388b6-207">31 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-207">March 31, 2020</span></span> <br/> |<span data-ttu-id="388b6-208">69</span><span class="sxs-lookup"><span data-stu-id="388b6-208">69</span></span><br/> |
-
+|<span data-ttu-id="1fb39-303">Versione 2003 (Build 12624.20442)</span><span class="sxs-lookup"><span data-stu-id="1fb39-303">Version 2003 (Build 12624.20442)</span></span> <br/> |<span data-ttu-id="1fb39-304">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-304">April 14, 2020</span></span> <br/> |<span data-ttu-id="1fb39-305">52</span><span class="sxs-lookup"><span data-stu-id="1fb39-305">52</span></span><br/> |
+|<span data-ttu-id="1fb39-306">Versione 2003 (Build 12624.20382)</span><span class="sxs-lookup"><span data-stu-id="1fb39-306">Version 2003 (Build 12624.20382)</span></span> <br/> |<span data-ttu-id="1fb39-307">31 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-307">March 31, 2020</span></span> <br/> |<span data-ttu-id="1fb39-308">69</span><span class="sxs-lookup"><span data-stu-id="1fb39-308">69</span></span><br/> |
 
 [//]: # (DO NOT REMOVE CONTENT ENDApril 15, 2020)
 
-## <a name="april-14-2020"></a><span data-ttu-id="388b6-210">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-210">April 14, 2020</span></span>
+## <a name="april-14-2020"></a><span data-ttu-id="1fb39-310">14 aprile 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-310">April 14, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 14, 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-212">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-212">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-312">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-312">Monthly Channel</span></span>
 
-<span data-ttu-id="388b6-213">La versione più recente è la numero 2003 (Build 12624.20442).</span><span class="sxs-lookup"><span data-stu-id="388b6-213">The most current release is Version 2003 (Build 12624.20442).</span></span>
+<span data-ttu-id="1fb39-313">La versione più recente è la numero 2003 (Build 12624.20442).</span><span class="sxs-lookup"><span data-stu-id="1fb39-313">The most current release is Version 2003 (Build 12624.20442).</span></span>
 
-|<span data-ttu-id="388b6-214">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-214">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-215">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-215">**Release date**</span></span>|<span data-ttu-id="388b6-216">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-216">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-314">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-314">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-315">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-315">**Release date**</span></span>|<span data-ttu-id="1fb39-316">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-316">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-217">Versione 2003 (Build 12624.20382)</span><span class="sxs-lookup"><span data-stu-id="388b6-217">Version 2003 (Build 12624.20382)</span></span> <br/> |<span data-ttu-id="388b6-218">31 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-218">March 31, 2020</span></span> <br/> |<span data-ttu-id="388b6-219">69</span><span class="sxs-lookup"><span data-stu-id="388b6-219">69</span></span><br/> |
-|<span data-ttu-id="388b6-220">Versione 2003 (Build 12624.20320)</span><span class="sxs-lookup"><span data-stu-id="388b6-220">Version 2003 (Build 12624.20320)</span></span> <br/> |<span data-ttu-id="388b6-221">25 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-221">March 25, 2020</span></span> <br/> |<span data-ttu-id="388b6-222">334</span><span class="sxs-lookup"><span data-stu-id="388b6-222">334</span></span><br/> |
+|<span data-ttu-id="1fb39-317">Versione 2003 (Build 12624.20382)</span><span class="sxs-lookup"><span data-stu-id="1fb39-317">Version 2003 (Build 12624.20382)</span></span> <br/> |<span data-ttu-id="1fb39-318">31 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-318">March 31, 2020</span></span> <br/> |<span data-ttu-id="1fb39-319">69</span><span class="sxs-lookup"><span data-stu-id="1fb39-319">69</span></span><br/> |
+|<span data-ttu-id="1fb39-320">Versione 2003 (Build 12624.20320)</span><span class="sxs-lookup"><span data-stu-id="1fb39-320">Version 2003 (Build 12624.20320)</span></span> <br/> |<span data-ttu-id="1fb39-321">25 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-321">March 25, 2020</span></span> <br/> |<span data-ttu-id="1fb39-322">334</span><span class="sxs-lookup"><span data-stu-id="1fb39-322">334</span></span><br/> |
 
+### <a name="semi-annual-channel"></a><span data-ttu-id="1fb39-323">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="1fb39-323">Semi-Annual Channel</span></span>
 
+<span data-ttu-id="1fb39-324">La versione più recente è la numero 1908 (Build 11929.20708).</span><span class="sxs-lookup"><span data-stu-id="1fb39-324">The most current release is Version 1908 (Build 11929.20708).</span></span>
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="388b6-223">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="388b6-223">Semi-Annual Channel</span></span>
-
-<span data-ttu-id="388b6-224">La versione più recente è la numero 1908 (Build 11929.20708).</span><span class="sxs-lookup"><span data-stu-id="388b6-224">The most current release is Version 1908 (Build 11929.20708).</span></span>
-
-|<span data-ttu-id="388b6-225">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-225">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-226">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-226">**Release date**</span></span>|<span data-ttu-id="388b6-227">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-227">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-325">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-325">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-326">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-326">**Release date**</span></span>|<span data-ttu-id="1fb39-327">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-327">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-228">Versione 1908 (Build 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="388b6-228">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="388b6-229">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-229">March 10, 2020</span></span> <br/> |<span data-ttu-id="388b6-230">72</span><span class="sxs-lookup"><span data-stu-id="388b6-230">72</span></span><br/> |
-|<span data-ttu-id="388b6-231">Versione 1908 (Build 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="388b6-231">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="388b6-232">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-232">February 11, 2020</span></span> <br/> |<span data-ttu-id="388b6-233">82</span><span class="sxs-lookup"><span data-stu-id="388b6-233">82</span></span><br/> |
+|<span data-ttu-id="1fb39-328">Versione 1908 (Build 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="1fb39-328">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="1fb39-329">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-329">March 10, 2020</span></span> <br/> |<span data-ttu-id="1fb39-330">72</span><span class="sxs-lookup"><span data-stu-id="1fb39-330">72</span></span><br/> |
+|<span data-ttu-id="1fb39-331">Versione 1908 (Build 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="1fb39-331">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="1fb39-332">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-332">February 11, 2020</span></span> <br/> |<span data-ttu-id="1fb39-333">82</span><span class="sxs-lookup"><span data-stu-id="1fb39-333">82</span></span><br/> |
 
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1fb39-334">Canale semestrale (mirato)</span><span class="sxs-lookup"><span data-stu-id="1fb39-334">Semi-Annual (Targeted) Channel</span></span>
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="388b6-234">Canale semestrale (mirato)</span><span class="sxs-lookup"><span data-stu-id="388b6-234">Semi-Annual (Targeted) Channel</span></span>
+<span data-ttu-id="1fb39-335">La versione più recente è la numero 2002 (Build 12527.20442).</span><span class="sxs-lookup"><span data-stu-id="1fb39-335">The most current release is Version 2002 (Build 12527.20442).</span></span>
 
-<span data-ttu-id="388b6-235">La versione più recente è la numero 2002 (Build 12527.20442).</span><span class="sxs-lookup"><span data-stu-id="388b6-235">The most current release is Version 2002 (Build 12527.20442).</span></span>
-
-|<span data-ttu-id="388b6-236">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-236">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-237">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-237">**Release date**</span></span>|<span data-ttu-id="388b6-238">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-238">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-336">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-336">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-337">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-337">**Release date**</span></span>|<span data-ttu-id="1fb39-338">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-338">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-239">Versione 2002 (Build 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="388b6-239">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="388b6-240">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-240">March 10, 2020</span></span> <br/> |<span data-ttu-id="388b6-241">78</span><span class="sxs-lookup"><span data-stu-id="388b6-241">78</span></span><br/> |
-|<span data-ttu-id="388b6-242">Versione 1908 (Build 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="388b6-242">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="388b6-243">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-243">February 11, 2020</span></span> <br/> |<span data-ttu-id="388b6-244">290</span><span class="sxs-lookup"><span data-stu-id="388b6-244">290</span></span><br/> |
-
+|<span data-ttu-id="1fb39-339">Versione 2002 (Build 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="1fb39-339">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="1fb39-340">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-340">March 10, 2020</span></span> <br/> |<span data-ttu-id="1fb39-341">78</span><span class="sxs-lookup"><span data-stu-id="1fb39-341">78</span></span><br/> |
+|<span data-ttu-id="1fb39-342">Versione 1908 (Build 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="1fb39-342">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="1fb39-343">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-343">February 11, 2020</span></span> <br/> |<span data-ttu-id="1fb39-344">290</span><span class="sxs-lookup"><span data-stu-id="1fb39-344">290</span></span><br/> |
 
 [//]: # (DO NOT REMOVE CONTENT ENDApril 14, 2020)
 
-
-## <a name="march-31-2020"></a><span data-ttu-id="388b6-246">31 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-246">March 31, 2020</span></span>
+## <a name="march-31-2020"></a><span data-ttu-id="1fb39-346">31 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-346">March 31, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTMarch 31, 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-248">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-248">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-348">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-348">Monthly Channel</span></span>
 
-<span data-ttu-id="388b6-249">La versione più recente è la numero 2003 (Build 12624.20382).</span><span class="sxs-lookup"><span data-stu-id="388b6-249">The most current release is Version 2003 (Build 12624.20382).</span></span>
+<span data-ttu-id="1fb39-349">La versione più recente è la numero 2003 (Build 12624.20382).</span><span class="sxs-lookup"><span data-stu-id="1fb39-349">The most current release is Version 2003 (Build 12624.20382).</span></span>
 
-|<span data-ttu-id="388b6-250">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-250">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-251">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-251">**Release date**</span></span>|<span data-ttu-id="388b6-252">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-252">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-350">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-350">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-351">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-351">**Release date**</span></span>|<span data-ttu-id="1fb39-352">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-352">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-253">Versione 2003 (Build 12624.20320)</span><span class="sxs-lookup"><span data-stu-id="388b6-253">Version 2003 (Build 12624.20320)</span></span> <br/> |<span data-ttu-id="388b6-254">25 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-254">March 25, 2020</span></span> <br/> |<span data-ttu-id="388b6-255">64</span><span class="sxs-lookup"><span data-stu-id="388b6-255">64</span></span><br/> |
-|<span data-ttu-id="388b6-256">Versione 2002 (Build 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="388b6-256">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="388b6-257">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-257">March 10, 2020</span></span> <br/> |<span data-ttu-id="388b6-258">168</span><span class="sxs-lookup"><span data-stu-id="388b6-258">168</span></span><br/> |
-
+|<span data-ttu-id="1fb39-353">Versione 2003 (Build 12624.20320)</span><span class="sxs-lookup"><span data-stu-id="1fb39-353">Version 2003 (Build 12624.20320)</span></span> <br/> |<span data-ttu-id="1fb39-354">25 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-354">March 25, 2020</span></span> <br/> |<span data-ttu-id="1fb39-355">64</span><span class="sxs-lookup"><span data-stu-id="1fb39-355">64</span></span><br/> |
+|<span data-ttu-id="1fb39-356">Versione 2002 (Build 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="1fb39-356">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="1fb39-357">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-357">March 10, 2020</span></span> <br/> |<span data-ttu-id="1fb39-358">168</span><span class="sxs-lookup"><span data-stu-id="1fb39-358">168</span></span><br/> |
 
 [//]: # (DO NOT REMOVE CONTENT ENDMarch 31, 2020)
 
-## <a name="march-25-2020"></a><span data-ttu-id="388b6-260">25 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-260">March 25, 2020</span></span>
+## <a name="march-25-2020"></a><span data-ttu-id="1fb39-360">25 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-360">March 25, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTMarch 25, 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-262">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-262">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-362">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-362">Monthly Channel</span></span>
 
-<span data-ttu-id="388b6-263">La versione più recente è la numero 2003 (Build 12624.20320).</span><span class="sxs-lookup"><span data-stu-id="388b6-263">The most current release is Version 2003 (Build 12624.20320).</span></span>
+<span data-ttu-id="1fb39-363">La versione più recente è la numero 2003 (Build 12624.20320).</span><span class="sxs-lookup"><span data-stu-id="1fb39-363">The most current release is Version 2003 (Build 12624.20320).</span></span>
 
-|<span data-ttu-id="388b6-264">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-264">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-265">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-265">**Release date**</span></span>|<span data-ttu-id="388b6-266">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-266">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-364">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-364">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-365">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-365">**Release date**</span></span>|<span data-ttu-id="1fb39-366">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-366">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-267">Versione 2002 (Build 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="388b6-267">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="388b6-268">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-268">March 10, 2020</span></span> <br/> |<span data-ttu-id="388b6-269">171</span><span class="sxs-lookup"><span data-stu-id="388b6-269">171</span></span><br/> |
-|<span data-ttu-id="388b6-270">Versione 2002 (Build 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="388b6-270">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="388b6-271">1 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-271">March 1, 2020</span></span> <br/> |<span data-ttu-id="388b6-272">172</span><span class="sxs-lookup"><span data-stu-id="388b6-272">172</span></span><br/> |
-
+|<span data-ttu-id="1fb39-367">Versione 2002 (Build 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="1fb39-367">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="1fb39-368">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-368">March 10, 2020</span></span> <br/> |<span data-ttu-id="1fb39-369">171</span><span class="sxs-lookup"><span data-stu-id="1fb39-369">171</span></span><br/> |
+|<span data-ttu-id="1fb39-370">Versione 2002 (Build 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="1fb39-370">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="1fb39-371">1 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-371">March 1, 2020</span></span> <br/> |<span data-ttu-id="1fb39-372">172</span><span class="sxs-lookup"><span data-stu-id="1fb39-372">172</span></span><br/> |
 
 [//]: # (DO NOT REMOVE CONTENT ENDMarch 25, 2020)
 
-## <a name="march-10-2020"></a><span data-ttu-id="388b6-274">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-274">March 10, 2020</span></span>
+## <a name="march-10-2020"></a><span data-ttu-id="1fb39-374">10 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-374">March 10, 2020</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-275">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-275">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-375">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-375">Monthly Channel</span></span>
 
-<span data-ttu-id="388b6-276">La versione più recente è la numero 2002 (Build 12527.20278).</span><span class="sxs-lookup"><span data-stu-id="388b6-276">The most current release is Version 2002 (Build 12527.20278).</span></span>
+<span data-ttu-id="1fb39-376">La versione più recente è la numero 2002 (Build 12527.20278).</span><span class="sxs-lookup"><span data-stu-id="1fb39-376">The most current release is Version 2002 (Build 12527.20278).</span></span>
 
-|<span data-ttu-id="388b6-277">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-277">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-278">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-278">**Release date**</span></span>|<span data-ttu-id="388b6-279">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-279">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-377">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-377">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-378">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-378">**Release date**</span></span>|<span data-ttu-id="1fb39-379">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-379">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-280">Versione 2002 (Build 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="388b6-280">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="388b6-281">1 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-281">March 1, 2020</span></span> <br/> |<span data-ttu-id="388b6-282">40</span><span class="sxs-lookup"><span data-stu-id="388b6-282">40</span></span><br/> |
-|<span data-ttu-id="388b6-283">Versione 2002 (Build 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="388b6-283">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="388b6-284">25 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-284">February 25, 2020</span></span> <br/> |<span data-ttu-id="388b6-285">266</span><span class="sxs-lookup"><span data-stu-id="388b6-285">266</span></span><br/> |
+|<span data-ttu-id="1fb39-380">Versione 2002 (Build 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="1fb39-380">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="1fb39-381">1 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-381">March 1, 2020</span></span> <br/> |<span data-ttu-id="1fb39-382">40</span><span class="sxs-lookup"><span data-stu-id="1fb39-382">40</span></span><br/> |
+|<span data-ttu-id="1fb39-383">Versione 2002 (Build 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="1fb39-383">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="1fb39-384">25 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-384">February 25, 2020</span></span> <br/> |<span data-ttu-id="1fb39-385">266</span><span class="sxs-lookup"><span data-stu-id="1fb39-385">266</span></span><br/> |
 
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO10 marzo 2020)
 
-[//]: # (NON RIMUOVERE - INIZIO CONTENUTO - 10 marzo 2020)
+### <a name="semi-annual-channel"></a><span data-ttu-id="1fb39-387">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="1fb39-387">Semi-Annual Channel</span></span>
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="388b6-287">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="388b6-287">Semi-Annual Channel</span></span>
+<span data-ttu-id="1fb39-388">La versione più recente è la numero 1908 (Build 11929.20648).</span><span class="sxs-lookup"><span data-stu-id="1fb39-388">The most current release is Version 1908 (Build 11929.20648).</span></span>
 
-<span data-ttu-id="388b6-288">La versione più recente è la numero 1908 (Build 11929.20648).</span><span class="sxs-lookup"><span data-stu-id="388b6-288">The most current release is Version 1908 (Build 11929.20648).</span></span>
-
-|<span data-ttu-id="388b6-289">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-289">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-290">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-290">**Release date**</span></span>|<span data-ttu-id="388b6-291">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-291">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-389">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-389">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-390">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-390">**Release date**</span></span>|<span data-ttu-id="1fb39-391">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-391">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-292">Versione 1908 (Build 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="388b6-292">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="388b6-293">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-293">February 11, 2020</span></span> <br/> |<span data-ttu-id="388b6-294">64</span><span class="sxs-lookup"><span data-stu-id="388b6-294">64</span></span><br/> |
-|<span data-ttu-id="388b6-295">Versione 1908 (Build 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="388b6-295">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="388b6-296">14 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-296">January 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-297">73</span><span class="sxs-lookup"><span data-stu-id="388b6-297">73</span></span><br/> |
+|<span data-ttu-id="1fb39-392">Versione 1908 (Build 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="1fb39-392">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="1fb39-393">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-393">February 11, 2020</span></span> <br/> |<span data-ttu-id="1fb39-394">64</span><span class="sxs-lookup"><span data-stu-id="1fb39-394">64</span></span><br/> |
+|<span data-ttu-id="1fb39-395">Versione 1908 (Build 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="1fb39-395">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="1fb39-396">14 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-396">January 14, 2020</span></span> <br/> |<span data-ttu-id="1fb39-397">73</span><span class="sxs-lookup"><span data-stu-id="1fb39-397">73</span></span><br/> |
 
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1fb39-398">Canale semestrale (mirato)</span><span class="sxs-lookup"><span data-stu-id="1fb39-398">Semi-Annual (Targeted) Channel</span></span>
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="388b6-298">Canale semestrale (mirato)</span><span class="sxs-lookup"><span data-stu-id="388b6-298">Semi-Annual (Targeted) Channel</span></span>
+<span data-ttu-id="1fb39-399">La versione più recente è la numero 2002 (Build 12527.20278).</span><span class="sxs-lookup"><span data-stu-id="1fb39-399">The most current release is Version 2002 (Build 12527.20278).</span></span>
 
-<span data-ttu-id="388b6-299">La versione più recente è la numero 2002 (Build 12527.20278).</span><span class="sxs-lookup"><span data-stu-id="388b6-299">The most current release is Version 2002 (Build 12527.20278).</span></span>
-
-|<span data-ttu-id="388b6-300">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-300">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-301">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-301">**Release date**</span></span>|<span data-ttu-id="388b6-302">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-302">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-400">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-400">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-401">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-401">**Release date**</span></span>|<span data-ttu-id="1fb39-402">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-402">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-303">Versione 1908 (Build 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="388b6-303">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="388b6-304">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-304">February 11, 2020</span></span> <br/> |<span data-ttu-id="388b6-305">291</span><span class="sxs-lookup"><span data-stu-id="388b6-305">291</span></span><br/> |
-|<span data-ttu-id="388b6-306">Versione 1908 (Build 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="388b6-306">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="388b6-307">14 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-307">January 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-308">292</span><span class="sxs-lookup"><span data-stu-id="388b6-308">292</span></span><br/> |
+|<span data-ttu-id="1fb39-403">Versione 1908 (Build 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="1fb39-403">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="1fb39-404">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-404">February 11, 2020</span></span> <br/> |<span data-ttu-id="1fb39-405">291</span><span class="sxs-lookup"><span data-stu-id="1fb39-405">291</span></span><br/> |
+|<span data-ttu-id="1fb39-406">Versione 1908 (Build 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="1fb39-406">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="1fb39-407">14 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-407">January 14, 2020</span></span> <br/> |<span data-ttu-id="1fb39-408">292</span><span class="sxs-lookup"><span data-stu-id="1fb39-408">292</span></span><br/> |
 
+[//]: # (NON RIMUOVERE FINE CONTENUTO10 marzo 2020)
 
-[//]: # (NON RIMUOVERE - FINE CONTENUTO - 10 marzo 2020)
-
-
-## <a name="march-1-2020"></a><span data-ttu-id="388b6-310">1 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-310">March 1, 2020</span></span>
+## <a name="march-1-2020"></a><span data-ttu-id="1fb39-410">1 marzo 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-410">March 1, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT START1 marzo 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-312">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-312">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1fb39-412">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="1fb39-412">Monthly Channel</span></span>
 
-<span data-ttu-id="388b6-313">La versione più recente è la numero 2002 (Build 12527.20242).</span><span class="sxs-lookup"><span data-stu-id="388b6-313">The most current release is Version 2002 (Build 12527.20242).</span></span>
+<span data-ttu-id="1fb39-413">La versione più recente è la numero 2002 (Build 12527.20242).</span><span class="sxs-lookup"><span data-stu-id="1fb39-413">The most current release is Version 2002 (Build 12527.20242).</span></span>
 
-|<span data-ttu-id="388b6-314">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-314">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-315">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-315">**Release date**</span></span>|<span data-ttu-id="388b6-316">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-316">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1fb39-414">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="1fb39-414">**Release upgrading from**</span></span>|<span data-ttu-id="1fb39-415">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="1fb39-415">**Release date**</span></span>|<span data-ttu-id="1fb39-416">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="1fb39-416">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="388b6-317">Versione 2002 (Build 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="388b6-317">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="388b6-318">25 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-318">February 25, 2020</span></span> <br/> |<span data-ttu-id="388b6-319">57</span><span class="sxs-lookup"><span data-stu-id="388b6-319">57</span></span><br/> |
-|<span data-ttu-id="388b6-320">Versione 2001 (Build 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="388b6-320">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="388b6-321">19 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-321">February 19, 2020</span></span> <br/> |<span data-ttu-id="388b6-322">152</span><span class="sxs-lookup"><span data-stu-id="388b6-322">152</span></span><br/> |
-
+|<span data-ttu-id="1fb39-417">Versione 2002 (Build 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="1fb39-417">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="1fb39-418">25 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-418">February 25, 2020</span></span> <br/> |<span data-ttu-id="1fb39-419">57</span><span class="sxs-lookup"><span data-stu-id="1fb39-419">57</span></span><br/> |
+|<span data-ttu-id="1fb39-420">Versione 2001 (Build 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="1fb39-420">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="1fb39-421">19 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="1fb39-421">February 19, 2020</span></span> <br/> |<span data-ttu-id="1fb39-422">152</span><span class="sxs-lookup"><span data-stu-id="1fb39-422">152</span></span><br/> |
 
 [//]: # (DO NOT REMOVE CONTENT END1 marzo 2020)
 
-## <a name="february-25-2020"></a><span data-ttu-id="388b6-324">25 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-324">February 25, 2020</span></span>
+## <a name="related-topics"></a><span data-ttu-id="1fb39-424">Argomenti correlati</span><span class="sxs-lookup"><span data-stu-id="1fb39-424">Related topics</span></span>
 
-[//]: # (DO NOT REMOVE CONTENT START25 febbraio 2020)
+- [<span data-ttu-id="1fb39-425">Panoramica dei canali di aggiornamento per Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="1fb39-425">Overview of update channels for Microsoft 365 Apps</span></span>](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-326">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-326">Monthly Channel</span></span>
-
-<span data-ttu-id="388b6-327">La versione più recente è la numero 2002 (Build 12527.20194).</span><span class="sxs-lookup"><span data-stu-id="388b6-327">The most current release is Version 2002 (Build 12527.20194).</span></span>
-
-|<span data-ttu-id="388b6-328">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-328">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-329">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-329">**Release date**</span></span>|<span data-ttu-id="388b6-330">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-330">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-331">Versione 2001 (Build 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="388b6-331">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="388b6-332">19 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-332">February 19, 2020</span></span> <br/> |<span data-ttu-id="388b6-333">145</span><span class="sxs-lookup"><span data-stu-id="388b6-333">145</span></span><br/> |
-|<span data-ttu-id="388b6-334">Versione 2001 (Build 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="388b6-334">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="388b6-335">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-335">February 11, 2020</span></span> <br/> |<span data-ttu-id="388b6-336">143</span><span class="sxs-lookup"><span data-stu-id="388b6-336">143</span></span><br/> |
-
-
-[//]: # (DO NOT REMOVE CONTENT END25 febbraio 2020)
-
-## <a name="february-19-2020"></a><span data-ttu-id="388b6-338">19 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-338">February 19, 2020</span></span>
-
-[//]: # (DO NOT REMOVE CONTENT START19 febbraio 2020)
-
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-340">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-340">Monthly Channel</span></span>
-
-<span data-ttu-id="388b6-341">La versione più recente è la numero 2001 (Build 12430.20288).</span><span class="sxs-lookup"><span data-stu-id="388b6-341">The most current release is Version 2001 (Build 12430.20288).</span></span>
-
-|<span data-ttu-id="388b6-342">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-342">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-343">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-343">**Release date**</span></span>|<span data-ttu-id="388b6-344">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-344">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-345">Versione 2001 (Build 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="388b6-345">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="388b6-346">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-346">February 11, 2020</span></span> <br/> |<span data-ttu-id="388b6-347">46</span><span class="sxs-lookup"><span data-stu-id="388b6-347">46</span></span><br/> |
-|<span data-ttu-id="388b6-348">Versione2001 (Build 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="388b6-348">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="388b6-349">30 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-349">January 30, 2020</span></span> <br/> |<span data-ttu-id="388b6-350">55</span><span class="sxs-lookup"><span data-stu-id="388b6-350">55</span></span><br/> |
-
-
-[//]: # (DO NOT REMOVE CONTENT END19 febbraio 2020)
-
-## <a name="february-11-2020"></a><span data-ttu-id="388b6-352">11 febbraio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-352">February 11, 2020</span></span>
-
-[//]: # (DO NOT REMOVE CONTENT START11 febbraio 2020)
-
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-354">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-354">Monthly Channel</span></span>
-
-<span data-ttu-id="388b6-355">La versione più recente è la numero 2001 (Build 12430.20264).</span><span class="sxs-lookup"><span data-stu-id="388b6-355">The most current release is Version 2001 (Build 12430.20264).</span></span>
-
-|<span data-ttu-id="388b6-356">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-356">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-357">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-357">**Release date**</span></span>|<span data-ttu-id="388b6-358">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-358">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-359">Versione2001 (Build 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="388b6-359">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="388b6-360">30 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-360">January 30, 2020</span></span> <br/> |<span data-ttu-id="388b6-361">54</span><span class="sxs-lookup"><span data-stu-id="388b6-361">54</span></span><br/> |
-|<span data-ttu-id="388b6-362">Versione 1912 (Build 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="388b6-362">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="388b6-363">22 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-363">January 22, 2020</span></span> <br/> |<span data-ttu-id="388b6-364">137</span><span class="sxs-lookup"><span data-stu-id="388b6-364">137</span></span><br/> |
-
-
-
-### <a name="semi-annual-channel"></a><span data-ttu-id="388b6-365">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="388b6-365">Semi-Annual Channel</span></span>
-
-<span data-ttu-id="388b6-366">La versione più recente è la numero 1908 (Build 11929.20606).</span><span class="sxs-lookup"><span data-stu-id="388b6-366">The most current release is Version 1908 (Build 11929.20606).</span></span>
-
-|<span data-ttu-id="388b6-367">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-367">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-368">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-368">**Release date**</span></span>|<span data-ttu-id="388b6-369">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-369">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-370">Versione 1908 (Build 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="388b6-370">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="388b6-371">14 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-371">January 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-372">65</span><span class="sxs-lookup"><span data-stu-id="388b6-372">65</span></span><br/> |
-|<span data-ttu-id="388b6-373">Versione 1902 (Build 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="388b6-373">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="388b6-374">10 dicembre 2019</span><span class="sxs-lookup"><span data-stu-id="388b6-374">December 10, 2019</span></span> <br/> |<span data-ttu-id="388b6-375">339</span><span class="sxs-lookup"><span data-stu-id="388b6-375">339</span></span><br/> |
-
-
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="388b6-376">Canale semestrale (mirato)</span><span class="sxs-lookup"><span data-stu-id="388b6-376">Semi-Annual (Targeted) Channel</span></span>
-
-<span data-ttu-id="388b6-377">La versione più recente è la numero 1908 (Build 11929.20606).</span><span class="sxs-lookup"><span data-stu-id="388b6-377">The most current release is Version 1908 (Build 11929.20606).</span></span>
-
-|<span data-ttu-id="388b6-378">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-378">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-379">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-379">**Release date**</span></span>|<span data-ttu-id="388b6-380">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-380">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-381">Versione 1908 (Build 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="388b6-381">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="388b6-382">14 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-382">January 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-383">65</span><span class="sxs-lookup"><span data-stu-id="388b6-383">65</span></span><br/> |
-|<span data-ttu-id="388b6-384">Versione 1908 (Build 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="388b6-384">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="388b6-385">10 dicembre 2019</span><span class="sxs-lookup"><span data-stu-id="388b6-385">December 10, 2019</span></span> <br/> |<span data-ttu-id="388b6-386">68</span><span class="sxs-lookup"><span data-stu-id="388b6-386">68</span></span><br/> |
-
-
-[//]: # (DO NOT REMOVE CONTENT END11febbraio 2020)
-
-
-
-
-## <a name="january-30-2020"></a><span data-ttu-id="388b6-388">30 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-388">January 30, 2020</span></span>
-
-[//]: # (NON RIMUOVERE INIZIO CONTENUTO 30 gennaio 2020)
-
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-390">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-390">Monthly Channel</span></span>
-
-<span data-ttu-id="388b6-391">La versione più recente è la numero 2001 (Build 12430.20184).</span><span class="sxs-lookup"><span data-stu-id="388b6-391">The most current release is Version 2001 (Build 12430.20184).</span></span>
-
-|<span data-ttu-id="388b6-392">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-392">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-393">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-393">**Release date**</span></span>|<span data-ttu-id="388b6-394">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-394">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-395">Versione 1912 (Build 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="388b6-395">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="388b6-396">22 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-396">January 22, 2020</span></span> <br/> |<span data-ttu-id="388b6-397">134</span><span class="sxs-lookup"><span data-stu-id="388b6-397">134</span></span><br/> |
-|<span data-ttu-id="388b6-398">Versione 1912 (Build 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="388b6-398">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="388b6-399">14 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-399">January 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-400">138</span><span class="sxs-lookup"><span data-stu-id="388b6-400">138</span></span><br/> |
-
-
-[//]: # (NON RIMUOVERE FINE CONTENUTO 30 gennaio 2020)
-
-## <a name="january-22-2020"></a><span data-ttu-id="388b6-402">22 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-402">January 22, 2020</span></span>
-
-[//]: # (NON RIMUOVERE INIZIO CONTENUTO 22 gennaio 2020)
-
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-404">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-404">Monthly Channel</span></span>
-
-<span data-ttu-id="388b6-405">La versione più recente è la numero 1912 (Build 12325.20344).</span><span class="sxs-lookup"><span data-stu-id="388b6-405">The most current release is Version 1912 (Build 12325.20344).</span></span>
-
-|<span data-ttu-id="388b6-406">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-406">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-407">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-407">**Release date**</span></span>|<span data-ttu-id="388b6-408">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-408">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-409">Versione 1912 (Build 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="388b6-409">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="388b6-410">14 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-410">January 14, 2020</span></span> <br/> |<span data-ttu-id="388b6-411">53</span><span class="sxs-lookup"><span data-stu-id="388b6-411">53</span></span><br/> |
-|<span data-ttu-id="388b6-412">Versione 1912 (Build 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="388b6-412">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="388b6-413">8 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-413">January 8, 2020</span></span> <br/> |<span data-ttu-id="388b6-414">59</span><span class="sxs-lookup"><span data-stu-id="388b6-414">59</span></span><br/> |
-
-
-[//]: # (NON RIMUOVERE FINE CONTENUTO 22 gennaio 2020)
-
-## <a name="january-14-2020"></a><span data-ttu-id="388b6-416">14 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-416">January 14, 2020</span></span>
-
-[//]: # (DO NOT REMOVE CONTENT STARTJanuary 14, 2020)
-
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-418">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-418">Monthly Channel</span></span>
-
-<span data-ttu-id="388b6-419">La versione più recente è la numero 1912 (Build 12325.20298).</span><span class="sxs-lookup"><span data-stu-id="388b6-419">The most current release is Version 1912 (Build 12325.20298).</span></span>
-
-|<span data-ttu-id="388b6-420">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-420">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-421">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-421">**Release date**</span></span>|<span data-ttu-id="388b6-422">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-422">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-423">Versione 1912 (Build 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="388b6-423">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="388b6-424">8 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-424">January 8, 2020</span></span> <br/> |<span data-ttu-id="388b6-425">46</span><span class="sxs-lookup"><span data-stu-id="388b6-425">46</span></span><br/> |
-|<span data-ttu-id="388b6-426">Versione 1911 (Build 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="388b6-426">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="388b6-427">10 dicembre 2019</span><span class="sxs-lookup"><span data-stu-id="388b6-427">December 10, 2019</span></span> <br/> |<span data-ttu-id="388b6-428">151</span><span class="sxs-lookup"><span data-stu-id="388b6-428">151</span></span><br/> |
-
-
-
-### <a name="semi-annual-channel"></a><span data-ttu-id="388b6-429">Canale semestrale</span><span class="sxs-lookup"><span data-stu-id="388b6-429">Semi-Annual Channel</span></span>
-
-<span data-ttu-id="388b6-430">La versione più recente è la numero 1908 (Build 11929.20562).</span><span class="sxs-lookup"><span data-stu-id="388b6-430">The most current release is Version 1908 (Build 11929.20562).</span></span>
-
-|<span data-ttu-id="388b6-431">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-431">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-432">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-432">**Release date**</span></span>|<span data-ttu-id="388b6-433">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-433">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-434">Versione 1902 (Build 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="388b6-434">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="388b6-435">10 dicembre 2019</span><span class="sxs-lookup"><span data-stu-id="388b6-435">December 10, 2019</span></span> <br/> |<span data-ttu-id="388b6-436">338</span><span class="sxs-lookup"><span data-stu-id="388b6-436">338</span></span><br/> |
-|<span data-ttu-id="388b6-437">Versione 1902 (build 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="388b6-437">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="388b6-438">22 novembre 2019</span><span class="sxs-lookup"><span data-stu-id="388b6-438">November 22, 2019</span></span> <br/> |<span data-ttu-id="388b6-439">337</span><span class="sxs-lookup"><span data-stu-id="388b6-439">337</span></span><br/> |
-
-
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="388b6-440">Canale semestrale (mirato)</span><span class="sxs-lookup"><span data-stu-id="388b6-440">Semi-Annual (Targeted) Channel</span></span>
-
-<span data-ttu-id="388b6-441">La versione più recente è la numero 1908 (Build 11929.20562).</span><span class="sxs-lookup"><span data-stu-id="388b6-441">The most current release is Version 1908 (Build 11929.20562).</span></span>
-
-|<span data-ttu-id="388b6-442">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-442">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-443">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-443">**Release date**</span></span>|<span data-ttu-id="388b6-444">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-444">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-445">Versione 1908 (Build 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="388b6-445">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="388b6-446">10 dicembre 2019</span><span class="sxs-lookup"><span data-stu-id="388b6-446">December 10, 2019</span></span> <br/> |<span data-ttu-id="388b6-447">59</span><span class="sxs-lookup"><span data-stu-id="388b6-447">59</span></span><br/> |
-|<span data-ttu-id="388b6-448">Versione 1908 (build 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="388b6-448">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="388b6-449">22 novembre 2019</span><span class="sxs-lookup"><span data-stu-id="388b6-449">November 22, 2019</span></span> <br/> |<span data-ttu-id="388b6-450">64</span><span class="sxs-lookup"><span data-stu-id="388b6-450">64</span></span><br/> |
-
-
-[//]: # (DO NOT REMOVE CONTENT ENDJanuary 14, 2020)
-
-
-## <a name="january-8-2020"></a><span data-ttu-id="388b6-452">8 gennaio 2020</span><span class="sxs-lookup"><span data-stu-id="388b6-452">January 8, 2020</span></span>
-
-[//]: # (NON RIMUOVERE - INIZIO CONTENUTO - 8 gennaio 2020)
-
-### <a name="monthly-channel"></a><span data-ttu-id="388b6-454">Canale mensile</span><span class="sxs-lookup"><span data-stu-id="388b6-454">Monthly Channel</span></span>
-
-<span data-ttu-id="388b6-455">La versione più recente è la numero 1912 (Build 12325.20288).</span><span class="sxs-lookup"><span data-stu-id="388b6-455">The most current release is Version 1912 (Build 12325.20288).</span></span>
-
-|<span data-ttu-id="388b6-456">**Versione sottoposta ad aggiornamento**</span><span class="sxs-lookup"><span data-stu-id="388b6-456">**Release upgrading from**</span></span>|<span data-ttu-id="388b6-457">**Data di rilascio**</span><span class="sxs-lookup"><span data-stu-id="388b6-457">**Release date**</span></span>|<span data-ttu-id="388b6-458">**Dimensione di download approssimativa (in MB)**</span><span class="sxs-lookup"><span data-stu-id="388b6-458">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="388b6-459">Versione 1911 (Build 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="388b6-459">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="388b6-460">10 dicembre 2019</span><span class="sxs-lookup"><span data-stu-id="388b6-460">December 10, 2019</span></span> <br/> |<span data-ttu-id="388b6-461">142</span><span class="sxs-lookup"><span data-stu-id="388b6-461">142</span></span><br/> |
-|<span data-ttu-id="388b6-462">Versione 1911 (build 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="388b6-462">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="388b6-463">3 dicembre 2019</span><span class="sxs-lookup"><span data-stu-id="388b6-463">December 3, 2019</span></span> <br/> |<span data-ttu-id="388b6-464">145</span><span class="sxs-lookup"><span data-stu-id="388b6-464">145</span></span><br/> |
-
-
-[//]: # (NON RIMUOVERE - FINE CONTENUTO - 8 gennaio 2020)
-
-
-
-
-## <a name="related-topics"></a><span data-ttu-id="388b6-466">Argomenti correlati</span><span class="sxs-lookup"><span data-stu-id="388b6-466">Related topics</span></span>
-
-- [<span data-ttu-id="388b6-467">Panoramica dei canali di aggiornamento per Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="388b6-467">Overview of update channels for Microsoft 365 Apps</span></span>](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-
-- [<span data-ttu-id="388b6-468">Cronologia degli aggiornamenti per Microsoft 365 Apps (elencati in ordine cronologico)</span><span class="sxs-lookup"><span data-stu-id="388b6-468">Update history for Microsoft 365 Apps (listed by date)</span></span>](update-history-office365-proplus-by-date.md)
+- [<span data-ttu-id="1fb39-426">Cronologia degli aggiornamenti per Microsoft 365 Apps (elencati in ordine cronologico)</span><span class="sxs-lookup"><span data-stu-id="1fb39-426">Update history for Microsoft 365 Apps (listed by date)</span></span>](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
-> <span data-ttu-id="388b6-469">Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="388b6-469">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="1fb39-427">Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="1fb39-427">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
