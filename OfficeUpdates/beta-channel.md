@@ -1,5 +1,5 @@
 ---
-title: Note sulla versione per il canale beta
+title: Note sulla versione del Canale beta
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti principali
-ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
-ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
-ms.translationtype: MT
+description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
+ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
+ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45052629"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45098670"
 ---
-# <a name="release-notes-for-beta-channel"></a>Note sulla versione per il canale beta
+# <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
-In questo articolo sono contenute le note sulla versione per le build di canale beta di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana vengono evidenziate nuove funzionalità interessanti, correzioni critiche e problemi significativi di cui è importante essere a conoscenza. Si noti che spesso si tirano fuori le caratteristiche (e talvolta anche le correzioni) sul canale Beta per un determinato periodo di tempo. Ciò consente di verificare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
+Questo articolo contiene le note sulla versione delle build del Canale beta di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana vengono evidenziate nuove funzionalità interessanti, correzioni critiche e problemi significativi di cui è importante essere a conoscenza. Nota che spesso in un determinato periodo di tempo vengono distribuite funzionalità (e a volte anche correzioni) del Canale beta. Ciò consente di verificare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
 
 > [!IMPORTANT]
 > Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
@@ -31,17 +31,39 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-## <a name="version-2007-july-03"></a>Versione 2007:03 luglio
-*Versione 2007 (Build 13029,20006)*
+## <a name="version-2008-july-10"></a>Versione 2008: 10 luglio
+*Versione 2008 (Build 13102.20002)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui non era stata selezionata l'opzione Consenti l'inoltro dalle “Opzioni risposta” del calendario condiviso della riunione se la cartella dei download condivisi non era stata selezionata.
+- È stato risolto un problema che mostrava il pulsante stampa nello stato disabilitato anche se l'utente aveva le autorizzazioni di stampa appropriate.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema in cui se si tentava di salvare un PDF / XPS da Project in una raccolta documenti di SharePoint, non sarebbe successo nulla.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema in cui Word smette di rispondere dopo aver incollato del testo e un'immagine in una casella di testo.
+- È stato risolto un problema in cui il pulsante "Nuovo commento" viene disabilitato dopo l'eliminazione dell'ultimo commento.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2007-july-03"></a>Versione 2007: 3 luglio
+*Versione 2007 (Build 13029.20006)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="outlook"></a>Outlook
 
-- **Creare polli in Outlook con Quick Poll:** Creare facilmente un sondaggio, raccogliere voti e visualizzare i risultati all'interno di un messaggio di posta elettronica per [saperne di più](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **Creare sondaggi in Outlook con Sondaggio rapido:** Creare facilmente un sondaggio, raccogliere voti e visualizzare i risultati in un messaggio di posta elettronica [Altre informazioni](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Nuova Ricerca sala:** è possibile cercare sale riunioni in base a diverse caratteristiche.
+- **Nuova ricerca sala:** è possibile cercare sale riunioni in base a diverse caratteristiche.
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -52,110 +74,110 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
 
-- È stato risolto un problema a causa del quale le tabelle del modello di dati create in determinate versioni di Excel non sono state visualizzate in ' Anteprima tabella ' anche se la query associata alla tabella non è stata modificata.
-- È stato risolto un problema a causa del quale la disabilitazione dei riferimenti ' Ignora relativo/assoluto ' nella finestra di dialogo Definisci nome \ applica nomi provocherebbe la mancata funzione delle formule.
-- È stato risolto un problema a causa del quale la cancellazione di un filtro dati avanzato potrebbe perdere la formattazione della tabella.
-- È stato risolto un problema a causa del quale il percorso completo di un documento PDF incorporato verrebbe visualizzato nella didascalia del documento anziché solo nel nome del file.
-- È stato risolto un problema a causa del quale, dopo aver disabilitato il connettore Cloud di Wolfram e quindi aver salvato e riaperto una cartella di lavoro di Excel, potrebbe verificarsi un arresto anomalo.
-- È stato risolto un problema a causa del quale l'avvio di Excel con il componente aggiuntivo del Risolutore abilitato comporterebbe un arresto anomalo.
+- È stato risolto un problema in cui le tabelle del modello di dati create in determinate versioni di Excel non possono essere visualizzate in "anteprima tabelle", anche se non sono state modificate.
+- È stato risolto un problema in cui la disabilitazione dei riferimenti "Ignora relativi/assoluti" nella finestra di dialogo Definisci nome \ applica nomi causa il mancato funzionamento delle formule.
+- È stato risolto un problema per cui la cancellazione di un filtro dati avanzato faceva perdere la formattazione della tabella.
+- È stato risolto un problema in cui il percorso completo di un documento PDF incorporato viene visualizzato nella didascalia del documento, anziché solo nel nome del file.
+- È stato risolto un problema per cui dopo aver disabilitato il connettore Cloud di Wolfram e aver salvato e riaperto una cartella di lavoro di Excel, poteva verificarsi un arresto anomalo.
+- È stato risolto un problema per cui all'avvio di Excel con il componente aggiuntivo Risolutore poteva comportare un arresto anomalo.
 
 ### <a name="outlook"></a>Outlook
 
-- È stato risolto un problema a causa del quale Outlook si blocca se sono presenti più di 130 destinatari nella riga ' a' e sono state migliorate anche le prestazioni di rendering del testo.
-- È stato risolto un problema nella barra da fare in cui gli eventi che si sono verificati più di due giorni, visualizzati la stessa ora di fine per tutti i giorni successivi.
-- È stato risolto un problema che causava l'interruzione dell'aggiornamento da parte degli utenti di Outlook per alcuni minuti dopo l'utilizzo dei calendari condivisi.
+- È stato risolto un problema per cui Outlook si bloccava se erano presenti più di 130 destinatari nella riga "a" e sono state migliorate anche le prestazioni di rendering del testo.
+- È stato risolto un problema relativo alla “barra da fare” in cui gli eventi con più di due giorni mostravano la stessa ora di fine per tutti i giorni successivi.
+- È stato risolto un problema che causava l'interruzione dell'aggiornamento dell'elenco dei messaggi degli utenti di Outlook per alcuni minuti dopo l'utilizzo dei calendari condivisi.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- È stato risolto un problema a causa del quale incollare HTML in un'area di testo di una diapositiva verrebbe incollato in una casella di testo creata nella parte superiore della diapositiva.
-- È stato risolto un problema a causa del quale la selezione di tutte le diapositive nella visualizzazione relatore, quindi l'uscita dalla visualizzazione relatore tramite ALT + TAB e tornando alla presentazione e facendo clic su' termina Mostra ' comporterebbe un'eccezione non gestita.
+- È stato risolto un problema per cui quando si incollava l’HTML in un'area di testo su una diapositiva questo veniva invece incollato in una casella di testo creata nella parte superiore della diapositiva.
+- È stato risolto un problema per cui selezionare tutte le diapositive nella visualizzazione relatore, uscire dalla visualizzazione relatore con ALT + TAB e tornare alla presentazione e fare clic su "fine presentazione" comportava un'eccezione non gestita.
 
 ### <a name="project"></a>Project
 
-- È stato risolto un problema a causa del quale il progetto potrebbe bloccarsi all'apertura di alcuni file XML.
-- È stato risolto un problema a causa del quale non è stato possibile aprire un file di progetto da una raccolta documenti di SharePoint se la raccolta era in modalità moderna.
-- È stato risolto un problema a causa del quale non è stato possibile aprire progetti nel client Project Desktop da Project Web App se l'URL è stato terminato in '. com '.
+- È stato risolto un problema per cui il progetto potrebbe arrestarsi in modo anomalo all'apertura di alcuni file XML.
+- È stato risolto un problema per cui non era possibile aprire un file di progetto da una raccolta documenti di SharePoint, se la raccolta era in modalità moderna.
+- È stato risolto un problema per cui non era possibile aprire progetti nel client Project Desktop da Project Web App se l'URL terminava in ". com".
 
 ### <a name="word"></a>Word
 
-- È stato risolto un problema durante la modalità di creazione condivisa quando si è verificato un conflitto di Unione e l'utente ha già scelto di ignorare le modifiche, non è più possibile visualizzare l'opzione per salvare o ignorare le modifiche.
-- È stato risolto un problema che, quando si tenta di salvare un file contenente una macro con un nuovo nome, potrebbe essere salvato con un'estensione docx e il nome del file "WRO0004.docx", indipendentemente da ciò che l'utente ha immesso, rendendo il documento inutilizzabile.
+- È stato risolto un problema durante la modalità di creazione condivisa quando si verifica un conflitto di Unione e l'utente ha già scelto di ignorare le modifiche, ma non veniva più visualizzata l'opzione per salvare o annullare le modifiche.
+- È stato risolto un problema per cui, quando si provava a salvare un file contenente una macro con un nuovo nome, il file veniva salvato con estensione .docx e il nome file “WRO0004.docx”, indipendentemente dall'immissione dell'utente, rendeva il documento inutilizzabile.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2007-june-26"></a>Versione 2007:26 giugno
-*Versione 2007 (Build 13020,20004)*
+## <a name="version-2007-june-26"></a>Versione 2007: 26 giugno
+*Versione 2007 (Build 13020.20004)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="access"></a>Access
 
-- È stato risolto un problema a causa del quale il gestore di tabelle collegate richiedeva una chiave primaria se veniva aggiornata una tabella SQL collegata.
-- È stato risolto un problema a causa del quale le query nell'editor di query scorrono fuori dalla visualizzazione.
-- È stato risolto un problema a causa del quale l'esecuzione delle query richiedeva circa il doppio del tempo necessario per il completamento del previsto.
+- È stato risolto un problema per cui il responsabile della tabella collegata richiede una chiave primaria se una tabella SQL collegata era aggiornata.
+- È stato risolto un problema relativo alla visualizzazione di query nell'Editor di query.
+- È stato risolto un problema relativo all'esecuzione di una query che richiedeva circa due volte il tempo necessario per il completamento.
 
 ### <a name="outlook"></a>Outlook
 
-- È stato risolto un problema a causa del quale gli utenti non sono stati in grado di "inviare" o "Invia per conto di" di una lista di distribuzione.
-- È stato risolto un problema a causa del quale l'inserimento di un'immagine in linea in un messaggio, quindi il salvataggio del messaggio come bozza porterebbe a un ridimensionamento dell'immagine.
-- È stato risolto un problema che indusse il corpo di un messaggio di mancato recapito a passare da Unicode a ASCII dopo la modifica dell'oggetto.
+- È stato risolto un problema per cui gli utenti non potevano utilizzare "Invia come" o "Invia per conto di” di una lista di distribuzione.
+- È stato risolto un problema per cui l'inserimento di un'immagine in linea in un messaggio, e il successivo salvataggio del messaggio come bozza, comportava un ridimensionamento dell'immagine.
+- È stato risolto un problema che causava il cambiamento del corpo di un messaggio NDR da Unicode a ASCII dopo aver modificato l'oggetto.
 
 ### <a name="project"></a>Project
 
-- È stato risolto un problema a causa del quale i collegamenti di Project Planner negli ambienti cloud della community pubblica sono stati disabilitati.
+- È stato risolto un problema per cui i collegamenti di Project Planner negli ambienti Government Community Cloud erano stati disabilitati.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
-- È stato risolto un problema a causa del quale il testo inserito in un formato SVG (Scalable Vector Graphic) era illeggibile dopo l'inserimento di un file di Word, Excel o PowerPoint, il salvataggio e la chiusura del file e quindi la riapertura del file.
+- È stato risolto un problema per cui il testo inserito in un file SVG (Scalable Vector Graphics) era illeggibile dopo averlo inserito in un file di Word, Excel o PowerPoint, salvando e chiudendo il file e successivamente riaprendo il file.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2007-june-19"></a>Versione 2007:19 giugno
-*Versione 2007 (Build 13012,20000)*
+## <a name="version-2007-june-19"></a>Versione 2007: 19 giugno
+*Versione 2007 (Build 13012.20000)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
 
-- È stato risolto un problema per il quale CustomUI XML per una scheda della barra multifunzione personalizzata è stato rimosso quando si salva una cartella di lavoro in SharePoint/OneDrive.
-- È stato risolto un problema a causa del quale le cartelle di lavoro sono di sola lettura quando il file è stato consigliato solo in sola lettura.
+- È stato risolto un problema per il quale la scheda della barra multifunzione di CustomUI per una barra multifunzione era rimossa durante il salvataggio di una cartella di lavoro su SharePoint/OneDrive.
+- È stato risolto un problema per cui le cartelle di lavoro erano di sola lettura quando per il file era soltanto consigliata sola lettura.
 
 ### <a name="outlook"></a>Outlook
 
-- È stato risolto un problema a causa del quale la finestra IME (Input Method Editor) avrebbe sovrapposto il testo sottostante immesso tramite l'IME quando si utilizzano più monitor con risoluzioni diverse.
-- È stato risolto un problema che causava la possibilità per gli utenti di visualizzare il seguente errore durante la chiusura di un appuntamento precedentemente salvato: "l'elemento non può essere salvato perché è stato modificato da un altro utente o in un'altra finestra. Si desidera creare una copia nella cartella predefinita per l'elemento? "
-- È stato risolto un problema a causa del quale le date nel calendario Mini non sono state visualizzate in grassetto per gli utenti in Giappone.
-- È stato risolto un problema che impediva ai promemoria del calendario di mostrare gli orari esatti per le riunioni in arrivo in meno di una settimana.
+- È stato risolto un problema per cui la finestra IME (Input Method Editor) si sovrapponeva al testo sottostante immesso dall'IME quando si usavano più monitor con risoluzioni diverse.
+- È stato risolto un problema per cui gli utenti visualizzavano il seguente errore seguente quando chiudevano un appuntamento salvato in precedenza: "non è possibile salvare l'elemento perché è stato modificato da un altro utente o in un'altra finestra. Si vuole creare una copia nella cartella predefinita per l'elemento? "
+- È stato risolto un problema per cui le date nel mini calendario non erano visualizzate in grassetto per gli utenti in Giappone.
+- È stato risolto un problema che impediva ai promemoria del calendario di mostrare le ore esatte per le riunioni da tenersi in meno di una settimana.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- È stato risolto un problema a causa del quale l'indicatore di colore della presenza di un utente non è stato aggiornato nella raccolta condivisa durante una sessione di creazione condivisa in tempo reale.
+- È stato risolto un problema per cui l'indicatore di colore di presenza di un utente non si aggiornava nella raccolta condivisa durante una sessione di creazione condivisa in tempo reale.
 
 ### <a name="project"></a>Project
 
-- È stato risolto un problema a causa del quale, se le attività a durata fissa sono al 100% complete ma la finitura effettiva non è specificata, l'attività% completata verrebbe visualizzata come meno del 100%.
+- È stato risolto un problema per cui, se le attività a durata fissa sono al 100% complete ma il completamento effettivo non è specificato, l'attività % di completamento era visualizzata come inferiore al 100%.
 
 ### <a name="word"></a>Word
 
-- È stato risolto un problema a causa del quale il colore del collegamento ipertestuale HTML non è stato eseguito correttamente.
+- È stato risolto un problema per cui non era eseguito il rendering del colore del collegamento ipertestuale HTML.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
-- È stato risolto un problema a causa del quale gli URL non basati su http o HTTPS non venivano visualizzati nell'elenco utilizzato più di recente.
+- È stato risolto un problema per cui non erano visualizzati URL non basati su http o https nell'elenco di file usati di recente.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2007-june-12"></a>Versione 2007:12 giugno
-*Versione 2007 (Build 13006,20002)*
+## <a name="version-2007-june-12"></a>Versione 2007: 12 giugno
+*Versione 2007 (Build 13006.20002)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Ottenere i dati dell'organizzazione da Power bi usando i tipi di dati:** I tipi di dati di Excel di Power BI sono ora disponibili per gli addetti alle attività nelle organizzazioni con Office 365 E5/A5 o Microsoft 365 E5/A5. Ottenere le informazioni necessarie e aggiornare facilmente è fondamentale per molti flussi di lavoro giornalieri. È possibile accedere alla propria azienda o alle informazioni dell'organizzazione da Power BI come tipo di dati in Excel, aumentando così la possibilità di inserire informazioni collegate nei fogli di calcolo. [Altre informazioni](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Accedere ai dati dell'organizzazione da Power BI usando i tipi di dati:** i tipi di dati di Excel di Power BI sono ora distribuiti ai partecipanti al programma Office Insider nelle organizzazioni con Office 365 E5/A5 o Microsoft 365 E5/A5. Ottenere le informazioni necessarie e aggiornarle con facilità è fondamentale per molti flussi di lavoro quotidiani. In Excel è possibile accedere alle informazioni della società o dell'organizzazione da Power BI come tipo di dati, in modo da espandere la tua capacità di inserire informazioni collegate nei fogli di calcolo. [Altre informazioni](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -166,41 +188,41 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="access"></a>Access
 
-- È stato risolto un problema a causa del quale non è stato possibile identificare una colonna Identity in una tabella collegata di SQL Server, in modo che le righe venissero segnalate come eliminate erroneamente.
+- È stato risolto un problema che impedisce a Microsoft Access di identificare una colonna Identity in una tabella collegata di SQL Server, che poteva causare la segnalazione delle righe in modo non corretto.
 
 ### <a name="excel"></a>Excel
 
-- È stato risolto un problema a causa del quale non è stato possibile formattare correttamente le linee griglia principali dei grafici radar.
+- È stato risolto un problema per cui le linee principali della griglia dei grafici radar non potevano essere formattate correttamente.
 
 ### <a name="project"></a>Project
 
-- È stato risolto un problema a causa del quale l'evento ProjectBeforeTaskChange non è stato attivato quando è stata apportata una modifica all'attività di riepilogo del progetto, ovvero il campo inizio/attività del progetto.
-- È stato risolto un problema a causa del quale un aggiornamento di base o reimpostazione della previsione potrebbe modificare le risorse del costo e del lavoro preventivate in termini di tempo e la previsione potrebbe rispecchiare valori di budget non corretti
+- È stato risolto un problema per cui non era possibile eseguire l'evento ProjectBeforeTaskChange quando era apportata una modifica all'attività di riepilogo del progetto, sia inizio progetto che campo delle attività.
+- È stato risolto un problema per cui una reimpostazione o aggiornamento di una linea di base poteva cambiare il costo del budget o le risorse lavoro a scala cronologica e la linea di base rifletteva valori di budget non corretti.
 
 ### <a name="word"></a>Word
 
-- È stato risolto un problema a causa del quale la possibilità di cancellare la formattazione all'interno del riquadro dei commenti tramite il pulsante Pulisci formattazione nella barra multifunzione di Office non funzionava.
-- È stato risolto un problema a causa del quale la modifica delle dimensioni di una tabella quando il righello non è visualizzato ha causato il lampeggio di altre applicazioni in esecuzione in background.
-- È stato risolto un problema a causa del quale, in modalità di creazione condivisa, le risposte ai commenti a volte non vengono visualizzate nel riquadro osservazioni, ma sono visibili nel riquadro revisioni.
-- È stato risolto un problema a causa del quale se Word disponeva di un elenco di più di 50 documenti aperti di frequente, dopo aver salvato e aperto un documento, viene visualizzata una cronologia delle revisioni anche se non sono state apportate revisioni al documento.
+- È stato risolto un problema per cui la possibilità di cancellare la formattazione nel riquadro commenti con il pulsante Cancella formattazione sulla barra multifunzione di Office non funzionava.
+- È stato risolto un problema per cui si modificavano le dimensioni di una tabella quando il righello non veniva visualizzato e le altre applicazioni eseguite in background iniziavano a lampeggiare.
+- È stato risolto un problema per cui, in modalità di creazione condivisa, le risposte ai commenti non venivano talvolta visualizzate nel riquadro commenti ma erano visibili nel riquadro revisioni.
+- È stato risolto un problema per cui, se Word includeva un elenco di più di 50 documenti aperti di frequente, dopo il salvataggio e l'apertura di un documento veniva visualizzata la cronologia delle revisioni, anche se non erano state apportate revisioni al documento.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2006-june-05"></a>Versione 2006:05 giugno
-*Versione 2006 (Build 13001,20002)*
+## <a name="version-2006-june-05"></a>Versione 2006: 5 giugno
+*Versione 2006 (Build 13001.20002)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Ordina/filtra durante la collaborazione in Excel:** È ora possibile ordinare e filtrare il file di Excel durante la collaborazione con altri utenti. Questa nuova funzionalità impedisce l'impatto degli ordinamenti e dei filtri di altri utenti durante la CoAuthoring del documento.
+- **Ordinare/filtrare mentre si collabora in Excel:** è ora possibile ordinare e filtrare il file di Excel mentre si collabora con altri utenti. Questa nuova caratteristica evita che i tipi e i filtri di altri utenti siano d’impatto durante la creazione condivisa del documento.
 
-- **Creare tabelle pivot da DataSet in Power bi all'interno di Excel:** È possibile creare tabelle pivot in Excel connesse a DataSet archiviati in Power BI con pochi clic.In questo modo è possibile ottenere il meglio di entrambe le tabelle pivot e Power BI. Calcolare, riepilogare e analizzare i dati con tabelle pivot dai DataSet di sicurezza Power BI. [Altre informazioni](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Creare tabelle pivot da set di documenti in Power BI all'interno di Excel:** è possibile creare tabelle pivot in Excel connesse ai set di documenti archiviati in Power BI in pochi click. Questa operazione consente di sfruttare al meglio sia le tabelle pivot che Power BI. Calcola, riepiloga e analizza i tuoi dati con le tabelle pivot dai set di dati sicuri di Power BI. [Altre informazioni](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
-- **Riaprire rapidamente gli elementi dalla sessione precedente:** È stata aggiunta un'opzione per riaprire rapidamente gli elementi da una sessione di Outlook precedente. Se Outlook si arresta in modo anomalo o lo Chiudi, sarà possibile rilanciare rapidamente gli elementi quando si riapre l'app. Questa funzionalità è attiva per impostazione predefinita. Per disattivarla, passare a opzioni > opzioni generali > avvio.
+- **Riaprire rapidamente gli elementi dalla sessione precedente:** è stata aggiunta un'opzione per riaprire rapidamente gli elementi da una sessione di Outlook precedente. Se Outlook si arresta in modo anomalo o lo chiudi, è possibile rilanciare rapidamente gli elementi quando si riapre l'app. Questa funzionalità è attivata per impostazione predefinita. Per disattivarla, vai a Opzioni > Generale > Opzioni di avvio.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -212,98 +234,98 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
 
-- È stato risolto un problema a causa del quale i valori personalizzati sull'asse del grafico non vengono applicati correttamente.
-- È stato risolto un problema a causa del quale i fogli di lavoro contenenti più formule con nomi definiti risultavano più volte durante il salvataggio dei file.
+- È stato risolto un problema per cui i valori personalizzati sull'asse del grafico non venivano applicati correttamente.
+- È stato risolto un problema per cui i fogli di lavoro contenenti più formule con nomi definiti richiedevano tempi più lunghi per il salvataggio dei file.
 
 ### <a name="outlook"></a>Outlook
 
-- È stato risolto un problema a causa del quale la finestra IME (Input Method Editor) potrebbe sovrapporsi al testo sottostante immesso tramite l'IME quando si utilizzano più monitor con risoluzioni diverse.
-- È stato risolto un problema a causa del quale la visualizzazione di un modello durante la composizione di un nuovo messaggio di posta elettronica potrebbe causare un arresto anomalo.
-- È stato risolto un problema a causa del quale gli utenti non sono stati in grado di scambiare cartelle pubbliche 2010 dopo Outlook versione 1911.
-- È stato risolto un problema a causa del quale il pulsante categorizza per i calendari di gruppo nella barra multifunzione di Office è stato disabilitato.
-- È stato risolto un problema che causava arresti anomali in Outlook da parte di utenti con contatti in conflitto.
-- È stato risolto un problema che ha portato all'elenco a discesa Archivio online nelle proprietà delle cartelle di essere mancanti per gli utenti su monitor DPI elevati.
-- È stato risolto un problema che causava la verifica di un arresto anomalo di Outlook quando si utilizzano collegamenti ipertestuali nei messaggi di posta elettronica di testo normale.
-- È stato risolto un problema per il quale Outlook non è stato in grado di analizzare i nomi di file lunghi codificati con RFC2231.
-- È stato risolto un problema che causava l'intermittenza degli utenti di Outlook durante l'utilizzo di screen reader.
+- È stato risolto un problema per cui la finestra IME (Input Method Editor) si sovrapponeva al testo sottostante immesso dall'IME quando si usavano più monitor con risoluzioni diverse.
+- È stato risolto un problema per cui la visualizzazione di un modello durante la composizione di un nuovo messaggio di posta elettronica causava un arresto anomalo.
+- È stato risolto un problema per cui gli utenti non erano in grado di eseguire le cartelle pubbliche di Exchange 2010 dopo Outlook versione 1911.
+- È stato risolto un problema per cui il pulsante Categorizza per i calendari di gruppo sulla barra multifunzione di Office era disabilitato.
+- È stato risolto un problema che causava l'arresto anomalo degli utenti con contatti in conflitto in Outlook.
+- È stato risolto un problema che causava il mancato recapito nell'elenco a discesa Archivio online nelle proprietà della cartella per gli utenti di monitor con valori DPI elevati.
+- È stato risolto un problema che causava l’arresto anomalo di Outlook quando si lavorava con collegamenti ipertestuali nei messaggi di posta elettronica in testo normale.
+- È stato risolto un problema che causava la possibilità di analizzare nomi file lunghi codificati con RFC2231.
+- È stato risolto un problema che causava blocchi intermittenti di Outlook quando si usavano le utilità per la lettura dello schermo.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- È stato risolto un problema relativo all'apertura di file configurati dal server con l'autenticazione basata su moduli.
-- È stato risolto un problema a causa del quale i file di PowerPoint con grafici o cartelle di lavoro incorporati potrebbero causare errori durante il salvataggio del file.
-- È stato risolto un problema a causa del quale un riquadro dei commenti chiuso dall'utente avrebbe riaperto automaticamente.
-- È stato risolto un problema a causa del quale l'editor diapositive di una diapositiva verrebbe sovrapposto alla diapositiva successiva.
+- È stato risolto un problema con l'apertura di file configurati dal server con l'autenticazione basata su moduli.
+- È stato risolto un problema per cui i file di PowerPoint con grafici o cartelle di lavoro incorporate potevano causare errori durante il salvataggio del file.
+- È stato risolto un problema per cui un riquadro commenti che era stato chiuso dall'utente veniva riaperto automaticamente.
+- È stato risolto un problema per cui l'editor di diapositive di una diapositiva si sovrapponeva alla diapositiva successiva.
 
 ### <a name="project"></a>Project
 
-- È stato risolto un problema che impediva l'eliminazione o la riassegnazione delle attività orfane dopo l'eliminazione del piano padre.
+- Abbiamo risolto un problema che impediva l'eliminazione o la riassegnazione di attività orfane dopo l'eliminazione del piano padre.
 
 ### <a name="word"></a>Word
 
-- È stato risolto un problema a causa del quale i timestamp nei riquadri dei commenti non erano basati sull'ora locale del sistema.
-- È stato risolto un problema a causa del quale i commenti tra l'app Web e l'applicazione desktop non erano sincronizzati.
+- È stato risolto un problema per cui i timestamp nei riquadri dei commenti non erano basati sull'ora locale di sistema.
+- È stato risolto un problema per cui i commenti tra l'app Web e l'applicazione desktop non erano sincronizzati.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-## <a name="version2006may29"></a>Versione 2006:29 maggio
-*Versione 2006 (Build 12920,20000)*
+## <a name="version2006may29"></a>Versione 2006: 29 maggio
+*Versione 2006 (Build 12920.20000)*
 
 ### <a name="featureupdates"></a>Aggiornamenti delle funzionalità
 ### <a name="outlook"></a>Outlook
 
-- **Pulsanti aggiuntivi aggiunti alle notifiche di toast di Outlook:** I pulsanti azione rapida vengono ora visualizzati nelle notifiche di toast di Outlook durante l'esecuzione di Outlook su Windows 10.
+- **Altri pulsanti aggiunti agli avvisi popup di Outlook:** i pulsanti di azione rapida sono ora visualizzati negli avvisi popup di Outlook quando si esegue Outlook in Windows 10.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Prestazioni video del flusso migliorate in PowerPoint:** Sono stati apportati miglioramenti alle prestazioni di riproduzione dei video di Microsoft Stream per ridurre al minimo il tempo di caricamento del video e creare un'esperienza di visualizzazione uniforme.  Utilizzare i video aziendali da Microsoft Stream per creare presentazioni migliori.
+- **Prestazioni di video Stream migliorate in PowerPoint:** sono stati apportati miglioramenti alle prestazioni di riproduzione dei video di Microsoft Stream per ridurre al minimo i tempi di caricamento dei video e creare un'esperienza di visualizzazione fluida.  I video aziendali su Microsoft Stream consentono di creare presentazioni migliori.
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolvedissues"></a>Problemi risolti
 
 ### <a name="excel"></a>Excel
 
-- È stato risolto un problema a causa del quale Excel veniva interrotto occasionalmente durante l'esecuzione di OneDrive.
-- È stato risolto un problema a causa del quale facendo clic su un collegamento ipertestuale segnalibro all'interno della stessa cartella di lavoro verrebbe nascosta la cartella di lavoro.
-- È stato risolto un problema a causa del quale alcuni collegamenti di copia e incolla del grafico hanno utilizzato indirizzi di unità mappati piuttosto che indirizzi universali.
-- È stato risolto un problema a causa del quale Excel potrebbe non rispondere dopo aver usato CTRL + MAIUSC + tasti di direzione per scorrere quando la finestra di Excel è stata condivisa tramite Team.
+- È stato risolto un problema che causava l’arresto occasionale di Excel durante l'interazione con OneDrive.
+- È stato risolto un problema per cui il foglio di lavoro veniva nascosto nel momento in cui si faceva clic su un collegamento ipertestuale con segnalibro all’interno dello stesso foglio di lavoro.
+- È stato risolto un problema per cui alcuni collegamenti a grafici copiati e incollati usavano indirizzi di unità mappata invece che indirizzi universali.
+- È stato risolto un problema per cui Excel smetteva di funzionare dopo avere premuto i tasti CTRL+MAIUSC+Freccia per scorrere, quando la finestra di Excel era condivisa attraverso Teams.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- È stato risolto un problema a causa del quale le diapositive non sono state centrate dopo lo zoom tramite la rotellina del mouse.
+- È stato risolto un problema per cui le diapositive non erano centrate dopo l'ingrandimento con la rotellina del mouse.
 
 ### <a name="word"></a>Word
 
-- È stato risolto un problema a causa del quale la copia e incolla di testo in un riquadro dei commenti non viene visualizzata.
-- È stato risolto un problema a causa del quale le bolle del suggerimento di commento sono apparse sfocate al 100%.
-- È stato risolto un problema a causa del quale l'attivazione dei documenti e modelli binari di Word 2007 e versioni successive avrebbe causato l'esito negativo di alcuni casi di creazione condivisa.
-- È stato risolto un problema a causa del quale i file con nomi di percorsi lunghi (maggiori di 32K) non venivano aperti e non veniva visualizzato un messaggio di errore appropriato.
+- È stato risolto un problema per cui non era possibile visualizzare e incollare il testo in un riquadro dei commenti.
+- È stato risolto un problema per cui le bolle di suggerimenti per i commenti apparivano sfocate al 100% di zoom.
+- È stato risolto un problema per cui l'abilitazione dei documenti e dei modelli binari di Word 2007 e successivi causava il fallimento di alcuni casi di creazione condivisa.
+- È stato risolto un problema per cui i file con nomi di percorso lunghi, maggiore di 32K, non si aprivano e non veniva visualizzato un messaggio di errore appropriato.
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-## <a name="version-2006-may-22"></a>Versione 2006:22 maggio
-*Versione 2006 (Build 12914,20000)*
+## <a name="version-2006-may-22"></a>Versione 2006: 22 maggio
+*Versione 2006 (Build 12914.20000)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Salva in cartelle** bloccate: Pin le cartelle rende più semplice il salvataggio dei file di Office. Sono stati ricevuti commenti e suggerimenti per gli utenti che desiderano un maggiore controllo sulle cartelle disponibili quando viene salvato un nuovo file. Siamo lieti di offrirti una nuova funzionalità: Aggiungi le tue cartelle nella finestra di dialogo Salva. Questa nuova funzionalità renderà più semplice il salvataggio dei file Word, Excel e PowerPoint.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office. Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Salva in cartelle** bloccate: Pin le cartelle rende più semplice il salvataggio dei file di Office. Sono stati ricevuti commenti e suggerimenti per gli utenti che desiderano un maggiore controllo sulle cartelle disponibili quando viene salvato un nuovo file. Siamo lieti di offrirti una nuova funzionalità: Aggiungi le tue cartelle nella finestra di dialogo Salva. Questa nuova funzionalità renderà più semplice il salvataggio dei file Word, Excel e PowerPoint.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office. Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Salva in cartelle** bloccate: Pin le cartelle rende più semplice il salvataggio dei file di Office. Sono stati ricevuti commenti e suggerimenti per gli utenti che desiderano un maggiore controllo sulle cartelle disponibili quando viene salvato un nuovo file. Siamo lieti di offrirti una nuova funzionalità: Aggiungi le tue cartelle nella finestra di dialogo Salva. Questa nuova funzionalità renderà più semplice il salvataggio dei file Word, Excel e PowerPoint.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office. Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -314,35 +336,35 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
 
-- È stato risolto un problema a causa del quale il messaggio di errore: "questa cartella di lavoro è attualmente referenziata da un altro e non può essere chiuso" verrebbe visualizzato perché i componenti aggiuntivi venivano caricati in ordine alfabetico anziché in un ordine specificato dall'utente.
-- È stato risolto un problema a causa del quale la memoria veniva danneggiata durante la gestione dei tipi di carattere tra Excel e alcune applicazioni tecnologiche di terze parti.
-- È stato risolto un problema a causa del quale Excel si arresta in modo anomalo quando i componenti aggiuntivi richiedono l'aggiunta di elementi host nei fogli di lavoro che contengono forme con blocchi noselect.
+- È stato risolto un problema per cui compariva il messaggio di errore "La cartella di lavoro è attualmente consultata da un altro utente e non può essere chiusa", perché i componenti aggiuntivi erano caricati in ordine alfabetico invece che secondo un ordine specificato dall'utente.
+- È stato risolto un problema di danneggiamento della memoria connesso con la gestione dei caratteri tra Excel e alcune applicazioni di Assistive Technology di terze parti.
+- È stato risolto un problema che causava l’arresto anomalo di Excel quando i componenti aggiuntivi richiedevano elementi host su un foglio di lavoro contenente forme con blocchi noSelect.
 
 ### <a name="outlook"></a>Outlook
 
-- È stato risolto un problema a causa del quale l'evento Folder. BeforeItemMove non è stato attivato correttamente quando un utente ha spostato gli elementi tra le cartelle.
-- È stato risolto un problema in cui gli utenti hanno visto gli elementi del calendario che hanno attraversato la soglia di mezzanotte come tutti gli eventi giornalieri.
-- È stato risolto un problema a causa del quale Outlook si è schiantato quando due componenti aggiuntivi hanno aggiunto un pulsante allo stesso gruppo della barra multifunzione.
-- È stato risolto un problema a causa del quale gli utenti non sono stati in grado di condividere un calendario con un utente ospite.
+- È stato risolto un problema a causa del quale l’evento Folder.BeforeItemMove non si attivava correttamente quando un utente spostava elementi tra le cartelle.
+- È stato risolto un problema per cui gli utenti vedevano elementi del calendario che duravano oltre la mezzanotte come Eventi a giornata intera.
+- È stato risolto un problema relativo all'arresto anomalo di Outlook quando due componenti aggiuntivi aggiungevano un pulsante allo stesso gruppo sulla barra multifunzione.
+- È stato risolto un problema che impediva agli utenti di condividere un calendario con un utente guest.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- È stato risolto un problema a causa del quale lo zoom all'interno e all'esterno dell'area di presentazione ha determinato una lacuna tra il riquadro di selezione ingrandita e il puntatore del mouse.
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
 
 ### <a name="project"></a>Project
 
-- È stato risolto un problema a causa del quale il progetto si bloccava dopo aver fatto clic su opzioni.
+- È stato risolto un problema per cui Project si arrestava in modo anomalo dopo aver fatto clic su Opzioni.
 
 ### <a name="word"></a>Word
 
-- È stato risolto un problema a causa del quale i collegamenti ipertestuali nei commenti non funzionavano.
-- È stato risolto un problema a causa del quale lo zoom all'interno e all'esterno dell'area di presentazione ha determinato una lacuna tra il riquadro di selezione ingrandita e il puntatore del mouse.
-- È stato risolto un problema a causa del quale l'incollamento del codice HTML in WordMail per il calendario non funzionava.
-- È stato risolto un problema a causa del quale la risposta a un commento in una sessione condivisa potrebbe causare il blocco di Word.
+- È stato risolto un problema per cui i collegamenti ipertestuali nei commenti non funzionavano.
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+- È stato risolto un problema per cui incollare HTML in WordMail per il Calendario non funzionava.
+- È stato risolto un problema per cui la risposta a un commento in una sessione condivisa in alcuni casi causava il blocco di Word.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2006-may-15"></a>Versione 2006:15 maggio
+## <a name="version-2006-may-15"></a>Versione 2006: 15 maggio
 *Versione 2006 (Build 12905.20000)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -350,19 +372,19 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Creare una connessione PDF:** Connettersi a, importare, aggiornare i dati da un file PDF. [Altre informazioni](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+- **Creare una connessione PDF:** connettersi a, importare, aggiornare i dati da un file PDF. [Altre informazioni](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
 ### <a name="outlook"></a>Outlook
 
-- **Trovare solo ciò che è necessario:** Restringere la ricerca con opzioni quali cartella, mittente, data, informazioni sugli allegati e altro ancora.
+- **Trovare solo quello che serve:** è possibile restringere la ricerca con opzioni come cartelle, mittente, data, info allegati e altro ancora.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Non c'è bisogno di un clicker: gli auricolari sono stati coperti:** Utilizzare gli auricolari di superficie per controllare le presentazioni di PowerPoint. Importante: è necessario associare gli auricolari di superficie all'app Surface audio per Windows 10 per utilizzare gesti per controllare le presentazioni. Le istruzioni per iniziare a usare l'app Surface audio su Windows 10 sono disponibili qui. [Altre informazioni](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **Non c'è bisogno del clicker grazie agli auricolari:** i Surface Earbuds permettono di controllare le presentazioni di PowerPoint. Importante: per usare i gesti per controllare le presentazioni è necessario associare gli auricolari Surface Earbuds nell'app Surface Audio per Windows 10. Le istruzioni per iniziare a usare l'app Surface Audio in Windows 10 sono disponibili qui. [Altre informazioni](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="word"></a>Word
 
-- **Applica automaticamente o consiglia etichette di sensibilità:** Office è in grado di consigliare o applicare automaticamente un'etichetta di riservatezza in base al contenuto sensibile rilevato.
+- **Applicare automaticamente o consigliare etichette sulla riservatezza:** Office può consigliare o applicare automaticamente un'etichetta sulla riservatezza in base al contenuto sensibile rilevato.
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -373,22 +395,22 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 ### <a name="resolved-issues"></a>Problemi risolti
 
 ### <a name="excel"></a>Excel
-- È stato risolto un problema che ha determinato un miglioramento del tempo delle prestazioni per gli utenti quando hanno eliminato le colonne unite.
-- <div>È stato risolto un problema che causava la duplicazione dei nomi della stampante nell'elenco delle stampanti disponibili.</div>
+- È stato risolto un problema che produceva tempi di prestazioni migliorati quando gli utenti eliminavano le colonne combinate.
+- <div>È stato risolto un problema che causava la duplicazione dei nomi delle stampanti nell'elenco delle stampanti disponibili.</div>
 
 ### <a name="powerpoint"></a>PowerPoint
-- È stato risolto un problema a causa del quale i tasti di scelta rapida e il controllo ortografico non funzionano come previsto quando si utilizza una tastiera inglese Svizzera (QWERTZ).
+- È stato risolto un problema per cui le scelte rapide da tastiera e il controllo ortografico non funzionavano come previsto quando si usava una tastiera svizzera inglese (QWERTZ).
 
 ### <a name="word"></a>Word
-- È stato risolto un problema a causa del quale l'aggiunta di un nuovo commento su un documento vuoto non avrebbe fatto nulla.
-- È stato risolto un problema a causa del quale l'inserimento o l'aggiornamento di un indice in un documento contenente più di un centinaio di voci comporterebbe l'arresto anomalo dell'applicazione.
-- È stato risolto un problema a causa del quale i file con valori XML personalizzati sono stati aperti molto lentamente.
+- È stato risolto un problema per cui non era possibile aggiungere un nuovo commento in un documento vuoto.
+- È stato risolto un problema per cui l'inserimento o l'aggiornamento di un indice in un documento contenente più di cento voci comportava l'arresto anomalo dell'applicazione.
+- È stato risolto un problema per cui i file con valori XML personalizzati si aprivano in modo estremamente lento.
 
-### <a name="office-suite"></a>Applicazioni Office
-- È stato risolto un problema in Visual Basic, Applications Edition in Microsoft Office, in cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel percorso della raccolta o nella raccolta vengono visualizzati dall'applicazione di Office come danneggiati al caricamento.
+### <a name="office-suite"></a>Famiglia di prodotti Office
+- È stato risolto un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati durante il caricamento.
 
 
-[//]: # (NON RIMUOVERE FINE DEL CONTENUTO DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
 
@@ -538,7 +560,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 - È stato risolto un problema per cui Project può arrestarsi in modo anomalo quando si cambia il campo Stato bacheca in un progetto connesso a un elenco attività di SharePoint.
 - È stato risolto un problema per cui Project può arrestarsi in modo anomalo quando si salvano progetti creati con versioni precedenti.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
 ## <a name="version-2004-april-10"></a>Versione 2004: 10 aprile
@@ -663,7 +685,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 ### <a name="word"></a>Word
 - Questa modifica risolve un problema per cui selezionando più pagine selezionata nel menu Visualizza, il riquadro Commenti poteva apparire vuoto.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-march-20"></a>Versione 2004: 20 marzo
 *Versione 2004 (Build 12711.20000)*
@@ -732,7 +754,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema per cui le firme digitali salvate nei documenti di Word venivano rimosse al momento dell'invio dei documenti.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-march-13"></a>Versione 2004: 13 marzo
 *Versione 2004 (Build 12703.20010)*
@@ -849,7 +871,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema per cui non era possibile salvare un file protetto in precedenza da password, in uno spazio di archiviazione cloud.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
 
@@ -861,7 +883,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - **Selezionare il colore perfetto:** usare i codici colore esadecimali per scegliere esattamente il colore desiderato per il tipo di carattere, l’evidenziatore del testo e altro ancora.
 
@@ -889,10 +911,10 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 - È stato risolto un problema per cui le schede di commento non venivano sempre evidenziate quando si passava il puntatore del mouse su di esse.
 - Durante una sessione di creazione condivisa di documenti attiva, l'aggiunta diretta di un'immagine in una scheda di commento può comportare l'aggiunta di un contrassegno. Questo problema è stato risolto.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 - Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-february-14"></a>Versione 2003: 14 febbraio
 *Versione 2003 (Build 12607.20000)*
@@ -937,7 +959,7 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 
 - È stato risolto un problema a causa del quale le immagini nei documenti perdono la trasparenza quando vengono esportate in PDF.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-february-07"></a>Versione 2002: 7 febbraio
 *Versione 2002 (Build 12527.20040)*
@@ -999,5 +1021,6 @@ In questo articolo sono contenute le note sulla versione per le build di canale 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-[//]: # (NON MODIFICARE L'INIZIO DEL CONTENUTO DEI METADATI DELL'INTERFACCIA DI AMMINISTRAZIONE)
-[//]: # (NON MODIFICARE L'ESTREMITÀ DEL CONTENUTO DEI METADATI DELL'INTERFACCIA DI AMMINISTRAZIONE)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
