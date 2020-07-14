@@ -1,5 +1,5 @@
 ---
-title: Note sulla versione per le versioni di Channel Enterprise (Preview) semestrali in 2020
+title: Note sulla versione per i rilasci del Canale Enterprise semestrale (Anteprima) nel 2020
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale (mirato) per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: be72a3d95178f0fde5bbe48428abb0895d5afefd
-ms.sourcegitcommit: cc48ae789324e085a976c3a7a388353447b10d42
-ms.translationtype: MT
+description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale (mirato) per Microsoft 365 Apps nel 2020
+ms.openlocfilehash: 56aaac765769b1c132fb75d318baa1947ba90b4e
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44724963"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121766"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Note sulla versione per le versioni di Channel Enterprise (Preview) semestrali in 2020
+# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Note sulla versione per i rilasci del Canale Enterprise semestrale (Anteprima) nel 2020
 
-Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del canale semestrale (Preview) in 2020 per le app di Microsoft 365 per Enterprise, Microsoft 365 Apps for business e le versioni di sottoscrizione delle app desktop per Project e Visio.
+Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del Canale Enterprise semestrale (Anteprima) nel 2020 per Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business e delle versioni in abbonamento delle app desktop per Project e Visio.
 
 > [!IMPORTANT]
-> Apporteremo alcune modifiche ai canali di aggiornamento per App di Microsoft 365, tra cui l'aggiunta di un nuovo canale di aggiornamento (canale mensile Enterprise) e la modifica dei nomi dei canali di aggiornamento già presenti. Per altre informazioni, [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
 
 
 ## <a name="version-2002-june-09"></a>Versione 2002: giugno 09
-*Versione 2002 (Build 12527,20720)*
+*Versione 2002 (Build 12527.20720)*
 
-Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -35,9 +35,9 @@ Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
 
-- Risolto un problema a causa del quale il collegamento esterno ha smesso di funzionare dopo che il file è stato riaperto se il percorso del file è troppo lungo.
+- È stato risolto un problema relativo al mancato funzionamento del collegamento esterno in seguito alla riapertura del file in caso di percorso del file troppo lungo.
 
-- Risolto un problema a causa del quale Excel non rispondeva dopo aver usato CTRL + MAIUSC + tasti di direzione per scorrere quando la finestra di Excel è condivisa tramite Team.
+- È stato risolto un problema per cui Excel smetteva di funzionare dopo avere premuto i tasti CTRL+MAIUSC+Freccia per scorrere, quando la finestra di Excel era condivisa attraverso Teams.
 
 - È stato risolto un problema relativo al ridimensionamento delle caselle di controllo nei controlli modulo al momento della stampa.
 
@@ -45,17 +45,17 @@ Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com
 
 - L'inserimento di una colonna in un elenco filtrato richiedeva più tempo del previsto.
 
-- Risolto un problema a causa del quale un simbolo @ che inizia una formula verrebbe considerato un operatore di intersezione implicito.
+- È stato risolto un problema per cui un simbolo @ che avvia una formula verrebbe considerato come operatore di intersezione implicito.
 
 ### <a name="outlook"></a>Outlook
 
-- Consente di partecipare a una riunione di teams direttamente tramite il client di Team nativi.
+- Consente di partecipare a una riunione di Teams direttamente tramite il client nativo teams.
 
-- Risolto un problema a causa del quale Outlook non è stato in grado di abilitare i criteri di protezione dalla perdita dei dati per gli utenti che hanno pagato il servizio che si trovano in M365 Business Plus plans.
+- È stato risolto un problema per cui Outlook non riusciva ad abilitare i Criteri predefiniti di prevenzione della perdita dei dati per gli utenti che avevano pagato il servizio nell’ambito del piano M365 Business Plus.
 
-- Risolto un problema che causava l'impostazione di emulazione del browser non corretta quando non è possibile completare la richiesta di autenticazione per Gmail.
+- È stato risolto un problema che causava l'installazione errata dell'emulazione del browser nell'ambito del mancato completamento della richiesta di autenticazione di Gmail.
 
-- Risolto un problema che causava la verifica dell'errore da parte degli utenti di Outlook sui sistemi operativi del server, "stato antivirus: non valido. Questa versione di Windows supporta il rilevamento antivirus, ma non è stato trovato alcun antivirus "Nonostante sia stato configurato correttamente il virus anti.
+- È stato risolto un problema che restituiva agli utenti di Outlook sui sistemi operativi del server l'errore "stato antivirus: non valido. Questa versione di Windows supporta il rilevamento dei programmi antivirus, ma non è stato trovato alcun antivirus, anche se è stato configurato in modo appropriato.
 
 ### <a name="word"></a>Word
 
@@ -63,16 +63,16 @@ Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com
 
 ### <a name="office-suite"></a>Applicazioni Office
 
-- Questo problema è stato risolto aggiornando i nomi dei canali nei backstage ai nuovi nomi di canale nella forcella January 2020.
+- Il problema è stato risolto aggiornando i nomi dei canali nella visualizzazione backstage ai nuovi nomi dei canali nel fork 2020 gennaio.
 
-- Questo problema è stato risolto e in futuro, se un dispositivo è gestito da criteri, non chiamerà l'API del gruppo di destinatari DMS.
+- Il problema è stato risolto e in futuro, se un dispositivo viene gestito da criteri, non chiamerà l'API DMS Audience.
 
-- Risolto il problema in cui si è verificata una rimozione incompleta quando si aggiungono e si rimuovono app in una singola transazione.
+- È stato risolto il problema relativo alla rimozione incompleta nell'ambito dell'aggiunta e della rimozione di app in una singola operazione.
 
-- L'host di Office si stava bloccando in Windows, quando un componente aggiuntivo viene attivato mentre la chiave del registro di sistema HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth è impostata su zero. Questa modifica consente di risolvere il problema.
+- L'host di Office si arrestava in modo anomalo in Windows, quando veniva attivato un componente aggiuntivo mentre la chiave del registro di sistema HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth era impostata su zero. La modifica potrebbe risolvere il problema.
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUDGET DI FINE CONTENUTO)
+[//]: # (NON RIMUOVERE I DETTAGLI DEL BUG DI FINE CONTENUTO)
 
 ## <a name="version-2002-may-12"></a>Versione 2002: 12 maggio
 *Versione 2002 (Build 12527.20612)*
@@ -132,7 +132,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Questo aggiornamento consente di risolvere un problema di Microsoft Outlook che non visualizza l'etichetta di riservatezza corrente durante la visualizzazione o la creazione di messaggi.
 
-- Risolto un problema che indusse gli utenti a non essere in grado di risolvere i messaggi di posta elettronica in una lista di distribuzione personale.
+- È stato risolto un problema che impediva agli utenti di inviare messaggi di posta elettronica a una lista di distribuzione personale.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -273,13 +273,9 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Ottenere le statistiche sulla cartella di lavoro:** le statistiche della cartella di lavoro forniscono una panoramica del contenuto di una cartella di lavoro, per facilitarne la ricerca.
 
-
-
-
+- **Altre icone che corrispondono al proprio umore:** sono state aggiunte più di 300 nuove icone. Per scoprirle, scegliere Inserisci > Icone. [Altre informazioni](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="outlook"></a>Outlook
-
-
 
 - **Connessione della rete LinkedIn a Outlook:** connessione sicura degli account LinkedIn all'account Microsoft per visualizzare le informazioni dei profili LinkedIn direttamente nella scheda Utenti. [Altre informazioni](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -303,7 +299,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Vedere i messaggi sotto una luce diversa:** usare il pulsante Sole/Luna per utilizzare lo sfondo chiaro o lo sfondo scuro nel riquadro di lettura. [Altre informazioni](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-
+- **Altre icone che corrispondono al proprio umore:** sono state aggiunte più di 300 nuove icone. Per scoprirle, scegliere Inserisci > Icone. [Altre informazioni](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -311,13 +307,11 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Nuovi strumenti di correzione:** niente più preoccupazione per le parole. PowerPoint offre suggerimenti relativi a grammatica e ortografia. [Altre informazioni](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-
 - **Sottotitoli e sottotitoli in tempo reale:** le parole del relatore vengono visualizzate automaticamente sullo schermo come sottotitoli o tradotti in sottotitoli nella lingua scelta. [Altre informazioni](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
 - **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Trovare gli elementi cercati:** è possibile usare la casella di ricerca per eseguire ricerche relative a testo, comandi, guida e tanto altro ancora. [Altre informazioni](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
-
 
 - **Trovare e correggere titoli di diapositive mancanti:** i titoli delle diapositive ottimizzano la presentazione e rendono le diapositive accessibili per tutti gli utenti, anche con diverse abilità. L’opzione Verifica accessibilità mostra dove mancano i titoli in modo da aggiungerli in pochi secondi. [Altre informazioni](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -346,6 +340,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Convertire l'input penna a mano libera in forme, testo o equazioni matematiche in PowerPoint per Office 365:** è possibile passare dall'input penna a mano libera al testo, a un'espressione matematica o alle forme di Office, con un paio di tratti. [Altre informazioni](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Input penna per diapositive meravigliose:** è possibile convertire l'input penna in forme e testo standard e quindi ottenere idee di progettazione delle diapositive intelligenti da PowerPoint Designer. [Altre informazioni](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+
+- **Altre icone che corrispondono al proprio umore:** sono state aggiunte più di 300 nuove icone. Per scoprirle, scegliere Inserisci > Icone. [Altre informazioni](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="visio"></a>Visio
 
@@ -379,9 +375,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Possibilità di scegliere dove aprire i collegamenti:** è possibile scegliere come aprire i collegamenti a documenti di Office, ovvero nel browser o nell'app. [Altre informazioni](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
-- **Gli altri utenti possono visualizzare rapidamente le modifiche:** i miglioramenti della creazione condivisa indicano che i collaboratori possono visualizzare le modifiche in modo più veloce che mai.
-
-- **Miglioramenti alla creazione condivisa:** maggiore affidabilità durante la creazione condivisa.
+- **Miglioramenti alla creazione condivisa:** affidabilità migliore durante la creazione condivisa.
 
 - **Creare PDF più accessibili:** quando si crea un file PDF, la funzione Verifica accessibilità indica i problemi di accessibilità da correggere prima di salvare. [Altre informazioni](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
@@ -540,7 +534,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: &quot;Sono stati modificati gli stili, i blocchi predefiniti&quot;.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - Questa modifica risolve il rallentamento del rendering di alcuni grafici a dispersione con marcatori.
 
@@ -652,14 +646,18 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema che causava la creazione di schemi duplicati quando si copiava una diapositiva da una presentazione a un'altra.
 - Per i file con nuovi commenti moderni viene visualizzato un avviso di colore giallo se vengono aperti in una versione non supportata
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - È stato risolto un problema per cui i messaggi di aggiornamento di Office vengono visualizzati in una lingua diversa dal previsto. In futuro, i messaggi di aggiornamento di Office corrisponderanno correttamente alla lingua di visualizzazione di Windows.
 
 - È stato risolto un problema per cui, in alcuni casi, un aggiornamento non veniva applicato se l'utente non era un amministratore e non era disponibile la connettività di rete per l'account di sistema.
 
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 > [!NOTE]
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
+
+
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
