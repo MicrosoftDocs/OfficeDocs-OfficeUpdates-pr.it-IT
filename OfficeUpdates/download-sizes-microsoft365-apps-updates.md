@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: 8fd7abbc8ed7c24162c9daeef0d0a2fad8d05bab
-ms.sourcegitcommit: e94688d66388221a9ebd9d29f49487544da5cc49
+ms.openlocfilehash: ff7377974bb0cb152b1200b1d890c6dc7e3ae620
+ms.sourcegitcommit: 7759ec0cf20d53865fa24f5eb483392c9e9fa53b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083362"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45091052"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
@@ -38,9 +38,42 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 [//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
 
+## <a name="july-9-2020"></a>9 luglio 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canale Enterprise mensile
+
+<i>La versione prevista è la numero 2005 (Build 12827.20550).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2004 (Build 12730.20430) <br/> |9 giugno 2020 <br/> |174<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canale Enterprise semestrale (Anteprima)
+
+<i>La versione prevista è la numero 2002 (Build 12527.20880).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2002 (Build 12527.20720) <br/> |9 giugno 2020 <br/> |50<br/> |
+|Versione 2002 (Build 12527.20612) <br/> |12 maggio 2020 <br/> |59<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canale Enterprise semestrale
+
+<i>La versione prevista è la numero 2002 (Build 12527.20880).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 1908 (Build 11929.20838) <br/> |9 giugno 2020 <br/> |291<br/> |
+|Versione 1908 (Build 11929.20776) <br/> |12 maggio 2020 <br/> |291<br/> |
 
 
 [//]: # (NON RIMUOVERE FINE CONTENUTO DELLA PREVISIONE)
+
+
 
 
 ## <a name="june-30-2020"></a>30 giugno 2020

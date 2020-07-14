@@ -1,5 +1,5 @@
 ---
-title: Cronologia degli aggiornamenti per il canale corrente di Office (anteprima)
+title: Cronologia degli aggiornamenti del Canale corrente di Office (Anteprima)
 ms.author: anankani
 author: anankani
 manager: andrewmo
@@ -9,26 +9,26 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: f64aecd4727f710575d87312f00e4a65eb92ce72
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
-ms.translationtype: MT
+ms.openlocfilehash: cf1196ce142f481b62565cac610396c087e7c291
+ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889052"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45094656"
 ---
-# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Cronologia degli aggiornamenti per il canale corrente di Office (anteprima) per Windows
+# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Cronologia degli aggiornamenti del Canale corrente di Office (Anteprima) per Windows
 
-Hello, Insiders! Se si sta chiedendo se l'aggiornamento più recente è stato installato o se si sta cercando un elenco delle build recenti del canale corrente (Preview), si è nel posto giusto.
-Per ulteriori informazioni sul programma Insiders, fare clic [qui](https://insider.office.com/) .
+Per i partecipanti al programma Office Insider Qui si può determinare se è installato l'aggiornamento più recente o si può cercare un elenco delle build recenti del Canale corrente (Anteprima).
+Per altre informazioni sul programma Insider, fare clic [qui](https://insider.office.com/).
 
-## <a name="office-current-channel-preview-versions-and-builds"></a>Versioni e compilazioni del canale corrente di Office (anteprime)
+## <a name="office-current-channel-preview-versions-and-builds"></a>Versioni e build del Canale corrente di Office (Anteprima)
 
-Se si è iscritti al livello di canale corrente (Preview), che in precedenza era denominato Insider Slow, viene visualizzato un nuovo aggiornamento delle funzionalità di Office approssimativamente una volta al mese, oltre a compilazioni successive che contengono correzioni importanti o aggiornamenti della sicurezza. Nell'elenco seguente sono riportate le versioni e i compilamenti recenti del canale corrente (Preview), con **la compilazione rilasciata più di recente**. Le nuove compilazioni contengono tutti gli aggiornamenti contenuti nelle compilazioni precedenti.
-Per trovare le note sulla versione, [vedere](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview). Inoltre, è possibile vedere [cosa c'è di nuovo per gli addetti ai lavori di Office](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Gli utenti iscritti al livello Canale corrente (Anteprima), in precedenza denominato Insider Slow, ottengono un nuovo aggiornamento delle funzionalità di Office circa una volta al mese, oltre alle build successive che contengono correzioni importanti o aggiornamenti di sicurezza. L’elenco seguente mostra le versioni e le build recenti di Canale correte (Anteprima), con **le build più recenti elencate per prime**. Le nuove build contengono tutti gli aggiornamenti inclusi nelle build precedenti.
+Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/it-IT/OfficeUpdates/current-channel-preview). Inoltre, vedere [Novità per i partecipanti al programma Office Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 
 > [!IMPORTANT]
-> - Apporteremo alcune modifiche ai canali di aggiornamento per App di Microsoft 365, tra cui l'aggiunta di un nuovo canale di aggiornamento (canale mensile Enterprise) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
+> - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
 > - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004.Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 > [!NOTE]
@@ -38,29 +38,32 @@ Per trovare le note sulla versione, [vedere](https://docs.microsoft.com/en-us/Of
 
 [//]: # (NON RIMUOVERE)
 
+**09 luglio 2020**<br/>
+Versione 2006 (Build 13001.20384)<br/>
+
 **25 giugno 2020**<br/>
-Versione 2006 (Build 13001,20266)<br/>
+Versione 2006 (Build 13001.20266)<br/>
 
 **18 giugno 2020**<br/>
-Versione 2006 (Build 13001,20198)<br/>
+Versione 2006 (Build 13001.20198)<br/>
 
 **11 giugno 2020**<br/>
-Versione 2006 (Build 13001,20144)<br/>
+Versione 2006 (Build 13001.20144)<br/>
 
-**8 giugno 2020**<br/>
-Versione 2005 (Build 12827,20336)<br/>
+**08 giugno 2020**<br/>
+Versione 2005 (Build 12827.20336)<br/>
 
-**4 giugno 2020**<br/>
-Versione 2005 (Build 12827,20320)<br/>
+**04 giugno 2020**<br/>
+Versione 2005 (Build 12827.20320)<br/>
 
 **29 maggio 2020**<br/>
-Versione 2005 (Build 12827,20268)<br/>
+Versione 2005 (Build 12827.20268)<br/>
 
 **21 maggio 2020**<br/>
-Versione 2005 (Build 12827,20210)<br/>
+Versione 2005 (Build 12827.20210)<br/>
 
 **14 maggio 2020**<br/>
-Versione 2005 (Build 12827,20160)<br/>
+Versione 2005 (Build 12827.20160)<br/>
 
 **11 maggio 2020**<br/>
 Versione 2004 (Build 12730.20270)<br/>
