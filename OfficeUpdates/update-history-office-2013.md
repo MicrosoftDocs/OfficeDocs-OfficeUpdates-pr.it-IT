@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2013 che utilizzano A portata di clic.
-ms.openlocfilehash: 587c06f30792a2f66104cb2fbf56af9a4f81af52
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 1b1dd6974f76fc1182edacaa3b82c66e54d84ded
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211201"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138782"
 ---
 # <a name="update-history-for-office-2013"></a>Cronologia degli aggiornamenti per Office 2013
 
-Alcuni prodotti di Office 2013 vengono aggiornati automaticamente tramite una tecnologia denominata A portata di clic. Se si vuole verificare che la versione in uso sia aggiornata, controllare il numero di versione di Office e, se necessario, aggiornare manualmente.
+Certain Office 2013 products are kept up to date automatically by using a technology called Click-to-Run. If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary.
   
 > [!NOTE]
-> La versione più recente di Office 2013 è la **15.0.5241.1000**, rilasciata il 12 maggio 2020.
+> La versione più recente di Office 2013 è **15.0.5259.1000**, rilasciata il 14 luglio 2020.
   
 Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
   
@@ -31,23 +31,25 @@ Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
     
 3. In **Informazioni sui prodotti**, controllare il numero di versione visualizzato sotto **Aggiornamenti di Office**.
     
-    Se il numero di versione visualizzato corrisponde alla versione più recente, il prodotto è aggiornato. In caso contrario, è possibile eseguire manualmente l'aggiornamento per ottenere la versione più recente di Office 2013. Per aggiornare Office, [eseguire queste operazioni](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
+    If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office 2013. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Elenco di date di rilascio, numeri di versione e informazioni sulle correzioni per gli aggiornamenti di Office 2013
 
-La tabella seguente fornisce un elenco degli aggiornamenti per Office 2013 in ordine cronologico, a partire dalla data di rilascio più recente. La tabella include il numero di versione e un collegamento all'articolo della Microsoft Knowledge Base (KB), se disponibile, che contiene informazioni sulle correzioni incluse nell'aggiornamento.
+The following table provides a list of updates for Office 2013, with the most recent release date listed first. The table includes the version number for the release and a link to the Microsoft Knowledge Base (KB) article, if available, that contains information about the fixes that are included in the update.
   
 Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni precedenti.
 
 > [!NOTE]
-> Gli articoli KB elencati di seguito sono solo a scopo di riferimento. Gli aggiornamenti A portata di clic includono tutte le correzioni elencate negli articoli della KB. Non è necessario scaricare gli aggiornamenti separati elencati negli articoli della KB.
+> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
 
   
 |**Anno di pubblicazione**|**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|:-----|
-|2020|12 maggio   |15.0.5241.1000   |[KB 4549680 ](https://support.microsoft.com/help/4549680 )  |
-||14 aprile   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670 )  |
-||13 marzo   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705 )  |
+|2020|14 luglio    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
+||9 giugno   |15.0.5249.1001   |[KB 4559448 ](https://support.microsoft.com/help/4559448)|
+||12 maggio   |15.0.5241.1000   |[KB 4549680 ](https://support.microsoft.com/help/4549680)  |
+||14 aprile   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670)  |
+||13 marzo   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705)  |
 ||11 febbraio   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
 ||14 gennaio   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |
 |2019|10 dicembre   |15.0.5197.1000   |[KB 4532624](https://support.microsoft.com/help/4532624)  |

@@ -12,17 +12,17 @@ ms.collection:
 - IT_Sharepoint_Server_Top
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
-description: Trovare e gestire gli aggiornamenti per SharePoint Server 2016, SharePoint 2013 e SharePoint 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
-ms.openlocfilehash: 61cd44c484738565187d16c86e15233325384b0c
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+description: Find and manage updates for SharePoint Server 2016, SharePoint 2013, and SharePoint 2010 in one place. Use the links on this page to get more information about updates, and then download the updates.
+ms.openlocfilehash: c579f1d1f36f68763625e07a35177fae662a9a45
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210811"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138802"
 ---
 # <a name="sharepoint-updates"></a>Aggiornamenti per SharePoint
 
-Trovare e gestire gli aggiornamenti per [SharePoint Server 2019](#sharepoint-2019-update-history), [SharePoint 2016](#sharepoint-2016-update-history), [SharePoint 2013](#sharepoint-2013-update-history) e [SharePoint 2010](#sharepoint-2010-update-history) in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
+Find and manage updates for [SharePoint Server 2019](#sharepoint-2019-update-history), [SharePoint Server 2016](#sharepoint-2016-update-history), [SharePoint 2013](#sharepoint-2013-update-history), and [SharePoint 2010](#sharepoint-2010-update-history) in one place. Use the links on this page to get more information about updates, and then download the updates.
 
 Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedere la [Roadmap di Office 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
 
@@ -32,6 +32,8 @@ Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedere la 
 
 |**Nome pacchetto**|**Numero KB**|**Versione**|**Data di rilascio**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019  <br/> MUI/patch linguistica di SharePoint Server 2019  <br/> |[KB 4484453](https://support.microsoft.com/help/4484453) <br/> [KB 4484452](https://support.microsoft.com/help/4484452) <br/> |16.0.10363.12107|Luglio 2020  <br/> |
+|SharePoint Server 2019  <br/> MUI/patch linguistica di SharePoint Server 2019  <br/> |[KB 4484400](https://support.microsoft.com/help/4484400) <br/> [KB 4484404](https://support.microsoft.com/help/4484404) <br/> |16.0.10361.12114|Giugno 2020  <br/> |
 |SharePoint Server 2019  <br/> MUI/patch linguistica di SharePoint Server 2019  <br/> |[KB 4484332](https://support.microsoft.com/help/4484332) <br/> [KB 4484331](https://support.microsoft.com/help/4484331) <br/> |16.0.10359.20000|Maggio 2020  <br/> |
 |SharePoint Server 2019  <br/> MUI/patch linguistica di SharePoint Server 2019  <br/> |[KB 4484292](https://support.microsoft.com/help/4484292) <br/> [KB 4484291](https://support.microsoft.com/help/4484291) <br/> |16.0.10358.20000|Aprile 2020  <br/> |
 |SharePoint Server 2019  <br/> MUI/patch linguistica di SharePoint Server 2019  <br/> |[KB 4484271](https://support.microsoft.com/help/4484271) <br/> [KB 4484277](https://support.microsoft.com/help/4484277) <br/> |16.0.10357.20002|Marzo 2020  <br/> |
@@ -55,6 +57,8 @@ Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedere la 
 
 |**Nome pacchetto**|**Numero KB**|**Versione**|**Data di rilascio**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> MUI/patch linguistica di SharePoint Server 2016  <br/> |[KB 4484436](https://support.microsoft.com/help/4484436) <br/> [KB 4484440](https://support.microsoft.com/help/4484440) <br/> |16.0.5032.1002  |Luglio 2020  <br/> |
+|SharePoint Server 2016  <br/> MUI/patch linguistica di SharePoint Server 2016  <br/> |[KB 4484402](https://support.microsoft.com/help/4484402) <br/> [KB 4484344](https://support.microsoft.com/help/4484344) <br/> |16.0.5017.1001  |Giugno 2020  <br/> |
 |SharePoint Server 2016  <br/> |[KB 4484336](https://support.microsoft.com/help/4484336) <br/> |16.0.5005.1000  |Maggio 2020  <br/> |
 |SharePoint Server 2016  <br/> MUI/patch linguistica di SharePoint Server 2016  <br/> |[KB 4484299](https://support.microsoft.com/help/4484299) <br/> [KB 4484301](https://support.microsoft.com/help/4484301) <br/> |16.0.4993.1000  |Aprile 2020  <br/> |
 |SharePoint Server 2016  <br/> MUI/patch linguistica di SharePoint Server 2016  <br/> |[KB 4484272](https://support.microsoft.com/help/4484272) <br/> [KB 4484275](https://support.microsoft.com/help/4484275) <br/> |16.0.4978.1000  |Marzo 2020  <br/> |
@@ -120,6 +124,8 @@ Per gli aggiornamenti cumulativi vengono forniti i seguenti pacchetti:
     
 |**Nome pacchetto**|**Numero KB**|**Versione**|**Data di rilascio**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484444](https://support.microsoft.com/help/4484444) <br/> [KB 4484447](https://support.microsoft.com/help/4484447) <br/> |15.0.5259.1001 |Luglio 2020  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484406](https://support.microsoft.com/help/4484406) <br/> [KB 4484408](https://support.microsoft.com/help/4484408) <br/> |15.0.5249.1001 |Giugno 2020  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484358](https://support.microsoft.com/help/4484358) <br/> [KB 4484362](https://support.microsoft.com/help/4484362) <br/> |15.0.5241.1000  |Maggio 2020  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484309](https://support.microsoft.com/help/4484309) <br/> [KB 4484320](https://support.microsoft.com/help/4484320) <br/> |15.0.5233.1000  |Aprile 2020  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484278](https://support.microsoft.com/help/4484278) <br/> [KB 4484280](https://support.microsoft.com/help/4484280) <br/> |15.0.5223.1000  |Marzo 2020  <br/> |
@@ -200,6 +206,8 @@ Per gli aggiornamenti cumulativi vengono forniti i seguenti pacchetti:
 
 |**Nome pacchetto**|**Numero KB**|**Versione**|**Data di rilascio**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[KB 4484459](https://support.microsoft.com/help/4484459) <br/> |14.0.7255.5000  |Luglio 2020  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484391](https://support.microsoft.com/help/4484391) <br/> [KB 4484413](https://support.microsoft.com/help/4484413) <br/> |14.0.7253.5000  |Giugno 2020  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484386](https://support.microsoft.com/help/4484386) <br/> [KB 4484389](https://support.microsoft.com/help/4484389) <br/> |14.0.7250.5000  |Maggio 2020  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484298](https://support.microsoft.com/help/4484298) <br/> [KB 4484324](https://support.microsoft.com/help/4484324) <br/> |14.0.7248.5000  |Aprile 2020  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484197](https://support.microsoft.com/help/4484197) <br/> [KB 4484241](https://support.microsoft.com/help/4484241) <br/> |14.0.7246.5000  |Marzo 2020  <br/> |
@@ -269,7 +277,7 @@ Per gli aggiornamenti cumulativi vengono forniti i seguenti pacchetti:
    
 ## <a name="additional-information"></a>Informazioni aggiuntive
 
-Gli aggiornamenti software includono qualsiasi aggiornamento, aggiornamento cumulativo, service pack, feature pack, aggiornamento critico, di sicurezza o rapido. Vedere [KB 824684](https://support.microsoft.com/kb/824684) per una descrizione della terminologia standard utilizzata per descrivere gli aggiornamenti software Microsoft. 
+Software updates include any update, update rollup, service pack, feature pack, critical update, security update, or hotfix. See [KB 824684](https://support.microsoft.com/kb/824684) for a description of the standard terminology used to describe Microsoft software updates. 
 
 Oltre agli aggiornamenti per SharePoint, è opportuno consultare le informazioni seguenti per i prodotti su cui si basa SharePoint.
   
