@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulla versione per gli aggiornamenti di sicurezza di Microsoft 365 Apps
-ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211706"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138522"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Note sulla versione per gli aggiornamenti di sicurezza di Microsoft 365 Apps
 
@@ -32,6 +32,80 @@ Queste informazioni sono valide per Microsoft 365 Apps for enterprise, Microsoft
 
 [//]: # (NON ELIMINARE LA RIGA SOPRA, viene usata per la spaziatura)  
 
+## <a name="july-14-2020"></a>14 luglio 2020
+Canale corrente: versione 2006 (Build 13001.20384)  
+Canale Enterprise mensile: versione 2005 (Build 12827.20538)  
+Canale Enterprise mensile: versione 2004 (Build 12730.20602)  
+Canale Enterprise semestrale (Anteprima): versione 2002 (Build 12527.20880)  
+Canale Enterprise semestrale: versione 2002 (Build 12527.20880)  
+Canale Enterprise semestrale: versione 1908 (Build 11929.20904)  
+Canale Enterprise semestrale: Versione 1902 (Build 11328.20624)  
+Microsoft 365 Apps su Windows 7: versione 2002 (Build 12527.20880)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1240](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1240)
+
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1349](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1349)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1449](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1449)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1446)
+
+### <a name="office-suite"></a>Applicazioni Office
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1458)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
+
+## <a name="june-09-2020"></a>9 giugno 2020
+Canale corrente: versione 2005 (Build 12827.20336)  
+Canale Enterprise mensile: versione 2004 (Build 12730.20430)  
+Canale Enterprise mensile: versione 2003 (Build 12624.20708)  
+Canale Enterprise semestrale (Anteprima): versione 2002 (Build 12527.20720)  
+Canale Enterprise semestrale: Versione 1908 (Build 11929.20838)  
+Canale Enterprise semestrale: Versione 1902 (Build 11328.20602)  
+Microsoft 365 Apps su Windows 7: versione 2002 (Build 12527.20720)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1225)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1229)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1322](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1322)
+
+### <a name="office-suite"></a>Applicazioni Office
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
+
 ## <a name="may-12-2020"></a>12 maggio 2020
 Canale mensile: versione 2004 (Build 12730.20270)  
 Canale Enterprise mensile: versione 2003 (Build 12624.20588)  
@@ -47,7 +121,7 @@ Microsoft 365 Apps in Windows 7: versione 2002 (Build 12527.20612)
 
 -   [CVE-2020-0901](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0901)
 
-[//]: # (NON RIMUOVERE LA FINE DEL CONTENUTO CON I DETTAGLI SULLA SICUREZZA)
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 
 
