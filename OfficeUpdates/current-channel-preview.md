@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 63ae6dbe28765efde1ddc6a440adeddd53b71338
-ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.openlocfilehash: 2ed4d263caf7471a37bf52e162d93ee7ebf03fd4
+ms.sourcegitcommit: e04ac83b98dee6ee37338f9eba361e4ae436f9f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45094646"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45147878"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -27,6 +27,193 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2007-july-15"></a>Versione 2007: 15 luglio
+*Versione 2007 (Build 13029.20200)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Creare diagrammi di Visio chiari in Excel:** è possibile creare un diagramma di flussi o un organigramma inserendo i dati in un foglio di lavoro. [Altre informazioni](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- È stato risolto un problema per cui Gestione tabelle collegate richiede una chiave primaria se una tabella SQL collegata era aggiornata.
+
+- È stato risolto un problema relativo alla visualizzazione di query nell'Editor di query.
+
+- È stato risolto un problema relativo all'esecuzione di una query che richiedeva circa due volte il tempo necessario per il completamento.
+
+- È stato risolto un problema che impedisce a Microsoft Access di identificare una colonna Identity in una tabella collegata di SQL Server, che poteva causare la segnalazione delle righe in modo non corretto.
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui gli URL non basati su http o https non venivano visualizzati nell'elenco di file usati di recente.
+
+- È stato risolto un problema per cui può verificarsi un errore o un blocco caricando una cartella di lavoro con più fogli in visualizzazione Anteprima interruzioni di pagina.
+
+- È stato risolto un problema in cui le tabelle del modello di dati create in determinate versioni di Excel non possono essere visualizzate in "anteprima tabelle", anche se non sono state modificate.
+
+- I riferimenti "Ignora relativo/assoluto" nella finestra di dialogo Definisci nome \ Applica nomi causano il mancato funzionamento delle formule.
+
+- È stato risolto un problema per il quale la scheda della barra multifunzione di CustomUI per una barra multifunzione era rimossa durante il salvataggio di una cartella di lavoro su SharePoint/OneDrive.
+
+- È stato risolto un problema per cui le cartelle di lavoro erano di sola lettura quando per il file era soltanto consigliata sola lettura.
+
+- È stato risolto un problema per cui può verificarsi un errore o un blocco caricando una cartella di lavoro con più fogli in visualizzazione Anteprima interruzioni di pagina.
+
+- È stato risolto un problema per cui le linee principali della griglia dei grafici radar non potevano essere formattate correttamente.
+
+
+- È stato risolto un problema per cui la cancellazione di un filtro dati avanzato faceva perdere la formattazione della tabella.
+
+
+- È stato risolto un problema in cui il percorso completo di un documento PDF incorporato viene visualizzato nella didascalia del documento, anziché solo nel nome del file.
+
+
+- È stato risolto un problema per cui dopo aver disabilitato il connettore Cloud di Wolfram e aver salvato e riaperto una cartella di lavoro di Excel, poteva verificarsi un arresto anomalo.
+
+
+- È stato risolto un problema per cui all'avvio di Excel con il componente aggiuntivo Risolutore poteva comportare un arresto anomalo.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui Outlook si bloccava se erano presenti più di 130 destinatari nella riga "a" e sono state migliorate anche le prestazioni di rendering del testo.
+
+
+- È stato risolto un problema per cui la finestra IME (Input Method Editor) si sovrapponeva al testo sottostante immesso dall'IME quando si usavano più monitor con risoluzioni diverse.
+
+
+- È stato risolto un problema relativo alla “barra da fare” in cui gli eventi con più di due giorni mostravano la stessa ora di fine per tutti i giorni successivi.
+
+
+- È stato risolto un problema a causa del quale gli utenti visualizzavano la data di creazione degli  allegati copiati nel file system tramite il trascinamento fissata all’1 gennaio 4501.
+
+
+- È stato risolto un problema per cui gli utenti non riuscivano a usare le azioni "Invia come" e "Invia per conto di" di una lista di distribuzione.
+
+
+- È stato risolto un problema per cui i delegati ricevevano un messaggio di errore modificando un appuntamento del calendario esistente nel calendario di un responsabile.
+
+
+- È stato risolto un problema per cui gli utenti visualizzavano l'errore seguente alla chiusura di un appuntamento salvato in precedenza: "Impossibile salvare l'elemento. L'elemento è stato modificato da un altro utente o in un'altra finestra. Creare una copia dell'elemento nella cartella predefinita?"
+
+
+- È stato risolto un problema per cui l'opzione Consenti inoltro non era presente tra le opzioni di risposta in una riunione nel calendario condiviso, se la cartella di download condivisa NON era selezionata.
+
+
+- È stato risolto un problema che impediva agli utenti di salvare gli allegati di OneDrive dall'esterno del tenant al computer locale selezionando l'opzione "Salva" nella finestra di dialogo relativa alla sicurezza.
+
+
+- È stato risolto un problema che causava l'interruzione dell'aggiornamento dell'elenco dei messaggi degli utenti di Outlook per alcuni minuti dopo aver usato calendari condivisi.
+
+
+- È stato risolto un problema che impediva la visualizzazione degli orari esatti nei promemoria del calendario per le riunioni da tenersi in meno di una settimana. 
+
+
+- È stato risolto un problema per cui l'inserimento di un'immagine in linea in un messaggio, e il successivo salvataggio del messaggio come bozza, comportava un ridimensionamento dell'immagine.
+
+
+- È stato risolto un problema che causava il cambiamento del corpo di un messaggio NDR da Unicode a ASCII dopo aver modificato l'oggetto.
+
+
+- È stato risolto un problema per cui le date nel mini calendario non venivano visualizzate in grassetto per gli utenti in Giappone.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui l'indicatore di colore di presenza di un utente non si aggiornava nella raccolta condivisa durante una sessione di creazione condivisa in tempo reale.
+
+
+- È stato risolto un problema per cui quando si incollava l’HTML in un'area di testo su una diapositiva questo veniva invece incollato in una casella di testo creata nella parte superiore della diapositiva.
+
+
+- È stato risolto un problema per cui selezionare tutte le diapositive nella visualizzazione relatore, uscire dalla visualizzazione relatore con ALT + TAB e tornare alla presentazione e fare clic su "fine presentazione" comportava un'eccezione non gestita.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui non era possibile salvare un file PDF/XPS da Project a una raccolta documenti di SharePoint.
+
+
+- È stato risolto un problema per cui non era possibile aprire progetti nel client desktop di Project da Project Web App se l'URL terminava in ". com".
+
+
+- È stato risolto un problema per cui Project potrebbe arrestarsi in modo anomalo all'apertura di alcuni file XML.
+
+
+- È stato risolto un problema per cui non era possibile aprire progetti nel client Project Desktop da Project Web App se l'URL terminava in ". com".
+
+
+- È stato risolto un problema per cui, incollando un'attività con più dipendenze, non tutte le dipendenze vengono copiate correttamente.
+
+
+- È stato risolto un problema per cui l'attività selezionata nella finestra di dialogo Assegna risorse non è la stessa selezionata nella visualizzazione Bacheca attività.
+
+
+- È stato risolto un problema per cui non era possibile eseguire l'evento ProjectBeforeTaskChange quando era apportata una modifica all'attività di riepilogo del progetto, sia inizio progetto che campo delle attività.
+
+
+- È stato risolto un problema per cui, se le attività a durata fissa sono al 100% complete ma il completamento effettivo non è specificato, l'attività % di completamento era visualizzata come inferiore al 100%.
+
+- È stato risolto un problema per cui una reimpostazione o aggiornamento di una linea di base poteva cambiare il costo del budget o le risorse lavoro a scala cronologica e la linea di base rifletteva valori di budget non corretti.
+
+
+- È stato risolto un problema per cui i collegamenti di Project Planner negli ambienti Government Community Cloud erano stati disabilitati.
+
+
+- È stato risolto un problema per cui non era possibile aprire un file di Project da una raccolta documenti di SharePoint se la raccolta era in modalità moderna.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui la possibilità di cancellare la formattazione nel riquadro commenti con il pulsante Cancella formattazione sulla barra multifunzione di Office non funzionava.
+
+
+- È stato risolto un problema per cui il testo inserito in un file SVG (Scalable Vector Graphics) era illeggibile dopo averlo inserito in un file di Word, Excel o PowerPoint, salvando e chiudendo il file e successivamente riaprendo il file.
+
+
+- È stato risolto un problema per cui si modificavano le dimensioni di una tabella quando il righello non veniva visualizzato e le altre applicazioni eseguite in background iniziavano a lampeggiare.
+
+
+- È stato risolto un problema per cui, in modalità di creazione condivisa, le risposte ai commenti non venivano talvolta visualizzate nel riquadro commenti ma erano visibili nel riquadro revisioni.
+
+
+- È stato risolto un problema durante la modalità di creazione condivisa quando si verifica un conflitto di Unione e l'utente ha già scelto di ignorare le modifiche, ma non veniva più visualizzata l'opzione per salvare o annullare le modifiche.
+
+
+- È stato risolto un problema per cui il rendering del colore dei collegamenti ipertestuali HTML non veniva eseguito correttamente.
+
+
+- È stato risolto un problema per cui, se Word includeva un elenco di più di 50 documenti aperti di frequente, dopo il salvataggio e l'apertura di un documento veniva visualizzata la cronologia delle revisioni, anche se non erano state apportate revisioni al documento.
+
+
+- È stato risolto un problema relativo al salvataggio automatico durante la creazione condivisa.
+
+
+- È stato risolto un problema per cui, quando si provava a salvare un file contenente una macro con un nuovo nome, il file veniva salvato con estensione .docx e il nome file “WRO0004.docx”, indipendentemente dall'immissione dell'utente, rendeva il documento inutilizzabile.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Un problema di tempi poteva causare un arresto anomalo durante la chiusura dei file di Office.
+
+- Il problema è stato corretto verificando che il servizio calcolasse correttamente i prodotti aggiunti. I nuovi prodotti aggiunti sono stati filtrati (verificando che esistano anche nella nuova configurazione) e aggiunti alla fine degli ID di rilascio prodotti esistenti.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2006-july-09"></a>Versione 2006: 9 luglio
 *Versione 2006 (Build 13001.20384)*
@@ -97,21 +284,21 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="access"></a>Access
 
-- <div>Questo problema è ora risolto. Comunicare al team se si verificano altri problemi durante il processo.</div>
+- Questo problema è ora risolto. Comunicare al team se si verificano altri problemi durante il processo.
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div><span style="display:inline !important;">Risolve un problema a causa del quale gli utenti visualizzavano <span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">la data di creazione di&nbsp; allegati copiati nel file system tramite il trascinamento &nbsp;fissata all’1 gennaio 4501.</span><br></div>
+- <span style="display:inline !important;">Risolve un problema a causa del quale gli utenti visualizzavano <span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">la data di creazione di&nbsp; allegati copiati nel file system tramite il trascinamento &nbsp;fissata all’1 gennaio 4501.</span><br>
 
 
-- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Risolve un problema a causa del quale gli utenti dei miglioramenti del Calendario condiviso visualizzavano errori di calendario.</span><br></div>
+- <span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Risolve un problema a causa del quale gli utenti dei miglioramenti del Calendario condiviso visualizzavano errori di calendario.</span><br>
 
 
-- <div><span style="display:inline !important;">Risolve un problema a causa del quale gli utenti si vedevano richiedere continuamente da Outlook di eseguire lo strumento Manutenzione Posta in arrivo.</span><br></div>
+- <span style="display:inline !important;">Risolve un problema a causa del quale gli utenti si vedevano richiedere continuamente da Outlook di eseguire lo strumento Manutenzione Posta in arrivo.</span><br>
 
 
-- <div><span style="display:inline !important;">Risolve un problema a causa del quale la ricerca di una caratteristica in Suggerisci una caratteristica non restituiva alcun risultato e non era possibile per l’utente suggerire un’idea per una nuova caratteristica.</span><br></div>
+- <span style="display:inline !important;">Risolve un problema a causa del quale la ricerca di una caratteristica in Suggerisci una caratteristica non restituiva alcun risultato e non era possibile per l’utente suggerire un’idea per una nuova caratteristica.</span><br>
 
 
 
@@ -967,7 +1154,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="project"></a>Project
 
-- <div><span style="display:inline !important;">È stato risolto un problema per cui l'utente non poteva immettere il lavoro previsto rapportato alla scala cronologica quando era attivata l'opzione di protezione del lavoro effettivo.</span><br></div>
+- <span style="display:inline !important;">È stato risolto un problema per cui l'utente non poteva immettere il lavoro previsto rapportato alla scala cronologica quando era attivata l'opzione di protezione del lavoro effettivo.</span><br>
 
 
 
@@ -1186,11 +1373,11 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemi risolti
 
 ### <a name="project"></a>Project
-- <div>È stato risolto un problema per cui le date delle attività di riepilogo non sempre venivano calcolate correttamente.</div>
+- È stato risolto un problema per cui le date delle attività di riepilogo non sempre venivano calcolate correttamente.
 
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
-- <div>È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.</div>
+- È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
 
 
 
@@ -1202,7 +1389,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="outlook"></a>Outlook
 
-- <div>È stato risolto un problema per cui le applicazioni di terze parti non riuscivano a inviare messaggi di posta elettronica.</div>
+- È stato risolto un problema per cui le applicazioni di terze parti non riuscivano a inviare messaggi di posta elettronica.
 
 
 
@@ -1243,24 +1430,24 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
 
-- <div style="box-sizing:border-box;">È stato risolto un problema per cui a volte le funzioni VALORE.CUBO restituivano un risultato non corretto.&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+- <div style="box-sizing:border-box;">È stato risolto un problema per cui a volte le funzioni VALORE.CUBO restituivano un risultato non corretto..&nbsp;<span style="display:inline !important;"></span><br>
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div>Risolto un problema per cui la virgola nel campo Luogo della riunione cambiava in punto e virgola.</div>
+- Risolto un problema per cui la virgola nel campo Luogo della riunione cambiava in punto e virgola.
 
 
-- <div>Risolto un problema per cui si verificava un arresto anomalo quando si visualizzava lo stesso elemento in più finestre.</div>
+- Risolto un problema per cui si verificava un arresto anomalo quando si visualizzava lo stesso elemento in più finestre.
 
 
-- <div>Risolto un problema per cui Outlook sincronizzava in modo imprevisto tutta la posta elettronica anche quando il dispositivo di scorrimento di sincronizzazione era impostato su un valore inferiore.&nbsp;</div>
+- Risolto un problema per cui Outlook sincronizzava in modo imprevisto tutta la posta elettronica anche quando il dispositivo di scorrimento di sincronizzazione era impostato su un valore inferiore.&nbsp;
 
 
-- <div>Risolto un problema per cui gli utenti con il tema Nero visualizzavano l'elenco a discesa &quot;Da&quot; con il testo bianco su sfondo bianco.</div>
+- Risolto un problema per cui gli utenti con il tema Nero visualizzavano l'elenco a discesa &quot;Da&quot; con il testo bianco su sfondo bianco.
 
 
-- <div><span style="display:inline !important;">Questa modifica ripristina la possibilità di visualizzare oggetti multilinea nell'intestazione del messaggio.</span><br></div>
+- <span style="display:inline !important;">Questa modifica ripristina la possibilità di visualizzare oggetti multilinea nell'intestazione del messaggio.</span><br>
 
 
 
