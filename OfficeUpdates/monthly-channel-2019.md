@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Office 365 ProPlus nel 2019
-ms.openlocfilehash: 1a4652ad9d7b3ec8150bc8e0b07cf65cdbfca864
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: df05a1a57bf165e62717f18b7704bb0e44b459dd
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565058"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163538"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Note sulle versioni per i rilasci del Canale mensile nel 2019
 
@@ -194,7 +194,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/OfficeUp
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
 
-- Per proteggere la sicurezza dei clienti di Office, gli aggiornamenti di Microsoft Office sono ora firmati esclusivamente con l'algoritmo SHA-2.<br>
+- Per proteggere la sicurezza dei clienti di Office, gli aggiornamenti di Microsoft Office sono ora firmati esclusivamente con l'algoritmo SHA-2.<br></div>
 
 
 
