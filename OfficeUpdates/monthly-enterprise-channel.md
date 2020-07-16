@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile Enterprise per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
-ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121746"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138682"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile Enterprise nel 2020
 
@@ -26,6 +26,111 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 [//]: # (NON RIMUOVERE)
 
 
+
+## <a name="version-2005-july-14"></a>Versione 2005: 14 luglio
+*Versione 2005 (Build 12827.20538)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Risultati migliori in un batter d'occhio:** l'esperienza di ricerca è stata aggiornata in modo da renderla più intelligente, più rapida e più affidabile che mai. [Altre informazioni](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+### <a name="word"></a>Word
+
+- **Dirlo in altre parole:** se si vuole dirlo in altre parole, è possibile riscriverlo. La riscrittura offre alternative per rifinire le frasi.<br />Vedere i dettagli nel [post del blog](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- È stato risolto un problema per cui ora è possibile usare il tipo di dati data/ora esteso nel codice senza subire alcun arresto anomalo dell'app.
+
+- È stato risolto un problema che consente ora di tornare alla versione di Access più aggiornata e usare DAO/VBA per gestire e modificare un tipo di dati decimale.
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui Excel smetteva di funzionare dopo avere premuto i tasti CTRL+MAIUSC+Freccia per scorrere, quando la finestra di Excel era condivisa attraverso Teams.
+
+- In alcuni casi, se si fa clic su un collegamento ipertestuale a una posizione nella stessa cartella di lavoro, la cartella di lavoro verrà nascosta.
+
+- È stato risolto un problema a causa del quale la personalizzazione CustomUI XML per la scheda della barra multifunzione era rimossa durante il salvataggio su SharePoint/OneDrive.
+
+- È stato risolto un problema per cui Excel poteva arrestarsi in modo anomalo nel tentativo di inserire tabelle pivot in un foglio grafico.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava un arresto anomalo quando venivano inviati feedback tramite una notifica di amministratore.
+
+- Risolve un problema a causa del quale la ricerca di una caratteristica in Suggerisci una caratteristica non restituiva alcun risultato e non era possibile per l’utente suggerire un’idea per una nuova caratteristica.
+
+- È stato risolto un problema a causa del quale gli utenti si vedevano richiedere continuamente da Outlook di eseguire lo strumento Manutenzione Posta in arrivo.
+
+- È stato risolto un problema che mostrava agli utenti di Windows 10 l’avviso Stato dell’antivirus: non valido. Questa versione di Windows supporta il rilevamento dei programmi antivirus, ma non è stato trovato alcun antivirus, anche se è stato installato correttamente l’antivirus.
+
+- È stato risolto un problema che causava blocchi o arresti intermittenti in alcune situazioni.
+
+- È stato risolto un problema a causa del quale gli utenti dei miglioramenti del Calendario di Outlook condivisi visualizzavano errori di Calendario di Outlook.
+
+- È stato risolto un problema che causava la visualizzazione del messaggio &quot;Le regole impostate in questo computer non corrispondono alle regole impostate in Microsoft Exchange&quot; all'apertura della finestra di dialogo Regole.
+
+- È stato risolto un problema a causa del quale gli utenti visualizzavano la data di creazione degli &nbsp; allegati copiati nel file system tramite il trascinamento fissata all’1 gennaio 4501.
+
+- È stato risolto un problema per cui Outlook non riusciva ad abilitare i Criteri predefiniti di prevenzione della perdita dei dati per gli utenti che avevano pagato il servizio nell’ambito del piano M365 Business Plus.
+
+- È stato risolto un problema relativo all'evento di controllo CLP per l'etichetta di risposta/inoltra.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ciò risolve un arresto anomalo che si verifica quando gli utenti hanno commenti sia moderni che legacy in un file, provocando così un aggiornamento dei commenti.
+
+- È stato risolto un problema relativo all'arresto anomalo del riquadro suggerimenti.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui l'evento ProjectBeforeTaskChange non si attivava quando era apportata una modifica all'attività di riepilogo del progetto, sia che si trattasse dell’avvio del progetto che del campo attività.
+
+- È stato risolto un problema per cui un'attività contrassegnata come completa al 100% veniva erroneamente indicata con un completamento inferiore al 100%.
+
+### <a name="skype"></a>Skype
+
+- Quando a un utente viene assegnato un criterio che sposta su Solo Teams, è comunque possibile usare il componente aggiuntivo di Outlook Skype for Business per pianificare le riunioni. In seguito all'aggiornamento, non sarà più possibile pianificare le riunioni con Skype for Business dopo che il cliente avrà letto il criterio che indica che l'utente è Solo Teams e partecipa alla riunione con modalità di partecipazione singola. Inoltre, il componente aggiuntivo di Outlook Skype for Business non verrà attivato durante l'avvio se vede che il client Skype for Business è in modalità di partecipazione singola.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema che può aver causato un arresto anomalo durante il trascinamento del contenuto dall'app.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Questa modifica risolve potenziali blocchi che si verificano durante il caricamento e la riproduzione di contenuti animati, ad esempio GIF o modelli 3D.
+
+- È stato risolto il tasso di errore di ValidateInstall impostando la convalida di installazione di Bing per impostazione predefinita su true e considerando il risultato positivo di MSI come un’operazione riuscita di installazione.
+
+- Questo aggiornamento consente di risolvere un problema di Microsoft Office per il quale i progetti di Visual Basic, Applications Edition con riferimenti che dovrebbero poter essere trovati cercando i percorsi specificati nella variabile di ambiente PATH potrebbero non essere individuati correttamente in fase di esecuzione, generando errori in fase di esecuzione VBA.
+
+- Questo aggiornamento risolve un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati al caricamento.
+
+- L'host di Office si arrestava in modo anomalo in Windows, quando veniva attivato un componente aggiuntivo mentre la chiave del registro di sistema HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth era impostata su zero. La modifica potrebbe risolvere il problema.
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2004-july-14"></a>Versione 2004: 14 luglio
+*Versione 2004 (Build 12730.20602)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2004-june-09"></a>Versione 2004: giugno 09
 *Versione 2004 (Build 12730.20430)*
@@ -311,4 +416,5 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (| Win32|MEC|Produzione|Caratteristica|16.0.12827.20538|versione-2005-luglio-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
