@@ -22,7 +22,7 @@ Utilizzare i collegamenti in questa pagina per ottenere ulteriori informazioni e
   
  
 > [!NOTE]
-> - The information in this article only applies to perpetual versions of Office that use the Windows Installer (MSI) installation technology. For example, if you installed a volume licensed version of Office, such as Office Professional Plus 2016.
+> - Le informazioni contenute in questo articolo si applicano solo alle versioni con licenza perpetua di Office che utilizzano la tecnologia di installazione di Windows Installer (MSI); ad esempio, se è installata una versione con contratto multilicenza di Office, come Office Professional Plus 2016.
 > - Le informazioni in questo articolo non sono valide per le app di Microsoft 365.
 > - Per ulteriori informazioni sull'installazione degli aggiornamenti di Office, vedere [Installare gli aggiornamenti di Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). 
 

@@ -18,19 +18,19 @@ ms.locfileid: "45138761"
 ---
 # <a name="update-history-for-office-for-mac"></a>Cronologia degli aggiornamenti per Office per Mac
   
-Office for Mac that comes with a Microsoft 365 subscription is updated on a regular basis to provide new features, security updates, and non-security updates. The following information is primarily intended for IT professionals who are deploying Office for Mac to the users in their organizations.
+Office per Mac, che viene fornito con una sottoscrizione a Office 365, viene aggiornato regolarmente per offrire nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti di altro tipo. Le informazioni seguenti sono principalmente rivolte ai professionisti IT che stanno distribuendo Office per Mac agli utenti nelle loro organizzazioni.
 
 > [!NOTE]
-> - Starting with Version 16.21, Microsoft Teams will be installed by default for ***new*** installations if you're using the Office suite install package. For more information, see [Microsoft Teams installations on a Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
-> - For security reason, Microsoft has deprecated the use of SHA-1. [Learn more](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - A partire dalla versione 16.21, se si usa il pacchetto di installazione della famiglia di prodotti Office, Microsoft Teams verrà installato per impostazione predefinita per le ***nuove*** installazioni. Per ulteriori informazioni, vedere [Installazioni di Microsoft Teams su Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> - Per motivi di sicurezza, Microsoft ha reso deprecato l'uso di SHA-1. [Ulteriori informazioni](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - A partire dal rilascio 16.17 di settembre 2018, queste informazioni si applicano anche a Office 2019 per Mac, che è una versione di Office per Mac disponibile come acquisto di una copia unica presso un punto vendita al dettaglio o tramite un contratto multilicenza.
-> - The update history information for version 16.16 and earlier also applies to Office 2016 for Mac, which is also a version of Office for Mac that’s available as a one-time purchase. Older versions up to and including 16.16 can be activated with an Office 2016 for Mac volume license. You can’t activate version 16.17 or later with an Office 2016 for Mac volume license. For information about Office 2016 for Mac releases from September onward, see [Release notes for Office 2016 for Mac](release-notes-office-2016-mac.md)
+> - Le informazioni sulla cronologia degli aggiornamenti per la versione 16.16 e sulle versioni precedenti si applicano anche a Office 2016 per Mac, un’altra versione di Office per Mac disponibile come acquisto di una copia unica. Le versioni precedenti, fino alla versione 16.16 compresa, possono essere attivate con un contratto multilicenza di Office 2016 per Mac. Non è possibile attivare la versione 16.17 o versioni successive con un contratto multilicenza di Office 2016 per Mac. Per informazioni sulle versioni di Office 2016 per Mac da settembre in poi, vedere le [Note sulla versione di Office 2016 per Mac](release-notes-office-2016-mac.md).
 > - Per informazioni sulle caratteristiche, sugli aggiornamenti di sicurezza e non, inclusi in una determinata versione di Office per Mac, vedere [Note sulla versione di Office per Mac.](release-notes-office-for-mac.md)
 > - Se si desidera accedere prima alle nuove versioni, iscriversi al programma [Office Insider.](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Pacchetti di aggiornamento più recenti per Office per Mac
 
-The following table lists the most current packages for the Office suite and for the individual applications. The Office suite includes all the individual applications, such as Word, PowerPoint, and Excel. All packages are 64-bit only. The build date is listed in parentheses, in a YYMMDD format, after the version number. The install package is used if you don't have the application already installed, while the update package is used to update an existing installation.
+La tabella seguente elenca i pacchetti più recenti per la famiglia di prodotti Office e per le singole applicazioni. La famiglia di prodotti Office include tutte le singole applicazioni, come Word, PowerPoint ed Excel. Tutti i pacchetti sono solo a 64 bit. La data di build è indicata tra parentesi, in un formato AAMMGG, dopo il numero di versione. Il pacchetto di installazione viene usato se l'applicazione non è già installata, mentre il pacchetto di aggiornamento viene usato se l'applicazione è già installata.
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).
 
@@ -59,7 +59,7 @@ Versione 16.39 (20071300)
    
 ## <a name="release-history-for-office-for-mac"></a>Cronologia delle versioni per Office per Mac
 
-The following table provides release history information and download links for Office for Mac. The table is ordered by release date, with the most recent release date listed first. The build date is listed in parentheses, in a YYMMDD format, after the version number. All releases after August 22, 2016 are 64-bit only. All releases prior to August 22, 2016 are 32-bit only.
+La tabella seguente fornisce informazioni sulla cronologia delle versioni e link per il download per Office per Mac. La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima. La data di build è indicata tra parentesi, in un formato AAMMGG, dopo il numero di versione. Tutte le versioni rilasciate dopo il 22 agosto 2016 sono solo a 64 bit; tutte le versioni precedenti sono solo a 32 bit.
 
 > [!NOTE]
 > I collegamenti per il download sono disponibili solo per le versioni più recenti.

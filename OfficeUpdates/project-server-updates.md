@@ -11,7 +11,7 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: Find and manage updates for Project Server 2013 and Project Server 2010 in one place. Use the links on this page to get more information about updates and to download the updates themselves.
+description: Trovare e gestire gli aggiornamenti per Project Server 2013 e Project Server 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
 ms.openlocfilehash: 301fa900d37739dfd3b9d1b6555b9a0780a23c5a
 ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT

@@ -21,14 +21,14 @@ ms.locfileid: "45138632"
 Utilizzare i collegamenti in questa pagina per ottenere ulteriori informazioni e scaricare gli aggiornamenti più recenti per le versioni con licenza perpetua di Outlook 2016, Outlook 2013 e Outlook 2010.
   
 > [!NOTE]
-> - The information in this article only applies to perpetual versions of Outlook that use the Windows Installer (MSI) installation technology. For example, if you installed a volume licensed version of Outlook, such as Outlook included with Office Professional Plus 2016.
+> - Le informazioni contenute in questo articolo si applicano solo alle versioni con licenza perpetua di Outlook che utilizzano la tecnologia di installazione di Windows Installer (MSI); ad esempio, se è installata una versione con contratto multilicenza di Outlook, come la versione di Outlook inclusa in Office Professional Plus 2016.
 > - Le informazioni in questo articolo non sono valide per App di Microsoft 365.
 > - Per informazioni riguardanti la versione di Outlook in uso, vedere [Qual è la versione di Outlook in uso?](https://support.office.com/article/b3a9568c-edb5-42b9-9825-d48d82b2257c)
 > - Per ulteriori informazioni sull'installazione degli aggiornamenti di Office, vedere [Installare gli aggiornamenti di Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). 
   
 La compatibilità di Outlook con Microsoft 365 e con l'ambiente locale dipende dai requisiti di sistema per la propria distribuzione:
   
-- Microsoft 365 works with any version of Outlook that is in mainstream support, which includes the latest version of Outlook 2016. For previous versions of Outlook, only those that have extended support may continue to work with Microsoft 365, although with reduced functionality. For more information, see [Microsoft Lifecycle Policy](https://support.microsoft.com/lifecycle).
+- Microsoft 365 è compatibile con qualsiasi versione di Outlook con supporto "Mainstream", che include l'ultima versione di Outlook 2016. Per le versioni precedenti di Outlook, solo quelle con supporto "Extended" possono continuare a funzionare con Microsoft 365, anche se con funzionalità ridotte. Per altre informazioni, vedere [Criteri relativi al ciclo di vita Microsoft](https://support.microsoft.com/lifecycle).
     
 - Per le distribuzioni locali di Exchange, seguire i requisiti di sistema per la propria versione di Outlook:
     

@@ -11,15 +11,14 @@ ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast di Canale mensile per desktop Windows
 ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
 ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 07/08/2020
 ms.locfileid: "45080161"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Cronologia degli aggiornamenti per Office beta Channel
 
-Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
-Click [here](https://insider.office.com/) for more information on the Insiders Program.
+Le informazioni di questa pagina sono destinate ai partecipanti al programma Office Insider che vogliono sapere se hanno installato l'aggiornamento più recente o sono alla ricerca di un elenco delle ultime build Insider. Fare clic [qui](https://insider.office.com/) per altre informazioni sul programma Office Insider.
 
 > [!IMPORTANT]
 > - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.

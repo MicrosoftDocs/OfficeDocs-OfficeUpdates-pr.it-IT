@@ -18,7 +18,7 @@ ms.locfileid: "45138782"
 ---
 # <a name="update-history-for-office-2013"></a>Cronologia degli aggiornamenti per Office 2013
 
-Certain Office 2013 products are kept up to date automatically by using a technology called Click-to-Run. If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary.
+Alcuni prodotti di Office 2013 vengono aggiornati automaticamente tramite una tecnologia denominata A portata di clic. Se si vuole verificare che la versione in uso sia aggiornata, controllare il numero di versione di Office e, se necessario, aggiornare manualmente.
   
 > [!NOTE]
 > La versione più recente di Office 2013 è **15.0.5259.1000**, rilasciata il 14 luglio 2020.
@@ -31,16 +31,16 @@ Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
     
 3. In **Informazioni sui prodotti**, controllare il numero di versione visualizzato sotto **Aggiornamenti di Office**.
     
-    If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office 2013. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
+    Se il numero di versione visualizzato corrisponde alla versione più recente, il prodotto è aggiornato. In caso contrario, è possibile eseguire manualmente l'aggiornamento per ottenere la versione più recente di Office 2013. Per aggiornare Office, [eseguire queste operazioni](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Elenco di date di rilascio, numeri di versione e informazioni sulle correzioni per gli aggiornamenti di Office 2013
 
-The following table provides a list of updates for Office 2013, with the most recent release date listed first. The table includes the version number for the release and a link to the Microsoft Knowledge Base (KB) article, if available, that contains information about the fixes that are included in the update.
+La tabella seguente fornisce un elenco degli aggiornamenti per Office 2013 in ordine cronologico, a partire dalla data di rilascio più recente. La tabella include il numero di versione e un collegamento all'articolo della Microsoft Knowledge Base (KB), se disponibile, che contiene informazioni sulle correzioni incluse nell'aggiornamento.
   
 Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni precedenti.
 
 > [!NOTE]
-> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
+> Gli articoli KB elencati di seguito sono solo a scopo di riferimento. Gli aggiornamenti A portata di clic includono tutte le correzioni elencate negli articoli della KB. Non è necessario scaricare gli aggiornamenti separati elencati negli articoli della KB.
 
   
 |**Anno di pubblicazione**|**Data di rilascio**|**Numero di versione**|**Altre informazioni**|

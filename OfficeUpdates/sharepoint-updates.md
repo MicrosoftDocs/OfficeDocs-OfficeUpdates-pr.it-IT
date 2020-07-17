@@ -12,7 +12,7 @@ ms.collection:
 - IT_Sharepoint_Server_Top
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
-description: Find and manage updates for SharePoint Server 2016, SharePoint 2013, and SharePoint 2010 in one place. Use the links on this page to get more information about updates, and then download the updates.
+description: Trovare e gestire gli aggiornamenti per SharePoint Server 2016, SharePoint 2013 e SharePoint 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
 ms.openlocfilehash: c579f1d1f36f68763625e07a35177fae662a9a45
 ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
@@ -22,7 +22,7 @@ ms.locfileid: "45138802"
 ---
 # <a name="sharepoint-updates"></a>Aggiornamenti per SharePoint
 
-Find and manage updates for [SharePoint Server 2019](#sharepoint-2019-update-history), [SharePoint Server 2016](#sharepoint-2016-update-history), [SharePoint 2013](#sharepoint-2013-update-history), and [SharePoint 2010](#sharepoint-2010-update-history) in one place. Use the links on this page to get more information about updates, and then download the updates.
+Trovare e gestire gli aggiornamenti per [SharePoint Server 2019](#sharepoint-2019-update-history), [SharePoint 2016](#sharepoint-2016-update-history), [SharePoint 2013](#sharepoint-2013-update-history) e [SharePoint 2010](#sharepoint-2010-update-history) in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
 
 Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedere la [Roadmap di Office 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
 
@@ -277,7 +277,7 @@ Per gli aggiornamenti cumulativi vengono forniti i seguenti pacchetti:
    
 ## <a name="additional-information"></a>Informazioni aggiuntive
 
-Software updates include any update, update rollup, service pack, feature pack, critical update, security update, or hotfix. See [KB 824684](https://support.microsoft.com/kb/824684) for a description of the standard terminology used to describe Microsoft software updates. 
+Gli aggiornamenti software includono qualsiasi aggiornamento, aggiornamento cumulativo, service pack, feature pack, aggiornamento critico, di sicurezza o rapido. Vedere [KB 824684](https://support.microsoft.com/kb/824684) per una descrizione della terminologia standard utilizzata per descrivere gli aggiornamenti software Microsoft. 
 
 Oltre agli aggiornamenti per SharePoint, è opportuno consultare le informazioni seguenti per i prodotti su cui si basa SharePoint.
   
