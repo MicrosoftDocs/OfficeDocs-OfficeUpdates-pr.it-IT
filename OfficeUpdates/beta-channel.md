@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
-ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
+ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45098670"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45166714"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,47 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2008-july-17"></a>Versione 2008: 17 luglio
+*Versione 2008 (Build 13115.20000)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui quando si salvava e riapriva un grafico pivot con le guide nascoste, le guide diventavano visibili.
+
+- È stato risolto un problema per cui i grafici non venivano sempre aggiornati come previsto quando era abilitato "ForceFullCalculation" tramite VBA per la cartella di lavoro.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema relativo alla creazione di più profili in Outlook dallo stesso dominio di posta elettronica.
+- Risolve un problema che causava l'errore di visualizzazione dell'icona di blocco nell'intestazione dei messaggi crittografati con S/MIME.
+- Risolve un problema che causava la rimozione degli allegati dai messaggi S/MIME quando inviati non crittografati.
+- Risolve un problema che causava il danneggiamento dei messaggi S/MIME di testo normale durante l'invio.
+- Risolve un problema che causava il danneggiamento degli allegati durante l'invio di un messaggio di posta elettronica S/MIME non crittografato.
+- Risolve un problema che impediva agli utenti di salvare gli allegati di OneDrive dall'esterno del tenant al computer locale selezionando l'opzione "Salva" nella finestra di dialogo relativa alla sicurezza.
+- Risolve un problema che impediva ai destinatari di salvare i messaggi protetti, anche quando era stata concessa l'autorizzazione Salva come dal mittente.
+- Risolve un problema che causava il troncamento delle etichette per alcune opzioni di ricerca avanzate in alcune lingue.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui le attività elencate nella visualizzazione della Bacheca delle attività non erano sincronizzate con quelle della finestra di dialogo Assegna risorse.
+- È stato risolto un problema per cui copiando e incollando un'attività con più dipendenze, non tutte le dipendenze venivano copiate correttamente.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui il comando "Editor" veniva disabilitato quando ci si trovava in una casella di testo del commento.
+- È stato risolto un problema per cui il comando "Mostra commenti" veniva disabilitato quando ci si trovava in una casella di testo del commento.
+- È stato risolto un problema nel linguaggio XML personalizzato per cui lo stato dei commenti poteva andare perso all'apertura del documento.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui venivano creati altri file dopo che l'utente aveva aperto una nuova finestra dell'app dalla barra delle applicazioni e creato un nuovo documento vuoto.
+- È stato risolto un problema per cui non era possibile inviare una notifica all'utente informandolo che il documento doveva essere nuovamente autenticato nel caso in cui un utente avesse modificato un documento senza disporre delle autorizzazioni per farlo.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-july-10"></a>Versione 2008: 10 luglio
 *Versione 2008 (Build 13102.20002)*
@@ -239,14 +280,14 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 ### <a name="outlook"></a>Outlook
 
-- È stato risolto un problema per cui la finestra IME (Input Method Editor) si sovrapponeva al testo sottostante immesso dall'IME quando si usavano più monitor con risoluzioni diverse.
-- È stato risolto un problema per cui la visualizzazione di un modello durante la composizione di un nuovo messaggio di posta elettronica causava un arresto anomalo.
-- È stato risolto un problema per cui gli utenti non erano in grado di eseguire le cartelle pubbliche di Exchange 2010 dopo Outlook versione 1911.
+- È stato risolto un problema per cui la finestra IME (Input Method Editor) si sovrapponeva al testo sottostante inserito attraverso l’IME, quando venivano usati più monitor con risoluzioni diverse.
+- È stato risolto un problema per cui la visualizzazione di un modello durante la composizione di un nuovo messaggio di posta elettronica provocava un arresto anomalo.
+- È stato risolto un problema per cui gli utenti non riuscivano a usare le cartelle pubbliche di Exchange 2010 dopo la versione 1911 di Outlook.
 - È stato risolto un problema per cui il pulsante Categorizza per i calendari di gruppo sulla barra multifunzione di Office era disabilitato.
 - È stato risolto un problema che causava l'arresto anomalo degli utenti con contatti in conflitto in Outlook.
 - È stato risolto un problema che causava il mancato recapito nell'elenco a discesa Archivio online nelle proprietà della cartella per gli utenti di monitor con valori DPI elevati.
 - È stato risolto un problema che causava l’arresto anomalo di Outlook quando si lavorava con collegamenti ipertestuali nei messaggi di posta elettronica in testo normale.
-- È stato risolto un problema che causava la possibilità di analizzare nomi file lunghi codificati con RFC2231.
+- È stato risolto un problema per cui Outlook non riusciva ad analizzare i nomi di file lunghi codificati con RFC2231.
 - È stato risolto un problema che causava blocchi intermittenti di Outlook quando si usavano le utilità per la lettura dello schermo.
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -254,7 +295,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 - È stato risolto un problema con l'apertura di file configurati dal server con l'autenticazione basata su moduli.
 - È stato risolto un problema per cui i file di PowerPoint con grafici o cartelle di lavoro incorporate potevano causare errori durante il salvataggio del file.
 - È stato risolto un problema per cui un riquadro commenti che era stato chiuso dall'utente veniva riaperto automaticamente.
-- È stato risolto un problema per cui l'editor di diapositive di una diapositiva si sovrapponeva alla diapositiva successiva.
+- È stato risolto un problema per cui l'editor diapositive si sovrapponeva da una diapositiva a quella successiva.
 
 ### <a name="project"></a>Project
 
@@ -1022,5 +1063,6 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
