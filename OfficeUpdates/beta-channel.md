@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
-ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
+ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
+ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45166714"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410702"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,35 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2008-july-24"></a>Versione 2008: 24 luglio
+*Versione 2008 (Build 13117.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Creare diagrammi di Visio chiari in Excel:** è possibile creare un diagramma di flussi o un organigramma inserendo i dati in un foglio di lavoro. [Altre informazioni](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="onenote"></a>OneNote
+
+- È stato risolto un problema per cui il testo segnaposto nella casella di modifica di ricerca veniva riversato se la finestra dell'applicazione era ridimensionata in una dimensione ridotta.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui il testo segnaposto nella casella di modifica di ricerca veniva riversato se la finestra dell'applicazione era ridimensionata in una dimensione ridotta.
+- È stato risolto un problema per cui l'opzione "persone specifiche" per le revisioni è stata disabilitata.
+- È stato risolto un blocco occasionale durante l'apertura di file HTML.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-july-17"></a>Versione 2008: 17 luglio
 *Versione 2008 (Build 13115.20000)*
@@ -1063,6 +1092,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
