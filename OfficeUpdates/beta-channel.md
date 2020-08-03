@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
-ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
+ms.openlocfilehash: c9d5dfb323a27aacb792d93293cf3aba09d43432
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45410702"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532601"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,67 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2008-july-31"></a>Versione 2008: 31 luglio
+*Versione 2008 (Build 13127.20002)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+
+### <a name="outlook"></a>Outlook
+
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+
+### <a name="word"></a>Word
+
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- Questa correzione risolve il problema per cui il tentativo di eseguire determinate query in precedenza generava il messaggio di errore 'La query è troppo complessa.'
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui, se veniva modificato l'ordine di una serie del grafico, la casella di controllo corrispondente allineata alla serie non era riordinata insieme alla serie.
+- È stato risolto un problema per cui una copia di un'immagine con riempimento sfumato non corrispondeva all'originale.
+
+### <a name="outlook"></a>Outlook
+
+- Questa correzione risolve un problema che impediva agli utenti di aggiungere una firma rispondendo a un messaggio protetto con Digital rights management da una finestra di controllo, quando l'utente non aveva le autorizzazioni di tipo proprietario per il messaggio a cui stava rispondendo.
+- Questa correzione risolve un problema che impediva a Outlook di mostrare correttamente le interruzioni di riga nel contenuto markdown.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui una copia di un'immagine con riempimento sfumato non corrispondeva all'originale.
+- È stato risolto un problema per cui il pulsante Moduli in PowerPoint non consentiva la creazione di Moduli quando l'accesso all’Office Store non era consentito.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui, in relazione a un elenco attività di SharePoint, i pulsanti della barra multifunzione nella seconda scheda potevano essere disabilitati.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui una copia di un'immagine con riempimento sfumato non corrispondeva all'originale.
+- È stato risolto un problema per cui, se veniva aggiunto un commento per tenere traccia di una modifica, il riquadro delle revisioni si apriva improvvisamente.
+- È stato risolto un problema per cui i collegamenti ai documenti non venivano inseriti nella casella commenti tramite il menu a discesa Inserisci -> Collegamento.
+- È stato risolto un problema per cui il conteggio dei collegamenti ipertestuali nella raccolta dei collegamenti ipertestuali VBA non eseguiva l’iterazione correttamente dopo l'aggiunta di un'immagine contenente un collegamento ipertestuale.
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEL BUG)
 
 ## <a name="version-2008-july-24"></a>Versione 2008: 24 luglio
 *Versione 2008 (Build 13117.20000)*
@@ -1092,6 +1153,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|versione-2008-luglio-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)

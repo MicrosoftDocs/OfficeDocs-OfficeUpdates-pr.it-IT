@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506613"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532591"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -31,6 +31,105 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2007-july-30"></a>Versione 2007: 30 luglio
+*Versione 2007 (Build 13029.20308)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Creare una connessione PDF:** connettersi a, importare, aggiornare i dati da un file PDF. [Altre informazioni](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **Filtrare e ordinare senza interrompere le altre persone:** È ora possibile ordinare e filtrare i file di Excel mentre si collabora con altre persone con la Visualizzazione foglio. Questa nuova caratteristica fa in modo che gli ordinamenti e i filtri di altri utenti non abbiano alcun impatto durante la creazione condivisa del documento. [Altre informazioni](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+- **Applicare automaticamente o consigliare etichette di riservatezza:** Office può consigliare o applicare automaticamente un'etichetta di riservatezza in base al contenuto sensibile rilevato.
+
+- **Creare tabelle pivot da set di dati in Power BI all'interno di Excel:** è possibile creare tabelle pivot in Excel connesse ai set di dati archiviati in Power BI in pochi clic. Questa operazione consente di sfruttare al meglio sia le tabelle pivot che Power BI. Calcola, riepiloga e analizza i tuoi dati con le tabelle pivot dai set di dati sicuri di Power BI. [Altre informazioni](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+### <a name="outlook"></a>Outlook
+
+- **Creare sondaggi in Outlook con Sondaggio rapido:** Creare facilmente un sondaggio, raccogliere voti e visualizzare i risultati in un email [Altre informazioni](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Mantenere la qualità elevata delle immagini quando inserite in un messaggio di posta elettronica:** è disponibile una nuova opzione di Outlook per limitare la compressione quando si inviano immagini come parte del contenuto del messaggio di posta elettronica
+
+- **Riaprire rapidamente gli elementi dalla sessione precedente:** è stata aggiunta un'opzione per riaprire rapidamente gli elementi da una sessione di Outlook precedente. Se Outlook si arresta in modo anomalo o lo chiudi, è possibile rilanciare rapidamente gli elementi quando si riapre l'app. Questa funzionalità è attivata per impostazione predefinita. Per disattivarla, vai a Opzioni > Generale > Opzioni di avvio.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Applicare automaticamente o consigliare etichette di riservatezza:** Office può consigliare o applicare automaticamente un'etichetta di riservatezza in base al contenuto sensibile rilevato.
+
+- **Prestazioni di video Stream migliorate in PowerPoint:** sono stati apportati miglioramenti alle prestazioni di riproduzione dei video di Microsoft Stream per ridurre al minimo i tempi di caricamento dei video e creare un'esperienza di visualizzazione fluida. I video aziendali su Microsoft Stream consentono di creare presentazioni migliori.
+
+### <a name="teams"></a>Teams
+
+- **Nuove impostazioni di notifica semplificate:** ora gli utenti possono gestire le impostazioni delle notifiche in modo più semplice con funzionalità avanzate.
+
+- **Le notifiche native di Windows sono ora supportate in Teams:** ora gli utenti possono selezionare la loro modalità preferita per la ricezione delle notifiche, tramite Teams con banner o banner nativi di Windows.
+
+- **Riquadro informazioni del canale:** quando si seleziona l'icona "Informazioni del canale" nell'intestazione del canale, si apre un riquadro dove si vede un riepilogo delle informazioni del canale, tra cui la descrizione del canale, un elenco di collaboratori e membri recenti e la nuova home page per i messaggi di sistema.
+
+- **Disattivare le anteprime per le notifiche della chat:** gli utenti possono modificare le impostazioni e gestire le anteprime per gli avvisi popup delle notifiche della chat.
+
+- **Risposte suggerite:** è stata aggiunta la possibilità per gli utenti di Teams di avere una risposta consigliata alle proprie conversazioni. Questi suggerimenti, se sono abilitati, verranno visualizzati nella parte inferiore di un messaggio di chat. Con questi suggerimenti le risposte ai messaggi diventano rapide e semplici.
+
+### <a name="word"></a>Word
+
+- **Applicare automaticamente o consigliare etichette sulla riservatezza:** Office può consigliare o applicare automaticamente un'etichetta sulla riservatezza in base al contenuto sensibile rilevato.
+
+- **Mantenere il testo nei vettori:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG al momento della conversione di questi oggetti in Excel, Word e PowerPoint.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- Questa correzione risolve il problema per cui il tentativo di eseguire determinate query in precedenza generava il messaggio di errore 'La query è troppo complessa'.
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui poteva verificarsi un errore o un blocco caricando una cartella di lavoro con più fogli in visualizzazione anteprima interruzioni di pagina.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava l'arresto anomalo di CLP cambiando l'indirizzo Da in una risposta da un contesto protetto a uno non protetto.
+
+
+- Risolto un problema per cui l'opzione "Consenti inoltro" non era presente tra le opzioni di risposta in una riunione nel calendario condiviso, se la cartella di download condivisa NON era selezionata.
+
+
+- È stato risolto un problema per cui i delegati ricevevano un messaggio di errore modificando un appuntamento del calendario esistente nel calendario di un manager.
+
+
+- È stato risolto un problema che impediva agli utenti di salvare gli allegati di OneDrive fuori dal tenant nel computer locale nel selezionare l'opzione "Salva" nella finestra di dialogo sicurezza.
+
+- È stato risolto un problema che causava la mancata visualizzazione della pagina Assistente Pianificazione.
+
+- È stato risolto un problema che causava problemi di formattazione negli avvisi di notifica degli eventi imprevisti.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui l'attività selezionata nella finestra di dialogo Assegna risorse non è la stessa selezionata nella visualizzazione Bacheca attività.
+
+- È stato risolto un problema per cui, incollando un'attività con più dipendenze, non tutte le dipendenze vengono copiate correttamente.
+
+- È stato risolto un problema per cui non era possibile salvare un file PDF/XPS da Project a una raccolta documenti di SharePoint.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema che causava la visualizzazione di un messaggio di runtime, anche se la transizione al prodotto completo era stata completata. Il problema è stato corretto verificando che il servizio calcolasse correttamente i prodotti aggiunti. I nuovi prodotti aggiunti sono stati filtrati (verificando che esistano anche nella nuova configurazione) e aggiunti alla fine degli ID di rilascio prodotti esistenti.
 
 
 
@@ -893,6 +992,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13029.20308|versione-2007-luglio-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)

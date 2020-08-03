@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: 9334d53945d72987154a3cd2e38f35d596aad7af
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: d96336b85347bf96fa9907938a6d15b3dc7b309e
+ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506593"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46530335"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
@@ -35,6 +35,22 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="july-30-2020"></a>30 luglio 2020
+
+[//]: # (NON RIMUOVERE - INIZIO CONTENUTO - 30 luglio 2020)
+
+### <a name="current-channel"></a>Canale corrente
+
+La versione più recente è la numero 2007 (Build 13029.20308).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2006 (Build 13001.20498) <br/> |28 luglio 2020 <br/> |374<br/> |
+|Versione 2006 (Build 13001.20384) <br/> |14 luglio 2020 <br/> |158<br/> |
+
+
+[//]: # (NON RIMUOVERE - FINE CONTENUTO - 30 luglio 2020)
 
 ## <a name="july-28-2020"></a>28 luglio 2020
 
