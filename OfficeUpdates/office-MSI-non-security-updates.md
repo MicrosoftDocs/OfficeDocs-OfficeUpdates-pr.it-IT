@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti non relativi alla sicurezza delle versioni con licenza perpetua di Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: f1924b4ad7dac69ad94228998da3042e156e12c6
-ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
+ms.openlocfilehash: 24c7c09611d2af4c88edf989ba7fae08e61675ac
+ms.sourcegitcommit: 1a9ceb0e62ff42213babaf1dbb854b4d911f0e7a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45052619"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560101"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Ultimi aggiornamenti non relativi alla sicurezza per le versioni di Office che usano Windows Installer (MSI)
 
@@ -25,6 +25,14 @@ Questa pagina elenca gli aggiornamenti non relativi alla sicurezza per Office, c
 > - Le informazioni in questo articolo non sono valide per le app di Microsoft 365.
 > - Per ulteriori informazioni sull'installazione degli aggiornamenti di Office, vedere [Installare gli aggiornamenti di Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+## <a name="august-4-2020"></a>4 agosto 2020
+
+**Office 2016**<br/>
+Aggiornamento per Microsoft Office 2016 ([KB4484418](https://support.microsoft.com/help/4484418))<br/> Aggiornamento per Microsoft Project 2016 ([KB4484477](https://support.microsoft.com/help/4484477))<br/>
+Aggiornamento per Skype for Business 2016 ([KB4484464](https://support.microsoft.com/help/4484464))<br/> 
+
+**Office 2010**<br/>
+Aggiornamento per Microsoft Office 2010 ([KB4484454](https://support.microsoft.com/help/4484454))<br/> Aggiornamento per Microsoft PowerPoint 2010 ([KB4092435](https://support.microsoft.com/help/4092435))<br/> 
 
 ## <a name="july-7-2020"></a>7 luglio 2020
 
@@ -76,13 +84,4 @@ Aggiornamento per Skype for Business 2016 ([KB4484245](https://support.microsoft
 
 **Office 2013**<br/>
 Aggiornamento per Skype for Business 2015 ([KB4484097](https://support.microsoft.com/help/4484097))<br/>
-
-
-## <a name="february-4-2020"></a>4 febbraio 2020
-
-**Office 2016**<br/>
-Aggiornamento per Microsoft Project 2016 ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
-Aggiornamento per Microsoft Word 2016 ([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
-
-
 
