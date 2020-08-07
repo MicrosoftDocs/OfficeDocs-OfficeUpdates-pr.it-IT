@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
-ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
+ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
+ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46532591"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46580849"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -686,6 +686,10 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Le tue funzioni Excel preferite sono diventate più veloci:** le funzioni SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS e MINIFS sono più veloci che mai. Passa alla riga inferiore più rapidamente. Provane una ora.
+
 ### <a name="outlook"></a>Outlook
 
 - **Trascinamento dei messaggi di posta elettronica in un gruppo di cui si è proprietari:** è possibile spostare e copiare messaggi e conversazioni trascinandoli dalla Posta in arrivo. I messaggi trascinati verranno condivisi con tutti i membri del gruppo.
