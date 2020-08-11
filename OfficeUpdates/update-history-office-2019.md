@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: 01d2cc4d699e233e7bb60946b7400f25cc2c2e3f
+ms.sourcegitcommit: 20be7ca53ff4bb9bb64d9c347420af575497ea9b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530345"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46612338"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -36,6 +36,9 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
 ## <a name="volume-licensed-versions-of-office-2019"></a>Versioni con contratto multilicenza di Office 2019
 Le informazioni seguenti si applicano alle versioni con contratto multilicenza di Office 2019, ad esempio Office Professional Plus 2019, acquistate tramite un contratto multilicenza.
 
+[//]: # (NON RIMUOVERE L'INIZIO DELLA TABELLA VL)
+
+
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
 |14 luglio 2020   |Versione 1808 (Build 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1449) <br/>|
@@ -46,15 +49,30 @@ Le informazioni seguenti si applicano alle versioni con contratto multilicenza d
 |11 febbraio 2020   |Versione 1808 (Build 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (NON RIMUOVERE LA FINE DELLA TABELLA VL)
+
+<details>
+<summary>Versioni precedenti</summary>
+ 
+[//]: # (NON RIMUOVERE L'INIZIO DELLA VECCHIA TABELLA VL)
 
 
+|**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
+|:-----|:-----|:-----|
 
+
+[//]: # (NON RIMUOVERE LA FINE DELLA VECCHIA TABELLA VL)
+
+</details>
 
 
 <br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Versioni definitive di Office 2016 C2R e Office 2019
 Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e Office 2019, che condividono la stessa data di rilascio e gli stessi numeri di versione.
+
+[//]: # (NON RIMUOVERE L'INIZIO DELLA TABELLA RETAIL)
+
 
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
@@ -64,6 +82,18 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 |30 giugno 2020|Versione 2006 (Build 13001.20266)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |24 giugno 2020|Versione 2005 (Build 12827.20470)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |9 giugno 2020|Versione 2005 (Build 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1322)  <br/>|
+
+
+[//]: # (NON RIMUOVERE LA FINE DELLA TABELLA RETAIL)
+
+<details>
+<summary>Versioni precedenti</summary>
+ 
+[//]: # (NON RIMUOVERE L'INIZIO DELLA VECCHIA TABELLA RETAIL)
+
+
+|**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
+|:-----|:-----|:-----|
 |2 giugno 2020|Versione 2005 (Build 12827.20268)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |21 maggio 2020|Versione 2004 (Build 12730.20352)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |12 maggio 2020|Versione 2004 (Build 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0901)  <br/>  |
@@ -79,7 +109,9 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 |11 febbraio 2020   |Versione 2001 (Build 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (NON RIMUOVERE LA FINE DELLA VECCHIA TABELLA RETAIL)
 
+</details>
 
 
 
