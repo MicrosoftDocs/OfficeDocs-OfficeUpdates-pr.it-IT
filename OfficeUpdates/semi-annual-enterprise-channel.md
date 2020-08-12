@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187606"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634602"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale Enterprise semestrale nel 2020
 
@@ -26,6 +26,57 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 > [!NOTE]
 >
 >- OneNote 2016 sarà ora incluso per impostazione predefinita quando un utente del Canale Enterprise scarica e installa Microsoft 365 Apps in Windows 10 dal portale di Office.
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2002-august-11"></a>Versione 2002: 11 agosto
+*Versione 2002 (Build 12527.20988)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che impediva la possibilità di passare alla modifica per i file aperti come "consigliata sola lettura".
+
+### <a name="onenote"></a>OneNote
+
+- Rimosse chiamate di identità ridondanti per ridurre l'utilizzo delle risorse
+
+- Miglioramento del rilevamento dello stato di creazione condivisa per ridurre l’utilizzo delle risorse.
+
+- Funzionalità migliorate per il rilevamento di errori e la qualità dell'esperienza di sincronizzazione.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava un problema di prestazioni significativo durante l'avvio di Outlook per alcuni tenant.
+
+### <a name="skype"></a>Skype
+
+- È stato risolto un problema che impediva la condivisione dello schermo in un client Skype for Business a 32 bit dopo il funzionamento per diversi giorni.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui, se il salvataggio automatico è disattivato con criteri di gruppo, alcuni documenti potrebbero non mostrare il contenuto più recente su Open finché l'utente non fa clic su "aggiornamenti disponibili".
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1908-august-11"></a>Versione 1908: 11 agosto
+*Versione 1908 (Build 11929.20934)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+## <a name="version-1902-august-11"></a>Versione 1902: 11 agosto
+*Versione 1902 (Build 11328.20644)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -1611,5 +1662,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

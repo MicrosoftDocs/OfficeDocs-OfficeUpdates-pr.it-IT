@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile Enterprise per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138682"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634802"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile Enterprise nel 2020
 
@@ -26,6 +26,112 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 [//]: # (NON RIMUOVERE)
 
 
+
+## <a name="version-2006-august-11"></a>Versione 2006: 11 agosto
+*Versione 2006 (Build 13001.20520)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+
+- **Filtrare e ordinare senza interrompere le altre persone:** È ora possibile ordinare e filtrare i file di Excel mentre si collabora con altre persone con la Visualizzazione foglio. Questa nuova caratteristica fa in modo che gli ordinamenti e i filtri di altri utenti non abbiano alcun impatto durante la creazione condivisa del documento. [Altre informazioni](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+### <a name="outlook"></a>Outlook
+
+- **Protezione dei dati nel gruppo:** l'etichetta di riservatezza che si sceglie quando si crea un gruppo viene applicata ai messaggi di posta elettronica, ai documenti e ai siti del team del gruppo.
+
+- **Racconta storie con le GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza per i tuoi documenti.
+
+- **Nuova opzione per disabilitare i suggerimenti di @menzioni durante la composizione dei messaggi di posta elettronica in Outlook:** si trovano i suggerimenti per la selezione delle menzioni più fastidiosi che utili? Ora è possibile disattivarli.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+
+- **Mantieni una qualità elevata delle immagini quando le inserisci in un messaggio di posta elettronica:** è disponibile una nuova opzione di Outlook per limitare la compressione quando si inviano immagini come parte del contenuto del messaggio di posta elettronica.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+
+- **Prestazioni di video Stream migliorate in PowerPoint:** sono stati apportati miglioramenti alle prestazioni di riproduzione dei video di Microsoft Stream per ridurre al minimo i tempi di caricamento dei video e creare un'esperienza di visualizzazione fluida. I video aziendali su Microsoft Stream consentono di creare presentazioni migliori.
+
+### <a name="word"></a>Word
+
+- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- È stato risolto un problema relativo all'esecuzione di una query che richiedeva circa due volte il tempo necessario per il completamento.
+
+- È stato risolto un problema relativo all'inserimento di tabelle SQL collegate che includono un campo identità, ad esempio numerazione automatica.
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema a causa del quale la personalizzazione CustomUI XML per la scheda della barra multifunzione era rimossa durante il salvataggio su SharePoint/OneDrive.
+
+- È stato risolto un problema per cui può verificarsi un errore o un blocco caricando una cartella di lavoro con più fogli in visualizzazione Anteprima interruzioni di pagina.
+
+- È stato risolto un arresto anomalo che può verificarsi quando si cerca di creare una connessione dati, se l’utente è uscito dal proprio account.
+
+- È possibile che si sia verificata la classificazione automatica dei documenti per le cartelle di lavoro in modalità di sola lettura.
+
+### <a name="onenote"></a>OneNote
+
+- Miglioramento del rilevamento dello stato di creazione condivisa per ridurre l’utilizzo delle risorse.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema relativo al comando copia e incolla immagine SVG.
+
+- Risolve un problema a causa del quale la ricerca di una caratteristica in Suggerisci una caratteristica non restituiva alcun risultato e non era possibile per l’utente suggerire un’idea per una nuova caratteristica.
+
+- È stato risolto un problema a causa del quale CTRL+clic smetteva di funzionare quando le impostazioni del cloud erano abilitate.
+
+- È stato risolto un problema che impediva agli utenti di salvare gli allegati di OneDrive dall'esterno del tenant al computer locale selezionando l'opzione "Salva" nella finestra di dialogo relativa alla sicurezza.
+
+- È stato risolto un problema a causa del quale gli utenti si vedevano richiedere continuamente da Outlook di eseguire lo strumento Manutenzione Posta in arrivo.
+
+- È stato risolto un problema a causa del quale gli utenti dei miglioramenti del Calendario di Outlook condivisi visualizzavano errori di Calendario di Outlook.
+
+- È stato risolto un problema a causa del quale gli utenti visualizzavano la data di creazione degli allegati copiati nel file system tramite il trascinamento  fissata l’1 gennaio 4501.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui l'evento ProjectBeforeTaskChange non si attivava quando era apportata una modifica all'attività di riepilogo del progetto, sia che si trattasse dell’avvio del progetto che del campo attività.
+
+- È stato risolto un problema per cui un'attività contrassegnata come completa al 100% veniva erroneamente indicata con un completamento inferiore al 100%.
+
+- È stato risolto un problema per cui non era possibile aprire progetti nel client desktop di Project da Project Web App se l'URL terminava in ". com".
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema relativo al comando copia e incolla immagine SVG.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stata rilasciata una nuova AppV51 per risolvere una regressione nell’AppV51 precedente. 
+
+- Un problema di tempi poteva causare un arresto anomalo durante la chiusura dei file di Office.
+
+- È stato risolto un problema di arresto imprevisto con l'host di Office in Windows, per cui un componente aggiuntivo viene attivato quando il valore del registro TabProcGrowth è di tipo REG_SZ.
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-august-11"></a>Versione 2005: 11 agosto
+*Versione 2005 (Build 12827.20656)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2005-july-14"></a>Versione 2005: 14 luglio
 *Versione 2005 (Build 12827.20538)*
@@ -82,11 +188,11 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema a causa del quale gli utenti dei miglioramenti del Calendario di Outlook condivisi visualizzavano errori di Calendario di Outlook.
 
-- È stato risolto un problema che causava la visualizzazione del messaggio &quot;Le regole impostate in questo computer non corrispondono alle regole impostate in Microsoft Exchange&quot; all'apertura della finestra di dialogo Regole.
+- Risolve un problema che causava la visualizzazione del messaggio “Le regole impostate in questo computer non corrispondono alle regole impostate in Microsoft Exchange” all'aggiornamento delle regole in Outlook.
 
-- È stato risolto un problema a causa del quale gli utenti visualizzavano la data di creazione degli &nbsp; allegati copiati nel file system tramite il trascinamento fissata all’1 gennaio 4501.
+- È stato risolto un problema a causa del quale gli utenti visualizzavano la data di creazione degli allegati copiati nel file system tramite il trascinamento fissata l’1 gennaio 4501.
 
-- È stato risolto un problema per cui Outlook non riusciva ad abilitare i Criteri predefiniti di prevenzione della perdita dei dati per gli utenti che avevano pagato il servizio nell’ambito del piano M365 Business Plus.
+- Risolve un problema per cui Outlook non riusciva ad abilitare i Criteri predefiniti di prevenzione della perdita dei dati per gli utenti che avevano pagato il servizio nell’ambito del piano M365 Business Plus.
 
 - È stato risolto un problema relativo all'evento di controllo CLP per l'etichetta di risposta/inoltra.
 
@@ -112,7 +218,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema che può aver causato un arresto anomalo durante il trascinamento del contenuto dall'app.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Questa modifica risolve potenziali blocchi che si verificano durante il caricamento e la riproduzione di contenuti animati, ad esempio GIF o modelli 3D.
 
@@ -416,5 +522,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (| Win32|MEC|Produzione|Caratteristica|16.0.12827.20538|versione-2005-luglio-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
