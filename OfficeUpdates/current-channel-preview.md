@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
-ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
+ms.openlocfilehash: 1af6025eea51fcf6d231796b453eca1aac0f9cf3
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46576798"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634852"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -27,6 +27,125 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2008-august-11"></a>Versione 2008: 11 agosto
+*Versione 2008 (Build 13127.20164)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- Questa correzione risolve il problema per cui il tentativo di eseguire determinate query in precedenza generava il messaggio di errore 'La query è troppo complessa.'
+
+- Se è installato Office 365, non è più necessario installare il motore Microsoft ACE Redistributable per esporre ACE all'esterno dell'ecosistema di Office. Quindi, per gli utenti con Office 365, non sarà più necessario il motore ACE Redist e, di conseguenza, questo problema non dovrebbe verificarsi.
+
+- Questo problema è stato risolto. ora è possibile usare il driver ODBC all'esterno delle applicazioni a portata di clic di Office.
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui, se veniva modificato l'ordine di una serie del grafico, la casella di controllo corrispondente allineata alla serie non era riordinata insieme alla serie.
+
+- È possibile che si verifichi un errore quando si prova a salvare un file che contiene una formula usando la funzione LET ().
+
+- È stato risolto un problema per cui i grafici non venivano sempre aggiornati come previsto quando era abilitato "ForceFullCalculation" tramite VBA per la cartella di lavoro.
+
+- È stato risolto un problema per cui una copia di un'immagine con riempimento sfumato non corrispondeva all'originale.
+
+### <a name="onenote"></a>OneNote
+
+- È stato risolto un problema per cui il testo segnaposto nella casella di modifica di ricerca veniva riversato se la finestra dell'applicazione era ridimensionata in una dimensione ridotta.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema relativo alla creazione di più profili in Outlook dallo stesso dominio di posta elettronica.
+
+- È stato risolto un problema che impediva ad alcuni utenti della funzionalità Miglioramenti dei Calendar - Calendario di Outlook condivisi di visualizzare un calendario condiviso appena aggiunto.
+
+- Risolto un problema che causava l'errore di visualizzazione dell'icona di blocco nell'intestazione dei messaggi crittografati S/MIME.
+
+- È stato risolto un problema per cui mancava l'opzione “Consenti Inoltro” dalle “Opzioni di risposta” del calendario condiviso della riunione se la cartella dei download condivisi non era stata selezionata.
+
+- È stato risolto un problema che impediva agli utenti di salvare gli allegati di OneDrive fuori dal tenant nel computer locale nel selezionare l'opzione "Salva" nella finestra di dialogo sicurezza.
+
+- È stato risolto un problema che mostrava il pulsante stampa nello stato disabilitato anche se l'utente aveva le autorizzazioni di stampa appropriate.
+
+- Risolto un problema che causava la rimozione degli allegati dai messaggi S/MIME quando inviati non crittografati.
+
+- Risolto un problema che causava il danneggiamento dei messaggi S/MIME di testo normale durante l'invio.
+
+- Risolto un problema che causava il danneggiamento degli allegati durante l'invio di un messaggio di posta elettronica S/MIME non crittografato.
+
+- Risolto un problema che impediva ai destinatari di salvare i messaggi protetti, anche quando era stata concessa l'autorizzazione “Salva come” dal mittente.
+
+- Questa correzione risolve un problema che impediva agli utenti di aggiungere una firma rispondendo a un messaggio protetto con Digital rights management da una finestra di controllo, quando l'utente non aveva le autorizzazioni di tipo proprietario per il messaggio a cui stava rispondendo.
+
+- Questa correzione risolve un problema che impediva a Outlook di mostrare correttamente le interruzioni di riga nel contenuto markdown.
+
+- Risolto un problema che causava il troncamento delle etichette per alcune opzioni di ricerca avanzate in alcune lingue.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui una copia di un'immagine con riempimento sfumato non corrispondeva all'originale.
+
+- È stato risolto un problema per cui il pulsante Moduli in PowerPoint non consentiva la creazione di Moduli quando l'accesso all’Office Store non era consentito.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui le attività elencate nella visualizzazione della Bacheca delle attività non erano sincronizzate con quelle della finestra di dialogo Assegna risorse.
+
+- È stato risolto un problema per cui se si tentava di salvare un PDF/XPS da Project in una raccolta documenti di SharePoint non sarebbe successo nulla.
+
+- È stato risolto un problema per cui copiando e incollando un'attività con più dipendenze, non tutte le dipendenze venivano copiate correttamente.
+
+- È stato risolto un problema per cui, in relazione a un elenco attività di SharePoint, i pulsanti della barra multifunzione nella seconda scheda potevano essere disabilitati.
+
+### <a name="skype"></a>Skype
+
+- Il tono della pelle dell’emoticon che balla modificato a colorito neutro
+
+### <a name="visio"></a>Visio
+
+- Dopo questa correzione, se l'utente ha interrotto l'esecuzione del comando Elimina con qualsiasi meccanismo (in questo caso tramite il componente aggiuntivo), la memoria non verrà persa e il computer non sarà coinvolto.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema in cui Word smette di rispondere dopo aver incollato del testo e un'immagine in una casella di testo.
+
+- È stato risolto un problema per cui una copia di un'immagine con riempimento sfumato non corrispondeva all'originale.
+
+- È stato risolto un problema per cui il testo segnaposto nella casella di modifica di ricerca veniva riversato se la finestra dell'applicazione era ridimensionata in una dimensione ridotta.
+
+- È stato risolto un problema per cui, se veniva aggiunto un commento per tenere traccia di una modifica, il riquadro delle revisioni si apriva improvvisamente.
+
+- È stato risolto un problema per cui il comando "Editor" veniva disabilitato quando ci si trovava in una casella di testo del commento.
+
+- È stato risolto un problema per cui il comando "Mostra commenti" veniva disabilitato quando ci si trovava in una casella di testo del commento.
+
+- È stato risolto un problema in cui il pulsante "Nuovo commento" viene disabilitato dopo l'eliminazione dell'ultimo commento.
+
+- È stato risolto un problema per cui l'opzione "Persone Specifiche" per le Revisioni è stata disabilitata.
+
+- È stato risolto un problema per cui i collegamenti ai documenti non venivano inseriti nella casella commenti tramite il menu a discesa Inserisci -> Collegamento.
+
+- È stato risolto un blocco occasionale durante l'apertura di file HTML.
+
+- È stato risolto un problema nel linguaggio XML personalizzato per cui lo stato dei commenti poteva andare perso all'apertura del documento.
+
+- È stato risolto un problema per cui il conteggio dei collegamenti ipertestuali nella raccolta dei collegamenti ipertestuali VBA non eseguiva l’iterazione correttamente dopo l'aggiunta di un'immagine contenente un collegamento ipertestuale.
+
+- Per il riquadro Condividi basato su servizi non Web precedente, dopo aver chiuso il documento mentre il riquadro Condividi è aperto potrebbe verificarsi un arresto anomalo. Questo problema è stato risolto.
+
+- È stato risolto un problema per cui venivano creati altri file dopo che l'utente aveva aperto una nuova finestra dell'app dalla barra delle applicazioni e creato un nuovo documento vuoto.
+
+- È stato risolto un problema per cui non era possibile inviare una notifica all'utente informandolo che il documento doveva essere nuovamente autenticato nel caso in cui un utente avesse modificato un documento senza disporre delle autorizzazioni per farlo.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2007-august-05"></a>Versione 2007: 05 agosto
 *Versione 2007 (Build 13029.20344)*
@@ -71,10 +190,6 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 ### <a name="outlook"></a>Outlook
 
 - **Scelta della posizione in cui cercare:** il nuovo elenco a discesa dell'ambito di ricerca consente di modificare più facilmente la ricerca e spostarsi tra cartella corrente e cassetta postale corrente. Grazie a tutti coloro che hanno inviato un feedback sulla nuova esperienza di ricerca in alto. Questo design e questo aggiornamento sono basati proprio su quel feedback.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Prestazioni di video Stream migliorate in PowerPoint:** sono stati apportati miglioramenti alle prestazioni di riproduzione dei video di Microsoft Stream per ridurre al minimo i tempi di caricamento dei video e creare un'esperienza di visualizzazione fluida. I video aziendali su Microsoft Stream consentono di creare presentazioni migliori.
 
 ### <a name="word"></a>Word
 
