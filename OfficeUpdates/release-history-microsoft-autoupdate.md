@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
-ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
+ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45145113"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637644"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,30 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="august-2020-release"></a>Rilascio di agosto 2020
+
+**Data di rilascio:** 11 agosto 2020
+
+*Aggiornamento automatico Microsoft 4.26*
+
+**Correzioni di bug e miglioramenti**
+-   L'icona MAU nel Dock mostrerà ora il numero di aggiornamenti disponibili. 
+-   MAU avvierà ora lo stato ridotto al minimo quando vengono rilevati gli aggiornamenti.
+-   Aggiunta di una nuova preferenza "IgnoreUIOpenAfterInstall" che può essere usata per evitare che l'interfaccia utente MAU lanci dopo l'installazione.
+-   Risolto un problema di autorizzazioni che causava la visualizzazione di un messaggio di “installazione non corretta” 
+-   Esteso salvataggio permanente del messaggio di notifica MAU “Scadenza degli aggiornamenti” da 60 secondi a 1 ora.
+
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto dell’aggiornamento automatico di Microsoft 4.26](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Hash SHA-256:**
+
+E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
+
+<br/><br/>
 
 ## <a name="july-2020-release"></a>Rilascio di luglio 2020
 

@@ -1,6 +1,6 @@
 # [Informazioni sulla versione](release-notes-microsoft365-apps.md)
+# [Aggiornamenti della sicurezza](microsoft365-apps-security-updates.md)
 # Microsoft 365 Apps
-## [Aggiornamenti della sicurezza](microsoft365-apps-security-updates.md)
 ## [Cronologia degli aggiornamenti (per data)](update-history-microsoft365-apps-by-date.md)
 ## [Dimensioni dell’aggiornamento](download-sizes-microsoft365-apps-updates.md)
 
