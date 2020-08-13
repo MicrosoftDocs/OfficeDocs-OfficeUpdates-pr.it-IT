@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Microsoft 365 Apps
-ms.openlocfilehash: 4c1b7d69a40afae6c6172d3d3135c2e22a7daa71
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: d723fa5a294e8dbd3650d0ac69fa201538486089
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138542"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637694"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -40,6 +40,48 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 
 
+
+
+## <a name="august-11-2020"></a>11 agosto 2020
+*Versione 16.40 (Build 20081000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Filtrare e ordinare senza interrompere gli altri:** crea visualizzazioni personalizzate mentre collabori con altri utenti in Excel, in modo da poter filtrare e ordinare senza interrompere il contenuto degli altri utenti. [Altre informazioni](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/sheet-view-makes-collaborating-easier)
+
+### <a name="outlook"></a>Outlook
+
+- **Sicurezza migliorata per gli account di Outlook.com:** con i miglioramenti di sicurezza non è più necessario impostare una password per l'app quando si abilita la verifica in due passaggi per l'account di Outlook.com.
+
+### <a name="powerpoint-mac"></a>PowerPoint Mac
+
+- **Scrivi con l'input penna:** usa la penna digitale mentre registri un presentazione per illustrare i punti anche i tratti input penna verranno registrati. [Altre informazioni](https://support.office.com/article/0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>Aggiornamenti della sicurezza
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1498)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1503)
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1583)
+
+[//]: # (NON RIMUOVERE LA FINE DEL CONTENUTO CON I DETTAGLI SULLA SICUREZZA)
+
 ## <a name="july-14-2020"></a>14 luglio 2020
 *Versione 16.39 (Build 20071300)*
 
@@ -50,7 +92,7 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 - **Aggiungere etichette al grafico dai valori delle celle:** Usare i valori delle celle come etichette per i dati del grafico. [Altre informazioni](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
 
-- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+- **Racconta le tue storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate per dare un tocco di eleganza ai documenti.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1085,8 +1127,8 @@ Questa versione fornisce gli aggiornamenti seguenti.
 |**Applicazione**|**Aggiornamenti delle funzionalità**|**Aggiornamenti della sicurezza**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Sfondi moderni per la modalità focus:** scegliere tra gli sfondi Crepuscolo o Notte polare quando si è in modalità focus nella tab **Visualizzazione**. [Ulteriori informazioni](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Tipo di carattere Dubai:** gruppo di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Altre informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Gruppi:** visualizzare i primi 10 gruppi principali e leggere o rispondere alle conversazioni di gruppo direttamente dalla cartella Gruppi.  <br/> <br/> **Tipo di carattere Dubai:** famiglia di caratteri che supporta sia le lingue dell'Europa occidentale sia la maggior parte delle lingue che usano l'alfabeto arabo. [Ulteriori informazioni](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Famiglia di prodotti Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2017-0254): vulnerabilità di danneggiamento della memoria di Microsoft Office   |
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale (mirato) per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 28b78e3952867cb55b2b91e9e6d9d8d5f2e35063
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: e567d3139d7766b54d05e0ddf5272bc683c6f82a
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187586"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634872"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Note sulla versione per i rilasci del Canale Enterprise semestrale (Anteprima) nel 2020
 
@@ -23,6 +23,43 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 > [!IMPORTANT]
 > Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
 
+
+## <a name="version-2002-august-11"></a>Versione 2002: 11 agosto
+*Versione 2002 (Build 12527.20988)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che impediva la possibilità di passare alla modifica per i file aperti come "consigliata sola lettura".
+
+### <a name="onenote"></a>OneNote
+
+- Rimosse chiamate di identità ridondanti per ridurre l'utilizzo delle risorse
+
+- Miglioramento del rilevamento dello stato di creazione condivisa per ridurre l’utilizzo delle risorse.
+
+- Funzionalità migliorate per il rilevamento di errori e la qualità dell'esperienza di sincronizzazione.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava un problema di prestazioni significativo durante l'avvio di Outlook per alcuni tenant.
+
+### <a name="skype"></a>Skype
+
+- È stato risolto un problema che impediva la condivisione dello schermo in un client Skype for Business a 32 bit dopo il funzionamento per diversi giorni.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui, se il salvataggio automatico è disattivato con criteri di gruppo, alcuni documenti potrebbero non mostrare il contenuto più recente su Open finché l'utente non fa clic su "aggiornamenti disponibili".
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-july-14"></a>Versione 2002: 14 luglio
 *Versione 2002 (Build 12527.20880)*
@@ -467,7 +504,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="access"></a>Access
 
-- Questo aggiornamento risolve un problema di Microsoft Access, che potrebbe causare un errore di tipo &quot;Query danneggiata&quot; quando si esegue una query di aggiornamento o se si usa un'istruzione UPDATE in SQL.
+- Questo aggiornamento risolve un problema di Microsoft Access, che potrebbe causare un errore di tipo “Query danneggiata” quando si esegue una query di aggiornamento o se si usa un'istruzione UPDATE in SQL.
 
 - Questo aggiornamento risolve un problema in Microsoft Access che causava un errore d'identificazione della colonna Identity in una tabella di SQL Server collegata e la segnalazione di righe eliminate in modo non corretto.
 
@@ -535,13 +572,13 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema per cui le applicazioni di terze parti non riuscivano a inviare messaggi di posta elettronica.
 
-- È stato risolto un problema che causava la visualizzazione di una finestra di messaggio vuota con un pulsante &quot;OK&quot; quando si provava a contattare il supporto dal contesto di creazione dell'account.
+- È stato risolto un problema che causava la visualizzazione di una finestra di messaggio vuota con un pulsante "OK" quando si provava a contattare il supporto dal contesto di creazione dell'account.
 
 - È stato risolto un problema che causava un arresto anomalo durante la creazione del profilo.
 
 - È stato risolto un problema per cui Outlook sincronizzava in modo imprevisto tutta la posta elettronica anche quando il dispositivo di scorrimento di sincronizzazione era impostato su un valore inferiore.
 
-- È stato risolto un problema per cui gli utenti con il tema Nero visualizzavano l'elenco a discesa &quot;Da&quot; con il testo bianco su sfondo bianco.
+- È stato risolto un problema per cui gli utenti con Tema Nero visualizzavano l'elenco a discesa “Da” con il testo bianco su sfondo bianco.
 
 - È stato risolto un problema che causava un arresto anomalo annullando la configurazione dell'account.
 
@@ -549,9 +586,9 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema per cui, in alcuni scenari, l'opzione per disabilitare l'evidenziazione degli elementi contrassegnati non veniva rispettata.
 
-- È stato risolto un problema che causava la visualizzazione del messaggio &quot;Le regole impostate in questo computer non corrispondono alle regole impostate in Microsoft Exchange&quot; all'apertura della finestra di dialogo Regole.
+- È stato risolto un problema che causava la visualizzazione del messaggio "Le regole impostate in questo computer non corrispondono alle regole impostate in Microsoft Exchange" all'apertura della finestra di dialogo Regole.
 
-- È stato risolto un problema che causava un arresto anomalo durante la specifica di un indirizzo mittente non valido.
+- È stato risolto un problema che causava un arresto anomalo specificando un indirizzo Da non valido.
 
 - È stato risolto un problema che causava una perdita di memoria in caso di sessioni di Outlook molto lunghe.
 
@@ -573,7 +610,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Sono stati risolti i problemi relativi alle riunioni e appuntamenti impostati nel fuso orario di Brasilia.
 
-- È stato risolto un problema che causava l'invio imprevisto di messaggi di posta elettronica quando gli utenti premevano il tasto &quot;S&quot; dopo aver chiuso il riquadro Verifica accessibilità.
+- È stato risolto un problema che causava l'invio imprevisto di messaggi di posta elettronica quando gli utenti premevano il tasto “S” dopo aver chiuso il riquadro Verifica accessibilità.
 
 - È stata aggiornata la logica di blocco degli allegati in Outlook in modo da bloccare anche gli allegati Python.
 
@@ -603,7 +640,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema per cui, in alcuni casi, il salvataggio di un file esistente comportava sempre la visualizzazione della finestra di dialogo Salva con nome e l’effettivo mancato salvataggio del file.
 
-- Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: &quot;Sono stati modificati gli stili, i blocchi predefiniti&quot;.
+- Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: "Sono stati modificati gli stili, i blocchi predefiniti".
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
 
@@ -731,5 +768,6 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Partecipanti al programma Office Insider| |16.0.12527.20988|versione-2002-agosto-11|)
 [//]: # (| Win32 | FRDC | Partecipanti al programma Office Insider | | 16.0.12527.20880 | versione-2002-luglio-14 |)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
