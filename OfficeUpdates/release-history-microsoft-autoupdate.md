@@ -39,14 +39,14 @@ Per visualizzare le note sulla versione, vedere [Note sulla versione](release-no
 **Correzioni di bug e miglioramenti**
 -   L'icona MAU nel Dock mostrerà ora il numero di aggiornamenti disponibili. 
 -   MAU avvierà ora lo stato ridotto al minimo quando vengono rilevati gli aggiornamenti.
--   Aggiunta di una nuova preferenza "IgnoreUIOpenAfterInstall" che può essere usata per evitare che l'interfaccia utente MAU lanci dopo l'installazione.
--   Risolto un problema di autorizzazioni che causava la visualizzazione di un messaggio di “installazione non corretta” 
--   Esteso salvataggio permanente del messaggio di notifica MAU “Scadenza degli aggiornamenti” da 60 secondi a 1 ora.
+-   Aggiunta di una nuova preferenza "IgnoreUIOpenAfterInstall" che può essere usata per evitare che l'interfaccia utente MAU si avvii dopo l'installazione.
+-   È stato risolto un problema di autorizzazioni che causava la visualizzazione di un messaggio di installazione non corretta 
+-   Abbiamo esteso il salvataggio permanente del messaggio di notifica MAU “Scadenza degli aggiornamenti” da 60 secondi a 1 ora.
 
 
 **Collegamento dell'aggiornamento di MAU:**
 
-[Scaricare il pacchetto dell’aggiornamento automatico di Microsoft 4.26](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Scarica il pacchetto dell’aggiornamento automatico di Microsoft 4.26](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
 **Hash SHA-256:**
 

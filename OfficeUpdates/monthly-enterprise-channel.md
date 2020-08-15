@@ -45,11 +45,11 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Protezione dei dati nel gruppo:** l'etichetta di riservatezza che si sceglie quando si crea un gruppo viene applicata ai messaggi di posta elettronica, ai documenti e ai siti del team del gruppo.
 
-- **Racconta storie con le GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza per i tuoi documenti.
+- **Raccontare le storie con le GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza per i tuoi documenti.
 
 - **Nuova opzione per disabilitare i suggerimenti di @menzioni durante la composizione dei messaggi di posta elettronica in Outlook:** si trovano i suggerimenti per la selezione delle menzioni più fastidiosi che utili? Ora è possibile disattivarli.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
 
-- **Mantieni una qualità elevata delle immagini quando le inserisci in un messaggio di posta elettronica:** è disponibile una nuova opzione di Outlook per limitare la compressione quando si inviano immagini come parte del contenuto del messaggio di posta elettronica.
+- **Mantenere la qualità delle immagini quando si inseriscono nei messaggi di posta elettronica:** è disponibile una nuova opzione di Outlook per limitare la compressione quando si inseriscono immagini nei messaggi di posta elettronica.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -79,11 +79,11 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema a causa del quale la personalizzazione CustomUI XML per la scheda della barra multifunzione era rimossa durante il salvataggio su SharePoint/OneDrive.
 
-- È stato risolto un problema per cui può verificarsi un errore o un blocco caricando una cartella di lavoro con più fogli in visualizzazione Anteprima interruzioni di pagina.
+- È stato risolto un problema che impediva il caricamento di una cartella di lavoro con più fogli in visualizzazione Anteprima interruzioni di pagina.
 
-- È stato risolto un arresto anomalo che può verificarsi quando si cerca di creare una connessione dati, se l’utente è uscito dal proprio account.
+- È stato risolto un problema che provocava un arresto anomalo quando si provava a creare una connessione dati dopo aver disconnesso il proprio account.
 
-- È possibile che si sia verificata la classificazione automatica dei documenti per le cartelle di lavoro in modalità di sola lettura.
+- La classificazione automatica dei documenti poteva verificarsi per le cartelle di lavoro in modalità di sola lettura.
 
 ### <a name="onenote"></a>OneNote
 
@@ -95,15 +95,15 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Risolve un problema a causa del quale la ricerca di una caratteristica in Suggerisci una caratteristica non restituiva alcun risultato e non era possibile per l’utente suggerire un’idea per una nuova caratteristica.
 
-- È stato risolto un problema a causa del quale CTRL+clic smetteva di funzionare quando le impostazioni del cloud erano abilitate.
+- È stato risolto un problema che impediva il funzionamento di CTRL+clic quando le impostazioni del cloud erano abilitate.
 
 - È stato risolto un problema che impediva agli utenti di salvare gli allegati di OneDrive dall'esterno del tenant al computer locale selezionando l'opzione "Salva" nella finestra di dialogo relativa alla sicurezza.
 
-- È stato risolto un problema a causa del quale gli utenti si vedevano richiedere continuamente da Outlook di eseguire lo strumento Manutenzione Posta in arrivo.
+- È stato risolto un problema a causa del quale Outlook chiedeva continuamente agli utenti di eseguire lo strumento Manutenzione Posta in arrivo.
 
-- È stato risolto un problema a causa del quale gli utenti dei miglioramenti del Calendario di Outlook condivisi visualizzavano errori di Calendario di Outlook.
+- È stato risolto un problema che generava errori del calendario agli utenti delle funzionalità migliorate dei calendari condivisi.
 
-- È stato risolto un problema a causa del quale gli utenti visualizzavano la data di creazione degli allegati copiati nel file system tramite il trascinamento  fissata l’1 gennaio 4501.
+- È stato risolto un problema a causa del quale la data degli allegati copiati tramite trascinamento nel file system veniva impostata su 1 gennaio 4501.
 
 ### <a name="project"></a>Project
 
@@ -111,7 +111,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema per cui un'attività contrassegnata come completa al 100% veniva erroneamente indicata con un completamento inferiore al 100%.
 
-- È stato risolto un problema per cui non era possibile aprire progetti nel client desktop di Project da Project Web App se l'URL terminava in ". com".
+- È stato risolto un problema per cui non era possibile aprire progetti nel client Project per desktop da Project Web App con gli URL con suffisso .com.
 
 ### <a name="word"></a>Word
 
@@ -190,7 +190,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Risolve un problema che causava la visualizzazione del messaggio “Le regole impostate in questo computer non corrispondono alle regole impostate in Microsoft Exchange” all'aggiornamento delle regole in Outlook.
 
-- È stato risolto un problema a causa del quale gli utenti visualizzavano la data di creazione degli allegati copiati nel file system tramite il trascinamento fissata l’1 gennaio 4501.
+- È stato risolto un problema a causa del quale la data degli allegati copiati tramite trascinamento nel file system veniva impostata su 1 gennaio 4501.
 
 - Risolve un problema per cui Outlook non riusciva ad abilitare i Criteri predefiniti di prevenzione della perdita dei dati per gli utenti che avevano pagato il servizio nell’ambito del piano M365 Business Plus.
 

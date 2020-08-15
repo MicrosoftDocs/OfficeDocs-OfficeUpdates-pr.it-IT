@@ -41,27 +41,27 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
 
-- È stato risolto un problema che impediva la possibilità di passare alla modifica per i file aperti come "consigliata sola lettura".
+- È stato risolto un problema che impediva di modificare i file aperti in modalità "Consigliata sola lettura".
 
 ### <a name="onenote"></a>OneNote
 
-- Rimosse chiamate di identità ridondanti per ridurre l'utilizzo delle risorse
+- Sono state rimosse le chiamate di identità ridondanti per ridurre l'utilizzo delle risorse
 
-- Miglioramento del rilevamento dello stato di creazione condivisa per ridurre l’utilizzo delle risorse.
+- È stato migliorato il rilevamento dello stato di collaborazione ai file per ridurre l’utilizzo delle risorse.
 
-- Funzionalità migliorate per il rilevamento di errori e la qualità dell'esperienza di sincronizzazione.
+- Sono state migliorate la funzionalità di rilevamento di errori e la qualità dell'esperienza di sincronizzazione.
 
 ### <a name="outlook"></a>Outlook
 
-- È stato risolto un problema che causava un problema di prestazioni significativo durante l'avvio di Outlook per alcuni tenant.
+- È stato risolto un problema che causava un notevole problema di prestazioni durante l'avvio di Outlook per alcuni tenant.
 
 ### <a name="skype"></a>Skype
 
-- È stato risolto un problema che impediva la condivisione dello schermo in un client Skype for Business a 32 bit dopo il funzionamento per diversi giorni.
+- È stato risolto un problema che causava un errore di avvio della condivisione dello schermo quando un client Skype for Business a 32 bit era in uso per diversi giorni.
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
 
-- È stato risolto un problema per cui, se il salvataggio automatico è disattivato con criteri di gruppo, alcuni documenti potrebbero non mostrare il contenuto più recente su Open finché l'utente non fa clic su "aggiornamenti disponibili".
+- È stato risolto un problema per cui, se il salvataggio automatico era disattivato con i criteri di gruppo, quando si aprivano alcuni documenti per visualizzare il contenuto più recente sul server bisognava fare clic su "Aggiornamenti disponibili".
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
