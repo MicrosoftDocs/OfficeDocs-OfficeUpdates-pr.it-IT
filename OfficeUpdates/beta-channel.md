@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: e6eed857b8283a1fc54df709d9c467e86ef27abc
-ms.sourcegitcommit: a08ea72a9245e2d6136f3d9430a784777f2ff1e4
+ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
+ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46590303"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "46695300"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,27 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2009-august-14"></a>Versione 2009: 14 agosto
+*Versione 2009 (Build 13205,20000)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui se un utente digitava il nome di una formula incluse le parentesi e richiamava la guida tramite F1, l'argomento della guida specifico per quella formula non veniva visualizzato.
+- È stato risolto un problema per cui le macro assegnate ai pulsanti venivano interrotte dopo il ripristino di una versione precedente del file.
+
+### <a name="outlook"></a>Outlook
+
+- Questa modifica risolve un problema per cui la pagina Riunione continuava a essere visualizzata dopo che l'utente aveva cambiato scheda dalla pagina Riunione alla pagina Assistente pianificazione.
+
+### <a name="word"></a>Word
+
+- Abbiamo risolto un problema per cui l'icona dell’elenco puntato non veniva visualizzata correttamente.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-august-07"></a>Versione 2009: 07 agosto
 *Versione 2009 (Build 13130.20000)*
@@ -1169,6 +1190,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|versione-2009-agosto-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|versione-2009-agosto-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|versione-2008-luglio-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
