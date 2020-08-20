@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
+ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634832"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46818355"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -253,6 +253,10 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Un modo semplificato per gestire le impostazioni di notifica del canale:** Usando l’elenco dei team e dei canali oppure l'intestazione del canale, gli utenti possono gestire rapidamente le impostazioni di notifica attivando o disattivando tutte le attività con un solo clic, oppure esplorando le personalizzazioni per configurarle come necessario.
 
 - **Walkie talkie:** comunicazione vocale istantanea con tecnologia push-to-talk.
+
+### <a name="word"></a>Word
+
+- **Conferma dell'azione nelle utilità per la lettura dello schermo:** la conferma dell'azione rappresenta un requisito importante per l'accessibilità. Con l'introduzione di una nuova API di notifica di Windows, è ora possibile avvisare gli utenti delle utilità per la lettura dello schermo della riuscita delle azioni. I comandi taglia, copia, incolla, grassetto, corsivo, sottolineato, annulla, ripristina, correzione automatica e maiuscole automatiche ora sono tutti annunciati agli utenti dell'Assistente vocale in Win32 Word. Per abilitare questa funzionalità, attivare l'Assistente vocale premendo il tasto Windows + CTRL + INVIO.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
