@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
-ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
+ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
+ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46695300"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852522"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,47 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2009-august-21"></a>Versione 2009: 21 agosto
+*Versione 2009 (Build 13212.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Penna azione in Excel:** strumento penna per scrivere e apportare modifiche rapide ai dati
+
+### <a name="outlook"></a>Outlook
+
+- **Eliminare una conversazione con il proprietario del messaggio:** questa funzionalità consente di eliminare una conversazione dal proprietario del messaggio.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- È stato risolto un problema per cui le connessioni a un database ODBC non funzionavano con le applicazioni di terze parti.
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema relativo all'uso di una macro per impostare la proprietà FormulaR1C1 per un intervallo. I riferimenti di cella era corretto se un foglio grafico era il foglio attivo.
+- È stato risolto un problema per cui l’input penna poteva far sì che Excel smettesse di rispondere.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui gli utenti ora possono disabilitare IRM (Information Rights Management) per Outlook senza doverlo disabilitare per il resto delle applicazioni di Office.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui Word poteva arrestarsi in modo anomalo dopo l'eliminazione dei commenti.
+- È stato risolto un problema in cui, in alcuni casi, i punti elenco non vengono visualizzati correttamente nelle e-mail.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 ## <a name="version-2009-august-14"></a>Versione 2009: 14 agosto
 *Versione 2009 (Build 13205,20000)*
@@ -1190,6 +1231,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|versione-2009-agosto-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|versione-2009-agosto-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|versione-2009-agosto-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|versione-2008-luglio-31|)
