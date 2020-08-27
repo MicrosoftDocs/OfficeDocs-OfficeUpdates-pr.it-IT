@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: 786855ce6b1b1aefd40b631045e450bb49c212b4
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 128359540241fd27fa2b6947421cd7c9aa0f5c58
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637654"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895730"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -58,7 +58,9 @@ Le informazioni seguenti si applicano alle versioni con contratto multilicenza d
 <details>
 <summary>Versioni precedenti</summary>
  
+
 [//]: # (NON RIMUOVERE L'INIZIO DELLA VECCHIA TABELLA VL)
+
 
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
@@ -76,24 +78,29 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 [//]: # (NON RIMUOVERE L'INIZIO DELLA TABELLA RETAIL)
 
+
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
+|25 agosto 2020|Versione 2007 (Build 13029.20460)| |
 |11 agosto 2020|Versione 2007 (Build 13029.20344)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |30 luglio 2020|Versione 2007 (Build 13029.20308)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |28 luglio 2020|Versione 2006 (Build 13001.20498)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |14 luglio 2020|Versione 2006 (Build 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1458) <br/>|
 |30 giugno 2020|Versione 2006 (Build 13001.20266)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
-|24 giugno 2020|Versione 2005 (Build 12827.20470)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
+
 
 [//]: # (NON RIMUOVERE LA FINE DELLA TABELLA RETAIL)
 
 <details>
 <summary>Versioni precedenti</summary>
  
+
 [//]: # (NON RIMUOVERE L'INIZIO DELLA VECCHIA TABELLA RETAIL)
+
 
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
+|24 giugno 2020|Versione 2005 (Build 12827.20470)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |9 giugno 2020|Versione 2005 (Build 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1322)  <br/>|
 |2 giugno 2020|Versione 2005 (Build 12827.20268)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |21 maggio 2020|Versione 2004 (Build 12730.20352)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
@@ -105,7 +112,7 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 |31 marzo 2020|Versione 2003 (Build 12624.20382)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |25 marzo 2020|Versione 2003 (Build 12624.20320)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |10 marzo 2020|Versione 2002 (Build 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0892) <br/>  |
-|1 marzo 2020   |Versione 2002 (Build 12527.20242)  |È stato risolto un problema per cui le applicazioni di terze parti non riuscivano a inviare messaggi di posta elettronica da Outlook. <br/>  | 
+|1 marzo 2020   |Versione 2002 (Build 12527.20242)  |È stato risolto un problema per cui le applicazioni di terze parti non riuscivano a inviare messaggi di posta elettronica da Outlook. <br/>  |
 
 
 [//]: # (NON RIMUOVERE LA FINE DELLA VECCHIA TABELLA RETAIL)

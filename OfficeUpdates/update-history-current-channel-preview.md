@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 582ec8c33a442ae0e66cc7d4f353f77a147f9a5d
-ms.sourcegitcommit: 20a982ebe52a35e43739162151bb490971203cf7
+ms.openlocfilehash: 95bc3020972a2acd7eb86d96bdba4ee9536d871b
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46826859"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895740"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Cronologia degli aggiornamenti del Canale corrente di Office (Anteprima) per Windows
 
@@ -24,7 +24,7 @@ Per altre informazioni sul programma Insider, fare clic [qui](https://insider.of
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versioni e build del Canale corrente di Office (Anteprima)
 
 Gli utenti iscritti al livello Canale corrente (Anteprima), in precedenza denominato Insider Slow, ottengono un nuovo aggiornamento delle funzionalità di Office circa una volta al mese, oltre alle build successive che contengono correzioni importanti o aggiornamenti di sicurezza. L’elenco seguente mostra le versioni e le build recenti di Canale correte (Anteprima), con **le build più recenti elencate per prime**. Le nuove build contengono tutti gli aggiornamenti inclusi nelle build precedenti.
-Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview). Inoltre, vedere [Novità per i partecipanti al programma Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/it-IT/OfficeUpdates/current-channel-preview). Inoltre, vedere [Novità per i partecipanti al programma Office Insider](https://insider.office.com/it-IT/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -36,7 +36,9 @@ Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/en-u
 > - Le note sulla versione vengono aggiornate con minore frequenza e gli aggiornamenti per più build possono essere combinati fino al numero di build per cui vengono pubblicate le note sulla versione.
 
 
-[//]: # (NON RIMUOVERE)
+
+**25 agosto 2020**<br/>
+Versione 2008 (Build 13127.20268)<br/>
 
 **17 agosto 2020**<br/>
 Versione 2008 (Build 13127.20208)<br/>

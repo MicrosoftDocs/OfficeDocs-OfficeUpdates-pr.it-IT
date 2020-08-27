@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
-ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
+ms.openlocfilehash: 8e6bae8a355d7d42e43c90db51355c42d9226198
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46818355"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895690"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -34,7 +34,47 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
+
+## <a name="version-2007-august-25"></a>Versione 2007: 25 agosto
+*Versione 2007 (Build 13029.20460)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È possibile che si verifichi un errore quando si prova a salvare un file che contiene una formula usando la funzione LET().
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la visualizzazione errata dei nomi file degli utenti di alcuni set di caratteri durante l'aggiunta di un collegamento Smart a un file di SharePoint.
+
+
+- È stato risolto un problema che causava agli utenti di Outlook la comparsa di errori connessi con lo spostamento in modalità di visualizzazione compatta.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema relativo all'arresto anomalo di PowerPoint.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema che causava un arresto anomalo quando gli utenti rispondevano a un messaggio o componevano un nuovo messaggio.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Per il riquadro Condividi basato su servizi non Web precedente, dopo aver chiuso il documento mentre il riquadro Condividi è aperto potrebbe verificarsi un arresto anomalo. Questo problema è stato risolto.
+
+
+- È stato risolto un problema per cui gli elementi o il contenuto dell'interfaccia utente non erano visualizzati dagli utenti in determinate condizioni, in particolare con l’entrata e l’uscita dalla visualizzazione Relatore o l'utilizzo di più monitor.
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 ## <a name="version-2007-august-11"></a>Versione 2007: 11 agosto
 *Versione 2007 (Build 13029.20344)*
@@ -1023,6 +1063,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|versione-2007-luglio-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
