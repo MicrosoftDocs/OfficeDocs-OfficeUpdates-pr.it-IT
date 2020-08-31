@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
-ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
+ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
+ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852522"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300310"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,33 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2009-august-28"></a>Versione 2009: 28 agosto
+*Versione 2009 (Build 13219.20004)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- Indirizza un problema che consentiva agli utenti di inviare il contenuto della posta elettronica con un criterio "non inoltrato" applicato a OneNote quando si selezionavano più messaggi.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui la funzionalità di inserimento di un video era disabilitata.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui l'utente non poteva chiudere l'intestazione o il piè di pagina quando veniva selezionato un commento.
+- È stato risolto un problema che impediva agli utenti di visualizzare i thread dei commenti che avevano superato il confine del sidetrack, poichè quando si scorreva il sidetrack, questo non funzionava.
+- È stato risolto un problema per cui la ricerca di commenti risolti nel riquadro sidetrack non funzionava.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema dello strumento di distribuzione di Office in cui la era possibile la configurazione quando si usava la funzionalità RemoveMSI con il prodotto Office 2007 "Segnalazione errori applicazioni Microsoft".
+- È stato risolto un problema nella finestra di dialogo Comprimi immagine in cui alcune impostazioni DPI selezionate dall'utente non venivano mantenute.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 ## <a name="version-2009-august-21"></a>Versione 2009: 21 agosto
 *Versione 2009 (Build 13212.20000)*
@@ -1231,6 +1258,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|versione-2009-28-agosto|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|versione-2009-agosto-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|versione-2009-agosto-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|versione-2009-agosto-07|)
