@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 753f95cd70404c2fb027d500409d83919be495f4
-ms.sourcegitcommit: 7334591a0116e3ec442be378a72bec42826cc506
+ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47291074"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47319003"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -32,6 +32,108 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
+
+## <a name="version-2008-august-31"></a>Versione 2008: 31 agosto
+*Versione 2008 (Build 13127.20296)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office. Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint. [Altre informazioni](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="outlook"></a>Outlook
+
+- **Collegamenti migliorati nei messaggi di posta elettronica:** quando si include un collegamento a un file, il nome del file sostituisce l'URL. È possibile modificare le autorizzazioni per consentire l'accesso a tutti i destinatari. [Altre informazioni](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+
+- **Supporto dei linguaggi naturali in Microsoft Search:** con l’implementazione del supporto dei linguaggi naturali in Search, gli utenti possono filtrare facilmente i loro risultati di ricerca senza dover ricordare sintassi di ricerca specifiche.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office. Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint. [Altre informazioni](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="teams"></a>Teams
+
+- **Unione chiamate:** la funzione Unisci chiamate consente agli utenti finali di unire le chiamate 1-1 con altre chiamate 1-1 o altre chiamate di gruppo. Si applica alle chiamate VOIP di Teams e alle chiamate PSTN.
+
+- **Gli amministratori possono configurare la presenza basata sui turni (turno iniziato, turno iniziato) per i loro operatori sul campo:** gli amministratori possono configurare gli operatori sul campo in modo da avere lo stato di presenza basato sul turno: Turno iniziato, Occupato (può essere attivato quando si inizia il turno), Turno iniziato.
+
+- **Comunicazione orale con Cortana in Teams:** le abilità di comunicazione orale di Cortana nell’app per dispositivi di Teams consente agli utenti di eseguire attività di riunione, comunicazione e collaborazione usando il solo linguaggio naturale orale. Ora è possono parlare con Cortana facendo clic sul pulsante del microfono nell’app di Teams e fare richieste come “Chiama Megan” o “Invia un messaggio alla prossima riunione” se è necessario contattare gli altri quando si fanno i lavori o domestici o si sta portando fuori il cane, o in generale quando si è di corsa. Gli utenti possono partecipare alle riunioni semplicemente dicendo “Partecipa alla prossima riunione”, o controllare il calendario chiedendo “cosa c’è da fare stamattina”. Durante una riunione o una chiamata, si può invocare Cortana dal menu di overflow nella pagina della riunione ed eseguire operazioni tipiche delle riunioni, come aggiungere persone in base a nome o numero (“Aggiungi Megan alla chiamata”), visualizzare presentazioni (“presenta il rendiconto trimestrale”) o spostarsi tra le diapositive (“Vai alla diapositiva dell’appendice”). La funzionalità consente anche di trovare e condividere file, ricercare, e spostarsi in generale nell’app di Teams (“Apri la mia chat con John; Vai alle mie attività non lette; Vai alle mie citazioni, ecc.). Cortana in Teams soddisfa gli stessi criteri di riservatezza, sicurezza e conformità validi per i servizi per le organizzazioni di Cortana, come descritto nelle [Condizioni dei servizi online (OST)](https://www.microsoft.com/licensing/product-licensing/products).
+
+- **Ampliamento della chat di gruppo:** ora Team può supportare 250 partecipanti nelle chat di gruppo.
+
+- **Tag basate sui turni:** con questa funzionalità, alle persone sono assegnate automaticamente dei tag che corrispondono al loro orario e al nome del gruppo del turno nell’[app Shifts](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) in Teams.
+
+### <a name="word"></a>Word
+
+- **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office. Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint. [Altre informazioni](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- **Riquadri a schede:** ora è possibile passare da un riquadro all'altro usando un'interfaccia a schede sul lato destro dell'app. L'interfaccia utente sarà visibile solo se sono presenti almeno due riquadri.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- Questo problema è stato risolto. ora è possibile usare il driver ODBC all'esterno delle applicazioni a portata di clic di Office.
+
+
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che faceva sì che gli utenti che tentavano di creare una convocazione di riunione da un account secondario aggiunto al loro profilo non vedessero uno spazio da: campo al posto del loro indirizzo e-mail.
+
+- Risolve un problema che impediva agli utenti di connettersi alle cartelle pubbliche dopo l'aggiunta di una cassetta postale condivisa.
+
+- È stato risolto un problema che causava il mancato retrazione delle riunioni dal calendario di un responsabile in alcuni casi.
+
+- È stato risolto un problema che impediva ad alcuni utenti della funzionalità Miglioramenti dei Calendar - Calendario di Outlook condivisi di visualizzare un calendario condiviso appena aggiunto.
+
+- Risolve un problema che faceva sì che gli utenti sperimentassero occasionalmente degli arresti anomali durante l’interazione con gli allegati cloud.
+
+- È stato risolto un problema che causava la visualizzazione errata dei nomi file degli utenti di alcuni set di caratteri durante l'aggiunta di un collegamento Smart a un file di SharePoint.
+
+- È stato risolto un problema che causava un arresto anomalo quando gli utenti rispondevano a un messaggio di posta elettronica o componevano un nuovo messaggio.
+
+- È stato risolto un problema che causava l'arresto anomalo di quattro o più messaggi di posta elettronica da un account POP con l'opzione "solo intestazioni di download" selezionata.
+
+- È stato risolto un problema che causava la mancata visualizzazione della pagina Assistente Pianificazione da parte di alcuni utenti.
+
+- Questo risolve un problema che causava agli utenti degli arresti anomali occasionali durante la modifica dei destinatari.
+
+- Risolve un problema che consente agli utenti di visualizzare anomalie durante l'uso della visualizzazione compatta.
+
+- È stato risolto un problema che causava il mancato recapito del menu di scelta rapida.
+
+- È stato risolto un problema che causava la ricezione dell'errore seguente quando gli utenti rispondevano a un messaggio di posta elettronica o componevano un nuovo messaggio, "Alcuni dei file in questa pagina Web non sono nella posizione prevista. Scaricarli comunque? Se si è sicuri che la pagina Web sia una fonte attendibile, fare clic su Sì"
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui la data di fine del progetto non viene aggiornata per i progetti collegati all'elenco attività di SharePoint.
+
+- È stato risolto un problema per cui, se una risorsa aveva più di una tabella tariffe definita, il costo residuo non sempre veniva calcolato correttamente.
+
+### <a name="skype"></a>Skype
+
+- Il tono della pelle dell’emoticon che balla modificato su un colorito neutro.
+
+### <a name="word"></a>Word
+
+- Questa modifica consente di risolvere un problema in cui le applicazioni di Office possono bloccarsi in uno stato di errore di salvataggio silenzioso dopo una sessione di creazione condivisa precedente.
+
+- È stato risolto un problema per cui la macro AutoOpen veniva eseguita prima di AutoExec
 
 
 
@@ -1064,6 +1166,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|versione-2007-luglio-30|)
