@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 8953376164e06da93d331a31a86d43b8d3bbf3ab
-ms.sourcegitcommit: 24a6f5290f2c3a86c9109d64ff0ed39b2de9337c
+ms.openlocfilehash: 3ad72b7012b7220dfce130c8976158a496624882
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341032"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399663"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -27,6 +27,20 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2008-september-04"></a>Versione 2008: 4 settembre
+*Versione 2008 (Build 13127.20378)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Questa modifica risolve un problema con la finestra di dialogo Comprimi immagine, che non mantiene determinate impostazioni dell'utente.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-september-02"></a>Versione 2008: 2 settembre
 *Versione 2008 (Build 13127.20360)*
@@ -994,7 +1008,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Per le cartelle di lavoro salvate con una firma digitale in Excel 2016 la firma poteva essere invalidata con l’apertura nell’attuale versione di Excel.
 
-- Application.Evaluate (VBA) in alcuni casi non funzionava per le funzioni definite dall'utente.
+- Application.Evaluate (VBA) talvolta non funzionava per le funzioni definite dall'utente.
 
 - Per le cartelle di lavoro salvate con una firma digitale in Excel 2016 la firma poteva essere invalidata con l’apertura nell’attuale versione di Excel.
 

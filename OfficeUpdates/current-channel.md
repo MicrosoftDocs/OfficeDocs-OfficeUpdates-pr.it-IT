@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 239ab8450f6aaf71f7dd6b4730d1832170ac9b56
-ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
+ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364177"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399653"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -527,6 +527,25 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Lazo e gomma nella casella degli strumenti input penna:** quando si usano gli strumenti di disegno, il lazo e la gomma sono ora disponibili nella casella degli strumenti input penna.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Lazo e gomma nella casella degli strumenti input penna:** quando si usano gli strumenti di disegno, il lazo e la gomma sono ora disponibili nella casella degli strumenti input penna.
+
+### <a name="word"></a>Word
+
+- **Lazo e gomma nella casella degli strumenti input penna:** quando si usano gli strumenti di disegno, il lazo e la gomma sono ora disponibili nella casella degli strumenti input penna.
+
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
