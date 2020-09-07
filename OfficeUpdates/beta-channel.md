@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
-ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
+ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
+ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300310"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47395425"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,79 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2010-september-04"></a>Versione 2010: 4 settembre
+*Versione 2010 (Build 13301.20004)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Creare tipi di dati con Power Query:** è possibile creare tipi di dati formattati con Power Query da qualsiasi origine dati
+
+- **Allineamento del branding di Azure Synapse Analytics:** il connettore dati Azure SQL Data Warehouse è stato rinominato come Azure Synapse Analytics
+
+### <a name="outlook"></a>Outlook
+
+- **Blocco in alto della posta elettronica:** questa funzionalità consente agli utenti di tenere traccia dei messaggi di posta elettronica a cui bisogna tornare o per cui bisogna ricevere notifiche, aggiungendoli in alto nell'elenco dei messaggi.
+
+- **Ricevere suggerimenti di posta elettronica quando si esegue una ricerca per persona:** mentre si digitano i termini di ricerca in Outlook verranno resi visibili i messaggi di posta elettronica più rilevanti nei suggerimenti.
+
+- **Ricevere suggerimenti di posta elettronica quando si esegue una ricerca per persona:** mentre si digitano i termini di ricerca in Outlook verranno resi visibili i messaggi di posta elettronica più rilevanti nei suggerimenti.
+
+- **Aggiornamento dell'Editor Microsoft per i client desktop di Word e Outlook:** stiamo introducendo un nuovo modello "fai clic per rivedere" per i suggerimenti avanzati di ortografia, grammatica e stile. Questa modifica include una nuova superficie dedicata nella scheda per consultare i suggerimenti.
+
+### <a name="word"></a>Word
+
+- **Aggiornamento dell'Editor Microsoft per i client desktop di Word e Outlook:** stiamo introducendo un nuovo modello "fai clic per rivedere" per i suggerimenti avanzati di ortografia, grammatica e stile. Questa modifica include una nuova superficie dedicata nella scheda per consultare i suggerimenti.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui, se si apriva un file contenente una funzione LET, veniva mostra l'avviso: "Si è verificato un problema con il contenuto del file "iltuofile.xlsx". Si vuole provare a recuperare il più possibile? Se l'origine di questa cartella di lavoro è attendibile, fare clic su Sì".
+- È stato risolto un arresto anomalo correlato ai riferimenti e agli intervalli nominati del componente aggiuntivo XLAM.
+- È stato risolto un problema che impediva agli utenti di modificare un filtro della tabella pivot perché era configurato su un valore non più presente nel database Analysis Services.
+- È stato risolto un problema per cui, quando l'utente applicava uno stile personalizzato a una matrice dinamica, riceveva l'errore: "Non è possibile cambiare una parte di una matrice". Si tratta di una restrizione ereditata che è stata rimossa.
+- È stato risolto un problema per cui la barra della formula di Excel non veniva visualizzata interamente quando la connessione a un dispositivo veniva interrotta, ad esempio in caso di connessione/disconnessione di una sessione remota o di un cambio del monitor.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che consente maggiore flessibilità per l'abilitazione e la disabilitazione delle opzioni di autenticazione predefinite tramite i Criteri di gruppo.
+- È stato risolto un problema per cui il nome di dominio di un mittente di posta elettronica veniva preservato e mostrato dopo che una bozza del messaggio veniva spostato da una cassetta postale all'altra con le autorizzazioni dell'assistente e del manager.
+- È stato risolto un problema per cui, per alcuni utenti, Outlook si avviava in modalità offline finché l'utente sceglieva di lavorare online. 
+- È stato risolto un problema per cui l'esecuzione del codice VBA ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") dopo l'abilitazione della barra multifunzione su una riga causava un errore di runtime.
+- È stato risolto un problema per cui i pulsanti OK e Annulla nella finestra di dialogo Risposte automatiche non erano visibili su sistemi ad alta risoluzione (ad esempio 1750 x 1920) quando è selezionata la dimensione grande dei caratteri (come 175%).
+- È stato risolto un problema che causava l'arresto anomalo quando si inviava una convocazione riunione da un gruppo di contatti vuoto a un altro gruppo di contatti.
+- È stato risolto un problema che causava l'arresto anomalo quando venivano aperti alcuni messaggi di posta elettronica molto grandi.
+- È stato risolto un problema per cui, se Criteri di gruppo richiedeva un componente aggiuntivo per essere sempre abilitato, il monitoraggio dei componenti aggiuntivi non era disponibile per impedire agli utenti di disabilitare il componente aggiuntivo.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema che impediva la riproduzione automatica dei video nelle presentazioni.
+- È stato risolto un problema per cui, dopo l'avvio di PowerPoint, l'inserimento di una diapositiva e l'apertura e la chiusura del riquadro dei commenti, le diapositive del riquadro anteprima erano mostrate sovrapposte.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui, se una risorsa aveva tabelle tariffarie multiple, i costi rimanenti a volte non venivano calcolati correttamente.
+- È stato risolto un problema per cui la data di fine del progetto non viene aggiornata per i progetti collegati all'elenco attività di SharePoint.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui la scheda commento mostrava un bordo attorno al testo del commento quando l'utente faceva clic su di esso.
+- È stato risolto un problema per cui la messa a fuoco non passava al riquadro del commento se il documento era ingrandito almeno al 160% e il riquadro del commento non era visibile. 
+- È stato risolto un problema per cui i commenti di un documento venivano visualizzati su altri documenti aperti dopo il passaggio da un documento aperto all'altro.
+- È stato risolto un problema per cui, se un utente creava una bozza di un commento ancorata a una riga contenente commenti approvati, la bozza veniva disposta nell'ordine sbagliato rispetto al commento approvato nel SideTrack.
+- È stato risolto un problema per cui i collegamenti lunghi non venivano mandati a capo quando un documento veniva salvato in formato HTML.
+- È stato risolto un problema per cui la macro AutoOpen veniva eseguita prima di AutoExec.
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-august-28"></a>Versione 2009: 28 agosto
 *Versione 2009 (Build 13219.20004)*
@@ -1258,6 +1331,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|versione-2009-28-agosto|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|versione-2009-agosto-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|versione-2009-agosto-14|)
