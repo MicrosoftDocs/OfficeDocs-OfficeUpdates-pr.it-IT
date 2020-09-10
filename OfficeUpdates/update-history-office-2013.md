@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2013 che utilizzano A portata di clic.
-ms.openlocfilehash: 7a8ea9fc651d9fa889d7d494c264dd82de6bb554
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: b99154c661f1ac0a8f4f2efe71f10cdd2f7c986d
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634532"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413144"
 ---
 # <a name="update-history-for-office-2013"></a>Cronologia degli aggiornamenti per Office 2013
 
 Alcuni prodotti di Office 2013 vengono aggiornati automaticamente tramite una tecnologia denominata A portata di clic. Se si vuole verificare che la versione in uso sia aggiornata, controllare il numero di versione di Office e, se necessario, aggiornare manualmente.
   
 > [!NOTE]
-> La versione più recente di Office 2013 è la **15.0.5267.1000**, rilasciata l’11 agosto 2020.
+> La versione più recente di Office 2013 è la **15.0.5275.1000**, rilasciata il giorno 8 settembre 2020.
   
 Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
   
@@ -45,7 +45,8 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
   
 |**Anno di pubblicazione**|**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|:-----|
-|2020| 11 agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
+|2020| 8 settembre| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
+||11 agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||14 luglio    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
 ||9 giugno   |15.0.5249.1001   |[KB 4559448 ](https://support.microsoft.com/help/4559448)|
 ||12 maggio   |15.0.5241.1000   |[KB 4549680 ](https://support.microsoft.com/help/4549680)  |

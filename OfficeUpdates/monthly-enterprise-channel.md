@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile Enterprise per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
-ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
+ms.openlocfilehash: 9c44e177282a394deae512e9cb57da494189a5f1
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798372"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47412994"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile Enterprise nel 2020
 
@@ -26,6 +26,120 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 [//]: # (NON RIMUOVERE)
 
 
+
+## <a name="version-2007-september-08"></a>Versione 2007: 8 settembre
+*Versione 2007 (Build 13029,20534)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Notifica di evento imprevisto per gli amministratori IT:** gli amministratori globali dei tenant di Microsoft 365 e gli amministratori delle app di Office verranno avvisati degli eventi imprevisti di Outlook e Office 365 Exchange che interessano gli utenti tramite una nuova notifica nel riquadro a destra in Outlook per Windows. [Altre informazioni](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Riaprire rapidamente gli elementi dalla sessione precedente:** è stata aggiunta un'opzione per riaprire rapidamente gli elementi da una sessione di Outlook precedente. Se Outlook si arresta in modo anomalo o lo chiudi, è possibile rilanciare rapidamente gli elementi quando si riapre l'app. Questa funzionalità è attivata per impostazione predefinita. Per disattivarla, vai a Opzioni > Generale > Opzioni di avvio.
+
+### <a name="word"></a>Word
+
+- **Mantenere il testo nei vettori:** ora è possibile mantenere il testo nelle mappe, nei grafici e in altri vettori SVG al momento della conversione di questi oggetti in Excel, Word e PowerPoint.
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- **Riquadri a schede:** ora è possibile passare da un riquadro all'altro usando un'interfaccia a schede sul lato destro dell'app. L'interfaccia utente sarà visibile solo se sono presenti almeno due riquadri.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- Questa correzione risolve il problema per cui il tentativo di eseguire determinate query in precedenza generava il messaggio di errore 'La query è troppo complessa.'
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che impediva il caricamento di una cartella di lavoro con più fogli in visualizzazione Anteprima interruzioni di pagina.
+
+
+- È possibile che si verifichi un errore quando si prova a salvare un file che contiene una formula usando la funzione LET().
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava problemi di formattazione negli avvisi di notifica degli eventi imprevisti.
+
+
+- È stato risolto un problema che causava agli utenti di Outlook la comparsa di errori connessi con lo spostamento in modalità di visualizzazione compatta.
+
+
+- È stato risolto un problema che causava occasionalmente l’arresto anomalo degli utenti durante il recupero delle informazioni personali.
+
+
+- È stato risolto un problema che causava la mancata visualizzazione della pagina Assistente Pianificazione.
+
+
+- È stato risolto un problema che impediva agli utenti di salvare gli allegati di OneDrive fuori dal tenant nel computer locale nel selezionare l'opzione "Salva" nella finestra di dialogo sicurezza.
+
+
+- Risolto un problema per cui l'opzione "Consenti inoltro" non era presente tra le opzioni di risposta in una riunione nel calendario condiviso, se la cartella di download condivisa NON era selezionata.
+
+
+- È stato risolto un problema che causava il mancato recupero di suggerimenti per la ricerca da parte di Outlook.
+
+
+- È stato risolto un problema che causava la visualizzazione errata dei nomi file degli utenti di alcuni set di caratteri durante l'aggiunta di un collegamento Smart a un file di SharePoint.
+
+
+- È stato risolto un problema che causava l'arresto anomalo di CLP cambiando l'indirizzo Da in una risposta da un contesto protetto a uno non protetto.
+
+- È stato risolto un problema che causava un arresto anomalo quando gli utenti rispondevano a un messaggio o componevano un nuovo messaggio.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema relativo all'arresto anomalo di PowerPoint.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui non era possibile salvare un file PDF/XPS da Project a una raccolta documenti di SharePoint.
+
+
+- È stato risolto un problema per cui, incollando un'attività con più dipendenze, non tutte le dipendenze vengono copiate correttamente.
+
+
+- È stato risolto un problema per cui l'attività selezionata nella finestra di dialogo Assegna risorse non è la stessa selezionata nella visualizzazione Bacheca attività.
+
+
+- È stato risolto un problema che impediva l’apertura di un progetto che aveva ottenuto uno stato non valido.
+
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui gli elementi o il contenuto dell'interfaccia utente non erano visualizzati dagli utenti in determinate condizioni, in particolare con l’entrata e l’uscita dalla visualizzazione Relatore o l'utilizzo di più monitor.
+
+
+- È stato risolto un problema che causava la visualizzazione di un messaggio di runtime, anche se la transizione al prodotto completo era stata completata. Il problema è stato corretto verificando che il servizio calcolasse correttamente i prodotti aggiunti. I nuovi prodotti aggiunti sono stati filtrati (verificando che esistano anche nella nuova configurazione) e aggiunti alla fine degli ID di rilascio prodotti esistenti.
+
+
+- Per il riquadro Condividi basato su servizi non Web precedente, dopo aver chiuso il documento mentre il riquadro Condividi è aperto potrebbe verificarsi un arresto anomalo. Questo problema è stato risolto.
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
+
+## <a name="version-2006-september-08"></a>Versione 2006: 8 settembre
+*Versione 2006 (Build 13001,20648)*
+
+Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2006-august-11"></a>Versione 2006: 11 agosto
 *Versione 2006 (Build 13001.20520)*
@@ -101,9 +215,9 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema che impediva agli utenti di salvare gli allegati di OneDrive dall'esterno del tenant al computer locale selezionando l'opzione "Salva" nella finestra di dialogo relativa alla sicurezza.
 
-- È stato risolto un problema a causa del quale gli utenti si vedevano richiedere continuamente da Outlook di eseguire lo strumento Manutenzione Posta in arrivo.
+- È stato risolto un problema a causa del quale Outlook chiedeva continuamente agli utenti di eseguire lo strumento Manutenzione Posta in arrivo.
 
-- È stato risolto un problema a causa del quale gli utenti dei miglioramenti del Calendario di Outlook condivisi visualizzavano errori di Calendario di Outlook.
+- È stato risolto un problema che generava errori del calendario agli utenti delle funzionalità migliorate dei calendari condivisi.
 
 - È stato risolto un problema a causa del quale la data degli allegati copiati tramite trascinamento nel file system veniva impostata su 1 gennaio 4501.
 
@@ -218,7 +332,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema che può aver causato un arresto anomalo durante il trascinamento del contenuto dall'app.
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Questa modifica risolve potenziali blocchi che si verificano durante il caricamento e la riproduzione di contenuti animati, ad esempio GIF o modelli 3D.
 
@@ -510,10 +624,10 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - Questo aggiornamento risolve un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati al caricamento.
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-
 [//]: # (NON RIMUOVERE FINE DEL CONTENUTO DEI BUG)
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 [//]: # (NON RIMUOVERE LA FINE)
 
@@ -522,6 +636,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (| Win32|MEC|Produzione|Caratteristica|16.0.12827.20538|versione-2005-luglio-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
