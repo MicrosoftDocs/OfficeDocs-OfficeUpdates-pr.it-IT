@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale (mirato) per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: bdfd18bc1ff883f260b12009400bf9b62993d939
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: cb982a4bf75776aa41aa6f815925a0a20a397b25
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413164"
+ms.locfileid: "47420740"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Note sulla versione per i rilasci del Canale Enterprise semestrale (Anteprima) nel 2020
 
@@ -71,7 +71,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Ottenere l'attenzione con le @menzioni:** si possono usare le @menzioni per informare i colleghi quando c'è bisogno del loro riscontro. [Altre informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Ottenere l'attenzione tramite \@menzioni:** è possibile usare le @menzioni nei commenti per informare i collaboratori quando c'è bisogno del loro input. [Altre informazioni](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **Grafici a mappa migliorati:** i grafici a mappa sono stati migliorati integrandoli con i tipi di dati geografici di Excel, che possono rivelare informazioni dettagliate sulle posizioni mappate. [Altre informazioni](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
