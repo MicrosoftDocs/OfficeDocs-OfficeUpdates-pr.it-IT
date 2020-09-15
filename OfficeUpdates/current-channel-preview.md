@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 3ad72b7012b7220dfce130c8976158a496624882
-ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
+ms.openlocfilehash: cbb7abb985eccb0e7ee8669812ff4b9837565377
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47399663"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "47449549"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -27,6 +27,163 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2009-september-10"></a>Versione 2009: 10 settembre
+*Versione 2009 (Build 13231,20126)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- Questo problema è stato risolto e non si dovrebbe più riscontrare un arresto anomalo.
+
+
+- È stato risolto un problema per cui le connessioni a un database ODBC non funzionavano con le applicazioni di terze parti.
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui, se si apriva un file contenente una funzione LET, veniva mostra l'avviso: "Si è verificato un problema con il contenuto del file "iltuofile.xlsx". Si vuole provare a recuperare il più possibile? Se l'origine di questa cartella di lavoro è attendibile, fare clic su Sì".
+
+
+- È stato risolto un problema per cui se un utente digitava il nome di una formula incluse le parentesi e richiamava la guida tramite F1, l'argomento della guida specifico per quella formula non veniva visualizzato.
+
+
+- È stato risolto un problema relativo all'uso di una macro per impostare la proprietà FormulaR1C1 per un intervallo. I riferimenti di cella era corretto se un foglio grafico era il foglio attivo.
+
+
+- È stato risolto un problema che impediva agli utenti di modificare un filtro della tabella pivot perché era configurato su un valore non più presente nel database Analysis Services.
+
+
+- È stato risolto un arresto anomalo correlato ai riferimenti e agli intervalli nominati del componente aggiuntivo XLAM.
+
+
+- È stato risolto un problema per cui, quando l'utente applicava uno stile personalizzato a una matrice dinamica, riceveva l'errore: "Non è possibile cambiare una parte di una matrice". Si tratta di una restrizione ereditata che è stata rimossa.
+
+
+- È stato risolto un problema per cui le macro assegnate ai pulsanti venivano interrotte dopo il ripristino di una versione precedente del file.
+
+
+- È stato risolto un problema per cui l’input penna poteva far sì che Excel smettesse di rispondere.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che consente maggiore flessibilità per l'abilitazione e la disabilitazione delle opzioni di autenticazione predefinite tramite i Criteri di gruppo.
+
+
+- È stato risolto un problema per cui il nome di dominio di un mittente di posta elettronica veniva preservato e mostrato dopo che una bozza del messaggio veniva spostato da una cassetta postale all'altra con le autorizzazioni dell'assistente e del manager.
+
+
+- Risolve un problema per cui, per alcuni utenti, Outlook si avviava in modalità offline finché l'utente sceglieva di lavorare online.
+
+
+- È stato risolto un problema per cui l'esecuzione del codice VBA ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") dopo l'abilitazione della barra multifunzione su una riga causava un errore di runtime.
+
+
+- È stato risolto un problema per cui i pulsanti OK e Annulla nella finestra di dialogo Risposte automatiche non erano visibili su sistemi ad alta risoluzione (ad esempio 1750 x 1920) quando è selezionata la dimensione grande dei caratteri (come 175%).
+
+
+- È stato risolto un problema che causava l'arresto anomalo quando si inviava una convocazione riunione da un gruppo di contatti vuoto a un altro gruppo di contatti.
+
+
+- Risolve un problema che causava l'arresto anomalo quando venivano aperti alcuni messaggi di posta elettronica molto grandi.
+
+
+- È stato risolto un problema per cui, se Criteri di gruppo richiedeva un componente aggiuntivo per essere sempre abilitato, il monitoraggio dei componenti aggiuntivi non era disponibile per impedire agli utenti di disabilitare il componente aggiuntivo.
+
+
+- Indirizza un problema che consentiva agli utenti di inviare il contenuto della posta elettronica con un criterio "non inoltrato" applicato a OneNote quando si selezionavano più messaggi.
+
+
+- È stato risolto un problema per cui gli utenti ora possono disabilitare IRM (Information Rights Management) per Outlook senza doverlo disabilitare per il resto delle applicazioni di Office.
+
+
+- È stato risolto un problema per cui gli attributi dell'account utente in Active Directory per "otherTelephone" e "otherHomePhone" non venivano mappati agli attributi LDAP di Outlook corrispondenti.
+
+
+- Questa modifica risolve un problema per cui la pagina Riunione continuava a essere visualizzata dopo che l'utente aveva cambiato scheda dalla pagina Riunione alla pagina Assistente pianificazione.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui, in determinate condizioni, la barra multifunzione o la barra del titolo non veniva visualizzata.
+
+
+- È stato risolto un problema per cui, dopo l'avvio di PowerPoint, l'inserimento di una diapositiva e l'apertura e la chiusura del riquadro dei commenti, le diapositive del riquadro anteprima erano mostrate sovrapposte.
+
+
+- È stato risolto un problema per cui la funzionalità di inserimento di un video era disabilitata.
+
+
+- È stato risolto un problema che impediva la riproduzione automatica dei video nelle presentazioni.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui, se una risorsa aveva tabelle tariffarie multiple, i costi rimanenti a volte non venivano calcolati correttamente.
+
+
+- È stato risolto un problema per cui la data di fine del progetto non viene aggiornata per i progetti collegati all'elenco attività di SharePoint.
+
+
+### <a name="visio"></a>Visio
+
+- L'anteprima dinamica si arresta in modo anomalo sull'allineamento del testo segnalato dai clienti. Arresto anomalo di maggior impatto della fork di repository di luglio.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui la scheda commento mostrava un bordo attorno al testo del commento quando l'utente faceva clic su di esso.
+
+
+- È stato risolto un problema per cui l'icona dell’elenco puntato non veniva visualizzata correttamente.
+
+
+- È stato risolto un problema per cui l'utente non poteva chiudere l'intestazione o il piè di pagina quando veniva selezionato un commento.
+
+
+- È stato risolto un problema per cui Word poteva arrestarsi in modo anomalo dopo l'eliminazione dei commenti.
+
+
+- È stato risolto un problema per cui, se un utente creava una bozza di un commento ancorata a una riga contenente commenti approvati, la bozza veniva disposta nell'ordine sbagliato rispetto al commento approvato nel SideTrack.
+
+
+- È stato risolto un problema per cui la messa a fuoco non passava al riquadro del commento se il documento era ingrandito almeno al 160% e il riquadro del commento non era visibile. 
+
+
+- È stato risolto un problema che impediva agli utenti di visualizzare i thread dei commenti che avevano superato il confine del sidetrack, poichè quando si scorreva il sidetrack, questo non funzionava.
+
+
+- È stato risolto un problema per cui la ricerca di commenti risolti nel riquadro sidetrack non funzionava.
+
+
+- È stato risolto un problema per cui i commenti di un documento venivano visualizzati su altri documenti aperti dopo il passaggio da un documento aperto all'altro.
+
+
+- È stato risolto un problema per cui i collegamenti lunghi non venivano mandati a capo quando un documento veniva salvato in formato HTML.
+
+
+- È stato risolto un problema in cui, in alcuni casi, i punti elenco non vengono visualizzati correttamente nelle e-mail.
+
+
+- È stato risolto un problema per cui la macro AutoOpen veniva eseguita prima di AutoExec.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema dello strumento di distribuzione di Office in cui la era possibile la configurazione quando si usava la funzionalità RemoveMSI con il prodotto Office 2007 "Segnalazione errori applicazioni Microsoft".
+
+
+- È stato risolto un problema nella finestra di dialogo Comprimi immagine in cui alcune impostazioni DPI selezionate dall'utente non venivano mantenute.
+
+
+- Questa modifica risolve un problema con la finestra di dialogo Comprimi immagine, che non mantiene determinate impostazioni dell'utente.
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 ## <a name="version-2008-september-04"></a>Versione 2008: 4 settembre
 *Versione 2008 (Build 13127.20378)*

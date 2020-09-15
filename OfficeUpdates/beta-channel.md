@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
-ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
+ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 09/11/2020
-ms.locfileid: "47431575"
+ms.locfileid: "47449559"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,69 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2010-september-11"></a>Versione 2010:11 settembre
+*Versione 2010 (Build 13304.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="access"></a>Accesso
+
+- **Office può seguire l'impostazione modalità scura di Windows 10:** Si sta usando Windows 10 in modalità scura? Office ora può cambiare i temi in modo che corrispondano automaticamente: basta scegliere "Usa impostazione di sistema" come tema di Office.
+
+### <a name="excel"></a>Excel
+
+- **Office può seguire l'impostazione modalità scura di Windows 10:** Si sta usando Windows 10 in modalità scura? Office ora può cambiare i temi in modo che corrispondano automaticamente: basta scegliere "Usa impostazione di sistema" come tema di Office.
+
+### <a name="onenote"></a>OneNote
+
+- **Office può seguire l'impostazione modalità scura di Windows 10:** Si sta usando Windows 10 in modalità scura? Office ora può cambiare i temi in modo che corrispondano automaticamente: basta scegliere "Usa impostazione di sistema" come tema di Office.
+
+### <a name="outlook"></a>Outlook
+
+- **Office può seguire l'impostazione modalità scura di Windows 10:** Si sta usando Windows 10 in modalità scura? Office ora può cambiare i temi in modo che corrispondano automaticamente: basta scegliere "Usa impostazione di sistema" come tema di Office.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office può seguire l'impostazione modalità scura di Windows 10:** Si sta usando Windows 10 in modalità scura? Office ora può cambiare i temi in modo che corrispondano automaticamente: basta scegliere "Usa impostazione di sistema" come tema di Office.
+
+### <a name="project"></a>Project
+
+- **Office può seguire l'impostazione modalità scura di Windows 10:** Si sta usando Windows 10 in modalità scura? Office ora può cambiare i temi in modo che corrispondano automaticamente: basta scegliere "Usa impostazione di sistema" come tema di Office.
+
+### <a name="publisher"></a>Publisher
+
+- **Office può seguire l'impostazione modalità scura di Windows 10:** Si sta usando Windows 10 in modalità scura? Office ora può cambiare i temi in modo che corrispondano automaticamente: basta scegliere "Usa impostazione di sistema" come tema di Office.
+
+### <a name="visio"></a>Visio
+
+- **Office può seguire l'impostazione modalità scura di Windows 10:** Si sta usando Windows 10 in modalità scura? Office ora può cambiare i temi in modo che corrispondano automaticamente: basta scegliere "Usa impostazione di sistema" come tema di Office.
+
+### <a name="word"></a>Word
+
+- **Office può seguire l'impostazione modalità scura di Windows 10:** Si sta usando Windows 10 in modalità scura? Office ora può cambiare i temi in modo che corrispondano automaticamente: basta scegliere "Usa impostazione di sistema" come tema di Office.
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui poteva verificarsi un notevole ritardo durante il passaggio tra fogli di lavoro con grandi quantità di dati quando era "Anteprima interruzioni di pagina" era abilitato.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui le email venivano nascoste dopo aver disattivato Posta in arrivo evidenziata e ordinato i dati.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui le GIF erano animate solo una volta nell’editor e nelle diapositive.
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 ## <a name="version-2010-september-04"></a>Versione 2010: 4 settembre
 *Versione 2010 (Build 13301.20004)*
@@ -1329,6 +1392,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|versione-2009-28-agosto|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|versione-2009-agosto-21|)
