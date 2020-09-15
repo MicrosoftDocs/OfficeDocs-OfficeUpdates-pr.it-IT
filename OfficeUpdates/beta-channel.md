@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
-ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
+ms.openlocfilehash: be0f92656f096b888632bb73d10187305ab7be48
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "47449559"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816577"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -100,10 +100,6 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-### <a name="excel"></a>Excel
-
-- **Creare tipi di dati con Power Query:** è possibile creare tipi di dati formattati con Power Query da qualsiasi origine dati.
-
 ### <a name="outlook"></a>Outlook
 
 - **Blocco in alto della posta elettronica:** questa funzionalità consente agli utenti di tenere traccia dei messaggi di posta elettronica a cui bisogna tornare o per cui bisogna ricevere notifiche, aggiungendoli in alto nell'elenco dei messaggi.
@@ -278,19 +274,19 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
