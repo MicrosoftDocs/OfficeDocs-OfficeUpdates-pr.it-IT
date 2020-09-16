@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Microsoft 365 Apps
-ms.openlocfilehash: d723fa5a294e8dbd3650d0ac69fa201538486089
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 96de2ef290f1c69a7ac5cce730151276bf028b46
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637694"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816587"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -41,6 +41,33 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 
 
+
+
+
+## <a name="september-15-2020"></a>15 settembre 2020
+*Versione 16.41 (Build 20091302)*
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>Aggiornamenti della sicurezza
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1224)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1338)
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1193)
+-   [CVE-2020-16855](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-16855)
+
+[//]: # (NON RIMUOVERE LA FINE DEL CONTENUTO CON I DETTAGLI SULLA SICUREZZA)
 
 ## <a name="august-11-2020"></a>11 agosto 2020
 *Versione 16.40 (Build 20081000)*
