@@ -2,19 +2,19 @@
 title: Cronologia degli aggiornamenti del Canale corrente di Office (Anteprima)
 ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 54f60a987331ad4211b2f306ec267ce53bd3bc6c
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+ms.openlocfilehash: c6fc1ef5e8b84d770e152fb6a4d84047bff7e465
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816607"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942823"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Cronologia degli aggiornamenti del Canale corrente di Office (Anteprima) per Windows
 
@@ -24,7 +24,7 @@ Per altre informazioni sul programma Insider, fare clic [qui](https://insider.of
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versioni e build del Canale corrente di Office (Anteprima)
 
 Gli utenti iscritti al livello Canale corrente (Anteprima), in precedenza denominato Insider Slow, ottengono un nuovo aggiornamento delle funzionalità di Office circa una volta al mese, oltre alle build successive che contengono correzioni importanti o aggiornamenti di sicurezza. L’elenco seguente mostra le versioni e le build recenti di Canale correte (Anteprima), con **le build più recenti elencate per prime**. Le nuove build contengono tutti gli aggiornamenti inclusi nelle build precedenti.
-Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/it-IT/OfficeUpdates/current-channel-preview). Inoltre, vedere [Novità per i partecipanti al programma Office Insider](https://insider.office.com/it-IT/releasenotes/windows/slow).
+Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Inoltre, vedere [Novità per i partecipanti al programma Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
