@@ -2,19 +2,19 @@
 title: Note sulla versione del Canale corrente (Anteprima)
 ms.author: anankani
 author: v-lislo
-manager: andrewmo
+manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: 064769dde88f0198237af611b788ed02317235ba
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+description: Offri ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti
+ms.openlocfilehash: 67f78eb141917beb3111180fbdfe42f210c3ab4e
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816557"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942853"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
