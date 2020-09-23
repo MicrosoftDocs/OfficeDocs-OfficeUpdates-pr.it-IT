@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: 97bfa022f796838501cb991e93c9be5b1b48e0ae
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 47a880af474186502d897357ed089050f84c1bba
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174665"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222452"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -48,10 +48,10 @@ Le informazioni seguenti si applicano alle versioni con contratto multilicenza d
 |:-----|:-----|:-----|
 |8 settembre 2020|Versione 1808 (Build 10366.20016)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |11 agosto 2020|Versione 1808 (Build 10364.20059)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|14 luglio 2020   |Versione 1808 (Build 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1449) <br/>|
-|9 giugno 2020   |Versione 1808 (Build 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1322) <br/>|
-|12 maggio 2020   |Versione 1808 (Build 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0901) <br/> |
-|14 aprile 2020   |Versione 1808 (Build 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0991) <br/> |
+|14 luglio 2020   |Versione 1808 (Build 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1449) <br/>|
+|9 giugno 2020   |Versione 1808 (Build 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1322) <br/>|
+|12 maggio 2020   |Versione 1808 (Build 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0901) <br/> |
+|14 aprile 2020   |Versione 1808 (Build 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0991) <br/> |
 
 
 [//]: # (NON RIMUOVERE LA FINE DELLA TABELLA VL)
@@ -65,8 +65,8 @@ Le informazioni seguenti si applicano alle versioni con contratto multilicenza d
 
 |**Data di rilascio**|**Numero di versione**|**Ulteriori informazioni**|
 |:-----|:-----|:-----|
-|10 marzo 2020   |Versione 1808 (Build 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0892) <br/>  |
-|11 febbraio 2020   |Versione 1808 (Build 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0759) <br/>  |
+|10 marzo 2020   |Versione 1808 (Build 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0892) <br/>  |
+|11 febbraio 2020   |Versione 1808 (Build 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
 [//]: # (NON RIMUOVERE LA FINE DELLA VECCHIA TABELLA VL)
@@ -84,12 +84,12 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
+|22 settembre 2020|Versione 2008 (Build 13127.20508)| |
 |9 settembre 2020|Versione 2008 (Build 13127.20408)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |31 agosto 2020|Versione 2008 (Build 13127.20296)| |
 |25 agosto 2020|Versione 2007 (Build 13029.20460)| |
 |11 agosto 2020|Versione 2007 (Build 13029.20344)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |30 luglio 2020|Versione 2007 (Build 13029.20308)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
-|28 luglio 2020|Versione 2006 (Build 13001.20498)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 
 
 [//]: # (NON RIMUOVERE LA FINE DELLA TABELLA RETAIL)
@@ -103,20 +103,21 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
-|14 luglio 2020|Versione 2006 (Build 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1458) <br/>|
+|28 luglio 2020|Versione 2006 (Build 13001.20498)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
+|14 luglio 2020|Versione 2006 (Build 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1458) <br/>|
 |30 giugno 2020|Versione 2006 (Build 13001.20266)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |24 giugno 2020|Versione 2005 (Build 12827.20470)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
-|9 giugno 2020|Versione 2005 (Build 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1322)  <br/>|
+|9 giugno 2020|Versione 2005 (Build 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-1322)  <br/>|
 |2 giugno 2020|Versione 2005 (Build 12827.20268)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
 |21 maggio 2020|Versione 2004 (Build 12730.20352)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
-|12 maggio 2020|Versione 2004 (Build 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0901)  <br/>  |
+|12 maggio 2020|Versione 2004 (Build 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0901)  <br/>  |
 |4 maggio 2020|Versione 2004 (Build 12730.20250)  |[Collegamenti](https://support.microsoft.com/office/excel-word-powerpoint-file-becomes-corrupt-when-opening-a-file-that-contains-a-vba-project-or-after-enabling-a-macro-in-an-open-file-ad6ee6ca-db23-4614-a403-282821eb99f6?ui=en-us&rs=en-us&ad=us)<br/>  |
 |29 aprile 2020|Versione 2004 (Build 12730.20236)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |15 aprile 2020|Versione 2003 (Build 12624.20466)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
-|14 aprile 2020|Versione 2003 (Build 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0991) <br/> |
+|14 aprile 2020|Versione 2003 (Build 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0991) <br/> |
 |31 marzo 2020|Versione 2003 (Build 12624.20382)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
 |25 marzo 2020|Versione 2003 (Build 12624.20320)  |Diverse correzioni di bug e miglioramenti delle prestazioni. <br/>  |
-|10 marzo 2020|Versione 2002 (Build 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0892) <br/>  |
+|10 marzo 2020|Versione 2002 (Build 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |1 marzo 2020   |Versione 2002 (Build 12527.20242)  |È stato risolto un problema per cui le applicazioni di terze parti non riuscivano a inviare messaggi di posta elettronica da Outlook. <br/>  |
 
 
