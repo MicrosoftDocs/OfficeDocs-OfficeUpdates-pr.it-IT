@@ -1,20 +1,20 @@
 ---
 title: Cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: 70e000f7cbdc597bde156257fc7e4b2a1e6e69eb
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781569"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174645"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -23,12 +23,22 @@ Lo Strumento di distribuzione di Office (ODT) è uno strumento da riga di comand
 
 Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È possibile specificare i prodotti e le lingue installati, la modalità di aggiornamento dei prodotti e se si vuole che l'esperienza di installazione sia visibile agli utenti. Per altre informazioni sull'uso di ODT, vedere [Panoramica dello Strumento di distribuzione di Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Sistema operativo supportato**: Windows 10, Windows 7, Windows 8, Windows 8.1, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2. 
+ **Sistema operativo supportato**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
  **Istruzioni di installazione**: scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="june-9-2020"></a>9 giugno 2020
+
+Versione 16.0.12827.20268 (setup.exe versione 16.0.12827.20258)
+- Il Canale corrente ora è il canale predefinito se non viene specificato un canale
+- Aggiunta del supporto per il Canale Enterprise mensile
+- Aggiunta del supporto per i nomi nuovi dei canali
+- Altre funzionalità di resilienza per continuare l'installazione, se possibile, anche se non sono disponibili risorse per la lingua
+- Funzionalità RemoveMSI espanse per rimuovere i prodotti di Office 2007
+- Funzionalità RemoveMSI espanse per rimuovere il motore di database di Access 
 
 ## <a name="april-15-2020"></a>15 aprile 2020
 
