@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100198"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222482"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -32,6 +32,51 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
+
+## <a name="version-2008-september-22"></a>Versione 2008: 22 settembre
+*Versione 2008 (Build 13127.20508)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui Excel poteva arrestarsi in modo anomalo quando si utilizzava l'Analisi rapida dopo aver bloccato la riga superiore del foglio.
+
+
+- È stato risolto un problema che poteva generare un avviso su una cartella di lavoro danneggiata se conteneva formule utilizzando IFNA ().
+
+
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che impediva agli utenti di chiudere i calendari condivisi facendo clic sulla "X" nell'angolo.
+
+
+- Risolve un problema relativo alle prestazioni con il caricamento degli allegati.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema che causava l'arresto anomalo dell'app PowerPoint.
+
+
+### <a name="visio"></a>Visio
+
+- L'anteprima dinamica si arresta in modo anomalo sull'allineamento del testo segnalato dai clienti. Arresto anomalo di maggior impatto della fork di repository di luglio.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema con la finestra di dialogo raccolta Stili.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Risolve l'utilizzo elevato della CPU in modalità inattiva con GIF/modelli animati 3D
 
 
 
@@ -1234,6 +1279,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13127.20508|versione-2008-settembre-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|versione-2008-settembre-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
