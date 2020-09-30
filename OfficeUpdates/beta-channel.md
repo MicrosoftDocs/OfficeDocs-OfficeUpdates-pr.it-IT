@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: c814f4877fe57ce57136626277f281fcbadc6b73
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
+ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100208"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276445"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,75 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2010-september-25"></a>Versione 2010: 25 settembre
+*Versione 2010 (Build 13318.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Creare tipi di dati con Power Query:** è possibile creare tipi di dati formattati con Power Query da qualsiasi origine dati
+
+### <a name="outlook"></a>Outlook
+
+- **Aggiornamenti dell’esperienza utente per le Attività:** aggiornamento visivo degli elementi di tipo Attività 
+
+- **Risparmiare tempo durante la composizione dei messaggi:** Outlook mostra dei  suggerimenti che consentono di scrivere rapidamente i messaggi. Per accettare il suggerimento, basta usare l’opzione TAB.
+
+### <a name="word"></a>Word
+
+- **Il riquadro Editor Microsoft ottiene un aggiornamento in Word per il desktop:** è stata aggiornata l'esperienza corrente con il riquadro Editor per i client desktop di Word.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- È stato risolto un problema relativo all’errata impostazione della posizione della barra di scorrimento durante il caricamento della finestra di dialogo/relazione salvata durante lo scorrimento.
+
+
+- È stato risolto un problema relativo alla errata visualizzazione di nomi contenenti "&" nel Riquadro attività Aggiungi tabella.
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema relativo al mancato funzionamento dell’intervallo manuale a più livelli di categoria nei grafici.
+
+
+- È stato risolto un problema che potrebbe causare un blocco durante l'aggiornamento delle tabelle pivot OLAP.
+
+
+- È stato risolto un problema relativo al mancato aggiornamento delle opzioni di tutti i fogli della cartella di lavoro in seguito all'aggiunta a una tabella usata per la Convalida dei dati.
+
+
+### <a name="onenote"></a>OneNote
+
+- È stato risolto un problema relativo al mancato rispetto dei colori a contrasto elevato nell'area di disegno per i temi personalizzati da parte di OneNote.
+
+
+- È stato risolto un problema per cui quando si passa il mouse sopra al colore verde nel selettore colore del blocco appunti, il pop-up indica "gessetto rosso".
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui il grafico di Excel collegato viene modificato in modo errato nel foglio di Excel quando l'utente modifica il percorso di origine in una cartella locale di OneDrive.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui i collegamenti ai file abilitati al flusso di lavoro non sono stati aperti come previsto.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-september-18"></a>Versione 2010: 18 settembre
 *Versione 2010 (Build 13312.20006)*
@@ -1445,6 +1514,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|versione-2010-25-settembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
@@ -1454,5 +1524,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|versione-2009-agosto-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|versione-2008-luglio-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
