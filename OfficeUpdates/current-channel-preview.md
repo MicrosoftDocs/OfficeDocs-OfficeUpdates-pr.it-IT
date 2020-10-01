@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offri ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti
-ms.openlocfilehash: a0750c2e3c087a0504f0b7d00b864cd2b203d522
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 6c935826b7492cd10ce1ced58f18b202a32730ae
+ms.sourcegitcommit: 99ac054b629a031233c9bad7b18896b84d2448ea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174585"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293198"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -27,6 +27,25 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2009-september-26"></a>Versione 2009: 26 settembre
+*Versione 2009 (Build 13231.20262)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che ha causato l'invio di messaggi di posta elettronica generati automaticamente con un corpo vuoto quando la riga dell'oggetto è vuota.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui, se si ha un codice di evento in esecuzione e si prova a modificare la visualizzazione di un modulo attività, facendo clic sul pulsante OK le modifiche potrebbero non essere inserite.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-september-21"></a>Versione 2009: 21 settembre
 *Versione 2009 (Build 13231.20200)*
@@ -1925,7 +1944,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
 
-- È stato risolto un problema in Word/Excel/PowerPoint per cui il nome dell'entità utente (UPN) non distingueva più tra maiuscole e minuscole, causando la visualizzazione di un numero inferiore di errori durante l'uso dei file in SharePoint.
+- È stato risolto un problema con Word/Excel/PowerPoint per cui il nome dell'entità utente (UPN) non distingueva più tra maiuscole e minuscole, causando la visualizzazione di un numero inferiore di errori durante l'uso dei file in SharePoint.
 
 - È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
 
