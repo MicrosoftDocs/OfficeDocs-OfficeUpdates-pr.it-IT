@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: dffa5844311575083938e0e521280c0dcae6c7dd
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222482"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297169"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -35,7 +35,70 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2009-september-28"></a>Versione 2009: 28 settembre
+*Versione 2009 (Build 13231.20262)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Salvataggio delle forme come immagini:** con pochi clic del mouse è possibile salvare una forma, un'icona o un altro oggetto come file di immagine, così da poterlo riutilizzare altrove. [Altre informazioni](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Accedere ai dati dell'organizzazione da Power BI usando i tipi di dati:** i tipi di dati di Excel di Power BI sono ora distribuiti ai partecipanti al programma Office Insider nelle organizzazioni con Office 365 E5/A5 o Microsoft 365 E5/A5. Ottenere le informazioni necessarie e aggiornarle con facilità è fondamentale per molti flussi di lavoro quotidiani. In Excel è possibile accedere alle informazioni della società o dell'organizzazione da Power BI come tipo di dati, in modo da espandere la tua capacità di inserire informazioni collegate nei fogli di calcolo. [Altre informazioni](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+- **Creare variabili da usare nelle formule:** migliorare le prestazioni, la leggibilità e la compatibilità con la funzione LET. Questa funzione consente di creare variabili denominate nelle formule nuove o preesistenti. [Altre informazioni](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
+
+### <a name="outlook"></a>Outlook
+
+- **Espansione automatica della ricerca nell'archivio online:** Si può abilitare l'espansione automatica della ricerca nell'archivio online
+
+- **Nuova scheda del profilo per Outlook:** La nuova scheda del profilo di Outlook include una migliore visualizzazione Organizzazione e abbina lo stile della scheda di Outlook sul web.
+
+### <a name="teams"></a>Teams
+
+- **Condividere file in Microsoft Teams:** [Altre informazioni](https://docs.microsoft.com/it-IT/MicrosoftTeams/sharing-files-in-teams)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che causa l'invio con il corpo vuoto di alcuni messaggi di posta elettronica generati automaticamente, quando la riga dell'oggetto è vuota. 
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema che causava il rallentamento della creazione condivisa di file contenenti un numero elevato di determinati tipi di oggetto dati (E2o).
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui, se si ha un codice di evento in esecuzione e si prova a modificare la visualizzazione di un modulo attività, facendo clic sul pulsante OK le modifiche potrebbero non essere inserite.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema con la finestra di dialogo raccolta Stili.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Questa modifica risolve un problema della funzionalità Esporta come GIF animata, per cui l'esportazione non viene eseguita quando si fa clic sul pulsante Esporta.
+
+
+- Questa modifica risolve un problema con la finestra di dialogo Comprimi immagine, che non mantiene determinate impostazioni dell'utente.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-september-22"></a>Versione 2008: 22 settembre
 *Versione 2008 (Build 13127.20508)*
@@ -1279,6 +1342,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-settembre-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|versione-2008-settembre-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|versione-2008-settembre-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
