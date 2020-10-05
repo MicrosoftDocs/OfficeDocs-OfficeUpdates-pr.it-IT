@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
-ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
+ms.openlocfilehash: fd80f9a2f901e69f8bc45d55add2c48aedb98860
+ms.sourcegitcommit: bd82ba6a5c6eaa151068e633cde0f7cdfc5877ea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276445"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48340731"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,78 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2010-october-02"></a>Versione 2010: 2 ottobre
+*Versione 2010 (Build 13328.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Usare la finestra di dialogo avanzate per creare i tipi di dati:** la finestra di dialogo avanzata consente di selezionare manualmente le colonne che combinano il tipo di dati che si sta creando.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="onenote"></a>OneNote
+
+- È stato risolto un problema per cui un utente non era in grado di selezionare e copiare l'URL del blocco appunti da TextBox in File OutSpace > Info.
+
+
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che causava l'invio di e-mail generate automaticamente con un corpo vuoto quando l'oggetto è vuoto.
+
+
+- È stato risolto un problema per cui il GUID della cartella errata è memorizzato nella cache per le cartelle.
+
+
+- Quando un utente copiava e incollava un indirizzo di posta elettronica nel campo del destinatario con il nome visualizzato, l'indirizzo non era sempre analizzato correttamente e veniva visualizzato un avviso relativo a un indirizzo di posta elettronica non valido.  Il problema è stato risolto: ora il mome e l'indirizzo sono analizzati correttamente e l'avviso non viene più mostrato.
+
+
+- È stato risolto un problema per cui le cartelle condivise online non restituivano il nome della cartella padre. Invece di dare errore, restituiva un percorso vuoto che erroneamente passava all'account principale.
+
+
+- È stato risolto un problema per cui le revisioni si attivavano dopo la riapertura delle bozze dal riquadro di anteprima di sola lettura.
+
+
+- È stato risolto un problema per cui l'opzione Salva con nome non era disponibile per gli allegati classici.
+
+
+- È stato risolto un problema che consente agli utenti di personalizzare il testo della giustificazione quando si esegue l'override di un criterio.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui PowerPoint non esportava i punti elenco rettangolari durante l'esportazione in formato PDF.
+
+
+- È stato risolto un problema per cui se ci si trova nell'ultima diapositiva e si scorre alla diapositiva successiva dopo aver premuto "Termina sessione" e prima che venga visualizzato il riepilogo, la finestra di dialogo Fine sessione è visibile anche nella pagina di riepilogo.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui Project poteva bloccarsi se si applica un gruppo a Uso della risorsa o visualizzazione Foglio e quindi si inserisce una colonna.
+
+
+- È stato risolto un problema per cui, se si dispone di campi personalizzati con formule e si usa costo realizzato, è possibile notare ritardi nel cambio di visualizzazione e nell'apertura dei dettagli del progetto/attività.
+
+
+- È stato risolto un problema per cui il metodo VBA ConsolidateProjects potrebbe fallire se si prova ad aggiungere più volte lo stesso progetto e se AttachToSources è impostato su falso.
+
+
+- È stato risolto un problema per cui, se si ha un codice di evento in esecuzione e si prova a modificare la visualizzazione di un modulo attività, facendo clic sul pulsante OK le modifiche potrebbero non essere inserite.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-september-25"></a>Versione 2010: 25 settembre
 *Versione 2010 (Build 13318.20000)*
@@ -1514,6 +1586,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|versione-2010-ottobre-2|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|versione-2010-25-settembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
@@ -1523,5 +1596,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|versione-2009-agosto-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|versione-2009-agosto-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|versione-2008-luglio-31|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
