@@ -1,9 +1,9 @@
 ### YamlMime:Landing
 title: Aggiornamenti di Office
-summary: Ottenere informazioni sulle caratteristiche, sugli aggiornamenti per i prodotti di Office, incluse le app Microsoft 365, Office per Mac, i prodotti Office Server e le versioni perpetue di Office.
+summary: Ottenere informazioni su funzionalità, aggiornamenti per prodotti Office, tra cui Microsoft 365 Apps, Office per Mac, prodotti Office Server e versioni perpetue di Office.
 metadata:
   title: Aggiornamenti di Office
-  description: Ottenere informazioni sulle caratteristiche, sugli aggiornamenti per i prodotti di Office, incluse le app Microsoft 365, Office per Mac, i prodotti Office Server e le versioni perpetue di Office.
+  description: Ottenere informazioni su funzionalità, aggiornamenti per prodotti Office, tra cui Microsoft 365 Apps, Office per Mac, prodotti Office Server e versioni perpetue di Office.
   ms.service: o365-proplus-itpro
   manager: andrewmo
   ms.audience: ITPro
@@ -12,12 +12,12 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
-  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
-  ms.translationtype: MTPE
+  ms.openlocfilehash: 01f52a9d26307a582896969a567055f9107df572
+  ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+  ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 06/23/2020
-  ms.locfileid: "44854578"
+  ms.lasthandoff: 10/07/2020
+  ms.locfileid: "48369964"
 landingContent:
 - title: Microsoft 365 Apps
   linkLists:
@@ -41,7 +41,7 @@ landingContent:
       url: update-history-office-for-mac.md
     - text: Note sulla versione (2016)
       url: release-notes-office-2016-mac.md
-    - text: Rilasci di MAU
+    - text: Release MAU
       url: release-history-microsoft-autoupdate.md
 - title: Prodotti server Office
   linkLists:
@@ -49,13 +49,13 @@ landingContent:
     links:
     - text: Aggiornamenti per Exchange Server
       url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
-    - text: Aggiornamento di Project Server
+    - text: Aggiornamento per Project Server
       url: project-server-updates.md
     - text: Aggiornamenti di SharePoint Server
       url: sharepoint-updates.md
     - text: Aggiornamenti di Skype for Business Server
       url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
-- title: Office (licenza perpetua)
+- title: Office (con licenza perpetua)
   linkLists:
   - linkListType: overview
     links:
@@ -63,9 +63,9 @@ landingContent:
       url: update-history-office-2019.md
     - text: Aggiornamenti di Office 2010, 2013 e 2016 (MSI)
       url: office-updates-msi.md
-    - text: File di Office 2016. msp
+    - text: File .msp Office 2016
       url: msp-files-office-2016.md
-    - text: File di Office 2013. msp
+    - text: File .msp Office 2013
       url: msp-files-office-2013.md
 - title: Altre risorse Office
   linkLists:
@@ -75,7 +75,7 @@ landingContent:
       url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
     - text: Roadmap di Microsoft 365
       url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
-    - text: Rimanere in cima alle modifiche di Microsoft 365
+    - text: Tenere sotto controllo i cambiamenti di Microsoft 365
       url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
     - text: Blog di Office
       url: https://www.microsoft.com/microsoft-365/blog/office/
@@ -85,9 +85,9 @@ landingContent:
     links:
     - text: Informazioni sulla versione di Windows 10
       url: https://www.microsoft.com/itpro/windows-10/release-information
-    - text: Criteri di Microsoft Lifecyle
+    - text: Criteri per il ciclo di vita di Microsoft
       url: https://support.microsoft.com/lifecycle
     - text: Guida di Microsoft Security Update
       url: https://portal.msrc.microsoft.com/
-    - text: Microsoft Tech community
+    - text: Microsoft Tech Community
       url: https://techcommunity.microsoft.com/
