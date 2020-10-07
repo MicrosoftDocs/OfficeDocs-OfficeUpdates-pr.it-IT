@@ -1,8 +1,8 @@
 ---
 title: Note sulla versione per i rilasci mensili del canale in 2015
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/11/2015
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale mensile per Office 365 ProPlus in 2015
-ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 29e4500dafb8fe95569608b0dca148a03c182a6b
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438811"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369914"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Note sulla versione per i rilasci mensili del canale in 2015
 
@@ -48,7 +48,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Calendario persiano:** aggiungere il calendario persiano come calendario principale o alternativo.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale, quando si trascina la barra di scorrimento in un elenco di messaggi, viene visualizzata la fine di tale elenco.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
@@ -91,7 +91,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale un segnalibro creato dall'utente si espande su più paragrafi. Tuttavia, quando si riceve il messaggio di posta elettronica, soltanto il primo paragrafo viene incluso nel segnalibro, quando si seleziona Vai a.
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): Aggiornamento della sicurezza di Microsoft Graphics Component per risolvere l'esecuzione di codice in modalità remota (3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
@@ -101,7 +101,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3116111)
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale un trattino d'unione viene visualizzato come un quadrato quando si utilizza lo stesso tipo di carattere.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -133,7 +133,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="onenote-security-updates"></a>OneNote: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema in seguito al quale quando si incolla testo in Outlook, non viene visualizzato il testo completo se la quantità di testo incollata è superiore alla grandezza della finestra.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Aggiornamenti della sicurezza
@@ -159,10 +159,10 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="visio-security-updates"></a>Visio: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3104540)
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema in cui la numerazione delle note a piè di pagina non corrisponde tra la visualizzazione in Word e la stampa quando si stampa in background un documento le cui note a piè di pagina sono impostate su "Riavvia la numerazione a ogni pagina".
 -   Risolvere un problema per il quale la creazione condivisa in tempo reale non funziona con i file archiviati in OneDrive, anche quando l'utente non è visibile agli altri utenti mentre apporta modifiche in tempo reale e quando non sono disponibili informazioni sulla presenza.
 -   Risolvere un problema per il quale Word si arresta in modo anomalo durante la creazione condivisa in tempo reale di un documento aperto da SharePoint o OneDrive.
@@ -190,7 +190,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale, quando si modifica la firma dei messaggi di posta elettronica, un lettore dello schermo riconosce soltanto il primo paragrafo della firma, anche se comprende più paragrafi.
 -   Consente di risolvere un problema a causa del quale il cursore non si trova in posizione corretta quando si scrive o si risponde a un messaggio di posta elettronica.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale, in presenza di memoria insufficiente, il tentativo di visualizzare un'app o un desktop condiviso comporta la disconnessione e l'esecuzione di nuovi tentativi per tornare automaticamente a visualizzare l'app o il desktop condiviso.
 -   Consente di risolvere un problema a causa del quale all'aumentare del numero di partecipanti, diminuisce la qualità della condivisione del desktop.
 -   Consente di risolvere un problema a causa del quale, durante una giornata si ricevono più richieste di autenticazione per il telefono. Questa situazione si verifica in presenza di autenticazione a più fattori.
@@ -260,9 +260,9 @@ Questa è la versione iniziale di questo canale. Questa versione fornisce la pri
 ### <a name="visio-security-updates"></a>Visio: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3080790)
 
-### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3080790)
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3080790)
 -   Bollettino Microsoft sulla sicurezza [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Possibile esecuzione di codice in modalità remota a causa di vulnerabilità in Microsoft Office (3089664)

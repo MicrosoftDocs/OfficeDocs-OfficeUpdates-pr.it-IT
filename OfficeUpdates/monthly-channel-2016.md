@@ -1,8 +1,8 @@
 ---
 title: Note sulla versione per i rilasci mensili del canale in 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale mensile per Office 365 ProPlus in 2016
-ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 11e672280c3a41e9d73782b13c43d286171de7b1
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614997"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369924"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Note sulla versione per i rilasci mensili del canale in 2016
 
@@ -42,11 +42,11 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 -   **Grafico mappa:** Confrontare i valori e visualizzare le categorie in aree geografiche diverse. [Ulteriori informazioni](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle cartelle di lavoro. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Inserire le icone:**   Utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone delle illustrazioni \> . [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Salvare in cartelle recenti:** Salvare una cartella di lavoro in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Miglioramenti accessibilità:** Supporto migliorato per l'utilizzo della tastiera, Assistente vocale e altri strumenti di Assistive Technology per leggere e modificare le cartelle di lavoro. [Ulteriori informazioni](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Risolvere un problema in cui un collegamento ipertestuale contenente una formula di concatenazione ignora parte del risultato di concatenazione.
 -   Risolvere un problema in cui incollando una tabella di Excel in formato RTF (RICH) su Word non viene preservato il formato della tabella.
 -   Risolvere un problema in cui l'utente non può eseguire l’operazione Salva con nome quando la cartella di lavoro contiene un foglio di lavoro MS Excel 4.0 Macro.
@@ -54,13 +54,13 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle e-mail. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni.   [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Inserire le icone:**   Utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone delle illustrazioni \> .  [ Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Tocco:** consente di trovare e riutilizzare i contenuti dei relativi documenti dell'organizzazione. [Ulteriori informazioni](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nelle presentazioni. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni. [Ulteriori informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **Digitazione in tempo reale durante la creazione condivisa:** Vedere dove gli altri stanno lavorando nella presentazione e visualizzare le modifiche durante la digitazione. [Ulteriori informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Inserire le icone:**   Utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone delle illustrazioni \> . [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Digitazione in tempo reale durante la creazione condivisa:** Vedere dove gli altri stanno lavorando nella presentazione e visualizzare le modifiche durante la digitazione. [Altre informazioni](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Salvare in cartelle recenti:** Salvare una presentazione in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Creare forme input penna precise:** Trascinare la gomma per segmenti al fine di rimuovere bit in eccesso dell'input penna, a destra fino alla riga più vicina.
 -   **Selezionare e modificare gli oggetti con una penna:** Utilizzare una penna digitale per spostare, ridimensionare oppure ruotare gli oggetti tramite gli appositi punti di controllo. In alternativa, utilizzare i pulsanti della penna per eseguire selezione con lazo dell'inchiostro.
@@ -81,7 +81,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Aggiornamenti delle funzionalità
 
--   **Update UI to "Share":** Change "Present" to "Share" negli elementi dell'interfaccia utente, ad esempio la modifica di "present desktop" in "Share screen" e "present Programme" in "Share Window".
+-   **Aggiornare l'interfaccia utente a "Share":**   Modificare "presente" in "condivisione" in elementi dell'interfaccia utente, ad esempio la modifica di "desktop presente" in "Condividi schermo" e "programma corrente" in "condivisione finestra".
 -   **Disabilitare "Numero personale":** Utilizzare la voce del Registro di sistema DisableDisplayMyNumber per disattivare "Numero personale" nella tastiera del telefono.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
@@ -119,13 +119,13 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
 -   **Immagini SVG:** Inserire e modificare SVG (Scalable Vector Graphics) nei documenti. [Ulteriori informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Inserire icone:**   utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone \> delle illustrazioni.   [Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Inserire le icone:**   Utilizzare le icone di una raccolta standard di file SVG (Scalable Vector Graphics) inserendo le \> icone delle illustrazioni \> .  [ Altre informazioni](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Salvare in cartelle recenti:** Salvare un documento in una cartella usata di recente tramite la scheda Recenti quando si accede a File \> Salva con nome.
 -   **Lettura migliorata con strumenti di apprendimento:** Nuovi comandi nelle competenze di lettura boost della Modalità di lettura modificando testo spaziatura, mostrando le interruzioni di pagina tra sillabe ed evidenziando ogni parola del documento letto ad alta voce. [Ulteriori informazioni](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Miglioramenti accessibilità:** Supporto migliorato per l'utilizzo della tastiera, Assistente vocale e altri strumenti di Assistive Technology per leggere e modificare documenti. [Ulteriori informazioni](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
 -   **Tocco:** consente di trovare e riutilizzare i contenuti dei relativi documenti dell'organizzazione. [Ulteriori informazioni](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema in cui i tratti con input penna scompaiono dopo due o tre tratti.
 -   Consente di risolvere un problema con virgolette che scompaiono quando si usa Google Input Method Editor (IME).
 
@@ -148,21 +148,21 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema che si verifica quando si digita nella barra della formula, si utilizza una funzione con elenco a discesa (ad esempio, VLOOKUP) e si preme Invio per completare la formula. L'errore comporta la selezione dell'elemento principale dell'elenco a discesa di completamento automatico invece di conservare il valore digitato.
 -   Consente di risolvere un problema che si verifica quando si apre un file binario (BIFF8) di Excel 97 - Excel 2003 che contiene un collegamento ipertestuale all'interno di un foglio protetto. In questo caso, Excel considera il file come danneggiato e prova a correggere o rimuovere il contenuto non leggibile.
 
-### <a name="onenote-non-security-updates"></a>OneNote: aggiornamenti non relativi alla sicurezza
+### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale un utente non può eliminare un modello di pagina personalizzato.
 
-### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Schede di riepilogo per pacchi e prenotazioni di viaggi:** Verificare e tenere traccia delle prenotazioni di viaggi e delle consegne di pacchi mediante le schede di riepilogo automaticamente create nella Posta in arrivo e nel Calendario. [Ulteriori informazioni](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Editor:** Offre strumenti di correzione contestuali avanzati che permettono di migliorare la scrittura. [Ulteriori informazioni](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale non è possibile aprire i messaggi di posta elettronica RTF inviati utilizzando Information Rights Management.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
 -   **Copia della sezione:** copiare e incollare le sezioni tra presentazioni.
 -   **Condivisi con l'utente corrente:** visualizzare i documenti condivisi dagli altri utenti andando a File \> Apri \> Condivisi con l'utente corrente. [Ulteriori informazioni](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema che si verifica quando si utilizzano conversazioni a schede, si fa doppio clic su una scheda e si inizia a scrivere. Talvolta, queste operazioni causano il passaggio a una scheda differente, anche se si continua a scrivere nella finestra della conversazione.
 -   Consente di risolvere un problema a causa del quale gli URL contenuti in un messaggio istantaneo non possono essere selezionati nella finestra di cronologia della chat utilizzando la tastiera.
 -   Consente di risolvere un problema a causa del quale dovrebbe essere possibile sentire l'audio di digitazione se è stata selezionata la casella di controllo "Riproduci un suono in caso di digitazione da parte di un utente durante la visualizzazione di un messaggio istantaneo" nelle opzioni di suonerie e suoni.
@@ -212,12 +212,12 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1609-november-2"></a>Versione 1609:2 novembre
 *Versione 1609 (Build 7369.2054)*
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale l'utilizzo di codice VBA per copiare un foglio di lavoro permette di scoprire fogli di lavoro nascosti.
 -   Consente di risolvere un problema a causa del quale, quando si utilizza il Risolutore, viene visualizzato il messaggio di errore "File Solver32.dll non trovato" dopo aver scelto Risolvi.
 -   Consente di risolvere un problema a causa del quale l'icona per il componente aggiuntivo della mappa di Bing non viene visualizzata quando si utilizza un monitor con valori DPI alti e la modalità tocco è abilitata per la barra multifunzione.
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Risolvere un problema in cui Outlook si blocca quando si esegue una ricerca avanzata tra più cartelle.
 -   Risolvere un problema in cui il testo digitato nella casella di testo cc in una ricerca non viene aggiunto alla casella di ricerca principale e la ricerca non avviene.
 -   Risolvere un problema in cui, in una conversazione con più messaggi con allegati, Outlook si blocca quando si tenta di aprire un allegato in uno di questi messaggi, se tale allegato è archiviato in una posizione online.
@@ -233,7 +233,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="visio-non-security-updates"></a>Visio: Aggiornamenti non relativi alla sicurezza
 -   Risolvere un problema in cui Visio non viene chiuso dopo la chiusura di un file di Visio salvato.
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Risolvere un problema in cui lo stato attivo passa a una piccola finestra di dialogo nell'angolo superiore destro durante la digitazione di caratteri asiatici utilizzando un Input Method Editor (IME), quindi per l'utente non è possibile continuare a modificare il documento.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -251,7 +251,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="onenote-non-security-updates"></a>OneNote: aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale la scrittura nel Registro di sistema in un computer che impedisce tale operazione provoca l'arresto anomalo di OneNote.
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale la firma digitale e la crittografia di un messaggio di posta elettronica con un allegato provocano la perdita dei contenuti dell'allegato.
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
@@ -279,9 +279,9 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale solo il primo di una serie di tag del testo di una riga viene visualizzato nel relativo riquadro riepilogativo quando si effettua una ricerca di tag.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
--   ** \@menzioni:** Assicurarsi che i destinatari sappiano di essere stati richiesti per l'input o l'azione includendo il simbolo @ seguito dal nome della persona al corpo di un messaggio di posta elettronica o di calendario. This will also automatically add them to the To line. [Ulteriori informazioni](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ menzioni:** assicurarsi che i destinatari sappiano di essere stati richiesti per l'input o l'azione includendo il simbolo @ seguito dal nome della persona al corpo di un messaggio di posta elettronica o di calendario. This will also automatically add them to the To line. [More information](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale, quando si utilizzano elementi decorativi personalizzati come tema predefinito, vengono aggiunte ulteriori interruzioni di riga ai nuovi messaggi di posta elettronica e il tipo di carattere viene impostato su Calibri.
 -   Consente di risolvere un problema a causa del quale Outlook si blocca all'avvio se lo schermo Windows è impostato su 125%.
 -   Consente di risolvere un problema a causa del quale le celle di Excel incollate come collegamento OLE scompaiono dalle bozze dei messaggi di posta elettronica.
@@ -297,7 +297,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema a causa del quale l'impostazione automatica di una screenshot come collegamento ipertestuale all'URL della finestra del browser acquisita non funziona.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale Skype for Business non aggiorna il ridimensionamento con le modifiche apportate al monitor quando si utilizzano monitor con diverse risoluzioni, specialmente con quelli ad alta risoluzione.
 -   Consente di risolvere un problema a causa del quale, quando si utilizza la tastiera per visualizzare l'elenco dei partecipanti in una chat, lo stato attivo della tastiera si sposta in modo errato nella cronologia di chat, anziché mostrare l'elenco dei partecipanti.
 -   Consente di risolvere un problema a causa del quale le descrizioni comandi sulla schermata Azioni dei partecipanti non vengono visualizzate quando si utilizza un tema Windows a contrasto elevato.
@@ -348,7 +348,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 -   **Layout di Power Query mantenuti:** I formati e le colonne calcolate per i dati importati mediante Ottieni e trasforma vengono mantenuti dopo l'aggiornamento delle query.
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale l'utilizzo di un riferimento allo stile R1C1 nella funzione INDIRETTO con una versione in lingua tedesca o francese di Excel restituisce un errore \#REF! anziché il valore previsto e a cui si fa riferimento.
 -   Consente di risolvere un problema a causa del quale il tasto INVIO non funziona per separare le voci dell'elenco quando si crea un elenco di ordinamento personalizzato nella finestra di dialogo Elenchi personalizzati.
 -   Fix an issue where copying or moving information causes an error message to appear, such as “Cannot open the Clipboard” or “We couldn’t free up space on the Clipboard. Another program might be using it right now.”
@@ -356,7 +356,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Mini-anteprime per foto allegate**: quando una foto viene allegata a un messaggio di posta elettronica, in Outlook viene visualizzata una piccola anteprima della foto nel messaggio.
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale non vengono visualizzate le immagini presenti negli inviti alle riunioni inviati da Outlook 2016. Tale errore si verifica quando il destinatario utilizza Outlook 2013 oppure Outlook 2010.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
@@ -370,7 +370,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Aggiornamenti delle funzionalità
 -   **Citrix support**: Support for Citrix-based Virtual Desktop Infrastructure (VDI) environments, along with Citrix HDX Real Time Optimization Pack 2.1.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale una sessione di condivisione degli schermi basata su video peer-to-peer provoca un aumento dell'uso della CPU e riduce le prestazioni del sistema operativo e delle app nel computer del relatore se quest'ultimo utilizza uno o più schermi ad altissima definizione.
 -   Consente di risolvere un problema a causa del quale il ridimensionamento della finestra di Skype for Business all'altezza minima impedisce la visualizzazione dell'elenco della casella vocale.
 -   Consente di risolvere un problema a causa del quale, facendo clic sul pulsante Opzioni riunione dopo aver aperto o creato una riunione di Skype, Outlook si arresta in modo anomalo.
@@ -417,7 +417,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1607-august-31"></a>Versione 1607:31 agosto
 *Versione 1607 (Build 7167.2047)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale Outlook si arresta in modo anomalo quando si crea un modulo personalizzato trascinando i campi al suo interno.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -435,7 +435,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale Excel si blocca quando si tenta di modificare una cartella di lavoro contenente numerose caselle di testo.
 
-### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Collegamento Recupera Posta eliminata:** nella cartella Posta eliminata, sopra l'elenco della posta eliminata è presente il collegamento "Recupera la posta eliminata di recente da questa cartella" che, una volta selezionato, consente di visualizzare la finestra di dialogo Recupera Posta eliminata.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
@@ -454,7 +454,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere i problemi con l'esplorazione tramite tastiera e il commento audio di un'utilità per la lettura dello schermo.
 -   Consente di risolvere un problema a causa del quale un'utilità per la lettura dello schermo non segnala che la condivisione degli schermi è stata avviata e che gli utenti possono visualizzare gli schermi.
 
-### <a name="visio-feature-updates"></a>Visio: aggiornamenti delle funzionalità
+### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
 -   **Modelli UML:** tre modelli ( [Componente](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074), [Comunicazione](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)e [Distribuzione](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543)) che sono compatibili con lo standard Unified Modeling Language (UML) 2.5.
 
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
@@ -468,13 +468,13 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1606-august-9"></a>Versione 1606:9 agosto
 *Versione 1606 (Build 7070.2036)*
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema, dovuto a un aggiornamento della sicurezza recente, a causa del quale aprendo un file HTML da un percorso non attendibile viene visualizzata una schermata vuota senza errori su Excel, anziché consentire all'utente di aprire il file in Visualizzazione protetta.
 
 ### <a name="onenote-security-updates"></a>OneNote: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
@@ -483,7 +483,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="visio-non-security-updates"></a>Visio: Aggiornamenti non relativi alla sicurezza
 -   Consente di spostare la posizione della scheda Disegna sulla barra multifunzione e di spostare la posizione dell'opzione "Disegna con tocco" sulla scheda Disegna.
 
-### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
 ### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
@@ -497,11 +497,11 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="access-non-security-updates"></a>Access: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema di arresto anomalo dell'app che si verifica quando si esegue una query con ordinamento insieme a un motore di database di Access, ad esempio, l'app di Access. Il problema si verifica anche con un componente aggiuntivo che usa il motore di database di Access, ad esempio, il provider di dati.
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale viene visualizzato un messaggio di errore non corretto quando si inseriscono valori nella tabella pivot sulla base di un intervallo non valido.
 -   Consente di risolvere un problema a causa del quale l'ultima modifica apportata a una cartella di lavoro viene annullata. Il problema si verifica quando si salva una cartella di lavoro che include un livello di annullamento programmatico.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale l'utente visualizza una finestra di conversazione vuota quando si unisce a una riunione usando un account non federato con l'organizzazione che tiene la riunione.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -517,7 +517,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale lo strumento Panoramica non viene più visualizzato quando si sposta sulla pagina.
 -   Consente di risolvere un problema a causa del quale OneNote si arresta in modo anomalo quando l'utente elimina una tabella.
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale Outlook si arresta in modo anomalo quando si visualizza la convocazione a una riunione e si utilizza un listener automatico basato su interfaccia Microsoft, ad esempio, Assistenza vocale.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -540,7 +540,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Aggiornamento della sicurezza per Microsoft Office (3170008)
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema per il quale, quando si apre un documento in un server che richiede l'autenticazione basata su moduli, Word si arresta in modo anomalo.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -564,7 +564,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Miglioramenti della trasformazione dei dati:** conversione dei valori di durata in anni, supporto per spazi vuoti e avanzamenti riga nell'anteprima dell'editor di query e ridenominazione delle query direttamente nel riquadro Query.
 -   **Miglioramenti della connettività dati:** consentono di rilevare file CSV non supportati, supportano l'autenticazione con un account Microsoft quando si usa il connettore Exchange e di consentono di convalidare gli URL forniti dagli utenti quando provano a connettersi all'elenco SharePoint.
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema per il quale, quando si crea un nuovo messaggio a un contatto, il campo A: viene popolato con il nome del destinatario tre volte, anche se per quel contatto esiste un solo indirizzo di posta elettronica.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
@@ -578,16 +578,16 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1605-june-30"></a>Versione 1605:30 giugno
 *Versione 1605 (Build 6965.2063)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di migliorare l'aspetto dei messaggi che contengono tabelle con valori DPI elevati.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Aggiornamenti non relativi alla sicurezza
 -   Consente di risolvere un problema per il quale il salvataggio automatico di una presentazione che contiene un grafico, causa l'arresto anomalo di PowerPoint.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema per cui il client Skype for Business si connette a un server Skype for Business sulla rete esterna quando è disponibile una rete aziendale interna.
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema per il quale, inserendo un oggetto con "Crea da file" e selezionando un file .jpg, .gif. o .png viene generato un messaggio di errore relativo al file html, anziché l'inserimento di un'icona che rappresenta l'oggetto OLE.
 -   Consente di risolvere un problema per il quale l'inserimento di un controllo di contenuto dell'immagine non riesce.
 -   Consente di risolvere un problema per il quale Word non risponde quando si lavora su documenti che contengono collegamenti a diapositive di PowerPoint.
@@ -620,10 +620,10 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Aggiornamento della sicurezza per Microsoft Office (3163610)
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale Word si arresta in modo anomalo se l'utente seleziona l'opzione "Mantieni formattazione originale" quando incolla un elemento grafico SmartArt.
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Aggiornamento della sicurezza per Microsoft Office (3163610)
 
 
@@ -634,13 +634,13 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 -   **Ottenere i miglioramenti & Transform:** Nuove o migliorate funzionalità di trasformazione dei dati e di connettività dei dati per Power query. [Ulteriori informazioni](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale gli elenchi a discesa di convalida dei dati si danneggiano e si duplicano nelle cartelle di lavoro con più fogli di lavoro.
 -   Consente di risolvere un problema a causa del quale Excel perde le associazioni file quando l'utente disinstalla una versione precedente di Office.
 -   Consente di risolvere un problema a causa del quale Excel conserva un file temporaneo anche dopo il salvataggio di un file.
 -   Consente di risolvere un problema a causa del quale la chiamata di un metodo o di una proprietà per un foglio di lavoro eliminato comporta l'arresto anomalo di Excel. In genere, in questo caso si dovrebbe visualizzare l'errore che indica la mancata individuazione dell'oggetto in tale cartella di lavoro.
 
-### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Creazione semplificata profilo:** Un'interfaccia utente semplificata per configurare altri profili di Outlook per le cassette postali di Office 365, se l'accesso è stato eseguito con un account di Office 365
 
     Nota: questa funzionalità viene distribuita per un periodo di tempo per i sottoscrittori, pertanto potrebbe non essere visualizzata immediatamente. La tempistica di quando si riceve questa funzionalità dipende anche dal modo in cui l'organizzazione aggiorna Office.
@@ -649,7 +649,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema in cui caratteri simbolo estesi vengono modificati in "1" quando si invia un messaggio di posta elettronica in formato RTF.
 -   Consente di risolvere un problema per il quale rispondendo o inoltrando un messaggio vengono utilizzati caratteri neri invece di selezionare un nuovo colore, anche se è seleziona l'opzione "Nuovo colore in risposta o inoltro" in File \> Opzioni \> Posta \> Elementi decorativi e caratteri.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: aggiornamenti delle funzionalità
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
 -   **Creazione condivisa di elementi grafici SmartArt:** Più utenti possono modificare componenti differenti di un elemento grafico SmartArt contemporaneamente.
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Aggiornamenti delle funzionalità
@@ -681,7 +681,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1604-may-23"></a>Versione 1604:23 maggio
 *Versione 1604 (Build 6868.2067)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema in cui il collegamento per visualizzare i messaggi di posta precedenti nel server non viene visualizzato in fondo all'elenco dei messaggi nella cartella, ad esempio nella cartella Posta in arrivo o Posta eliminata.
 -   Consente di risolvere un problema a causa del quale Outlook non invia il contenuto dei messaggi quando si invia la posta elettronica tramite file msg.
 -   Update the Inbox Repair Tool (scanpst.exe) so that it can detect and correct file corruption issues related to how .pst files are indexed and searched. This type of corruption can prevent .pst files from loading, cause Outlook to crash, or cause high CPU utilization.
@@ -692,7 +692,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema per il quale, se si dispone di una presentazione con un tabella e la presentazione viene salvata come PDF, PowerPoint si arresta in modo anomalo.
 -   Consente di risolvere un problema a causa del quale numeri e spazi vengono persi durante il salvataggio di una presentazione in formato rtf oppure durante la copia del testo in un editor di testo RTF, ad esempio, WordPad.
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale le operazioni di annullamento eseguite dopo aver spostato un elemento grafico SmartArt causano l'arresto anomalo di Word oppure l'impossibilità di selezionare l'elemento grafico SmartArt.
 
 ### <a name="office-suite-non-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti non relativi alla sicurezza
@@ -721,13 +721,13 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Miglioramenti di Power Query:** Trasformazione dei dati nuova e migliorata e funzionalità di connettività dei dati. [Ulteriori informazioni](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Supporto per Large Address Aware:** Versioni a 32 bit di Excel possono utilizzare più memoria, se disponibile. [Ulteriori informazioni](https://support.microsoft.com/kb/3160741)
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema in cui compare la schermata iniziale quando sono abilitati i componenti aggiuntivi, anche se la schermata iniziale è stata configurata per non essere visualizzata quando si apre Excel.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Elenco degli allegati delle conversazioni:** Tutti gli allegati di una conversazione all'interno di un gruppo di Office 365 sono disponibili da un elenco a discesa presente nell'angolo superiore a destra del riquadro di lettura.
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema per cui le classificazioni dei messaggi non vengono sempre visualizzate nei messaggi di testo normale.
 -   Consente di risolvere un problema per cui la ricerca di Outlook restituisce risultati duplicati quando è attivata l'opzione Impostazioni conversazione \> Usa visualizzazione rientrata classica.
 -   Consente di risolvere un problema relativo allo spostamento nei campi tramite schede quando si crea un nuovo messaggio nella versione spagnola di Outlook.
@@ -740,7 +740,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1603-april-28"></a>Versione 1603:28 aprile
 *Versione 1603 (Build 6769.2040)*
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema in cui un intervallo dei nomi viene importato in modo non corretto quando si utilizza Dati \> Ottieni e trasforma \> Da tabella.
 -   Consente di risolvere un problema in cui le macro vengono eseguite in modo significativamente più lento nei computer in cui è abilitata la registrazione per la dashboard di telemetria.
 
@@ -767,7 +767,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema a causa del quale, dopo la creazione di subtotali, l'intervallo selezionato non si espande per includere tali subtotali.
 -   Consente di risolvere un problema a causa del quale non è possibile aprire un file su un server FTP.
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale le immagini nelle firme HTML vengono visualizzate come caselle di colore grigio quando si inviano nuovi messaggi o risposte.
 -   Consente di risolvere un problema a causa del quale nella cartella di ricerca degli elementi letti vengono visualizzati anche gli elementi non letti.
 
@@ -788,7 +788,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1602-march-24"></a>Versione 1602:24 marzo
 *Versione 1602 (Build 6741.2021)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale l'utilizzo di tasti di scelta rapida per accedere a un allegato in un messaggio di posta elettronica provoca l'arresto anomalo di Outlook.
 
 
@@ -799,13 +799,13 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-feature-updates"></a>Excel: aggiornamenti delle funzionalità
 -   **Pubblicare in Power BI:** Consente di salvare e pubblicare elementi della cartella di lavoro (come grafici, intervalli e tabelle) su powerbi.com e di interagire con tali dati in formato dashboard. È necessario un abbonamento a Power BI. [Ulteriori informazioni](https://support.office.com/article/7342b49c-6567-4155-a7ac-acdc14d9ad0f)
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale, quando si utilizza un colore del tema e si esegue una macro o un componente aggiuntivo, la barra di stato diventa verde con il testo in grigio, rendendo difficile per l'utente la lettura dell'aggiornamento di stato sulla barra di stato.
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale l'evidenziazione dei contenuti non viene visualizzata quando si usa l'opzione Visualizza riproduzione.
 
-### <a name="outlook-feature-updates"></a>Outlook: aggiornamenti delle funzionalità
+### <a name="outlook-feature-updates"></a>Outlook: Aggiornamenti delle funzionalità
 -   **Comando dell'archivio sulla barra multifunzione:** Consente di spostare rapidamente un elemento archiviato nella Posta in arrivo o in qualsiasi altra cartella in una cartella di archiviazione. [Ulteriori informazioni](https://support.office.com/article/25f75777-3cdc-4c77-9783-5929c7b47028)
 -   **Utilizzo dei gruppi:** Consente l'esplorazione, l'accesso e la creazione di gruppi direttamente da Outlook e consente di aggiungere quelli di maggiore interesse ai Preferiti. [Ulteriori informazioni](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 
@@ -823,7 +823,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale, facendo clic sull'immagine di anteprima della barra delle attività per aprire una nuova finestra di chat, Skype for Business si arresta in modo anomalo.
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale il cursore registra un ritardo rispetto a quanto digitato dall'utente.
 
 ### <a name="office-suite-feature-updates"></a>Famiglia di prodotti Office: Aggiornamenti delle funzionalità
@@ -837,7 +837,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1601-march-4"></a>Versione 1601:4 marzo
 *Versione 1601 (Build 6568.2036)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale, se configurati per l'utilizzo di POP3, tutti i messaggi di posta sul server vengono eliminati dalla Posta in arrivo dopo il download di tali messaggi in Outlook. [Ulteriori informazioni sul problema](https://support.microsoft.com/kb/3145116)
 -   Consente di risolvere un problema a causa del quale, se configurato per l'utilizzo di POP3, i messaggi di posta elettronica vengono scaricati più volte, creando elementi duplicati [Ulteriori informazioni sul problema](https://support.microsoft.com/kb/3145116)
 
@@ -881,7 +881,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   **Opzioni correttore grammaticale:** opzioni aggiuntive o aggiornate per i correttori grammaticali delle lingue francese, norvegese e danese consentiranno di evidenziare ulteriori errori grammaticali.
 -   **Commenti e suggerimenti:** consente di suggerire una caratteristica o un miglioramento per Outlook nel sito UserVoice tramite File \> commenti e suggerimenti.
 
-### <a name="outlook-non-security-updates"></a>Outlook: aggiornamenti non relativi alla sicurezza
+### <a name="outlook-non-security-updates"></a>Outlook: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema in cui le dimensioni di visualizzazione delle immagini sono errate quando si invia la posta tra un dispositivo con valori dpi alti e un monitor dpi normale.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Aggiornamenti delle funzionalità
@@ -897,7 +897,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
 -   **Opzioni correttore grammaticale:** opzioni aggiuntive o aggiornate per i correttori grammaticali delle lingue francese, norvegese e danese consentiranno di evidenziare ulteriori errori grammaticali.
 
-### <a name="word-non-security-updates"></a>Word: aggiornamenti non relativi alla sicurezza
+### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema in seguito al quale se si esegue una stampa unione con i contatti di Outlook viene visualizzato un messaggio di errore.
 -   Consente di risolvere un problema con l'uso di Word con i desktop virtuali in Windows 10.
 
@@ -927,7 +927,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1511-january-25"></a>Versione 1511:25 gennaio
 *Versione 1511 (Build 6366.2062)*
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema relativo all'uso di Application.OnKey() per intercettare una sequenza di tasti che causa l'arresto anomalo di Excel.
 
 ### <a name="word-non-security-updates"></a>Word: Aggiornamenti non della sicurezza

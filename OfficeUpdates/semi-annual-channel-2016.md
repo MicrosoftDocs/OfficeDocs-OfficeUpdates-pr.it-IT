@@ -1,8 +1,8 @@
 ---
 title: Note sulla versione per i rilasci del canale semestrale nel 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT le note sulle versioni per i rilasci del canale semestrale per Office 365 ProPlus in 2016
-ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615034"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370144"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Note sulla versione per i rilasci del canale semestrale nel 2016
 
@@ -32,11 +32,11 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Risolvere un problema per il quale Skype for Business si arresta in modo anomalo quando si esegue lo zoom di contenuto condiviso se il condivisore usa un'implementazione di terze parti di RDP.
 -   Risolvere un problema per il quale Skype for Business si arresta in modo anomalo quando l'utilità per la lettura dello schermo JAWS è in esecuzione e l'utente naviga in un elenco, come ad esempio la lista contatti.
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)
 
 
@@ -49,7 +49,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Aggiornamento della sicurezza per Microsoft Office (3204068)
 
 
@@ -76,7 +76,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Aggiornamento della sicurezza per Microsoft Office (3199168)
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Aggiornamento della sicurezza per Microsoft Office (3199168)
 
 
@@ -89,7 +89,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Consente di risolvere un problema in cui il menu a discesa Dimensioni campo per i tipi di dati numerici non visualizza alcun valore, il che impedisce all'utente di specificare il tipo di campo Numero quando crea o modifica una tabella.
 
 ### <a name="excel-feature-updates"></a>Excel: Aggiornamenti delle funzionalità
--   **Ottenere i miglioramenti & Transform:** Nuove o migliorate funzionalità di trasformazione dei dati e di connettività dei dati per Power query. [Ulteriori informazioni](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Ottenere i miglioramenti & Transform:** Nuove o migliorate funzionalità di trasformazione dei dati e di connettività dei dati per Power query. [Altre informazioni](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Connessioni a dati esterni:** Dati query da origini JSON e SQL data warehouse di Azure.
 -   **Miglioramenti di Power Query:** Trasformazione dei dati nuova e migliorata e funzionalità di connettività dei dati. [Ulteriori informazioni](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Supporto per Large Address Aware:** Versioni a 32 bit di Excel possono utilizzare più memoria, se disponibile. [Ulteriori informazioni](https://support.microsoft.com/kb/3160741)
@@ -176,7 +176,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 -   Bollettino Microsoft sulla sicurezza [MS16-097](https://technet.microsoft.com/library/security/ms16-097): aggiornamento della sicurezza per Microsoft Graphics Component (3177393)
 -   Bollettino Microsoft sulla sicurezza [MS16-120](https://technet.microsoft.com/library/security/ms16-120): aggiornamento della sicurezza per Microsoft Graphics Component (3192884)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: aggiornamenti non relativi alla sicurezza
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema a causa del quale dopo che un utente aggiunge un delegato in Exchange Server, il delegato non è visibile in Skype for Business nemmeno dopo averlo riavviato.
 -   Consente di risolvere un problema per cui il client Skype for Business si connette a un server Skype for Business sulla rete esterna quando è disponibile una rete aziendale interna.
 -   Consente di risolvere un problema a causa del quale Skype si arresta in modo anomalo per determinati utenti che partecipano a riunioni con numerose persone (più di 30 partecipanti, ad esempio).
@@ -200,7 +200,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-feature-updates"></a>Word: Aggiornamenti delle funzionalità
 -   **Aree commenti:** I pulsanti vengono visualizzati nell'area commenti per permettere all'utente di rispondere a un commento, aprirlo di nuovo oppure risolverlo in modo facile.
 
-### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Aggiornamento della sicurezza per Microsoft Office (3155544)
 -   Bollettino Microsoft sulla sicurezza [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Aggiornamento della sicurezza per Microsoft Office (3163610)
 -   Bollettino Microsoft sulla sicurezza [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Aggiornamento della sicurezza per Microsoft Office (3170008)
@@ -244,10 +244,10 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 *Questa è la versione di Deferred Channel che è disponibile a partire dal 2016 giugno. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al febbraio 2017. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1605 (Build 6965,2092), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
+### <a name="skype-for-business-security-updates"></a>Skype for Business: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-120](https://technet.microsoft.com/library/security/ms16-120): aggiornamento della sicurezza per Microsoft Graphics Component (3192884)
 
-### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-121](https://technet.microsoft.com/library/security/ms16-121): Aggiornamento della sicurezza per Microsoft Office (3194063)
 
 
@@ -258,7 +258,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Aggiornamenti non della sicurezza
@@ -267,7 +267,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="visio-security-updates"></a>Visio: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
 
@@ -280,10 +280,10 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="excel-security-updates"></a>Excel: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Aggiornamento della sicurezza per Microsoft Office (3185852)
 
 
@@ -291,7 +291,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ## <a name="version-1602-august-9"></a>Versione 1602:9 agosto
 *Versione 1602 (Build 6741.2063)*
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema, dovuto a un aggiornamento della sicurezza recente, a causa del quale aprendo un file HTML da un percorso non attendibile viene visualizzata una schermata vuota senza errori su Excel, anziché consentire all'utente di aprire il file in Visualizzazione protetta.
 
 ### <a name="onenote-security-updates"></a>OneNote: Aggiornamenti della sicurezza
@@ -306,7 +306,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
 
@@ -316,13 +316,13 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 
 *Questa è la versione di Deferred Channel che è disponibile da febbraio 2016. Continuerà ad essere supportata e a ricevere aggiornamenti della sicurezza fino al 2016 ottobre. Tuttavia, ora è disponibile una nuova versione di Deferred Channel, versione 1602 (Build 6741,2063), che contiene nuove funzionalità, aggiornamenti della sicurezza e aggiornamenti non correlati alla sicurezza.*
 
-### <a name="excel-non-security-updates"></a>Excel: aggiornamenti non relativi alla sicurezza
+### <a name="excel-non-security-updates"></a>Excel: Aggiornamenti non della sicurezza
 -   Consente di risolvere un problema, dovuto a un aggiornamento della sicurezza recente, a causa del quale aprendo un file HTML da un percorso non attendibile viene visualizzata una schermata vuota senza errori su Excel, anziché consentire all'utente di aprire il file in Visualizzazione protetta.
 
 ### <a name="onenote-security-updates"></a>OneNote: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook: aggiornamenti della sicurezza
+### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Aggiornamento della sicurezza per Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Aggiornamenti della sicurezza
@@ -345,7 +345,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Aggiornamento della sicurezza per Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Aggiornamento della sicurezza per Microsoft Office (3170008)
 
 
@@ -361,7 +361,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="outlook-security-updates"></a>Outlook: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Aggiornamento della sicurezza per Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
+### <a name="word-security-updates"></a>Word: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Aggiornamento della sicurezza per Microsoft Office (3170008)
 
 
@@ -666,7 +666,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Aggiornamento della sicurezza per Microsoft Office (3155544)
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Aggiornamento della sicurezza per Microsoft Office (3155544)
 
 
@@ -688,7 +688,7 @@ Queste note sulla versione forniscono informazioni su nuove funzionalità, aggio
 ### <a name="word-security-updates"></a>Word: aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3141806)
 
-### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: aggiornamenti della sicurezza
+### <a name="office-suite-security-updates"></a>Famiglia di prodotti Office: Aggiornamenti della sicurezza
 -   Bollettino Microsoft sulla sicurezza [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Aggiornamenti della sicurezza per Microsoft Office per risolvere l'esecuzione di codice in modalità remota (3141806)
 
 
