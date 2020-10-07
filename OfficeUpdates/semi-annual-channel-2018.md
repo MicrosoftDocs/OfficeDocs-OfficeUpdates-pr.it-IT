@@ -1,8 +1,8 @@
 ---
 title: Note sulle versioni per i rilasci del Canale semestrale nel 2018
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale semestrale per Office 365 ProPlus nel 2018
-ms.openlocfilehash: ab7cdeb05800c0f98f97bf895f1c88c167075ff9
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 62c342fc8e2d8829398377dd0611e101f4a01fac
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163548"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370124"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Note sulle versioni per i rilasci del Canale semestrale nel 2018
 
@@ -919,7 +919,7 @@ Queste note sulle versioni forniscono informazioni sulle nuove caratteristiche, 
 -   Consente di risolvere un problema a causa del quale la finestra di conversazione vuota non viene visualizzata finché non si accede a una riunione.
 -   Consente di risolvere un problema a causa del quale le informazioni del campo relativo al reparto in un biglietto da visita non vengono visualizzate nei risultati della ricerca se il campo del titolo è vuoto.
 -   Consente di risolvere i problemi di accesso per gli utenti migrati da un ambiente locale a un ambiente online a causa di regole del firewall.
--   Aggiungere una nuova chiave del Registro di sistema DWORD per correggere un problema in cui, quando un utente accede al cliente su una rete esterna eseguendo LyncAutoD, il client reimposta la chiave del Registro di sistema OAuthUsed su false. Per risolvere il problema, impostare il valore su 1 per EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket in HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>.
+-   Aggiunta di una nuova chiave del Registro di sistema DWORD per correggere un problema in cui, quando un utente accede al cliente su una rete esterna eseguendo LyncAutoD, il client reimposta la chiave del Registro di sistema OAuthUsed su false. Per risolvere il problema, impostare il valore su 1 per EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket in HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>.
 
 ### <a name="visio-feature-updates"></a>Visio: Aggiornamenti delle funzionalità
 -   **Creazione di diagrammi dai dati in Excel:** consente di creare automaticamente un diagramma di flusso di base o un diagramma di flusso interfunzionale partendo dai dati in Excel con i nuovi modelli di Visualizzatore dati. [Ulteriori informazioni](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)

@@ -5,16 +5,16 @@ author: anankani
 manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
-ms.service: o365-proplus-
+ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità principali, correzioni o problemi noti '
-ms.openlocfilehash: fd80f9a2f901e69f8bc45d55add2c48aedb98860
-ms.sourcegitcommit: bd82ba6a5c6eaa151068e633cde0f7cdfc5877ea
+description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
+ms.openlocfilehash: 594acccf4870613399a10f74233fd5a1b3c68237
+ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "48340731"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48368699"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -1328,13 +1328,13 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 
 ### <a name="excel"></a>Excel
-- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
