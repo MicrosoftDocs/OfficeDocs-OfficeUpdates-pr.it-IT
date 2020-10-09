@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 1bafe7aada2fc74fa57c2e5344deb6605db9cebe
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
+ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368709"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "48382721"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -27,6 +27,52 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2009-october-07"></a>Versione 2009: ottobre 07
+*Versione 2009 (Build 13231.20360)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Creare tipi di dati con Power Query:** è possibile creare tipi di dati formattati con Power Query da qualsiasi origine dati
+
+### <a name="outlook"></a>Outlook
+
+- **Il controllo grammaticale è tornato:** Outlook contrassegna gli errori grammaticali mentre si scrive, e l'utente può applicare i suggerimenti con un solo clic. <br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/grammar-and-style-suggestions-available-in-outlook)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che impediva di restituire i risultati delle ricerche eseguite su calendari condivisi con memorizzati nella cache.
+
+
+- Risolve un problema che causava, in certe circostanze, l'avvio inatteso di Outlook in modalità offline.
+
+
+- Risolve un problema che provocava errori intermittenti quando i delegati aprivano cartelle condivise in altre cassette postali.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correzione di sicurezza che risolve un problema che disabilitava le protezioni IRM quando si apriva un file PowerPoint nella modalità Visualizzazione protetta.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Quando l'utente stampa qualsiasi documento/file su stampanti a getto d'inchiostro da Office e l'inchiostro è quasi esaurito, i messaggi "Toner scarso" o "Nessun toner" sono mostrati anche se la stampante non ha alcun toner. I messaggi sono stati modificati su "Toner/inchiostro scarso" e "Nessun toner/inchiostro".
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-september-26"></a>Versione 2009: 26 settembre
 *Versione 2009 (Build 13231.20262)*
@@ -42,7 +88,6 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 ### <a name="project"></a>Project
 
 - È stato risolto un problema per cui, se si ha un codice di evento in esecuzione e si prova a modificare la visualizzazione di un modulo attività, facendo clic sul pulsante OK le modifiche potrebbero non essere inserite.
-
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
