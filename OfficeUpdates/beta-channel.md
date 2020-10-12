@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 594acccf4870613399a10f74233fd5a1b3c68237
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: 0de6ff1bec677f614284253708171f321b973f17
+ms.sourcegitcommit: 38049d061041fd0c40ccd138d7eeea6767e5d262
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368699"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48409070"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -31,7 +31,80 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-## <a name="version-2010-october-02"></a>Versione 2010: 2 ottobre
+## <a name="version-2011-october-09"></a>Versione 2011: 09 ottobre
+*Versione 2011 (Build 13406.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Creare flussi di dati di Power Platform dalle query:** è ora possibile esportare le query in modelli di Power query che possono essere usati per creare nuovi flussi di dati di Power Platform
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Esportare immagini GIF animate in un intervallo:** selezionare un intervallo di diapositive durante l'esportazione in un formato GIF animato
+
+- **Creare gif con sfondi trasparenti:** all'esportazione in una GIF animata, una nuova opzione consente di rendere trasparente lo sfondo.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema relativo al fatto che il nome del file non cambiava dopo che è stata abilitata l'operazione SaveAs con i componenti aggiuntivi COM.
+
+
+- È stato risolto un problema quando il salvataggio automatico non è riuscito con un messaggio di errore errato o ingannevole quando nel modello di dati di Excel è presente una definizione di misura errata.
+
+
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui la stampa rapida per gli allegati di immagini genera un errore, "Impossibile per Windows trovare questa immagine. Controllare il percorso e riprovare.
+
+
+- Risolve un problema per cui, per alcuni utenti, Outlook si avviava in modalità offline finché l'utente sceglieva di lavorare online.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui il valore di NewVal nell'evento ProjectBeforeTaskChagne non ha il valore corretto se un intervallo viene modificato all'interno di una visualizzazione tipo di modulo attività.
+
+
+- È stato risolto un problema per cui, se si dispone di un elenco attività in un sito di progetto e si raggruppa l'elenco attività, non sarà possibile modificare rapidamente l'elenco attività.
+
+
+- È stato risolto un problema per cui, se si aggiorna una risorsa dell'organizzazione con CSOM, le unità di risorse max potrebbero andare perse.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui l'accesso interattivo API SSO restituiva un codice di errore.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2010-october-02"></a>Versione 2010: 02 ottobre
 *Versione 2010 (Build 13328.20000)*
 
 
@@ -1586,7 +1659,8 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|versione-2010-ottobre-2|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|versione-2011-ottobre-09|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|versione-2010-ottobre-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|versione-2010-25-settembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
@@ -1595,5 +1669,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|versione-2009-agosto-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|versione-2009-agosto-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|versione-2009-agosto-07|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|versione-2008-luglio-31|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
