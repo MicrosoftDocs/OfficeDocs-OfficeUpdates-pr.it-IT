@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
-ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
+ms.openlocfilehash: 46c2e42002bf1df8c4b83b437d64c823e6c12e7a
+ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "48382721"
+ms.lasthandoff: 10/12/2020
+ms.locfileid: "48422555"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -27,6 +27,168 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2010-october-11"></a>Versione 2010: 11 ottobre
+*Versione 2010 (Build 13328.20154)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Proteggere i dati contro i file dannosi:** Application Guard migliora la protezione contro i malware consentendo di leggere, stampare e salvare i file di Office in un contenitore isolato. [Altre informazioni](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Proteggere i dati contro i file dannosi:** Application Guard migliora la protezione contro i malware consentendo di leggere, stampare e salvare i file di Office in un contenitore isolato. [Altre informazioni](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="word"></a>Word
+
+- **Proteggere i dati contro i file dannosi:** Application Guard migliora la protezione contro i malware consentendo di leggere, stampare e salvare i file di Office in un contenitore isolato. [Altre informazioni](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- È stato risolto un problema relativo all’errata impostazione della posizione della barra di scorrimento durante il caricamento della finestra di dialogo/relazione salvata durante lo scorrimento.
+
+
+- È stato risolto un problema relativo alla errata visualizzazione di nomi contenenti "&" nel Riquadro attività Aggiungi tabella.
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema relativo al mancato funzionamento dell’intervallo manuale a più livelli di categoria nei grafici.
+
+
+- È stato risolto un problema con i grafici a mappa 2D che impediva di usare VBA per configurare il colori per il valore massimo, medio e minimo.
+
+
+- È stato risolto un problema che causava la visualizzazione del messaggio "Excel ha esaurito le risorse durante il tentativo di calcolare una o più formule".
+
+
+- È stato risolto un problema per cui, quando si selezionava lo spagnolo come lingua di Office, gli elenchi di convalida dei dati non mostravano tutti gli elementi.
+
+
+- È stato risolto un problema per cui poteva verificarsi un notevole ritardo durante il passaggio tra fogli di lavoro con grandi quantità di dati quando era "Anteprima interruzioni di pagina" era abilitato.
+
+
+- È stato risolto un problema relativo al mancato aggiornamento delle opzioni di tutti i fogli della cartella di lavoro in seguito all'aggiunta a una tabella usata per la Convalida dei dati.
+
+
+- È stato risolto un problema che poteva causare un blocco durante l'aggiornamento delle tabelle pivot OLAP.
+
+
+- È stato risolto un problema che causava l'arresto anomalo di ChartSheet, in certi casi, quando veniva inserita una formula tramite la barra della formula.
+
+
+- È stato risolto un problema per cui la barra della formula di Excel non veniva visualizzata interamente quando la connessione a un dispositivo veniva interrotta, ad esempio in caso di connessione/disconnessione di una sessione remota o di un cambio del monitor.
+
+
+### <a name="onenote"></a>OneNote
+
+- È stato risolto un problema per cui un utente non era in grado di selezionare e copiare l'URL del blocco appunti da TextBox in File OutSpace > Info.
+
+
+- È stato risolto un problema per cui, quando si passava il mouse sopra al colore verde nel selettore colore del blocco appunti, il pop-up indicava "gessetto rosso".
+
+
+- È stato risolto un problema relativo al mancato rispetto dei colori a contrasto elevato nell'area di disegno per i temi personalizzati da parte di OneNote.
+
+
+### <a name="outlook"></a>Outlook
+
+- Risolve un problema che causava l'invio di e-mail generate automaticamente con un corpo vuoto quando l'oggetto è vuoto.
+
+
+- È stato risolto un problema per cui il GUID della cartella errata è memorizzato nella cache per le cartelle.
+
+
+- Quando un utente copiava e incollava un indirizzo di posta elettronica nel campo del destinatario con il nome visualizzato, l'indirizzo non era sempre analizzato correttamente e veniva visualizzato un avviso relativo a un indirizzo di posta elettronica non valido.  Il problema è stato risolto: ora il mome e l'indirizzo sono analizzati correttamente e l'avviso non viene più mostrato.
+
+
+- È stato risolto un problema per cui le cartelle condivise online non restituivano il nome della cartella padre. Invece di dare errore, restituiva un percorso vuoto che erroneamente passava all'account principale.
+
+
+- È stato risolto un problema per cui l'opzione Salva con nome non era disponibile per gli allegati classici.
+
+
+- È stato risolto un problema che consente agli utenti di personalizzare il testo della giustificazione quando si esegue l'override di un criterio.
+
+
+- È stato risolto un problema per cui le revisioni si attivavano dopo la riapertura delle bozze dal riquadro di anteprima di sola lettura.
+
+
+- È stato risolto un problema per cui i messaggi di posta elettronica venivano nascosti dopo aver disattivato Posta in arrivo evidenziata e ordinato i dati.
+
+
+- È stato risolto un problema che causava la creazione da parte di Outlook di una firma vuota secondaria per gli utenti che avevano abilitato le impostazioni cloud.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui PowerPoint non esportava i punti elenco rettangolari durante l'esportazione in formato PDF.
+
+
+- È stato risolto un problema per cui le GIF erano animate solo una volta nell’editor e nelle diapositive.
+
+
+- È stato risolto un problema per cui il grafico di Excel collegato veniva modificato in modo errato nel foglio di Excel quando l'utente modificava il percorso di origine in una cartella locale di OneDrive.
+
+
+- È stato risolto un problema per cui se ci si trova nell'ultima diapositiva e si scorre alla diapositiva successiva dopo aver premuto "Termina sessione" e prima che venga visualizzato il riepilogo, la finestra di dialogo Fine sessione è visibile anche nella pagina di riepilogo.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui il metodo VBA ConsolidateProjects potrebbe fallire se si prova ad aggiungere più volte lo stesso progetto e se AttachToSources è impostato su falso.
+
+
+- È stato risolto un problema per cui, se si ha un codice di evento in esecuzione e si prova a modificare la visualizzazione di un modulo attività, facendo clic sul pulsante OK le modifiche potrebbero non essere inserite.
+
+
+- È stato risolto un problema per cui il metodo VBA ConsolidateProjects potrebbe fallire se si prova ad aggiungere più volte lo stesso progetto e se AttachToSources è impostato su falso.
+
+
+- È stato risolto un problema per cui, se si dispone di campi personalizzati con formule e si usa costo realizzato, è possibile notare ritardi nel cambio di visualizzazione e nell'apertura dei dettagli del progetto/attività.
+
+
+- È stato risolto un problema per cui Project poteva bloccarsi se si applica un gruppo a Uso della risorsa o visualizzazione Foglio e quindi si inserisce una colonna.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui i collegamenti ai file abilitati al flusso di lavoro non sono stati aperti come previsto.
+
+
+- È stato risolto un problema che causava la visualizzazione di un commento a comparsa quando l'utente toccava una modifica tracciata (inserimento/cancellazione).
+
+
+- È stato risolto un problema relativo all'eliminazione dei callout di commento in Word.
+
+
+- È stato risolto un problema relativo ai messaggi di Outlook configurati come "Non inoltrare".
+
+
+- È stato risolto un problema relativo al salvataggio di un documento di Word contenente citazioni ed equazioni.
+
+
+- È stato risolto un problema con la finestra di dialogo raccolta Stili.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Quando l'utente stampa qualsiasi documento/file su stampanti a getto d'inchiostro da Office e l'inchiostro è quasi esaurito, i messaggi "Toner scarso" o "Nessun toner" sono mostrati anche se la stampante non ha alcun toner. I messaggi sono stati modificati su "Toner/inchiostro scarso" e "Nessun toner/inchiostro".
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-october-07"></a>Versione 2009: ottobre 07
 *Versione 2009 (Build 13231.20360)*
@@ -881,7 +1043,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
-### <a name="access"></a>Access
+### <a name="access"></a>Accesso
 
 - Questo problema è stato risolto e dovrebbe essere possibile inserire correttamente tabelle SQL collegate che includano un campo identità, ad esempio numerazione automatica, in Access.
 
