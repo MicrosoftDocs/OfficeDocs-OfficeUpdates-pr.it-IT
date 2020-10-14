@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT un elenco completo di rilasci di App di Microsoft 365, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: adf26720387ee5d3bb1bc1abbf46999566302589
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: 3bf6c9882cb09a45b1e4dd1ac28f2643da11da73
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398391"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453104"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Cronologia degli aggiornamenti per App di Microsoft 365 (elencati in ordine cronologico)
 
@@ -36,12 +36,12 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canale corrente<br/>|2009<br/>|13231.20368<br/>|8 ottobre 2020<br/>|Rilasciata la versione 2010<br/>|
-|Canale Enterprise mensile<br/>|2007<br/>|13029.20534<br/>|8 settembre 2020<br/>|10 novembre 2020<br/>|
-|Canale Enterprise mensile<br/>|2006<br/>|13001.20648<br/>|8 settembre 2020<br/>|13 ottobre 2020<br/>|
-|Canale Enterprise semestrale (Anteprima)<br/>|2008<br/>|13127.20408<br/>|8 settembre 2020<br/>|9 marzo 2021<br/>|
-|Canale Enterprise semestrale<br/>|2002<br/>|12527.21104<br/>|8 settembre 2020<br/>|Settembre 14, 2021<br/>|
-|Canale Enterprise semestrale<br/>|1908<br/>|11929.20946<br/>|8 settembre 2020<br/>|9 marzo 2021<br/>|
+|Canale corrente<br/>|2009<br/>|13231.20390<br/>|13 ottobre 2020<br/>|Rilasciata la versione 2010<br/>|
+|Canale Enterprise mensile<br/>|2008<br/>|13127.20638<br/>|13 ottobre 2020<br/>|8 dicembre 2020<br/>|
+|Canale Enterprise mensile<br/>|2007<br/>|13029.20708<br/>|13 ottobre 2020<br/>|10 novembre 2020<br/>|
+|Canale Enterprise semestrale (Anteprima)<br/>|2008<br/>|13127.20638<br/>|13 ottobre 2020<br/>|9 marzo 2021<br/>|
+|Canale Enterprise semestrale<br/>|2002<br/>|12527.21236<br/>|13 ottobre 2020<br/>|Settembre 14, 2021<br/>|
+|Canale Enterprise semestrale<br/>|1908<br/>|11929.20966<br/>|13 ottobre 2020<br/>|9 marzo 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +53,7 @@ La tabella seguente fornisce un elenco dei numeri di versione e di build per ogn
 
 |**Anno**|**Data di rilascio**|**Canale corrente**|**Canale Enterprise mensile**|**Canale Enterprise semestrale (Anteprima)**|**Canale Enterprise semestrale**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|13 ottobre|[Versione 2009 (Build 13231.20390)](current-channel.md#version-2009-october-13)|[Versione 2008 (Build 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)|[Versione 2008 (Build 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Versione 2002 (Build 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Versione 1908 (Build 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|8 ottobre|[Versione 2009 (Build 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 settembre|[Versione 2009 (Build 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 settembre|[Versione 2008 (Build 13127.20508)](current-channel.md#version-2008-september-22)| | | |

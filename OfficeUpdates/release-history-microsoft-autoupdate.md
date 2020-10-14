@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: 0be44aaa71134e942d74c12bf38a32cbe1801169
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174635"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453188"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,27 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="october-2020-release"></a>Rilascio di ottobre 2020
+
+**Data di rilascio:** 13 ottobre 2020
+
+*Aggiornamento automatico Microsoft 4.28*
+
+**Correzioni di bug e miglioramenti**
+-   Interfaccia utente MAU: la Visualizzazione riepilogo ora mostra che è necessaria l'attenzione sugli errori da parte dell’utente
+-   Sia l'interfaccia utente MAU che l'Assistente aggiornamento si inattivano automaticamente dopo 72 ore di inattività.
+-   Interfaccia utente MAU: ora è disponibile con un menu Windows
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto dell’aggiornamento automatico di Microsoft 4.28](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Hash SHA-256:**
+
+80171D842C59BA3B26A085DD3AB6E63E32102088078848C95AEBECF4C91B0438
+
+<br/><br/>
 
 ## <a name="september-2020-release"></a>Rilascio di settembre 2020
 
@@ -166,7 +187,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Per i dispositivi Mac OS con SSD, si osserveranno un maggiore rapidità degli aggiornamenti e una riduzione del tempo di inattività delle app causato dagli aggiornamenti.
 
 
-Vedi [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
+Vedi [CVE-2020-0984](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-0984)
 
 **Collegamento dell'aggiornamento di MAU:**
 
