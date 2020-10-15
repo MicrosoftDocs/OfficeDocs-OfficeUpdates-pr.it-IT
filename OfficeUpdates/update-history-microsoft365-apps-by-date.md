@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT un elenco completo di rilasci di App di Microsoft 365, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: 3bf6c9882cb09a45b1e4dd1ac28f2643da11da73
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 31c289363017fd7511036d7a879542dd34a2a83c
+ms.sourcegitcommit: 3a03037114edb3662a0e076218e42be7c4c1ee89
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453104"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48464729"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Cronologia degli aggiornamenti per App di Microsoft 365 (elencati in ordine cronologico)
 
@@ -24,13 +24,11 @@ Questi numeri di versione e di build sono validi per App di Microsoft 365 per gr
 > - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
 > - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004.Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.Nella nostra documentazione, in genere è sufficiente fare riferimento ad App di Microsoft 365.
 
-
 > [!NOTE]
 > - La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima.
 > - Per ulteriori informazioni sui canali di aggiornamento, vedere [Panoramica dei canali di aggiornamento per App di Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 Nella tabella seguente viene elencata la versione supportata e il numero di build più recente per ogni canale di aggiornamento.
-
 
 [//]: # (EOSTABLESTART)
 
@@ -53,7 +51,8 @@ La tabella seguente fornisce un elenco dei numeri di versione e di build per ogn
 
 |**Anno**|**Data di rilascio**|**Canale corrente**|**Canale Enterprise mensile**|**Canale Enterprise semestrale (Anteprima)**|**Canale Enterprise semestrale**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020|13 ottobre|[Versione 2009 (Build 13231.20390)](current-channel.md#version-2009-october-13)|[Versione 2008 (Build 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)|[Versione 2008 (Build 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Versione 2002 (Build 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Versione 1908 (Build 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
+|
+|2020|13 ottobre|[Versione 2009 (Build 13231.20390)](current-channel.md#version-2009-october-13)|[Versione 2008 (Build 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Versione 2007 (Build 13029.20708)](monthly-enterprise-channel.md#version-2007-october-14)|[Versione 2008 (Build 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Versione 2002 (Build 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Versione 1908 (Build 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|8 ottobre|[Versione 2009 (Build 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 settembre|[Versione 2009 (Build 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 settembre|[Versione 2008 (Build 13127.20508)](current-channel.md#version-2008-september-22)| | | |

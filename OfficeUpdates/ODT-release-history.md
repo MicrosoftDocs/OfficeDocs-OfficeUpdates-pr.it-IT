@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
+ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174645"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48469995"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -29,6 +29,12 @@ Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+## <a name="october-14-2020"></a>14 ottobre 2020
+Versione 16.0.13231.20368 (setup.exe versione 16.0.13231.20350)
+- Tutti i prodotti useranno ora Canale mensile per impostazione predefinita, se non viene specificato alcun canale
+- Risolve un problema in cui alcuni prodotti di Office 2007 potrebbero bloccare in modo imprevisto l'installazione quando si usa RemoveMSI
+- Sicurezza ottimizzata durante l'esecuzione di ODT da una directory che contiene altri DLL
+- Migliorie per affidabilità e resilienza
 
 ## <a name="june-9-2020"></a>9 giugno 2020
 
