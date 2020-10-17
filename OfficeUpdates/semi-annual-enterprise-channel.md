@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 9e420ed8c7c6f5c329b3137f21b952f7a29af7e1
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942773"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453414"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale Enterprise semestrale nel 2020
 
@@ -26,6 +26,63 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 > [!NOTE]
 >
 >- OneNote 2016 sarà ora incluso per impostazione predefinita quando un utente del Canale Enterprise scarica e installa Microsoft 365 Apps in Windows 10 dal portale di Office.
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2002-october-13"></a>Versione 2002: 13 ottobre
+*Versione 2002 (Build 12527.21236)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- Nella versione a 64 bit di Access non dovrebbe più essere visualizzato il messaggio "La query è troppo complessa" né verificarsi un errore di risorse di sistema insufficienti, purché si sia conformi alle linee guida e ai requisiti per i database di Access.
+
+
+- Quando si decide di usare la funzionalità di filtro dopo Progettazione query, il database non dovrebbe più arrestarsi in modo anomalo. Controllare di conseguenza.
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che impediva agli utenti di modificare un filtro della tabella pivot perché era configurato su un valore non più presente nel database Analysis Services.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Le nuove presentazioni create da un modello potevano ereditare un'impostazione che impediva un'esperienza di creazione condivisa soddisfacente. Questa correzione garantisce che l'opzione sia deselezionata in questo caso.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui, aprendo documenti con interruzioni di pagina e colonne, l'utente poteva visualizzare il messaggio di errore "È stato superato il numero massimo di pagine supportate da Microsoft Word oppure il documento è danneggiato"
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Quando l'utente stampa qualsiasi documento/file su stampanti a getto d'inchiostro da Office e l'inchiostro è quasi esaurito, i messaggi "Toner scarso" o "Nessun toner" sono mostrati anche se la stampante non ha alcun toner. I messaggi sono stati modificati su "Toner/inchiostro scarso" e "Nessun toner/inchiostro".
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1908-october-13"></a>Versione 1908: 13 ottobre
+*Versione 1908 (Build 11929.20966)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Quando l'utente stampa qualsiasi documento/file su stampanti a getto d'inchiostro da Office e l'inchiostro è quasi esaurito, i messaggi "Toner scarso" o "Nessun toner" sono mostrati anche se la stampante non ha alcun toner. I messaggi sono stati modificati su "Toner/inchiostro scarso" e "Nessun toner/inchiostro".
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -819,7 +876,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema nella sincronizzazione delle cartelle del calendario condiviso con l'OST, che causava errori di autorizzazione quando gli utenti provavano a interagire con queste cartelle.
 
-- Risolve un problema che causa l'arresto anomalo quando si visualizzano più di 30 calendari in un ambiente Citrix. Qui è disponibile il singolo [articolo della Knowledge Base in cui è stato documentato per le versioni precedenti](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen).
+- Risolve un problema che causa l'arresto anomalo quando si visualizzano più di 30 calendari in un ambiente Citrix. Qui è disponibile il singolo [articolo della Knowledge Base in cui è stato documentato per le versioni precedenti](https://support.microsoft.com/it-IT/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen).
 
 - Risolve un problema relativo alla selezione dell'algoritmo SMIME.
 
@@ -1697,6 +1754,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)

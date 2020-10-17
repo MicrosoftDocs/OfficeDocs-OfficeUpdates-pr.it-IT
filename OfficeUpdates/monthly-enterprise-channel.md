@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile Enterprise per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: a9301d0f53144a666571e563472f88b3bc5da924
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942803"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453314"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile Enterprise nel 2020
 
@@ -26,6 +26,210 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 [//]: # (NON RIMUOVERE)
 
 
+
+## <a name="version-2008-october-13"></a>Versione 2008: 13 ottobre
+*Versione 2008 (Build 13127.20638)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Dubbi? Chiedi a Excel:** ora Excel Ideas consente di rivolgere domande sui propri dati, senza sprecare tempo per scrivere formule (disponibile solo in inglese). [Altre informazioni](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office.  Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint. [Altre informazioni](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+- **Creare una connessione PDF:** connettersi a, importare, aggiornare i dati da un file PDF. [Altre informazioni](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **Salvataggio delle forme come immagini:** con pochi clic del mouse è possibile salvare una forma, un'icona o un altro oggetto come file di immagine, così da poterlo riutilizzare altrove. [Altre informazioni](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+
+- **Creare sondaggi in Outlook con Sondaggio rapido:** Creare facilmente un sondaggio, raccogliere voti e visualizzare i risultati in un messaggio di posta elettronica [Altre informazioni](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Nuova scheda del profilo per Outlook:** La nuova scheda del profilo di Outlook include una migliore visualizzazione Organizzazione e riprende lo stile della scheda di Outlook sul web. [Altre informazioni](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office.  Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint. [Altre informazioni](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="word"></a>Word
+
+- **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office.  Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint. [Altre informazioni](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- Questo problema è stato risolto. ora è possibile usare il driver ODBC all'esterno delle applicazioni a portata di clic di Office.
+
+
+- Questa modifica risolve un problema che poteva causare l'arresto anomalo di Access all'avvio della casella di zoom (MAIUSC+F2) per la modifica del testo.
+
+
+- Questo problema è stato risolto e non si dovrebbe più riscontrare un arresto anomalo.
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che poteva generare un avviso su una cartella di lavoro danneggiata se conteneva formule con SE.NON.DISP.().
+
+
+- È stato risolto un problema per cui Excel poteva arrestarsi in modo anomalo utilizzando la funzionalità Analisi rapida dopo aver bloccato la prima riga del foglio.
+
+
+- È stato risolto un problema che impediva agli utenti di modificare un filtro della tabella pivot perché era configurato su un valore non più presente nel database Analysis Services.
+
+
+- È stato risolto un problema per cui in alcuni casi Excel poteva arrestarsi in modo anomalo usando Copia formato.
+
+
+- È stato corretto un bug relativo alle API PivotDateFilter, per cui le condizioni di filtro "prima" e "dopo" erano invertite.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la ricezione dell'errore seguente quando gli utenti rispondevano a un messaggio di posta elettronica o componevano un nuovo messaggio, "Alcuni dei file in questa pagina Web non sono nella posizione prevista. Scaricarli comunque? Se si è sicuri che la pagina Web sia una fonte attendibile, fare clic su Sì"
+
+
+- È stato risolto un problema che causava la mancata comparsa del menu di scelta rapida nei controlli di ricerca.
+
+
+- È stato risolto un problema per cui gli utenti vedevano anomalie durante l'uso della visualizzazione compatta.
+
+
+- È stato risolto un problema per cui gli utenti sperimentavano occasionalmente degli arresti anomali durante la modifica dei destinatari.
+
+
+- È stato risolto un problema che causava la mancata visualizzazione della pagina Assistente Pianificazione da parte di alcuni utenti.
+
+
+- È stato risolto un problema relativo alle prestazioni con il caricamento degli allegati.
+
+
+- È stato risolto un problema che causava l'arresto anomalo di quattro o più messaggi di posta elettronica da un account POP con l'opzione "solo intestazioni di download" selezionata.
+
+
+- È stato risolto un problema per cui, all'apertura di un allegato cloud, gli utenti visualizzavano un messaggio di errore nella pagina Safelinks anziché il documento che stavano provando ad aprire.
+
+
+- È stato risolto un problema per cui gli utenti sperimentavano occasionalmente degli arresti anomali durante l'interazione con allegati cloud.
+
+
+- È stato risolto un problema che impediva agli utenti di chiudere i calendari condivisi facendo clic sulla "X" nell'angolo.
+
+
+- Risolve un problema che impediva agli utenti di connettersi alle cartelle pubbliche dopo l'aggiunta di una cassetta postale condivisa.
+
+
+- È stato risolto un problema che causava il mancato retrazione delle riunioni dal calendario di un responsabile in alcuni casi.
+
+
+- È stato risolto un problema che impediva ad alcuni utenti della funzionalità Miglioramenti dei Calendar - Calendario di Outlook condivisi di visualizzare un calendario condiviso appena aggiunto.
+
+
+- È stato risolto un problema per cui l'impostazione "Attiva miglioramenti calendari condivisi " talvolta non veniva applicata ai calendari condivisi esistenti.
+
+
+- Risolve un problema che faceva sì che gli utenti che tentavano di creare una convocazione di riunione da un account secondario aggiunto al loro profilo non vedessero uno spazio da: campo al posto del loro indirizzo e-mail.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema che causava l'arresto anomalo dell'app PowerPoint.
+
+
+- Correzione di sicurezza che risolve un problema che disabilitava le protezioni IRM aprendo un file di PowerPoint in Visualizzazione protetta.
+
+
+- Questa modifica risolve un problema della funzionalità Esporta in GIF animata per cui, facendo clic sul pulsante Esporta, l'esportazione non veniva eseguita.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui la data di fine del progetto non viene aggiornata per i progetti collegati all'elenco attività di SharePoint.
+
+
+- È stato risolto un problema per cui, se una risorsa aveva più di una tabella tariffe definita, il costo residuo non sempre veniva calcolato correttamente.
+
+### <a name="skype"></a>Skype
+
+- Il tono della pelle dell’emoticon che balla modificato su un colorito neutro.
+
+
+### <a name="visio"></a>Visio
+
+- L'anteprima dinamica si arresta in modo anomalo sull'allineamento del testo segnalato dai clienti. Arresto anomalo di maggior impatto della fork di repository di luglio.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui la macro AutoOpen veniva eseguita prima di AutoExec
+
+
+- È stato risolto un problema con la finestra di dialogo Raccolta stili.
+
+
+- È stato risolto un problema che poteva causare un arresto anomalo all'avvio di Word.
+
+
+- È stato risolto un problema per cui gli stili di base non venivano aggiornati con lo stile normale.
+
+
+- È stato risolto un problema per cui poteva verificarsi un arresto anomalo all'apertura di un documento.
+
+
+- È stato risolto un problema per cui l'utente poteva perdere contenuto quando ridimensionava una forma.
+
+
+- È stato risolto un problema che causava l'arresto anomalo all'apertura di alcuni messaggi di posta elettronica molto grandi.
+
+
+- È stato risolto un problema che causava un arresto anomalo quando gli utenti rispondevano a un messaggio di posta elettronica o componevano un nuovo messaggio.
+
+
+- Questa modifica consente di risolvere un problema in cui le applicazioni di Office possono bloccarsi in uno stato di errore di salvataggio silenzioso dopo una sessione di creazione condivisa precedente.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Questa modifica risolve il problema dell'arresto anomalo all'avvio delle app Office dovuto al mancato caricamento del file d2d1.dll.
+
+
+- È stato risolto un problema che causava un utilizzo elevato della CPU in modalità inattiva con GIF/modelli animati 3D
+
+
+- Quando l'utente stampa qualsiasi documento/file su stampanti a getto d'inchiostro da Office e l'inchiostro è quasi esaurito, i messaggi "Toner scarso" o "Nessun toner" sono mostrati anche se la stampante non ha alcun toner. I messaggi sono stati modificati su "Toner/inchiostro scarso" e "Nessun toner/inchiostro".
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2007-october-13"></a>Versione 2007: 13 ottobre
+*Versione 2007 (Build 13029.20708)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato corretto un bug relativo alle API PivotDateFilter, per cui le condizioni di filtro "prima" e "dopo" erano invertite.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2007-september-08"></a>Versione 2007: 8 settembre
 *Versione 2007 (Build 13029,20534)*
@@ -636,6 +840,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (| Win32|MEC|Produzione|Caratteristica|16.0.12827.20538|versione-2005-luglio-14|)
