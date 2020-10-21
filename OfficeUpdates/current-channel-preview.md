@@ -9,24 +9,64 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 46c2e42002bf1df8c4b83b437d64c823e6c12e7a
-ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
+ms.openlocfilehash: 137c1141a987a60f00674ce7e4eb0ac104d5df15
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "48422555"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597759"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
 Questo articolo contiene le note sulla versione per le build del Canale corrente (Anteprima) di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana verranno evidenziate nuove funzionalità interessanti, correzioni importanti e problemi significativi di cui è utile essere al corrente. Nota che spesso in un determinato periodo di tempo vengono distribuite funzionalità (e a volte anche correzioni) del Canale corrente (Anteprima). Ciò consente di verificare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
 
 > [!IMPORTANT]
-> Apporteremo alcune modifiche ai canali di aggiornamento per App di Microsoft 365, tra cui l'aggiunta di un nuovo canale di aggiornamento (canale mensile Enterprise) e la modifica dei nomi dei canali di aggiornamento già presenti. Per altre informazioni, [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2010-october-19"></a>Versione 2010: 19 ottobre
+*Versione 2010 (Build 13328.20210)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Risparmiare tempo durante la composizione dei messaggi:** Outlook mostra dei  suggerimenti che consentono di scrivere rapidamente i messaggi. Per accettare il suggerimento, basta usare l’opzione TAB.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/text-predictions-in-word-outlook)
+
+- **Supera le barriere linguistiche con un traduttore integrato:** i componenti aggiuntivi per la traduzione non servono più! In un messaggio, basta fare doppio clic per tradurre parole, frasi o interi messaggi. [Altre informazioni](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+- **Aggiornamenti dell’esperienza utente per Attività:** aggiornamento visivo degli elementi di Attività 
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Esercitarsi con la presentazione con Training per relatore:** esercitarsi con gli elementi che consentono di coinvolgere il pubblico, ad esempio l’andatura, le parole sovrautilizzate, il linguaggio del corpo e così via. [Altre informazioni](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+### <a name="word"></a>Word
+
+- **Il riquadro Editor Microsoft ottiene un aggiornamento in Word per il desktop:** è stata aggiornata l'esperienza corrente con il riquadro Editor per i client desktop di Word.
+
+- **Suggerimenti per la scrittura con un clic:** applicare i suggerimenti per la scrittura con un singolo clic. Il riquadro Editor aggiornato facilita lo spostamento tra i suggerimenti.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="powerpoint"></a>PowerPoint
+
+- Si tratta della correzione di un problema che causava la visualizzazione della richiesta di salvataggio a ciclo continuo durante la chiusura di un documento se era presente un componente aggiuntivo per l’ascolto dell’evento PresentationBeforeClose e il controllo della proprietà Presentation.Saved come parte del gestore dell'evento.
+
+
+
+[//]: # (NON RIMUOVERE FINE DE CONTENUTO DEI BUG)
 
 ## <a name="version-2010-october-11"></a>Versione 2010: 11 ottobre
 *Versione 2010 (Build 13328.20154)*
@@ -1945,7 +1985,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Riquadro attività Aggiungi tabelle:** il nuovo riquadro attività Aggiungi tabelle è finalmente disponibile. Questa funzionalità consente la selezione/selezione multipla più semplice delle tabelle che si vogliono aggiungere/rimuovere nell'intervallo di query, senza passare alla finestra di dialogo "Mostra tabelle" per le query e per la visualizzazione relazioni. Include anche una nuova scheda "collegamenti" per visualizzare le tabelle collegate, una casella di ricerca per filtrare l'elenco corrente, la funzionalità "trascinamento della selezione" e altro ancora.
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
 
@@ -2212,7 +2252,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-### <a name="access"></a>Access
+### <a name="access"></a>Accesso
 
 - **Aumentare la produttività in Progettazione query, nella visualizzazione SQL e nella finestra Relazioni:** fare clic con il pulsante destro del mouse su una tabella per aprirla, progettarla, ridimensionarla e nasconderla. Cercare e sostituire il testo nella visualizzazione SQL. Selezionare più tabelle nella finestra Relazioni.
 

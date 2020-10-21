@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: f4c124be4655216618e2aab6e352af2a0e5693d4
-ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
+ms.openlocfilehash: 164f08c6b192be36396419c8e5c4b5412b0e8e7a
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "48422545"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597769"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Cronologia degli aggiornamenti del Canale corrente di Office (Anteprima) per Windows
 
@@ -28,7 +28,7 @@ Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/Offi
 
 
 > [!IMPORTANT]
-> - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004.Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 > [!NOTE]
@@ -37,6 +37,9 @@ Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/Offi
 
 
 [//]: # (NON RIMUOVERE)
+
+**19 ottobre 2020**<br/>
+Versione 2010 (Build 13328.20210)<br/>
 
 **11 ottobre 2020**<br/>
 Versione 2010 (Build 13328.20154)<br/>

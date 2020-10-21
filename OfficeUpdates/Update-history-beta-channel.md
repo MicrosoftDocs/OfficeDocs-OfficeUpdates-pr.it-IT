@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast del Canale mensile per Windows Desktop
-ms.openlocfilehash: b7f3df423a27f1760f12fef1b23c9f1b9b62dced
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: ec1d640039b853b0492a6a4de2de30d8651e0470
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453364"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597739"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Cronologia degli aggiornamenti per il canale Office Beta
 
 Le informazioni di questa pagina sono destinate ai partecipanti al programma Office Insider che vogliono sapere se hanno installato l'aggiornamento più recente o sono alla ricerca di un elenco delle ultime build Insider. Fare clic [qui](https://insider.office.com/) per altre informazioni sul programma Office Insider.
 
 > [!IMPORTANT]
-> - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004.Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 > [!NOTE]
@@ -37,6 +37,9 @@ Per le note sulla versione, vedere [Note sulla versione di Insider per la versio
 
 
 [//]: # (NON RIMUOVERE)
+
+**19 ottobre 2020**<br/>
+Versione 2011 (Build 13415.20002)<br/>
 
 **12 ottobre 2020**<br/>
 Versione 2011 (Build 13408.20000)<br/>
