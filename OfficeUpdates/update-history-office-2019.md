@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: d808192979c1d29053e5782e7ce64d0f144a9de5
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453094"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657304"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -85,12 +85,12 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
+|21 ottobre 2020|Versione 2009 (Build 13231.20418)| |
 |13 ottobre 2020|Versione 2009 (Build 13231.20390)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |8 ottobre 2020|Versione 2009 (Build 13231.20368)| |
 |28 settembre 2020|Versione 2009 (Build 13231.20262)| |
 |22 settembre 2020|Versione 2008 (Build 13127.20508)| |
 |9 settembre 2020|Versione 2008 (Build 13127.20408)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|31 agosto 2020|Versione 2008 (Build 13127.20296)| |
 
 
 [//]: # (NON RIMUOVERE LA FINE DELLA TABELLA RETAIL)
@@ -104,6 +104,7 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
+|31 agosto 2020|Versione 2008 (Build 13127.20296)| |
 |25 agosto 2020|Versione 2007 (Build 13029.20460)| |
 |11 agosto 2020|Versione 2007 (Build 13029.20344)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |30 luglio 2020|Versione 2007 (Build 13029.20308)  |Diverse correzioni di bug e miglioramenti delle prestazioni.  <br/>  |
