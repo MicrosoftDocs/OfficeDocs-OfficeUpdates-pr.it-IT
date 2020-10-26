@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
-ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
+ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
+ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48495913"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "48750575"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -31,9 +31,52 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2011-october-23"></a>Versione 2011: 23 ottobre
+*Versione 2011 (Build 13415.20002)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="powerpoint"></a>PowerPoint
+
+- **Provare la presentazione con Training per relatore:** per ricevere feedback sugli elementi che incidono sul coinvolgimento del pubblico, come ritmo, intonazione, intercalari, parole sensibili e così via. [Altre informazioni](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- È stato risolto un problema per cui alcuni utenti vedevano un errore di tipo risorse di sistema insufficienti tentando di esportare una query dalla cartella di OneDrive sincronizzata.
+
+- È stato risolto un problema relativo al passaggio automatico tra finestre delle maschere.
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui, incollando un URL copiato dalla posizione della riunione a un'altra posizione, ad esempio un browser, l'URL terminava con un punto e virgola.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui, duplicando una presentazione su un monitor secondario, la presentazione poteva risultare nascosta dietro un'altra finestra.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui Project poteva chiudersi in modo imprevisto all'apertura di file in cui i profili delle risorse erano specificati in un certo modo.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema relativo al rilevamento delle modifiche per cui talvolta, all'apertura di un documento di Word, veniva visualizzata una finestra di errore.
+
+- È stato risolto un problema di stampa che si verificava applicando etichette di riservatezza con filigrana.
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2011-october-16"></a>Versione 2011: 16 ottobre
 *Versione 2011 (Build 13408.20000)*
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -905,7 +948,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Ordinare/filtrare mentre si collabora in Excel:** è ora possibile ordinare e filtrare il file di Excel mentre si collabora con altri utenti. Questa nuova caratteristica evita che i tipi e i filtri di altri utenti siano d’impatto durante la creazione condivisa del documento.
 
-- **Creare tabelle pivot da set di documenti in Power BI all'interno di Excel:** è possibile creare tabelle pivot in Excel connesse ai set di documenti archiviati in Power BI in pochi click. Questa operazione consente di sfruttare al meglio sia le tabelle pivot che Power BI. Calcola, riepiloga e analizza i tuoi dati con le tabelle pivot dai set di dati sicuri di Power BI. [Altre informazioni](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Creare tabelle pivot da set di documenti in Power BI all'interno di Excel:** è possibile creare tabelle pivot in Excel connesse ai set di documenti archiviati in Power BI in pochi click.  Questa operazione consente di sfruttare al meglio sia le tabelle pivot che Power BI. Calcola, riepiloga e analizza i tuoi dati con le tabelle pivot dai set di dati sicuri di Power BI. [Altre informazioni](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -952,13 +995,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - È stato risolto un problema per cui i timestamp nei riquadri dei commenti non erano basati sull'ora locale di sistema.
 - È stato risolto un problema per cui i commenti tra l'app Web e l'applicazione desktop non erano sincronizzati.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE DE CONTENUTO DEI BUG)
 
 
-## <a name="version2006may29"></a>Versione 2006: 29 maggio
+## <a name="version-2006-may-29"></a>Versione 2006: 29 maggio
 *Versione 2006 (Build 12920.20000)*
 
-### <a name="featureupdates"></a>Aggiornamenti delle funzionalità
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="outlook"></a>Outlook
 
 - **Altri pulsanti aggiunti agli avvisi popup di Outlook:** i pulsanti di azione rapida sono ora visualizzati negli avvisi popup di Outlook quando si esegue Outlook in Windows 10.
@@ -967,13 +1010,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Prestazioni di video Stream migliorate in PowerPoint:** sono stati apportati miglioramenti alle prestazioni di riproduzione dei video di Microsoft Stream per ridurre al minimo i tempi di caricamento dei video e creare un'esperienza di visualizzazione fluida.  I video aziendali su Microsoft Stream consentono di creare presentazioni migliori.
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolvedissues"></a>Problemi risolti
+### <a name="resolved-issues"></a>Problemi risolti
 
 ### <a name="excel"></a>Excel
 
@@ -993,7 +1036,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - È stato risolto un problema per cui l'abilitazione dei documenti e dei modelli binari di Word 2007 e successivi causava il fallimento di alcuni casi di creazione condivisa.
 - È stato risolto un problema per cui i file con nomi di percorso lunghi, maggiore di 32K, non si aprivano e non veniva visualizzato un messaggio di errore appropriato.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
 ## <a name="version-2006-may-22"></a>Versione 2006: 22 maggio
@@ -1451,13 +1494,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 
 ### <a name="excel"></a>Excel
-- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Etichette di riservatezza** : è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Etichette di riservatezza** : è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Etichette di riservatezza** : è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1709,6 +1752,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|versione-2011-ottobre-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|versione-2011-ottobre-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|versione-2010-ottobre-02|)
@@ -1718,5 +1762,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|versione-2009-28-agosto|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|versione-2009-agosto-21|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|versione-2009-agosto-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
