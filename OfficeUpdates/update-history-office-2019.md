@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: ba996da9bf21f307388eec47801e18ee10567c58
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657304"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782281"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -23,8 +23,8 @@ Microsoft rilascia aggiornamenti della sicurezza e della qualità per la version
 Se si desidera verificare di essere sempre aggiornati, controllare il numero di versione di Office e aggiornare manualmente Office, se necessario. Per verificare la versione di Office, eseguire le operazioni seguenti:
 
   1.    Aprire una qualsiasi applicazione di Office, ad esempio Word o Excel.
-  2.    Scegliere **File > Account**.
-  3.    In **Informazioni sul prodotto**, prendere nota del numero di versione visualizzato nella sezione **Informazioni su**.
+  2.    Scegliere **File > Account** .
+  3.    In **Informazioni sul prodotto** , prendere nota del numero di versione visualizzato nella sezione **Informazioni su** .
 
 Se il numero di versione visualizzato corrisponde alla versione più recente, il prodotto è aggiornato. In caso contrario, è possibile eseguire manualmente l'aggiornamento per ottenere la versione più recente di Office. Per aggiornare Office, [eseguire queste operazioni](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
@@ -85,12 +85,12 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
+|27 ottobre 2020|Versione 2010 (Build 13328.20292)| |
 |21 ottobre 2020|Versione 2009 (Build 13231.20418)| |
 |13 ottobre 2020|Versione 2009 (Build 13231.20390)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |8 ottobre 2020|Versione 2009 (Build 13231.20368)| |
 |28 settembre 2020|Versione 2009 (Build 13231.20262)| |
 |22 settembre 2020|Versione 2008 (Build 13127.20508)| |
-|9 settembre 2020|Versione 2008 (Build 13127.20408)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 
 
 [//]: # (NON RIMUOVERE LA FINE DELLA TABELLA RETAIL)
@@ -104,6 +104,7 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|
+|9 settembre 2020|Versione 2008 (Build 13127.20408)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |31 agosto 2020|Versione 2008 (Build 13127.20296)| |
 |25 agosto 2020|Versione 2007 (Build 13029.20460)| |
 |11 agosto 2020|Versione 2007 (Build 13029.20344)|Vedere la [pagina di aggiornamento della sicurezza](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |

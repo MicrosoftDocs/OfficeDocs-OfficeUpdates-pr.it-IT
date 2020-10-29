@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 164f08c6b192be36396419c8e5c4b5412b0e8e7a
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 8856e1e2bf934bb51aba4c3614d62da3650ff4b1
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597769"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773608"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Cronologia degli aggiornamenti del Canale corrente di Office (Anteprima) per Windows
 
@@ -23,13 +23,13 @@ Per altre informazioni sul programma Insider, fare clic [qui](https://insider.of
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versioni e build del Canale corrente di Office (Anteprima)
 
-Gli utenti iscritti al livello Canale corrente (Anteprima), in precedenza denominato Insider Slow, ottengono un nuovo aggiornamento delle funzionalità di Office circa una volta al mese, oltre alle build successive che contengono correzioni importanti o aggiornamenti di sicurezza. L’elenco seguente mostra le versioni e le build recenti di Canale correte (Anteprima), con **le build più recenti elencate per prime**. Le nuove build contengono tutti gli aggiornamenti inclusi nelle build precedenti.
+Gli utenti iscritti al livello Canale corrente (Anteprima), in precedenza denominato Insider Slow, ottengono un nuovo aggiornamento delle funzionalità di Office circa una volta al mese, oltre alle build successive che contengono correzioni importanti o aggiornamenti di sicurezza. L’elenco seguente mostra le versioni e le build recenti di Canale correte (Anteprima), con **le build più recenti elencate per prime** . Le nuove build contengono tutti gli aggiornamenti inclusi nelle build precedenti.
 Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Inoltre, vedere [Novità per i partecipanti al programma Office Insider](https://insider.office.com/it-IT/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004.Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
+> - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni. Nella documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 > [!NOTE]
 > - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
@@ -37,6 +37,12 @@ Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/Offi
 
 
 [//]: # (NON RIMUOVERE)
+
+**27 ottobre 2020**<br/>
+Versione 2010 (Build 13328.20292)<br/>
+
+**24 ottobre 2020**<br/>
+Versione 2010 (Build 13328.20278)<br/>
 
 **19 ottobre 2020**<br/>
 Versione 2010 (Build 13328.20210)<br/>

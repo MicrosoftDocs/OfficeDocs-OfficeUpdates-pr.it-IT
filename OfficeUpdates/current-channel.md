@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: 051e85e530d6b72821b46e12c67183d207035eb3
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657324"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782331"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -35,7 +35,105 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 
-[//]: # (NON RIMUOVERE FINE DE CONTENUTO DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2010-october-27"></a>Versione 2010: 27 ottobre
+*Versione 2010 (Build 13328.20292)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="access"></a>Access
+
+- **Rimani al passo con i tempi! La tipologia di dati con data/ora estesa offre una maggiore precisione:** introducendo un tipo di dati nuovo e migliorato. Per migliorare la compatibilità della sintassi con SQL e per aumentare l'accuratezza e il livello di dettaglio nei record che includono date e ore, il tipo di dati DateTime2 viene implementato in Access. Questa tipologia aggiuntiva di dati data/ora includerà un intervallo di date più ampio (da 0001-01-01 a 9999-12-31), con precisione temporale più specifica (nanosecondi, anziché secondi), per cui sarà possibile fornire ed eseguire calcoli. Per abilitare, selezionare Nuovo campo > Data e ora estesa. [Altre informazioni](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **Creare tipi di dati con Power Query:** è possibile creare tipi di dati formattati con Power Query da qualsiasi origine dati
+
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+
+- **Apportare modifiche rapide con la penna azione:** la penna azione consente di scrivere a mano direttamente nelle celle, annotando con l'input penna dati che verranno convertiti automaticamente in dati di Excel.
+
+### <a name="outlook"></a>Outlook
+
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+
+- **Il controllo grammaticale è tornato:** Outlook contrassegna gli errori grammaticali durante la digitazione e l'utente può applicare i suggerimenti con un solo clic. [Altre informazioni](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/grammar-and-style-suggestions-available-in-outlook)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+
+### <a name="teams"></a>Teams
+
+- **Modelli in Microsoft Teams:** l'ampia varietà di modelli personalizzabili velocizza la creazione dei nuovi team. I professionisti IT possono anche creare nuovi modelli personalizzati per la propria organizzazione, in modo da standardizzare le strutture dei team, evidenziare le app pertinenti e applicare le procedure consigliate.
+
+- **Post fissati:** questa funzionalità consente agli utenti di fissare qualsiasi messaggio di un canale al riquadro informazioni del canale per porlo in evidenza. Tutti i membri che hanno accesso al canale potranno vedere i messaggi fissati. Tutti i membri di un canale potranno fissare qualsiasi messaggio, a meno che la funzionalità non sia disattivata tramite le impostazioni di moderazione del canale stesso.
+
+- **Invio al catalogo delle app:** nell'angolo in basso a sinistra dello schermo ora è presente un collegamento Invia al catalogo app. Si tratta di un altro punto da cui è possibile inviare app per l'approvazione in aggiunta a Visual Studio e App Studio.
+
+- **Usare FreeHand di Invision verso lavagna nell'esperienza di riunione spuntata:** ora è possibile usare l'app FreeHand di Invision per aprire una lavagna in qualsiasi riunione. Iniziare il brainstorming è facile, selezionando l'app FreeHand dal pannello di condivisione del contenuto, installandola e avviando la sessione di lavagna con i colleghi.
+
+### <a name="word"></a>Word
+
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- È stato risolto un problema per cui l'uso di DAO da applicazioni non di Office causava la chiusura imprevista dell'applicazione.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui le intestazioni dei messaggi in cinese erano illeggibili in caso di risposta o inoltro.
+
+
+- È stato risolto un problema per cui, salvando in formato OTF, i caratteri in cinese venivano trasformati in punti interrogativi.
+
+
+- È stato risolto un problema che causava la creazione da parte di Outlook di una firma vuota secondaria per gli utenti che avevano abilitato le impostazioni cloud.
+
+
+- È stato risolto un problema per cui le impostazioni cloud non risultavano attivate per gli utenti per impostazione predefinita.
+
+
+- È stato risolto un problema per cui le modifiche alla firma di un utente non venivano salvate.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Si tratta della correzione di un problema che causava la visualizzazione della richiesta di salvataggio a ciclo continuo durante la chiusura di un documento se era presente un componente aggiuntivo per l’ascolto dell’evento PresentationBeforeClose e il controllo della proprietà Presentation.Saved come parte del gestore dell'evento.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui, salvando un progetto da PWA a un file MPP locale, veniva generato l'evento ProjectBeforeTaskChangeEvent per dati che in realtà l'utente non aveva modificato.
+
+
+- È stato risolto un problema per cui Project poteva chiudersi in modo imprevisto all'apertura di file in cui i profili delle risorse erano specificati in un certo modo.
+
+
+- È stato risolto un problema per cui, salvando un progetto da PWA a un file MPP locale, veniva generato l'evento ProjectBeforeTaskChangeEvent per dati che in realtà l'utente non aveva modificato.
+
+
+- È stato risolto un problema per cui il valore di NewVal nell'evento ProjectBeforeTaskChange non aveva il valore corretto modificando un intervallo all'interno di una visualizzazione Maschera attività - Tipo.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Quando l'utente stampa qualsiasi documento/file su stampanti a getto d'inchiostro da Office e l'inchiostro è quasi esaurito, i messaggi "Toner scarso" o "Nessun toner" sono mostrati anche se la stampante non ha alcun toner. I messaggi sono stati modificati su "Toner/inchiostro scarso" e "Nessun toner/inchiostro".
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-october-21"></a>Versione 2009: 21 ottobre
 *Versione 2009 (Build 13231.20418)*
@@ -279,7 +377,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Ampliamento della chat di gruppo:** ora Team può supportare 250 partecipanti nelle chat di gruppo.
 
-- **Tag basate sui turni:** con questa funzionalità, alle persone sono assegnate automaticamente dei tag che corrispondono al loro orario e al nome del gruppo del turno nell’[app Shifts](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) in Teams.
+- **Tag basate sui turni:** con questa funzionalità, alle persone sono assegnate automaticamente dei tag che corrispondono al loro orario e al nome del gruppo del turno nell’ [app Shifts](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) in Teams.
 
 ### <a name="word"></a>Word
 
@@ -792,7 +890,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Uso automatico dei nuovi tipi di dati**: quando si digita un valore di dati che assomiglia a un'azione o a una posizione geografica, Excel offre la possibilità di convertirlo nel tipo di dati connesso: Azioni o Dati geografici. [Altre informazioni](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **Uso automatico dei nuovi tipi di dati** : quando si digita un valore di dati che assomiglia a un'azione o a una posizione geografica, Excel offre la possibilità di convertirlo nel tipo di dati connesso: Azioni o Dati geografici. [Altre informazioni](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
 - **Racconta le tue storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate per dare un tocco di eleganza ai documenti.
 
@@ -948,7 +1046,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Aumentare la produttività in Progettazione query, nella visualizzazione SQL e nella finestra Relazioni:** fare clic con il pulsante destro del mouse su una tabella per aprirla, progettarla, ridimensionarla e nasconderla. Cercare e sostituire il testo nella visualizzazione SQL. Selezionare più tabelle nella finestra Relazioni.
 
-- **Aggiungere tabelle con meno clic**: usare il riquadro attività Aggiungere tabelle, che resta aperto mentre si lavora, per aggiungere tabelle a relazioni e query. [Altre informazioni](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+- **Aggiungere tabelle con meno clic** : usare il riquadro attività Aggiungere tabelle, che resta aperto mentre si lavora, per aggiungere tabelle a relazioni e query. [Altre informazioni](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
 
 
 ### <a name="excel"></a>Excel
@@ -1109,7 +1207,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
 
-- **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate.
+- **Etichette di riservatezza** : è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1413,6 +1511,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-ottobre-08|)
@@ -1422,5 +1521,4 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20308|versione-2007-luglio-30|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
