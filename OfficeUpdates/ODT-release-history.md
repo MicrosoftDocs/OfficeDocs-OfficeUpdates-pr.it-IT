@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
-ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
+ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
+ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48469995"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48806794"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -23,16 +23,19 @@ Lo Strumento di distribuzione di Office (ODT) è uno strumento da riga di comand
 
 Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È possibile specificare i prodotti e le lingue installati, la modalità di aggiornamento dei prodotti e se si vuole che l'esperienza di installazione sia visibile agli utenti. Per altre informazioni sull'uso di ODT, vedere [Panoramica dello Strumento di distribuzione di Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Sistema operativo supportato**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
+ **Sistema operativo supportato** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Istruzioni di installazione**: scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
+ **Istruzioni di installazione** : scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="october-29-2020"></a>29 ottobre 2020
+Versione 16.0.13328.20292 (setup.exe versione 16.0.13328.20290)
+- Risolve un problema per cui alcuni prodotti di Office 2007 bloccavano in modo imprevisto l'installazione quando si usava RemoveMSI
 
 ## <a name="october-14-2020"></a>14 ottobre 2020
 Versione 16.0.13231.20368 (setup.exe versione 16.0.13231.20350)
 - Tutti i prodotti useranno ora Canale mensile per impostazione predefinita, se non viene specificato alcun canale
-- Risolve un problema in cui alcuni prodotti di Office 2007 potrebbero bloccare in modo imprevisto l'installazione quando si usa RemoveMSI
 - Sicurezza ottimizzata durante l'esecuzione di ODT da una directory che contiene altri DLL
 - Migliorie per affidabilità e resilienza
 
