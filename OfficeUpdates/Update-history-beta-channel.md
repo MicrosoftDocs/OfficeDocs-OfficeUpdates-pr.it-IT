@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast del Canale mensile per Windows Desktop
-ms.openlocfilehash: b4867e5455923e7fde99fb3f81fe4f8810cf1b9f
-ms.sourcegitcommit: d467499b7c0725f8f998ce34bfe7f1286e37e683
+ms.openlocfilehash: 3220d75a6c2c248a9daed4982e99d037c5ae7322
+ms.sourcegitcommit: 0bc99107bfb04f1180b2cfb763cdc0f981f1b19a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48794387"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48840445"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Cronologia degli aggiornamenti per il canale Office Beta
 
@@ -31,12 +31,15 @@ Le informazioni di questa pagina sono destinate ai partecipanti al programma Off
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versioni e build per il canale Office Beta
 
-Gli utenti iscritti al livello Insider ottengono aggiornamenti frequenti, che includono nuove funzionalità nuove e miglioramenti. L’elenco seguente mostra una cronologia delle ultime versioni e build del canale Beta, con **la build più recente elencata per prima** . Le nuove build contengono tutti gli aggiornamenti inclusi nelle build precedenti.
+Gli utenti iscritti al livello Insider ottengono aggiornamenti frequenti, che includono nuove funzionalità nuove e miglioramenti. L’elenco seguente mostra una cronologia delle ultime versioni e build del canale Beta, con **la build più recente elencata per prima**. Le nuove build contengono tutti gli aggiornamenti inclusi nelle build precedenti.
 
 Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NON RIMUOVERE)
+
+**2 novembre 2020**<br/>
+Versione 2012 (Build 13430.20000)<br/>
 
 **28 ottobre 2020**<br/>
 Versione 2011 (Build 13426.20004)<br/>
