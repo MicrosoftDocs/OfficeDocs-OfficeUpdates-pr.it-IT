@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 82e056874fbe4e95247e6b5ccb09accdfcc98816
-ms.sourcegitcommit: 8b12ed0c94df66ae0220e8c6e2e4c957d4c64e75
+ms.openlocfilehash: d47124846cd605174e6ca23e26cd0e61bb5cf779
+ms.sourcegitcommit: d03cdba884e24c4122db59bd06176ae5273d16e4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830327"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "48878920"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
@@ -49,21 +49,21 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 ### <a name="excel"></a>Excel
 
-- **Creare tipi di dati con Power Query:** è possibile creare tipi di dati formattati con Power Query da qualsiasi origine dati. [Altre informazioni](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Vedere i dettagli nel [post di blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
+- **Creare tipi di dati con Power Query:** è possibile creare tipi di dati complessi con Power Query da qualsiasi origine dati. [Altre informazioni](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Vedere i dettagli nel [post di blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 - **Apportare modifiche rapide con la penna azione:** la penna azione consente di scrivere a mano direttamente nelle celle, annotando con l'input penna dati che verranno convertiti automaticamente in dati di Excel.
 
 ### <a name="outlook"></a>Outlook
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
-- **Il controllo grammaticale è tornato:** Outlook contrassegna gli errori grammaticali durante la digitazione e l'utente può applicare i suggerimenti con un solo clic. [Altre informazioni](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Il controllo grammaticale è tornato:** Outlook contrassegna gli errori grammaticali durante la digitazione e l'utente può applicare i suggerimenti con un solo clic. [Altre informazioni](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="teams"></a>Teams
 
@@ -77,7 +77,7 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 ### <a name="word"></a>Word
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -130,7 +130,9 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
 
-- Quando l'utente stampa qualsiasi documento/file su stampanti a getto d'inchiostro da Office e l'inchiostro è quasi esaurito, i messaggi "Toner scarso" o "Nessun toner" sono mostrati anche se la stampante non ha alcun toner. I messaggi sono stati modificati su "Toner/inchiostro scarso" e "Nessun toner/inchiostro".
+- Quando l'utente stampa qualsiasi documento/file su stampanti a getto d'inchiostro da Office e l'inchiostro è quasi esaurito, i messaggi "Toner scarso" o "Nessun toner" sono mostrati anche se la stampante non ha alcun toner. I messaggi sono stati modificati in "Toner o inchiostro insufficiente" e "Toner o inchiostro esaurito".
+
+- È stato risolto un problema per i clienti commerciali che usano System Center Configuration Manager o altri strumenti di gestione per l'aggiornamento di Office tramite Prevenzione della perdita di dati degli endpoint di Microsoft 365.
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -825,7 +827,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema che può aver causato un arresto anomalo durante il trascinamento del contenuto dall'app.
 
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Questa modifica risolve potenziali blocchi che si verificano durante il caricamento e la riproduzione di contenuti animati, ad esempio GIF o modelli 3D.
 
@@ -1042,7 +1044,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-### <a name="access"></a>Access
+### <a name="access"></a>Accesso
 
 - **Aumentare la produttività in Progettazione query, nella visualizzazione SQL e nella finestra Relazioni:** fare clic con il pulsante destro del mouse su una tabella per aprirla, progettarla, ridimensionarla e nasconderla. Cercare e sostituire il testo nella visualizzazione SQL. Selezionare più tabelle nella finestra Relazioni.
 
@@ -1474,7 +1476,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Ottimizzazione della presentazione per tutti:** Verifica accessibilità consente di organizzare gli oggetti nelle diapositive tenendo in considerazione le utilità per la lettura dello schermo.
 
-- **GIF in un batter d'occhio:** una diapositiva, un frame. Crea facilmente GIF a ripetizione continua in PowerPoint. [Altre informazioni](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF in un batter d'occhio:** una diapositiva, un frame. Crea facilmente GIF a ripetizione continua in PowerPoint. [Altre informazioni](https://support.office.com/it-IT/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1501,7 +1503,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: "Sono stati modificati gli stili, i blocchi predefiniti".
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto un problema per cui gli aggiornamenti di Office potrebbero inaspettatamente scaricare file dalla rete CDN di Office anziché dall'origine prevista, ad esempio una condivisione locale o di rete o la posizione specificata da Configuration Manager.
 
