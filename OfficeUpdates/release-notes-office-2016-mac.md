@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni per Office 2016 per Mac a partire da settembre 2018
-ms.openlocfilehash: eb42c013a007254e2ad0f3f8b35e9cdeac15bc65
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 91fc351da222e00c442e82c1de3284680db4f76c
+ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453264"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "48944180"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Cronologia aggiornamenti per Office 2016 per Mac
 
 Office 2016 per Mac è una versione di Office disponibile come acquisto di una copia unica presso un punto vendita al dettaglio o tramite un contratto multilicenza. Sarà supportato con aggiornamenti della sicurezza e correzioni di errore, se necessario, fino al 13 ottobre 2020. La versione minima di macOS supportata per Office 2016 per Mac è la 10.10 (Yosemite).
 
 > [!IMPORTANT]
-> - Il supporto per Office 2016 per Mac terminerà il 13 Ottobre 2020. Se non è stato ancora iniziato l'aggiornamento a una versione più recente, è consigliabile iniziare subito. Per altre informazioni, vedere [Fine del supporto per Office 2016 per Mac](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0).
+> - Il supporto per Office 2016 per Mac è terminato il 13 Ottobre 2020. Se non è stato ancora iniziato l'aggiornamento a una versione più recente, è consigliabile iniziare subito. Per altre informazioni, vedere [Fine del supporto per Office 2016 per Mac](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0).
 
 > [!NOTE]
 > - Per motivi di sicurezza, Microsoft ha reso deprecato l'uso di SHA-1. [Ulteriori informazioni](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)

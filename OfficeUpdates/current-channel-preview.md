@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: a9af3ed5d8e04263855dcfa8b2ce4137c941f79d
-ms.sourcegitcommit: c6e102b60f4e412b1255dee700a27a80b5690c48
+ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
+ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "48919428"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "48944140"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -27,6 +27,17 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2010-november-06"></a>Versione 2010: 6 novembre
+*Versione 2010 (Build 13328.20356)*
+* Diverse correzioni di bug e miglioramenti delle prestazioni.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2010-november-04"></a>Versione 2010: 4 novembre
 *Versione 2010 (Build 13328.20340)*
