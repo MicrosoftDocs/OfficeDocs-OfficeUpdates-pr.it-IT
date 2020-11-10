@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
+ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944140"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48950005"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -26,7 +26,159 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > [!NOTE]
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
 
-[//]: # (NON RIMUOVERE)
+[//]: # (DO NOT REMOVE)
+
+## <a name="version-2011-november-09"></a>Versione 2011: 09 novembre
+*Versione 2011 (Build 13426.20184)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Creare flussi di dati di Power Platform dalle query:** è ora possibile esportare le query in modelli di Power query che possono essere usati per creare nuovi flussi di dati di Power Platform
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Accesso
+
+- È stato risolto un problema per cui alcuni utenti vedevano un errore di tipo risorse di sistema insufficienti tentando di esportare una query dalla cartella di OneDrive sincronizzata.
+
+
+- È stato risolto un problema relativo al passaggio automatico tra finestre delle maschere.
+
+
+- È stato risolto un problema per cui l'uso di DAO da applicazioni non di Office causava la chiusura imprevista dell'applicazione.
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema relativo al fatto che il nome del file non cambiava dopo aver abilitato l'operazione SaveAs con i componenti aggiuntivi COM.
+
+
+- È stato risolto un problema con Power Pivot che si verificava quando si usava la connessione a un database Oracle.
+
+
+- È stato risolto un problema per cui il salvataggio automatico restituiva un messaggio di errore errato o ingannevole quando nel modello di dati di Excel era presente una definizione di misura errata.
+
+
+- È stato risolto un problema per cui Excel si chiudeva in modo imprevisto quando venivano attivati il processo di calcolo MTR e l'aggiornamento dei criteri di gruppo, ad esempio tramite aggiornamento dei criteri di gruppo in remoto.
+
+
+- È stato risolto un problema per cui un utente non era in grado di aprire il file atomsvc (UTF8 + BOM) direttamente da SharePoint.
+
+
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+
+
+- È stato risolto un problema per cui Word appariva bloccato quando si inseriva una cartella di lavoro di Excel in un documento di Word.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava talvolta l'arresto di Outlook quando si aggiungevano o si salvano allegati.
+
+
+- È stato risolto un problema per cui la stampa rapida per gli allegati di immagini generava l'errore "Impossibile per Windows trovare questa immagine. Controllare il percorso e riprovare".
+
+
+- È stato risolto un problema per cui, per alcuni utenti, Outlook si avviava in modalità offline finché l'utente sceglieva di lavorare online. 
+
+
+- È stato risolto un problema per cui, incollando un URL copiato dalla posizione della riunione a un'altra posizione, ad esempio un browser, l'URL terminava con un punto e virgola.
+
+
+- È stato risolto un problema che impediva agli utenti di eliminare gli appuntamenti nel calendario dei Gruppi di Microsoft 365 nell'autenticazione di base.
+
+
+- È stato risolto un problema che impediva l'avvio di Outlook durante il caricamento della cache dei soprannomi.
+
+
+- È stato risolto un problema per cui il proprietario della cassetta postale non riusciva a gestire le autorizzazioni condivise per il proprio calendario perché l'opzione era disattivata.
+
+
+- È stato risolto un problema per cui in Outlook non era possibile creare un messaggio con autorizzazioni limitate.
+
+
+- È stato risolto un problema per cui se si salvava un modello di posta elettronica come .OFT i caratteri cinesi venivano trasformati in punti interrogativi.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+
+
+- È stato risolto un problema per cui nell'icona del segnaposto dei contenuti accanto a Immagini non era presente una descrizione comando.
+
+
+- È stato risolto un problema per cui la vista protetta della presentazione, visualizzata da file di pptsx, consentiva l'acquisizione dello schermo di un documento protetto da IRM.
+
+
+- È stato risolto un problema per cui le linee della griglia venivano spostate dalle diapositive quando si chiudeva il riquadro di progettazione.
+
+
+- È stato risolto un problema per cui, duplicando una presentazione su un monitor secondario, la presentazione poteva risultare nascosta dietro un'altra finestra.
+
+
+- È stato risolto un problema per cui la barra di scorrimento nella diapositiva iniziava a regolarsi dopo l'interruzione della registrazione dello schermo con il riquadro di selezione aperto.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui il valore di NewVal nell'evento ProjectBeforeTaskChagne non aveva il valore corretto se un intervallo veniva modificato all'interno di una visualizzazione tipo di modulo attività.
+
+
+- È stato risolto un problema per cui Project poteva chiudersi in modo imprevisto all'apertura di file in cui i profili delle risorse erano specificati in un certo modo.
+
+
+- È stato risolto un problema per cui, salvando un progetto da PWA a un file MPP locale, veniva generato l'evento ProjectBeforeTaskChangeEvent per dati che in realtà l'utente non aveva modificato.
+
+
+- È stato risolto un problema per cui gli impegni delle risorse eseguivano la ricerca di una risorsa per nome anziché come GUID. Ciò causava problemi quando erano presenti più risorse con lo stesso nome.
+
+
+- È stato risolto un problema per cui, se si dispone di un elenco attività in un sito di progetto e si raggruppa l'elenco attività, non sarà possibile modificare rapidamente l'elenco attività.
+
+
+- È stato risolto un problema per cui, se si aggiorna una risorsa dell'organizzazione con CSOM, le unità di risorse max potrebbero andare perse.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+
+
+- È stato risolto un problema per cui facendo clic sull'indicatore del commento non veniva eseguito lo zoom indietro per mostrare la scheda del commento nella visualizzazione.
+
+
+- È stato risolto un problema di layout per cui talvolta la linea tra le colonne era spostata.
+
+
+- È stato risolto un problema relativo al rilevamento delle modifiche per cui talvolta, all'apertura di un documento di Word, veniva visualizzata una finestra di errore.
+
+
+- È stato risolto un problema per cui Word appariva bloccato quando si inseriva una cartella di lavoro di Excel in un documento di Word.
+
+
+- È stato risolto un problema di stampa che si verificava applicando etichette di riservatezza con filigrana.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti di Office
+
+- È stato risolto un problema dello strumento di distribuzione di Office per cui era possibile la configurazione quando si usava la funzionalità RemoveMSI con il prodotto Office 2007 "Segnalazione errori applicazioni Microsoft".
+
+
+- È stato risolto un problema per cui l'accesso interattivo API SSO restituiva un codice di errore.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-november-06"></a>Versione 2010: 6 novembre
 *Versione 2010 (Build 13328.20356)*
