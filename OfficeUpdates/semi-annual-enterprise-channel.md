@@ -9,26 +9,68 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: c719a54075f57b031cf99ef7459fe38c0cab63dc
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453414"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990075"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale Enterprise semestrale nel 2020
 
 Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del Canale Enterprise semestrale nel 2020 per Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business e delle versioni in abbonamento delle app desktop per Project e Visio.
 
 > [!IMPORTANT]
-> Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
+> Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Canale Enterprise mensile) e la modifica dei nomi dei canali di aggiornamento già presenti. Per ulteriori informazioni, [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
 >- OneNote 2016 sarà ora incluso per impostazione predefinita quando un utente del Canale Enterprise scarica e installa Microsoft 365 Apps in Windows 10 dal portale di Office.
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE DEL CONTENUTO BUG)
+
+## <a name="version-2002-november-10"></a>Versione 2002: 10 novembre
+*Versione 2002 (Build 12527.21330)*
+
+Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui, quando si selezionava lo spagnolo come lingua di Office, gli elenchi di convalida dei dati non mostravano tutti gli elementi.
+
+
+- È stato risolto un problema che poteva causare un blocco durante l'aggiornamento delle tabelle pivot OLAP.
+
+
+- È stato risolto un errore per cui alcune funzioni avrebbero avuto un risultato errato dopo il caricamento di una cartella di lavoro.
+
+
+- È stato risolto un problema per cui l'applicazione si chiudeva in modo imprevisto, correlato ai riferimenti del componente aggiuntivo XLAM e agli intervalli denominati.
+
+
+- È stato risolto un problema per cui l'esecuzione della macro del filtro avanzato riportava erroneamente errori.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la disabilitazione imprevista dei componenti aggiuntivi interni quando venivano disabilitate le esperienze connesse facoltative.
+
+
+- È stato risolto un problema che impediva agli utenti di inviare un messaggio di posta elettronica per conto di una lista di distribuzione nascosta dall'elenco indirizzi globale.
+
+
+
+[//]: # (NON RIMUOVERE FINE DEL CONTENUTO BUG)
+
+## <a name="version-1908-november-10"></a>Versione 1908: 10 novembre
+*Versione 1908 (Build 11929.20974)*
+
+Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2002-october-13"></a>Versione 2002: 13 ottobre
 *Versione 2002 (Build 12527.21236)*
@@ -204,7 +246,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Possibilità di scegliere dove aprire i collegamenti:** è possibile scegliere come aprire i collegamenti a documenti di Office, ovvero nel browser o nell'app.
 
-- **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nella cartella di lavoro, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
+- **Creare schizzi** : è possibile conferire un aspetto informale alle forme di Office incluse nella cartella di lavoro, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
 
 - **Trovare gli elementi cercati:** è possibile cercare comandi, persone, file, foto, notizie e molto altro ancora. [Altre informazioni](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -252,7 +294,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Input penna per diapositive meravigliose:** è possibile convertire l'input penna in forme e testo standard e quindi ottenere idee di progettazione delle diapositive intelligenti da PowerPoint Designer. [Altre informazioni](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-- **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nella presentazione, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
+- **Creare schizzi** : è possibile conferire un aspetto informale alle forme di Office incluse nella presentazione, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
 
 - **Replay immediato:** applicare un'animazione di riproduzione per ripetere la sequenza di disegno con l'input penna durante la presentazione. [Altre informazioni](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2019/07/02/be-more-expressive-in-your-presentations-by-using-ink-replay-in-powerpoint/)
 
@@ -304,7 +346,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Convertire i file per migliorare l'accessibilità:** aggiornare i file al formato moderno per renderli più accessibili per tutti.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
 
-- **Creare schizzi**: è possibile conferire un aspetto informale alle forme di Office incluse nel documento, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
+- **Creare schizzi** : è possibile conferire un aspetto informale alle forme di Office incluse nel documento, in modo che sembrino disegnate a mano. [Altre informazioni](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
 
 - **Trovare gli elementi cercati:** è possibile usare la casella di ricerca per eseguire ricerche relative a testo, comandi, guida e tanto altro ancora. [Altre informazioni](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -677,7 +719,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - L'host di Office si arrestava in modo anomalo in Windows, quando veniva attivato un componente aggiuntivo mentre la chiave del registro di sistema  HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth era impostata su zero. La modifica può risolvere il problema.
 
-- È stato risolto un problema di arresto anomalo con l'host di Office in Windows quando un componente aggiuntivo veniva attivato mentre il valore del registro TabProcGrowth era di tipo REG_SZ.
+- È stato risolto un problema di arresto imprevisto con l'host di Office in Windows, per cui un componente aggiuntivo viene attivato quando il valore del registro TabProcGrowth è di tipo REG_SZ.
 
 - Questo aggiornamento consente di risolvere un problema di Microsoft Office per il quale i progetti di Visual Basic, Applications Edition con riferimenti che dovrebbero poter essere trovati cercando i percorsi specificati nella variabile di ambiente PATH potrebbero non essere individuati correttamente in fase di esecuzione, generando errori in fase di esecuzione VBA.
 
@@ -1098,7 +1140,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- È stato risolto un problema che causava un arresto anomalo durante l'apertura di file .msg e .oft dopo un aggiornamento di Windows recente.
+- È stato risolto un problema che causava un arresto anomalo durante l'apertura di file .msg e .oft dopo un aggiornamento recente di Windows.
 
 ### <a name="word"></a>Word
 
@@ -1106,7 +1148,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema con la funzionalità Confronta per i documenti protetti per la modifica.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE DEL CONTENUTO DEI BUG)
 
 ## <a name="version-1902-may-12"></a>Versione 1902: 12 maggio
 *Versione 1902 (Build 11328.20586)*
@@ -1136,11 +1178,11 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema che causava un arresto anomalo selezionando alcuni risultati della ricerca.
 
-- È stato risolto un problema che causava l'assenza del pulsante Salva nel cloud da Strumenti allegati.
+- È stato risolto un problema che causava l'assenza del pulsante "Salva nel cloud" da Strumenti allegati.
 
-- Per impostazione predefinita, le etichette dei criteri di conservazione visualizzano il periodo di conservazione tra parentesi.Questa operazione fornisce una chiave del registro di sistema che consente agli amministratori di specificare che solo il nome del criterio deve essere visualizzato. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = predefinito 1 = verrò visualizzato solo il nomecriterio per il testo del criterio di conservazione.
+- Per impostazione predefinita, le etichette dei criteri di conservazione visualizzano il periodo di conservazione tra parentesi. Questa operazione fornisce una chiave del registro di sistema che consente agli amministratori di specificare che solo il nome del criterio deve essere visualizzato. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = predefinito 1 = verrà visualizzato solo il NomeCriterio per il testo del criterio di conservazione.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti di Office
 
 - È stato risolto un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati durante il caricamento.
 
@@ -1152,21 +1194,21 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati durante il caricamento.
 
-## <a name="version1908april-26"></a>Versione 1908: 26 aprile
+## <a name="version-1908-april-26"></a>Versione 1908: 26 aprile
 *Versione 1908 (Build 11929.20736)*
 
-Aggiornamenti della sicurezza elencati  [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="excel"></a>Excel
 
-- È stato risolto un problema di prestazioni che può essere stato riscontrato dagli utenti nell'utilizzo di una macro VBA per eliminare il contenuto di un intervallo.
+- È stato risolto un problema di prestazioni che può essere stato riscontrato dagli utenti nell’utilizzo di una macro VBA per eliminare il contenuto di un intervallo.
 
-- È stato risolto un problema in VBA per cui la scrittura di valori in un intervallo era più lenta del previsto.
+- È stato risolto un problema in VBA per cui scrivere valori in un intervallo era più lento del previsto.
 
 - È stato risolto un problema per cui la proprietà "Intersezione valore" sull'asse di un grafico cambiava in modo imprevisto in caso di salvataggio e riapertura di un file.
 
-- Per le cartelle di lavoro salvate con una firma digitale in Excel 2016 la firma poteva essere invalidata con l’apertura nell’attuale versione di Excel.
+- Quando si aprivano nella versione corrente di Excel le cartelle di lavoro salvate con una firma digitale in Excel 2016, la firma poteva essere invalidata.
 
 
 ### <a name="onenote"></a>OneNote
@@ -1753,7 +1795,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 
-[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (NON MODIFICARE IL CONTENUTO DEI METADATI DELL'INTERFACCIA DI AMMINISTRAZIONE)
+[//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
