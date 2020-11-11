@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2010 che utilizzano A portata di clic.
-ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453404"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989935"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Cronologia degli aggiornamenti per i prodotti Office 2010 A portata di clic
 
 > [!IMPORTANT]
-> Il supporto per Office 2010 terminerà il 13 Ottobre 2020. Se non è stato ancora iniziato l'aggiornamento dell'ambiente di Office 2010, è consigliabile iniziare subito. Per altre informazioni, vedere [Roadmap della fine del supporto di Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> Il supporto per Office 2010 è terminato il 13 ottobre 2020. Se non è stato ancora iniziato l'aggiornamento dell'ambiente di Office 2010, è consigliabile iniziare subito. Per altre informazioni, vedere [Roadmap della fine del supporto di Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
 
 
 I seguenti prodotti Office 2010 vengono mantenuti aggiornati automaticamente con A portata di clic.
@@ -33,7 +33,7 @@ I seguenti prodotti Office 2010 vengono mantenuti aggiornati automaticamente con
 Se si usa uno di questi prodotti e si vuole verificare se è aggiornato, controllare il numero di versione di Office e, se necessario, aggiornare Office manualmente.
   
 > [!NOTE]
-> La versione più recente di Office 2010 è **14.0.7261.5000**, rilasciata il 13 ottobre 2020.
+> La versione più recente di Office 2010 è **14.0.7261.5000** , rilasciata il 13 ottobre 2020.
   
 Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
   
