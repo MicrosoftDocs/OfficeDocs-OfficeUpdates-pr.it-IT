@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Microsoft 365 Apps
-ms.openlocfilehash: ba500a25ed32a9a3c7a57401fbfdc7ba7b3f208d
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 9700bf78b5c49d5e5419a26cde1f2fd9d24d1bf3
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944165"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990105"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -33,7 +33,7 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 
 
-[//]: # (NON RIMUOVERE)
+[//]: # (DO NOT REMOVE)
 
 
 
@@ -45,6 +45,34 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 
 
+
+
+
+## <a name="november-10-2020"></a>10 novembre 2020
+*Versione 16.43 (Build 20110804)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="powerpoint-mac"></a>PowerPoint per Mac
+
+- **La ricerca è più veloce e semplice:** eseguire una ricerca rapida nel file usando la casella di ricerca
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>Aggiornamenti della sicurezza
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-17067)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="october-13-2020"></a>13 ottobre 2020
 *Versione 16.42 (Build 20101102)*
@@ -713,7 +741,7 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 |Excel  <br/>|**Nuove icone dell’app di Office:** Le icone dell'app sono state riprogettate per riflettere l'esperienza semplice, potente e intelligente di Office.<br/> <br/>**Chiamare tutti gli utenti di Macro:** registrare una macro utilizzando riferimenti relativi. Durante la riproduzione, funziona in relazione alla cella attiva, non alle celle utilizzate per la registrazione. [Altre informazioni](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**I comandi preferiti a portata di mano:** Ottenere un accesso semplice e rapido per le azioni più comuni come Trova e sostituisci, Zoom selezione, Disponi tutto e molto altro. Disponibili sulla barra multifunzione. [Altre informazioni](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**Un inizio più rapido:** È possibile visualizzare suggerimenti basati sull'attività in corso e sul lavoro svolto da altri utenti.<br/><br/>**Guardare i fogli di lavoro prendere vita:** Inserire grafici 3D animati per visualizzare cuori pulsanti, pianeti in orbita e la furia di un T-Rex nella pagina. [Altre informazioni](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-0828): vulnerabilità relativa all'esecuzione di codice remoto in Microsoft Excel |[Pacchetto di aggiornamento per Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Nuove icone dell’app di Office:** Le icone dell'app sono state riprogettate per riflettere l'esperienza semplice, potente e intelligente di Office.<br/><br/>**Un inizio più rapido:** È possibile visualizzare suggerimenti basati sull'attività in corso e sul lavoro svolto da altri utenti.<br/><br/>**Salvataggio semplice dei media intergrati:** Per salvare audio e video, basta fare clic tenendo premuto CTRL. [Altre informazioni](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**Guardare le diapositive prendere vita:** inserire grafici 3D animati per visualizzare cuori pulsanti, pianeti in orbita e la furia di un T-Rex sullo schermo. [Altre informazioni](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[Pacchetto di aggiornamento per PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**Nuove icone dell’app di Office:** Le icone dell'app sono state riprogettate per riflettere l'esperienza semplice, potente e intelligente di Office. <br/><br/>**Collegamenti sicuri:** È stato incluso il supporto per i collegamenti sicuri di Advanced Threat Protection (ATP).  ||[Pacchetto di aggiornamento per Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.10<br/>|**Miglioramenti apportati alla funzionalità di installazione nel clone:** per i dispositivi SSD gli aggiornamenti verranno installati in cloni delle app attualmente in uso, riducendo il tempo di inattività dell'app causato dagli aggiornamenti. <br/><br/>**Le ottimizzazioni dell'installazione:** il processo di aggiornamento utilizzerà la clonazione parallelizzata, in modo che gli aggiornamenti di inattività dell'applicazione verranno ridotte.|<br/> | [Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
+|Microsoft AutoUpdate 4.10<br/>|**Miglioramenti apportati alla funzionalità di installazione nel clone:** per i dispositivi SSD gli aggiornamenti verranno installati in cloni delle app attualmente in uso, riducendo il tempo di inattività dell'app causato dagli aggiornamenti. <br/><br/>**Ottimizzazioni dell'installazione:** il processo di aggiornamento utilizzerà la clonazione parallelizzata, in modo che gli aggiornamenti di inattività dell'applicazione verranno ridotte.|<br/> | [Pacchetto di aggiornamento per Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
 |Famiglia di prodotti Office  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2019-0822): vulnerabilità relativa all'esecuzione di codice remoto del componente di Microsoft Graphics<br/><br/>|<br/>|
 
 

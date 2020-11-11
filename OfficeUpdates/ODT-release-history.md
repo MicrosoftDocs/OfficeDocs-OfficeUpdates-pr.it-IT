@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
-ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
+ms.openlocfilehash: b14d9998a0dab3ea0d4a4f6cae10702688fa4427
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48806794"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992681"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -28,6 +28,11 @@ Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È
  **Istruzioni di installazione** : scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="november-10-2020"></a>10 novembre 2020
+Versione 16.0.13328.20356 (setupODT.exe versione 16.0.13328.20336)
+- Miglioramenti per affidabilità e resilienza
+- Per evitare confusione e diagnosticare più facilmente errori di configurazione, lo Strumento di distribuzione di Office è ora denominato setupODT.exe per impostazione predefinita.
 
 ## <a name="october-29-2020"></a>29 ottobre 2020
 Versione 16.0.13328.20292 (setup.exe versione 16.0.13328.20290)

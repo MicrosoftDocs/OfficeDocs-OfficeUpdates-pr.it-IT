@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: b5159bfcd85131f58cbbc5450d3a811e29b60961
-ms.sourcegitcommit: f76985cad6ada2284d09d1d574cb64622a12c8df
+ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "48927139"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990135"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
@@ -34,16 +34,25 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Le dimensioni di download approssimative elencate nelle tabelle sono valide soltanto per la versione x64 en-us di Microsoft 365 Apps.
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
-[//]: # (NON RIMUOVERE)
+[//]: # (DO NOT REMOVE)
 
-[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+## <a name="november-10-2020"></a>10 novembre 2020
 
-## <a name="november-5-2020"></a>5 novembre 2020
+[//]: # (DO NOT REMOVE CONTENT STARTNovember 10, 2020)
+
+### <a name="current-channel"></a>Canale corrente
+
+La versione più recente è la numero 2010 (Build 13328.20356).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2010 (Build 13328.20292) <br/> |27 ottobre 2020 <br/> |57<br/> |
+|Versione 2009 (Build 13231.20418) <br/> |21 ottobre 2020 <br/> |286<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canale Enterprise mensile
 
-<i>La versione prevista è la numero 2009 (Build 13231.20492).</i>
+La versione più recente è la numero 2009 (Build 13231.20514).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canale Enterprise semestrale (Anteprima)
 
-<i>La versione prevista è la numero 2008 (Build 13127.20760).</i>
+La versione più recente è la numero 2008 (Build 13127.20760).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
@@ -63,15 +72,18 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 ### <a name="semi-annual-enterprise-channel"></a>Canale Enterprise semestrale
 
-<i>La versione prevista è la numero 2002 (Build 12527.21316).</i>
+La versione più recente è la numero 2002 (Build 12527.21330).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
 |Versione 2002 (Build 12527.21236) <br/> |13 ottobre 2020 <br/> |63<br/> |
-|Versione 2002 (Build 12527,21104) <br/> |8 settembre 2020 <br/> |77<br/> |
+|Versione 2002 (Build 12527,21104) <br/> |8 settembre 2020 <br/> |76<br/> |
 
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DELLA PREVISIONE)
+[//]: # (DO NOT REMOVE CONTENT ENDNovember 10, 2020)
+
+
+
 
 ## <a name="october-27-2020"></a>27 ottobre 2020
 

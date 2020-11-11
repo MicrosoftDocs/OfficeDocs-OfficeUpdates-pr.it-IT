@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti delle versioni con licenza perpetua di Outlook 2016, Outlook 2013, e Outlook 2010
-ms.openlocfilehash: 4195d1fe125ea6d962f7d8606d7019b02e144044
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: aa96c3580f834af83277bbd75275d3334ef38fca
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453204"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989805"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Ultimi aggiornamenti per le versioni di Outlook che utilizzano Windows Installer (MSI)
 
@@ -43,7 +43,7 @@ La compatibilità di Outlook con Microsoft 365 e con l'ambiente locale dipende d
 
 |**Service Pack (SP) più recente**|**Aggiornamento minimo richiesto**|**Ultimo aggiornamento pubblico (PU)**|
 |:-----|:-----|:-----|
-|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Aggiornamento pubblico di ottobre 2020 <br/>[KB4486671](https://support.microsoft.com/help/4486671) 
+|N/D  <br/> |Aggiornamento pubblico di marzo 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Aggiornamento pubblico Novembre 2020 <br/>[KB4486720](https://support.microsoft.com/help/4486720) 
 
 ## <a name="outlook-2013-updates"></a>Aggiornamenti di Outlook 2013
 

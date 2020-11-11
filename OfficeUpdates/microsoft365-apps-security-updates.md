@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulla versione per gli aggiornamenti di sicurezza di Microsoft Office
-ms.openlocfilehash: c9a4d3af52431016160bc8aa9e5f37200b90966d
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 47c4bc082265b63106f3293fbad1b830d012b504
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453294"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992691"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Note sulla versione per gli aggiornamenti di sicurezza di Microsoft Office
 
@@ -24,13 +24,47 @@ Queste informazioni sono valide per Microsoft 365 Apps for enterprise, Microsoft
 
 
 > [!IMPORTANT]
-> - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
-> - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004.Leggere  [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni.Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
+> - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Canale Enterprise mensile) e la modifica dei nomi dei canali di aggiornamento già presenti. Per ulteriori informazioni, [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni. Nella documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 
  
 
 [//]: # (NON ELIMINARE LA RIGA SOPRA, viene usata per la spaziatura)  
+
+## <a name="november-10-2020"></a>10 novembre 2020
+Canale corrente: versione 2010 (Build 13328.20356)  
+Canale Enterprise mensile: versione 2009 (Build 13231.20514)  
+Canale Enterprise mensile: versione 2008 (Build 13127.20760)  
+Canale Enterprise semestrale (Anteprima): versione 2008 (Build 13127.20760)  
+Canale Enterprise semestrale: versione 2002 (Build 12527.21330)  
+Canale Enterprise semestrale: versione 1908 (Build 11929.20974)  
+Microsoft 365 Apps in Windows 7: versione 2002 (Build 12527.21330)  
+Office 2019 Retail: versione 2010 (Build 13328.20356)  
+Office 2016 Retail: versione 2010 (Build 13328.20356)  
+Office 2019 con contratto multilicenza: versione 1808 (Build 10368.20035)  
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO CON DETTAGLI SULLA SICUREZZA)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17064](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-17064)
+-   [CVE-2020-17065](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-17065)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-17067)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-17020](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-17020)
+
+### <a name="office-suite"></a>Famiglia di prodotti di Office
+
+-   [CVE-2020-17062](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-17062)
+-   [CVE-2020-17063](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2020-17063)
+
+[//]: # (NON RIMUOVERE LA FINE DEL CONTENUTO CON I DETTAGLI SULLA SICUREZZA)
+
+
 
 ## <a name="october-13-2020"></a>13 ottobre 2020
 Canale corrente: versione 2009 (Build 13231.20390)  
