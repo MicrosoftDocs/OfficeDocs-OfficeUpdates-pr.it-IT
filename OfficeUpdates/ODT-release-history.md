@@ -9,23 +9,23 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: b14d9998a0dab3ea0d4a4f6cae10702688fa4427
-ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
+ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
+ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48992681"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999541"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
 Lo Strumento di distribuzione di Office (ODT) è uno strumento da riga di comando usato per scaricare e distribuire le versioni A portata di clic di Office, ad esempio Microsoft 365 Apps, nei computer client. 
 
 
-Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È possibile specificare i prodotti e le lingue installati, la modalità di aggiornamento dei prodotti e se si vuole che l'esperienza di installazione sia visibile agli utenti. Per altre informazioni sull'uso di ODT, vedere [Panoramica dello Strumento di distribuzione di Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
+Lo strumento ODT consente un maggiore controllo sull'installazione di Office: è possibile specificare i prodotti e le lingue installate, la modalità di aggiornamento dei prodotti e se si vuole che l'esperienza di installazione sia visibile agli utenti. Per altre informazioni sull'uso di ODT, vedere [Panoramica dello Strumento di distribuzione di Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
  **Sistema operativo supportato** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Istruzioni di installazione** : scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
+ **Istruzioni di installazione** : scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setupodt.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 

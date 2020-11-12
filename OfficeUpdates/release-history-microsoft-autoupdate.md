@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
+ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453188"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48994965"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,27 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).<br/><br/>
+
+
+## <a name="november-2020-release"></a>Rilascio di novembre 2020
+
+**Data di rilascio:** 10 novembre 2020
+
+*Aggiornamento automatico Microsoft 4.29*
+
+**Correzioni di bug e miglioramenti**
+-   Nomi di canale aggiornati per Microsoft 365.
+-   È stato risolto un problema che impediva ad alcune installazioni di OneDrive di ricevere aggiornamenti.
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto dell’aggiornamento automatico di Microsoft 4.29](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Hash SHA-256:**
+
+7EDE97D524CE7E7869A4033D25270057E670588886F7A0E02628CC7FCB4F7851
+
+<br/><br/>
 
 ## <a name="october-2020-release"></a>Rilascio di ottobre 2020
 
