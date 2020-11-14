@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
-ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
+ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
+ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48939303"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071535"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,47 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2012-november-13"></a>Versione 2012: 13 novembre
+*Versione 2012 (Build 13510.20004)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui il comando Inserisci oggetto non visualizzava l'icona corretta durante l'inserimento di un file dalla cartella di sincronizzazione locale di OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema un problema per cui il campo A: nei rapporti sullo stato delle attività risultava vuoto..
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema di VBA in cui Slide.Shapes.AddMediaObject2 si arrestava in modo anomalo con formati video legacy (MPG-1,Mpeg-2).
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui non era possibile eliminare le dipendenze dai risultati finali se il sito di SharePoint a cui era associato il risultato non esisteva più.
+
+
+- È stato risolto un problema per cui gli utenti aprivano progetti che presumibilmente erano stati salvati con informazioni aggiornate, ma tali aggiornamenti non erano disponibili.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui le immagini diventavano sfocate durante lo zoom.
+
+
+- È stato risolto un problema per cui i collegamenti lunghi risultavano troncati.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2012-november-06"></a>Versione 2012: 6 novembre
 *Versione 2012 (Build 13430.20000)*
@@ -1878,6 +1919,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
@@ -1887,5 +1929,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|versione-2010-25-settembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
