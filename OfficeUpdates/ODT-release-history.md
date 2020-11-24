@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
-ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
+ms.openlocfilehash: a1553a3f08a254c9c177fec88073073c34a3427c
+ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999541"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49385482"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -23,11 +23,19 @@ Lo Strumento di distribuzione di Office (ODT) è uno strumento da riga di comand
 
 Lo strumento ODT consente un maggiore controllo sull'installazione di Office: è possibile specificare i prodotti e le lingue installate, la modalità di aggiornamento dei prodotti e se si vuole che l'esperienza di installazione sia visibile agli utenti. Per altre informazioni sull'uso di ODT, vedere [Panoramica dello Strumento di distribuzione di Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Sistema operativo supportato** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
+ **Sistema operativo supportato**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Istruzioni di installazione** : scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setupodt.exe) e un file di configurazione di esempio (configuration.xml). 
+ **Istruzioni di installazione**: scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="november-23-2020"></a>23 novembre 2020
+Versione 16.0.13328.20420 (setup.exe versione 16.0.13328.20420)
+- È stato risolto un problema per cui gli strumenti di correzione non venivano scaricati in /modalità download
+- È stato risolto un problema per cui la /modalità download non funzionava se eseguita in un contesto utente non elevato
+- È stato risolto un problema per cui la specifica di un attributo di Version nell'XML di configurazione causava un download incompleto in /modalità download
+- È stato risolto un problema per cui lo strumento di distribuzione di Office non era denominato "setup.exe" quando veniva estratto
+- È stato risolto un problema relativo alla priorità dell'origine dell'installazione quando viene fornito un attributo del canale nell'XML di configurazione
 
 ## <a name="november-10-2020"></a>10 novembre 2020
 Versione 16.0.13328.20356 (setupODT.exe versione 16.0.13328.20336)

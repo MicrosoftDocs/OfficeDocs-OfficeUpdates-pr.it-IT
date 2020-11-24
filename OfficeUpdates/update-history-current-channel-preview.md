@@ -9,27 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: 499bf2eca1a90149c3fe1806e855be82058af2c5
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: c06c335656746e5eff7c05baa3966348a7ffba5e
+ms.sourcegitcommit: 4b5ee25e335d9585dfe5660faac747600c9e3e69
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949975"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49382656"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Cronologia degli aggiornamenti del Canale corrente di Office (Anteprima) per Windows
 
-Per i partecipanti al programma Office Insider Qui si può determinare se è installato l'aggiornamento più recente o si può cercare un elenco delle build recenti del Canale corrente (Anteprima).
-Per altre informazioni sul programma Insider, fare clic [qui](https://insider.office.com/).
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Current Channel (Preview) builds, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versioni e build del Canale corrente di Office (Anteprima)
 
-Gli utenti iscritti al livello Canale corrente (Anteprima), in precedenza denominato Insider Slow, ottengono un nuovo aggiornamento delle funzionalità di Office circa una volta al mese, oltre alle build successive che contengono correzioni importanti o aggiornamenti di sicurezza. L’elenco seguente mostra le versioni e le build recenti di Canale correte (Anteprima), con **le build più recenti elencate per prime**. Le nuove build contengono tutti gli aggiornamenti inclusi nelle build precedenti.
-Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Inoltre, vedere [Novità per i partecipanti al programma Office Insider](https://insider.office.com/it-IT/releasenotes/windows/slow).
+If you're enrolled in the Current Channel (Preview) level, which was formerly called Insider Slow, you get a new Office feature update approximately once a month, plus subsequent builds containing important fixes or security updates. The following list shows recent Current Channel (Preview) versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds. To find release notes, [see](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Also, you can see [What's new for Office Insiders](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni. Nella documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
+> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
 
 > [!NOTE]
 > - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
@@ -37,6 +35,15 @@ Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/Offi
 
 
 [//]: # (NON RIMUOVERE)
+
+**21 novembre 2020**<br/>
+Versione 2011 (Build 13426.20274)<br/>
+
+**18 novembre 2020**<br/>
+Versione 2011 (Build 13426.20250)<br/>
+
+**16 novembre 2020**<br/>
+Versione 2011 (Build 13426.20234)<br/>
 
 **9 novembre 2020**<br/>
 Versione 2011 (Build 13426.20184)<br/>
