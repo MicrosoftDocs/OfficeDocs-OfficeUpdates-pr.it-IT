@@ -9,34 +9,43 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate nel circuito Insider Fast del Canale mensile per Windows Desktop
-ms.openlocfilehash: f5e93a54dfc4745e1b7c412d1dbd02037d6cef3b
-ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
+ms.openlocfilehash: e183ddcbfb653678aaf3246fc7caae179c8b6426
+ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49385492"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49588299"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Cronologia degli aggiornamenti per il canale Office Beta
 
 Le informazioni di questa pagina sono destinate ai partecipanti al programma Office Insider che vogliono sapere se hanno installato l'aggiornamento più recente o sono alla ricerca di un elenco delle ultime build Insider. Fare clic [qui](https://insider.office.com/) per altre informazioni sul programma Office Insider.
 
 > [!IMPORTANT]
-> - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Canale Enterprise mensile) e la modifica dei nomi dei canali di aggiornamento già presenti. Per ulteriori informazioni, [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni. Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
+> - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
+> - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni. Nella documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 > [!NOTE]
 >
-> - La cronologia degli aggiornamenti elenca tutte le build rilasciate
+> - La cronologia degli aggiornamenti elenca qui tutte le build rilasciate
 > - Le note sulla versione vengono aggiornate con minore frequenza e gli aggiornamenti per più build possono essere combinati fino al numero di build per cui vengono pubblicate le note sulla versione.
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versioni e build per il canale Office Beta
 
-Se si è iscritti al livello Insider, si ricevono aggiornamenti frequenti contenenti le nuove funzionalità e i miglioramenti apportati. L'elenco seguente mostra la cronologia delle ultime versioni e build del Canale beta. **Le build rilasciate per ultime sono elencate per prime**. Le nuove build contengono tutti gli aggiornamenti presenti nelle build precedenti.
+Gli utenti iscritti al livello Insider ottengono aggiornamenti frequenti, che includono nuove funzionalità nuove e miglioramenti. L’elenco seguente mostra una cronologia delle ultime versioni e build del canale Beta, con **la build più recente elencata per prima**. Le nuove build contengono tutti gli aggiornamenti inclusi nelle build precedenti.
 
 Per le note sulla versione, vedere [Note sulla versione di Insider per la versione desktop di Office per Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NON RIMUOVERE)
+
+**07 dicembre 2020**<br/>
+Versione 2101 (Build 13604.20000)<br/>
+
+**02 dicembre 2020**<br/>
+Versione 2012 (Build 13530.20000)<br/>
+
+**30 novembre 2020**<br/>
+Versione 2012 (Build 13524.20004)<br/>
 
 **23 novembre 2020**<br/>
 Versione 2012 (Build 13519.20000)<br/>
