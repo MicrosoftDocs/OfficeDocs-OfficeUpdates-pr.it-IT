@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT un elenco dei file con estensione msp più recenti per le versioni perpetue di Office 2013 che utilizzano Windows Installer (MSI)
-ms.openlocfilehash: 1f3e17e4ad6e8f57653c65d5fc36a14669859253
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: c4b3eb6e50415512143f440fbffff73921cf2f8b
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990121"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601511"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Elenco dei file con estensione msp più recenti per i prodotti di Office 2013
 
@@ -24,14 +24,13 @@ Queste informazioni si applicano solo ai prodotti di Office 2013 che utilizzano 
   
 ## <a name="most-recently-updated-msp-files"></a>File con estensione msp aggiornati più di recente
 
-Nella tabella seguente sono elencati i file con estensione msp che sono stati aggiornati nel **novembre 2020**. 
+Nella tabella seguente sono elencati i file con estensione msp che sono stati aggiornati nel **dicembre 2020**. 
   
 |Aggiornamenti non relativi alla sicurezza * * * *|Aggiornamenti per la sicurezza * * * *|
 |:-----|:-----|
-| |Ace-x-none<br/>|
 | |Excel-x-none<br/>|
-| |grafico-x-none<br/>|
-| |Word-x-none<br/>|
+| |None<br/>|
+| |PowerPoint-x-none<br/>|
  
 
 
@@ -57,7 +56,7 @@ Nella tabella seguente sono elencati tutti i file con estensione msp rilasciati 
 |Duetserver-x-None<sup>1</sup> <br/> |Office 2013  <br/> |14 aprile 2015  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |eDiscovery-x-None<sup>2</sup> <br/> |Office 2013  <br/> |5 settembre 2017  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |eqnedt32-x-none  <br/> |Office 2013  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |9 gennaio 2018  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|Excel-x-none  <br/> |Excel 2013  <br/> |3 luglio 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |10 novembre 2020  <br/> |[4486734](https://support.microsoft.com/help/4486734) <br/> |[4486695](https://support.microsoft.com/help/4486695) <br/>|
+|Excel-x-none  <br/> |Excel 2013  <br/> |3 luglio 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |8 dicembre 2020  <br/> |[4493139](https://support.microsoft.com/help/4493139) <br/>|[4486734](https://support.microsoft.com/help/4486734) <br/> |
 |excelpp-x-none  <br/> |Office 2013  <br/> |6 giugno 2017  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |exppdf-x-none  <br/> |Office 2013  <br/> |2016 aprile 5  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |Filterpack-x-none  <br/> |Office 2013  <br/> |2016 aprile 5  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
@@ -96,9 +95,9 @@ Nella tabella seguente sono elencati tutti i file con estensione msp rilasciati 
 |otkruntimertl-x-none  <br/> |Office 2013  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |8 marzo 2016  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |Outexum-x-none  <br/> |Office 2013  <br/> |5 marzo 2019  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |Outlfltr-x-none  <br/> |Office 2013  <br/> |2 agosto 2016  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
-|None  <br/> |Outlook 2013  <br/> |1 ottobre 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |13 ottobre 2020  <br/> |[4484524](https://support.microsoft.com/help/4484524) <br/> |[4484486](https://support.microsoft.com/help/4484486) <br/> |
+|None  <br/> |Outlook 2013  <br/> |1 ottobre 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |8 dicembre 2020  <br/> |[4486732](https://support.microsoft.com/help/4486732) <br/> |[4484524](https://support.microsoft.com/help/4484524) <br/> |
 |peopledatahandler-x-none  <br/> |Office 2013  <br/> |8 settembre 2015  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
-|PowerPoint-x-none  <br/> |PowerPoint 2013  <br/> |7 luglio 2020  <br/> |[4484349](https://support.microsoft.com/help/4484349) <br/> |14 aprile 2020  <br/> |[4484226](https://support.microsoft.com/help/4484226) <br/> |[4461590](https://support.microsoft.com/help/4461590) <br/> |
+|PowerPoint-x-none  <br/> |PowerPoint 2013  <br/> |7 luglio 2020  <br/> |[4484349](https://support.microsoft.com/help/4484349) <br/> |8 dicembre 2020  <br/> |[4484468](https://support.microsoft.com/help/4484468) <br/> |[4484226](https://support.microsoft.com/help/4484226) <br/> |
 |ppaddin-x-none  <br/> |Office 2013  <br/> |5 settembre 2017  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |Project-x-none  <br/> |Project 2013  <br/> |2019 aprile 2 <br/> |[4462136](https://support.microsoft.com/help/4462136) <br/> |14 luglio 2020  <br/> |[4484450](https://support.microsoft.com/help/4484450) <br/>|[4484369](https://support.microsoft.com/help/4484369) <br/> |
 |Proof- *ll*   -   *CC* <sup>3</sup> <br/> |Office 2013  <br/> |7 maggio 2019  <br/> |[4011677](https://support.microsoft.com/help/4011677) <br/> |13.05.14  <br/> |[2880463](https://support.microsoft.com/kb/2880463) <br/> |Non applicabile  <br/> |
