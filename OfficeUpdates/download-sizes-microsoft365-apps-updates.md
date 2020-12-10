@@ -9,32 +9,113 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: d3645b8814459970e7eaf0a2788cb292be739825
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387447"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601431"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
 Il nostro obiettivo è fornire informazioni sulle dimensioni degli aggiornamenti, se possibile, in anticipo per aiutare i clienti aziendali a pianificare l'utilizzo della larghezza di banda di rete.
 
-The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
+Nelle tabelle seguenti vengono riportate le dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di Microsoft 365 Apps. Le dimensioni del download potrebbero variare fino a 50 MB. Per aggiornare una versione meno recente a quella attuale, tenere presente che la dimensione del file di download sarà superiore.
 
-If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
+Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) al Canale semestrale, la dimensione di download potrebbe essere molto più elevata rispetto a quella riportata nella tabella. Il download completo potrebbe arrivare fino a 1 GB.
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
+> - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni. Nella nostra documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 
 > [!NOTE]
 > - Le dimensioni di download approssimative elencate nelle tabelle sono valide soltanto per la versione x64 en-us di Microsoft 365 Apps.
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
-[//]: # (DO NOT REMOVE)
+[//]: # (NON RIMUOVERE)
+
+## <a name="december-8-2020"></a>8 dicembre 2020
+
+[//]: # (DO NOT REMOVE CONTENT STARTDecember 8, 2020)
+
+### <a name="current-channel"></a>Canale corrente
+
+La versione più recente è la numero 2011 (Build 13426.20332).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2011 (Build 13426.20308) <br/> |2 dicembre 2020 <br/> |55<br/> |
+|Versione 2011 (Build 13426.20294) <br/> |30 novembre 2020 <br/> |227<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>Canale Enterprise mensile
+
+La versione più recente è la numero 2010 (Build 13328.20478).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2009 (Build 13231.20514) <br/> |10 novembre 2020 <br/> |127<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canale Enterprise semestrale (Anteprima)
+
+La versione più recente è la numero 2008 (Build 13127.20910).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2008 (Build 13127.20760) <br/> |10 novembre 2020 <br/> |68<br/> |
+|Versione 2008 (Build 13127.20638) <br/> |13 ottobre 2020 <br/> |75<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canale Enterprise semestrale
+
+La versione più recente è la numero 2002 (Build 12527.21416).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2002 (Build 12527.21330) <br/> |10 novembre 2020 <br/> |68<br/> |
+|Versione 2002 (Build 12527.21236) <br/> |13 ottobre 2020 <br/> |71<br/> |
+
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDDecember 8, 2020)
+
+
+
+
+## <a name="december-2-2020"></a>2 dicembre 2020
+
+[//]: # (DO NOT REMOVE CONTENT STARTDecember 2, 2020)
+
+### <a name="current-channel"></a>Canale corrente
+
+La versione più recente è la numero 2011 (Build 13426.20308).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2011 (Build 13426.20294) <br/> |30 novembre 2020 <br/> |53<br/> |
+|Versione 2011 (Build 13426.20274) <br/> |23 novembre 2020 <br/> |241<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDDecember 2, 2020)
+
+## <a name="november-30-2020"></a>30 novembre 2020
+
+[//]: # (DO NOT REMOVE CONTENT STARTNovember 30, 2020)
+
+### <a name="current-channel"></a>Canale corrente
+
+La versione più recente è la numero 2011 (Build 13426.20294).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2011 (Build 13426.20274) <br/> |23 novembre 2020 <br/> |40<br/> |
+|Versione 2010 (Build 13328.20408) <br/> |17 novembre 2020 <br/> |146<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDNovember 30, 2020)
 
 ## <a name="november-23-2020"></a>23 novembre 2020
 

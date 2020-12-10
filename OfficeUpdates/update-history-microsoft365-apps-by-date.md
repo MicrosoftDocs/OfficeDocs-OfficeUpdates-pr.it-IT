@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT un elenco completo di rilasci di App di Microsoft 365, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387446"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601561"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Cronologia degli aggiornamenti per App di Microsoft 365 (elencati in ordine cronologico)
 
 Questi numeri di versione e di build sono validi per App di Microsoft 365 per grandi imprese, App di Microsoft 365 per le aziende e le versioni in abbonamento alle app desktop di Project e Visio.
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
+> - Office 365 ProPlus è stato rinominato Microsoft 365 Apps for enterprise a partire dalla versione 2004. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2123420) per altre informazioni. Nella documentazione, in genere è sufficiente fare riferimento a Microsoft 365 Apps.
 
 > [!NOTE]
 > - La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima.
@@ -34,23 +34,26 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canale corrente<br/>|2011<br/>|13426.20274<br/>|23 novembre 2020<br/>|Rilasciata la versione 2012<br/>|
-|Canale Enterprise mensile<br/>|2009<br/>|13231.20514<br/>|10 novembre 2020<br/>|12 gennaio 2021<br/>|
-|Canale Enterprise mensile<br/>|2008<br/>|13127.20760<br/>|10 novembre 2020<br/>|8 dicembre 2020<br/>|
-|Canale Enterprise semestrale (Anteprima)<br/>|2008<br/>|13127.20760<br/>|10 novembre 2020<br/>|9 marzo 2021<br/>|
-|Canale Enterprise semestrale<br/>|2002<br/>|12527.21330<br/>|10 novembre 2020<br/>|14 settembre 2021<br/>|
-|Canale Enterprise semestrale<br/>|1908<br/>|11929.20974<br/>|10 novembre 2020<br/>|9 marzo 2021<br/>|
+|Canale corrente<br/>|2011<br/>|13426.20332<br/>|8 dicembre 2020<br/>|Rilasciata la versione 2012<br/>|
+|Canale Enterprise mensile<br/>|2010<br/>|13328.20478<br/>|8 dicembre 2020<br/>|9 febbraio 2021<br/>|
+|Canale Enterprise mensile<br/>|2009<br/>|13231.20620<br/>|8 dicembre 2020<br/>|12 gennaio 2021<br/>|
+|Canale Enterprise semestrale (Anteprima)<br/>|2008<br/>|13127.20910<br/>|8 dicembre 2020<br/>|9 marzo 2021<br/>|
+|Canale Enterprise semestrale<br/>|2002<br/>|12527.21416<br/>|8 dicembre 2020<br/>|Settembre 14, 2021<br/>|
+|Canale Enterprise semestrale<br/>|1908<br/>|11929.20984<br/>|8 dicembre 2020<br/>|9 marzo 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
 Per informazioni sulle dimensioni approssimative dei file da scaricare per aggiornare una versione precedente di App di Microsoft 365, vedere [Dimensioni di download per gli aggiornamenti di App di Microsoft 365](download-sizes-office365-proplus-updates.md).
 
-The following table provides a list of the version and build numbers for each update to Microsoft 365 Apps released in the following update channels: Current, Monthly Enterprise, Semi-Annual Enterprise (Preview), and Semi-Annual Enterprise. Each entry in the table links directly to the release notes for that release. These release notes provide information about features, security updates, and non-security updates that are included in the update to Microsoft 365 Apps.  
+La tabella seguente fornisce un elenco dei numeri di versione e di build per ogni aggiornamento di App di Microsoft 365 rilasciato nei canali di aggiornamento seguenti: corrente, Enterprise mensile, Enterprise semestrale (Anteprima) e Enterprise semestrale. Ogni voce della tabella si collega direttamente alle note di rilascio. Queste note sulla versione offrono informazioni sulle funzionalità, sugli aggiornamenti di sicurezza e su quelli non di sicurezza inclusi nell'aggiornamento di App di Microsoft 365.  
 
 [//]: # (HISTORYTABLESTART)
 
 |**Anno**|**Data di rilascio**|**Canale corrente**|**Canale Enterprise mensile**|**Canale Enterprise semestrale (Anteprima)**|**Canale Enterprise semestrale**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|8 dicembre|[Versione 2011 (Build 13426.20332)](current-channel.md#version-2011-december-08)|[Versione 2010 (Build 13328.20478)](monthly-enterprise-channel.md#version-2010-december-08)<br/>[Versione 2009 (Build 13231.20620)](monthly-enterprise-channel.md#version-2009-december-08)|[Versione 2008 (Build 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[Versione 2002 (Build 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[Versione 1908 (Build 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
+|2020|2 dicembre|[Versione 2011 (Build 13426.20308)](current-channel.md#version-2011-december-02)| | | |
+|2020|30 novembre|[Versione 2011 (Build 13426.20294)](current-channel.md#version-2011-november-30)| | | |
 |2020|23 novembre|[Versione 2011 (Build 13426.20274)](current-channel.md#version-2011-november-23)| | | |
 |2020|17 novembre|[Versione 2010 (Build 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|10 novembre|[Versione 2010 (Build 13328.20356)](current-channel.md#version-2010-november-10)|[Versione 2009 (Build 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[Versione 2008 (Build 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[Versione 2008 (Build 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Versione 2002 (Build 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Versione 1908 (Build 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
