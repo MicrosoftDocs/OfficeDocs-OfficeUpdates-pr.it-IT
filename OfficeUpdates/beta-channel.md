@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
-ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
+ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
+ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49372270"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49575020"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
-This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
+Questo articolo contiene le note sulla versione delle build del Canale beta di Word, Excel, PowerPoint, Outlook, Access e Project per Windows desktop. Ogni settimana vengono evidenziate nuove funzionalità interessanti, correzioni critiche e problemi significativi di cui è importante essere a conoscenza. Nota che spesso in un determinato periodo di tempo vengono distribuite funzionalità (e a volte anche correzioni) del Canale beta. Ciò consente di verificare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
 
 > [!NOTE]
 > - Le note sulla versione vengono pubblicate ogni settimana e possono riguardare più build.
@@ -30,6 +30,100 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2012-december-04"></a>Versione 2012: 04 Dicembre
+*Versione 2012 (Build 13530.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Preparare in tempo riunioni ravvicinate:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che inizino di default 5-10 minuti in ritardo. [Altre informazioni](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+### <a name="visio"></a>Visio
+
+- **Nuovi modelli e figure di Azure:** Abbiamo aggiunto molti più modelli che consentono la creazione di diagrammi Azure aggiornati. [Altre informazioni](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui la modifica nelle lingue che richiedono l'uso di IME poteva comportare un errore durante la modifica in modalità di sovrascrittura.
+
+
+- È stato sostituito un collegamento ipertestuale non funzionante ad un articolo di aiuto con un alert nel caso in cui il salvataggio automatico venga disabilitato.
+
+
+- È stato risolto un problema per cui Excel si chiudeva in modo imprevisto durante il copia e incolla dei dati nella visualizzazione formula.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la perdita del formato SmartLink durante il salvataggio nelle bozze.
+
+
+### <a name="project"></a>Progetto
+
+- È stato risolto un problema per cui l’apertura di un progetto con molte risorse richiedeva parecchio tempo.
+
+
+- È stato risolto un problema per cui era possibile aprire progetti specifici qualora vi fosse un problema con il file del progetto in una parte specifica del caricamento.
+
+
+### <a name="word"></a>Word
+
+- L’opzione Incolla come testo non formattato è spesso preferita a Incolla come testo RTF. Con questa correzione del menu di scelta rapida si consente all'utente di incollare come testo non formattato. Altrimenti, l'utente avrebbe dovuto copiare in un editor di testo non formattato come Blocco note e da lì copiare nell'app di destinazione desiderata
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2012-november-27"></a>Versione 2012: 27 novembre
+*Versione 2012 (Build 13519.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui Power Pivot non era in grado di importare correttamente un file di testo delimitato da tabulazione.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava all’utente alcuni problemi durante l'invio di messaggi di posta elettronica di Outlook da applicazioni diverse da Outlook.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Questa modifica risolve un problema relativo ai timeout riscontrati durante l'analisi dell'input penna.
+
+
+- Questa modifica risolve un errore grammaticale nell'interfaccia utente Crea un GIF animato.
+
+
+- È stato risolto un problema per cui i file PowerPoint danneggiati non venivano aperti correttamente, anche dopo aver effettuato un'operazione di ripristino del documento.
+
+
+### <a name="project"></a>Progetto
+
+- È stato risolto un problema per cui gli utenti potevano visualizzare più assegnazioni non conferite associate a un'attività.
+
+
+- È stato risolto un problema per cui l’immissione di un nome di attività in progetti di grandi dimensioni poteva risultare molto lento.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2012-november-20"></a>Versione 2012: 20 novembre
 *Versione 2012 (Build 13512.20000)*
@@ -44,7 +138,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Catalogo video:** migliorare i documenti con una catalogo di filmati video curati e con licenza a titolo gratuito disponibili in-app
+- **Catalogo video:** migliorare i documenti con un catalogo di filmati video curati e con licenza a titolo gratuito disponibili in-app
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -56,12 +150,12 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="powerpoint"></a>PowerPoint
 
-- È stato risolto un problema per cui l'indicatore di presenza per un coautore sconosciuto non viene completamente aggiornato dopo aver ottenuto altre informazioni sulla creazione condivisa.
+- È stato risolto un problema per cui l'indicatore di presenza per un coautore sconosciuto non viene completamente aggiornato dopo aver ottenuto altre informazioni sul coautore.
 
 
 ### <a name="word"></a>Word
 
-- È stato risolto un problema per cui Word si blocca durante il salvataggio di un documento in formato PDF con testo nascosto.
+- È stato risolto un problema per cui Word si bloccava durante il salvataggio di un documento in formato PDF con testo nascosto.
 
 
 
@@ -226,7 +320,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - È stato risolto un problema per cui Word appariva bloccato quando si inseriva una cartella di lavoro di Excel in un documento di Word.
 
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - È stato risolto un problema dello strumento di distribuzione di Office in cui la era possibile la configurazione quando si usava la funzionalità RemoveMSI con il prodotto Office 2007 "Segnalazione errori applicazioni Microsoft".
 
@@ -360,7 +454,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - È stato risolto un problema quando il salvataggio automatico non è riuscito con un messaggio di errore errato o ingannevole quando nel modello di dati di Excel è presente una definizione di misura errata.
 
 
-- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area della presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
 
 
 ### <a name="outlook"></a>Outlook
@@ -389,7 +483,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="word"></a>Word
 
-- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area della presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
 
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
@@ -400,7 +494,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2010-october-02"></a>Versione 2010: 02 ottobre
+## <a name="version-2010-october-02"></a>Versione 2010: 2 ottobre
 *Versione 2010 (Build 13328.20000)*
 
 
@@ -726,7 +820,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - È stato risolto un problema per cui i collegamenti lunghi non venivano mandati a capo quando un documento veniva salvato in formato HTML.
 - È stato risolto un problema per cui la macro AutoOpen veniva eseguita prima di AutoExec.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-august-28"></a>Versione 2009: 28 agosto
 *Versione 2009 (Build 13219.20004)*
@@ -1198,7 +1292,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - È stato risolto un problema per cui i timestamp nei riquadri dei commenti non erano basati sull'ora locale di sistema.
 - È stato risolto un problema per cui i commenti tra l'app Web e l'applicazione desktop non erano sincronizzati.
 
-[//]: # (NON RIMUOVERE FINE DE CONTENUTO DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
 ## <a name="version-2006-may-29"></a>Versione 2006: 29 maggio
@@ -1900,7 +1994,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-### <a name="access"></a>Accesso
+### <a name="access"></a>Access
 
 - **Aumentare la produttività in Progettazione query, nella visualizzazione SQL e nella finestra Relazioni:** fare clic con il pulsante destro del mouse su una tabella per aprirla, progettarla, ridimensionarla e nasconderla. Cercare e sostituire il testo nella visualizzazione SQL. Selezionare più tabelle nella finestra Relazioni.
 
@@ -1955,14 +2049,14 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|versione-2012-04-dicembre|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|versione-2012-27-novembre|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|versione-2012-20-novembre|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|versione-2012-13-novembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|versione-2011-ottobre-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|versione-2011-ottobre-09|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|versione-2010-ottobre-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|versione-2010-25-settembre|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|versione-2010-02-ottobre|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
