@@ -9,23 +9,23 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 1601e91a17da4d4896ca6e058d14f2973c8c4eaa
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: 108ed93c82608f00453919ce0d1b50a3d5a4dc0c
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387461"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601551"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
 
 Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del Canale corrente (mirato) nel 2020 per Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business e delle versioni in abbonamento delle app desktop per Project e Visio.
 
 > [!IMPORTANT]
-> Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Canale Enterprise mensile) e la modifica dei nomi dei canali di aggiornamento già presenti. Per ulteriori informazioni, [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
 
  > [!NOTE]
 >
->- Spesso distribuiamo le funzionalità (e a volte anche le correzioni) quando sono correnti per un periodo di tempo. Se non si vede subito un elemento descritto i seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Spesso distribuiamo le funzionalità (e a volte anche le correzioni) quando sono correnti per un periodo di tempo.  Se non si vede subito un elemento descritto di seguito, è possibile aspettarselo al più presto. [Altre informazioni](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle rilasciate dall'ultima versione corrente, in quanto hanno una cadenza di rilascio più frequente.
 
 
@@ -37,7 +37,74 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2011-november-23"></a>Versione 2011: 23 ottobre
+## <a name="version-2011-december-08"></a>Versione 2011: 8 dicembre
+*Versione 2011 (Build 13426.20332)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="office-suite"></a>Applicazioni Office
+
+- È stato risolto un problema per cui SaveRequestManagerCam causava la chiusura dell'applicazione anziché restituire un errore. 
+
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO)
+
+## <a name="version-2011-december-02"></a>Versione 2011: 02 dicembre
+*Versione 2011 (Build 13426.20308)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui i partecipanti a una riunione ricevevano l’annullamento della riunione se un altro partecipante inoltrava tale riunione.
+
+
+- È stato risolto un problema che impediva di visualizzare le firme nel menu a discesa delle firme nonostante ci fossero una o più firme configurate.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui era possibile aprire progetti specifici se era presente un problema con il file del progetto in una parte specifica del carico.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema che comprometteva la funzionalità delle applicazioni Office (ad esempio, l’impossibilità di usare Power Query) quando si installava una nuova versione di Office al posto di versioni precedenti, a causa della mancanza di voci del registro di sistema.
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO)
+
+## <a name="version-2011-november-30"></a>Versione 2011: 30 novembre
+*Versione 2011 (Build 13426.20294)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema che si verificava quando si effettuava copia o incolla di un’equazione da Word a PowerPoint.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema che si verificava quando si effettuava copia o incolla di un’equazione da Word a PowerPoint.
+
+
+- È stato risolto un problema per cui gli stili di un documento venivano sostituiti con altri stili del modello.
+
+
+
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO)
+
+## <a name="version-2011-november-23"></a>Versione 2011: 23 novembre
 *Versione 2011 (Build 13426.20274)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -109,7 +176,7 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 - È stato risolto un problema che causava l'interruzione dell'evento MailItem.BeforeAttachmentAdd.
 
 
-- È stato aggiunto una chiave di registro che consente ai clienti di disabilitare l'inclusione filetime per gli allegati nelle operazioni IDataObject (ad esempio trascinamento, appunti).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetime esclusi. 1 = (impostazione predefinita) filetime inclusi.
+- È stata aggiunta una chiave di registro che consente ai clienti di disabilitare l'inclusione filetime per gli allegati nelle operazioni IDataObject (ad esempio trascinamento, appunti).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetime esclusi. 1 = (impostazione predefinita) filetime inclusi.
 
 
 - È stato risolto un problema che causava la scomparsa delle immagini in linea quando si rispondeva a un messaggio con un'etichetta di protezione da Azure Information Protection.
@@ -132,7 +199,7 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 
-[//]: # (NON RIMUOVERE LA FINE DEL CONTENUTO DEI BUG)
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO)
 
 ## <a name="version-2010-november-17"></a>Versione 2010: 17 novembre
 *Versione 2010 (Build 13328.20408)*
@@ -145,7 +212,7 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 - È stato risolto un problema che causava l'interruzione dell'evento MailItem.BeforeAttachmentAdd.
 
 
-- È stato aggiunto una chiave di registro che consente ai clienti di disabilitare l'inclusione filetime per gli allegati nelle operazioni IDataObject (ad esempio trascinamento, appunti).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = filetime esclusi.  1 = (impostazione predefinita) filetime inclusi.
+- È stata aggiunta una chiave di registro che consente ai clienti di disabilitare l'inclusione filetime per gli allegati nelle operazioni IDataObject (ad esempio trascinamento, appunti).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = filetime esclusi.  1 = (impostazione predefinita) filetime inclusi.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -164,7 +231,7 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO)
 
 ## <a name="version-2010-november-10"></a>Versione 2010: 10 novembre
 *Versione 2010 (Build 13328.20356)*
@@ -200,7 +267,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="excel"></a>Excel
 
-- **Creare tipi di dati con Power Query:** è possibile creare tipi di dati complessi con Power Query da qualsiasi origine dati. [Altre informazioni](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Vedere i dettagli nel [post di blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
+- **Creare tipi di dati con Power Query:** è possibile creare tipi di dati formattati con Power Query da qualsiasi origine dati. [Altre informazioni](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Vedere i dettagli nel [post di blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
 - **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
@@ -536,7 +603,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office. Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint. [Altre informazioni](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - **Riquadri a schede:** ora è possibile passare da un riquadro all'altro usando un'interfaccia a schede sul lato destro dell'app. L'interfaccia utente sarà visibile solo se sono presenti almeno due riquadri.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
 
@@ -681,7 +748,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Applicare automaticamente o consigliare etichette di riservatezza:** Office può consigliare o applicare automaticamente un'etichetta di riservatezza in base al contenuto sensibile rilevato.
 
-- **Creare tabelle pivot da set di documenti in Power BI all'interno di Excel:** è possibile creare tabelle pivot in Excel connesse ai set di documenti archiviati in Power BI in pochi click.  Questa operazione consente di sfruttare al meglio sia le tabelle pivot che Power BI. Calcola, riepiloga e analizza i tuoi dati con le tabelle pivot dai set di dati sicuri di Power BI. [Altre informazioni](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Creare tabelle pivot da set di dati in Power BI all'interno di Excel:** è possibile creare tabelle pivot in Excel connesse ai set di dati archiviati in Power BI in pochi clic.  Questa operazione consente di sfruttare al meglio sia le tabelle pivot che Power BI. Calcola, riepiloga e analizza i tuoi dati con le tabelle pivot dai set di dati sicuri di Power BI. [Altre informazioni](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -978,7 +1045,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema che può aver causato un arresto anomalo durante il trascinamento del contenuto dall'app.
 
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Questa modifica risolve potenziali blocchi che si verificano durante il caricamento e la riproduzione di contenuti animati, ad esempio GIF o modelli 3D.
 
@@ -1181,7 +1248,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Questo aggiornamento risolve un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati al caricamento.
 
@@ -1195,7 +1262,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-### <a name="access"></a>Accesso
+### <a name="access"></a>Access
 
 - **Aumentare la produttività in Progettazione query, nella visualizzazione SQL e nella finestra Relazioni:** fare clic con il pulsante destro del mouse su una tabella per aprirla, progettarla, ridimensionarla e nasconderla. Cercare e sostituire il testo nella visualizzazione SQL. Selezionare più tabelle nella finestra Relazioni.
 
@@ -1654,7 +1721,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: "Sono stati modificati gli stili, i blocchi predefiniti".
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto un problema per cui gli aggiornamenti di Office potrebbero inaspettatamente scaricare file dalla rete CDN di Office anziché dall'origine prevista, ad esempio una condivisione locale o di rete o la posizione specificata da Configuration Manager.
 
@@ -1664,14 +1731,14 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
+[//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
+[//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-ottobre-08|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-settembre-28|)
-[//]: # (|Win32|CC|Production| |16.0.13127.20508|versione-2008-settembre-22|)
-[//]: # (|Win32|CC|Production| |16.0.13127.20408|versione-2008-settembre-09|)
+[//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
