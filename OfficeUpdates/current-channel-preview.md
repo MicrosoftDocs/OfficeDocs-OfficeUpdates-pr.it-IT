@@ -9,24 +9,221 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: 39d685dc793bf9afae8126923272c428470125bd
+ms.sourcegitcommit: 40dff4c716db4382af4841031ba0050869e78e42
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408342"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49613538"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
-This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
+Questo articolo contiene le note sulla versione per le build del Canale corrente (Anteprima) di Word, Excel, PowerPoint, Outlook, Access, Project e Teams per Windows desktop. Ogni settimana verranno evidenziate nuove funzionalità interessanti, correzioni importanti e problemi significativi di cui è utile essere al corrente. Nota che spesso in un determinato periodo di tempo vengono distribuite funzionalità (e a volte anche correzioni) del Canale corrente (Anteprima). Ciò consente di verificare che tutto funzioni correttamente prima di rilasciare la funzionalità a un pubblico più ampio. Pertanto, anche se al momento non fossero disponibili descrizioni, prima o poi lo saranno.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Apporteremo alcune modifiche ai canali di aggiornamento per App di Microsoft 365, tra cui l'aggiunta di un nuovo canale di aggiornamento (canale mensile Enterprise) e la modifica dei nomi dei canali di aggiornamento già presenti. Per altre informazioni, [leggere questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - La data di pubblicazione delle note sulla versione può non corrispondere all'effettiva data di rilascio della build.
+> - Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle dell'ultima versione del Canale corrente (Anteprima), in quanto hanno una cadenza di rilascio più frequente.
 
-[//]: # (DO NOT REMOVE)
+[//]: # (NON RIMUOVERE)
+
+## <a name="version-2012-december-07"></a>Versione 2012:07 dicembre
+*Versione 2012 (Build 13530,20064)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+
+### <a name="teams"></a>Teams
+
+- **Le notifiche native di Windows sono ora supportate in Teams:** ora gli utenti possono selezionare la loro modalità preferita per la ricezione delle notifiche, tramite banner predefiniti di Teams o banner nativi di Windows.
+
+
+- **Le riunioni di Teams con visualizzazione Raccolta 2x2 su VDI  di Citrix e VMWare:** La funzionalità visualizzazione Raccolta 2x2 di Teams su VDI consentirà di visualizzare fino a quattro video dei partecipanti con visualizzazione Raccolta 2x2 sui client VDI di Citrix e VMWare quando il client di Teams è in modalità ottimizzata VDI.
+
+
+- **Reazioni nelle riunioni:**  Le reazioni nelle riunioni rappresentano un nuovo modo di interagire nelle riunioni. I partecipanti possono inviare reazioni che vengono visualizzate come flusso sul contenuto che viene condiviso e sull'individuo che ha inviato la reazione se sono visualizzate in fase di riunione. 
+
+
+- **Modalità Insieme e Galleria estesa per le riunioni Web** Galleria estesa consente di visualizzare i video fino a un massimo di 49 altre persone contemporaneamente. Questa opzione è disponibile quando almeno dieci persone hanno acceso le videocamere. La Modalità Insieme consente di sentirsi in uno spazio condiviso con tutti i partecipanti alla riunione. La Modalità Insieme è disponibile quando sono presenti almeno cinque persone nella riunione. 
+
+
+- **Unione di chiamate** L'unione di chiamate consente agli utenti di unire una nuova chiamata effettuata, o una nuova chiamata in arrivo, alla propria chiamata di gruppo o a due. Si applica alle chiamate VoIP di Teams e alle chiamate PSTN. 
+
+
+### <a name="visio"></a>Visio
+
+- **Nuovi stencil e forme di Azure:** sono stati aggiunti altri stencil che consentono di creare diagrammi di Azure aggiornati. [Altre informazioni](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui alcuni elementi della barra multifunzione non erano localizzati in cinese semplificato.
+
+
+- È stato risolto un problema per cui Excel si chiudeva in modo imprevisto durante l'aggiornamento.
+
+
+- È stato risolto un problema per cui il comando Inserisci oggetto non mostrava l'icona corretta durante l'inserimento di un file dalla cartella di sincronizzazione locale di OneDrive.
+
+
+- È stato risolto un problema per cui la modifica nelle lingue che richiedevano l'uso di IME poteva comportare un errore durante la modifica in modalità di sovrascrittura.
+
+
+- È stato risolto un problema per cui alcuni utenti visualizzavano erroneamente una barra dei messaggi che li informava di una nuova versione di un file durante la creazione condivisa.
+
+
+- È stato risolto un problema per cui Excel si chiudeva in modo imprevisto durante il copia e incolla dei dati nella visualizzazione formula.
+
+
+- È stato risolto un problema che comportava un collegamento ipertestuale interrotto con riferimento a un articolo della guida in un avviso, nel caso in cui il salvataggio automatico era disabilitato.
+
+
+- È stato risolto un problema per cui quando si immettevano dati durante l'esecuzione di Excel in determinate lingue, questo smetteva di funzionare.
+
+
+- Questa modifica risolve un problema con la visualizzazione corretta dei tipi di caratteri all'interno delle equazioni.
+
+
+- È stato risolto un problema per cui Power Pivot non era in grado di importare correttamente un file di testo con valori delimitato da tabulazioni.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema per cui il campo A: nei rapporti sullo stato delle attività risultava vuoto.
+
+
+- È stato risolto un problema che causava l'interruzione dell'evento MailItem.BeforeAttachmentAdd.
+
+
+- È stato risolto un problema che causava la verifica di alcuni problemi durante l'invio di messaggi di posta elettronica di Outlook da applicazioni diverse da Outlook.
+
+
+- È stato risolto un problema che causava la perdita del formato SmartLink quando un file veniva salvato nelle bozze.
+
+
+- È stato risolto un problema per cui non era possibile aggiungere un allegato a un messaggio aperto da un file ZIP.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema che si verificava effettuando copia e incolla di un’equazione da Word a PowerPoint Online
+
+
+- Questa modifica risolve un problema relativo ai timeout riscontrati durante l'analisi dell'input penna.
+
+
+- Questa modifica risolve un errore grammaticale nell'interfaccia utente Crea un GIF animato.
+
+
+- Questa modifica risolve un problema con il riempimento del percorso quando si applicava Unisci forme con determinate geometrie.
+
+
+- Questa modifica risolve un problema con la visualizzazione corretta dei tipi di caratteri all'interno delle equazioni.
+
+
+- Questa modifica risolve un problema relativo alla gestione di errori che potevano verificarsi durante il caricamento video.
+
+
+- È stato risolto un problema di VBA in cui Slide.Shapes.AddMediaObject2 si arrestava in modo anomalo con formati video legacy (MPG-1, Mpeg-2).
+
+
+- È stato risolto un problema per cui l'indicatore di presenza di un coautore sconosciuto non veniva aggiornato completamente quando erano disponibili altre informazioni sul coautore.
+
+
+- È stato risolto un problema con il puntatore Null che veniva deferenziato quando la visualizzazione diapositiva veniva ridimensionata con il righello attivo.
+
+
+- È stato risolto un problema per cui i file PowerPoint danneggiati non venivano aperti correttamente, anche dopo aver effettuato un'operazione di ripristino del documento.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui gli utenti aprivano progetti che presumibilmente erano stati salvati con informazioni aggiornate, ma tali aggiornamenti non erano disponibili.
+
+
+- È stato risolto un problema per cui non era possibile eliminare le dipendenze dai risultati finali se il sito di SharePoint a cui era associato il risultato non esisteva più.
+
+
+- È stato risolto un problema per cui aprire un progetto con molte risorse richiedeva parecchio tempo.
+
+
+- È stato risolto un problema per cui gli utenti potevano visualizzare più assegnazioni non assegnate associate a un'attività.
+
+
+- È stato risolto un problema per l’immissione di un nome di attività in progetti di grandi dimensioni poteva risultare lento.
+
+
+- È stato risolto un problema per cui era possibile aprire progetti specifici qualora vi fosse un problema con il file del progetto in una parte specifica del carico.
+
+
+### <a name="word"></a>Word
+
+- L’opzione Incolla come testo normale è spesso preferito a Incolla come testo RTF. Con questa correzione del menu di scelta rapida si consente all'utente di incollare come testo normale. Altrimenti, l'utente avrebbe dovuto copiare in un editor di testo normale come Blocco note e da lì copiare nell'app di destinazione desiderata
+
+
+- È stato risolto un problema che si verificava effettuando copia e incolla di un’equazione da Word a PowerPoint Online
+
+
+- Questa modifica risolve un problema con il cursore durante la modifica di un documento.
+
+
+- È stato risolto un problema per cui le immagini diventavano sfocate durante lo zoom.
+
+
+- È stato risolto un problema per cui i collegamenti ipertestuali lunghi risultavano troncati.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Office Suite ha risolto un problema che comprometteva la funzionalità (ad esempio, l’impossibilità di usare Power Query) quando si installava una nuova versione di Office al posto di versioni più vecchie, a causa di voci del registro di sistema mancanti.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2011-december-01"></a>Versione 2011: 1° dicembre
+*Versione 2011 (Build 13426.20306)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Tutte le riunioni online:** semplificare la programmazione di riunioni online con una nuova impostazione che fa sì che tutte le riunioni siano online per impostazione predefinita.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la ricezione di annullamento della riunione da parte dei partecipanti originari quando un altro partecipante inoltrava la riunione.
+
+
+- È stato risolto un problema che impediva di visualizzare le firme nel menu a discesa delle firme nonostante ci fossero una o più firme configurate.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui era possibile aprire progetti specifici qualora vi fosse un problema con il file del progetto in una parte specifica del carico.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2011-november-24"></a>Versione 2011: 24 novembre
 *Versione 2011 (Build 13426.20294)*
@@ -34,7 +231,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto un problema che si verificava effettuando copia e incolla di un’equazione da Word a PowerPoint Online
 
@@ -65,7 +262,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - È stato risolto un problema che causava l'interruzione dell'evento MailItem.BeforeAttachmentAdd.
 
 
-- È stato aggiunto una chiave di registro che consente ai clienti di disabilitare l'inclusione filetime per gli allegati nelle operazioni IDataObject (ad esempio trascinamento, appunti). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetime esclusi. 1 = (impostazione predefinita) filetime inclusi
+- È stata aggiunta una chiave di registro che consente ai clienti di disabilitare l'inclusione filetime per gli allegati nelle operazioni IDataObject (ad esempio trascinamento, appunti). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetime esclusi. 1 = (impostazione predefinita) filetime inclusi
 
 
 - È stato risolto un problema che causava la scomparsa delle immagini in linea quando si rispondeva a un messaggio con un'etichetta di protezione da Azure Information Protection.
@@ -98,7 +295,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="outlook"></a>Outlook
 
-- È stato risolto un problema per cui il campo A era vuoto quando di inviava una relazione sullo stato su un’attività.
+- È stato risolto un problema per cui il campo A era vuoto quando si inviava una relazione sullo stato di un’attività.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -155,7 +352,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - È stato risolto un problema per cui un utente non era in grado di aprire il file atomsvc (UTF8 + BOM) direttamente da SharePoint.
 
 
-- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area della presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
 
 
 - È stato risolto un problema per cui Word appariva bloccato quando si inseriva una cartella di lavoro di Excel in un documento di Word.
@@ -232,7 +429,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="word"></a>Word
 
-- È stato risolto un problema per cui lo zoom avanti e indietro dall’area di presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
+- È stato risolto un problema per cui lo zoom avanti e indietro dall’area della presentazione generava uno spazio vuoto tra il riquadro di selezione con lo zoom e il puntatore del mouse.
 
 
 - È stato risolto un problema per cui facendo clic sull'indicatore del commento non veniva eseguito lo zoom indietro per mostrare la scheda del commento nella visualizzazione.
@@ -250,9 +447,9 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - È stato risolto un problema di stampa che si verificava applicando etichette di riservatezza con filigrana.
 
 
-### <a name="office-suite"></a>Famiglia di prodotti di Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
-- È stato risolto un problema dello strumento di distribuzione di Office per cui era possibile la configurazione quando si usava la funzionalità RemoveMSI con il prodotto Office 2007 "Segnalazione errori applicazioni Microsoft".
+- È stato risolto un problema dello strumento di distribuzione di Office in cui la era possibile la configurazione quando si usava la funzionalità RemoveMSI con il prodotto Office 2007 "Segnalazione errori applicazioni Microsoft".
 
 
 - È stato risolto un problema per cui l'accesso interattivo API SSO restituiva un codice di errore.
@@ -875,7 +1072,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
 
 ## <a name="version-2008-september-04"></a>Versione 2008: 4 settembre
 *Versione 2008 (Build 13127.20378)*
@@ -1712,7 +1909,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="excel"></a>Excel
 
-- **Creare tabelle pivot da set di documenti in Power BI all'interno di Excel:** è possibile creare tabelle pivot in Excel connesse ai set di documenti archiviati in Power BI in pochi click.  Questa operazione consente di sfruttare al meglio sia le tabelle pivot che Power BI. Calcola, riepiloga e analizza i tuoi dati con le tabelle pivot dai set di dati sicuri di Power BI.
+- **Creare tabelle pivot da set di dati in Power BI all'interno di Excel:** è possibile creare tabelle pivot in Excel connesse ai set di dati archiviati in Power BI in pochi clic.  Questa operazione consente di sfruttare al meglio sia le tabelle pivot che Power BI. Calcola, riepiloga e analizza i tuoi dati con le tabelle pivot dai set di dati sicuri di Power BI.
 
 ### <a name="outlook"></a>Outlook
 
@@ -2013,7 +2210,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Questo aggiornamento risolve un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati al caricamento.
 
@@ -2333,7 +2530,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Riquadro attività Aggiungi tabelle:** il nuovo riquadro attività Aggiungi tabelle è finalmente disponibile. Questa funzionalità consente la selezione/selezione multipla più semplice delle tabelle che si vogliono aggiungere/rimuovere nell'intervallo di query, senza passare alla finestra di dialogo "Mostra tabelle" per le query e per la visualizzazione relazioni. Include anche una nuova scheda "collegamenti" per visualizzare le tabelle collegate, una casella di ricerca per filtrare l'elenco corrente, la funzionalità "trascinamento della selezione" e altro ancora.
 
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE I DETTAGLI DELLE FUNZINALITÀ DI INIZIO CONTENUTO)
 
 <br/>
 
@@ -2535,7 +2732,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
 
