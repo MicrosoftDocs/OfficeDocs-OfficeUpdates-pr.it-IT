@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile Enterprise per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 523eadc2a10787c22b774c4c01dd9997153a8bb8
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: 44a77260e0e674eccf53a76a0a451a3bfa2d7566
+ms.sourcegitcommit: 244f8fded28adafd66397baee0418254db5c9de2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601521"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49623127"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile Enterprise nel 2020
 
@@ -36,49 +36,21 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
-### <a name="access"></a>Accesso
-
-- **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
 ### <a name="excel"></a>Excel
 
-- **Creare variabili da usare nelle formule:** migliorare le prestazioni, la leggibilità e la compatibilità con la funzione LET. Questa funzione consente di creare variabili denominate nelle formule nuove o preesistenti. [Altre informazioni](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
-
-- **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="onenote"></a>OneNote
-
-- **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Accedere ai dati dell'organizzazione da Power BI usando i tipi di dati:** i tipi di dati di Excel di Power BI sono ora distribuiti ai partecipanti al programma Office Insider nelle organizzazioni con Office 365 E5/A5 o Microsoft 365 E5/A5. Ottenere le informazioni necessarie e aggiornarle con facilità è fondamentale per molti flussi di lavoro quotidiani. In Excel è possibile accedere alle informazioni della società o dell'organizzazione da Power BI come tipo di dati, in modo da espandere la tua capacità di inserire informazioni collegate nei fogli di calcolo.
 
 ### <a name="outlook"></a>Outlook
 
 - **Aggiornamenti dell’esperienza utente per le Attività:** aggiornamento visivo degli elementi di tipo Attività 
 
-- **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account di Office e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Collegamenti migliorati nei messaggi di posta elettronica:** quando si include un collegamento a un file, il nome del file sostituisce l'URL. È possibile modificare le autorizzazioni per consentire l'accesso a tutti i destinatari.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-- **Esportare immagini GIF animate in un intervallo:** selezionare un intervallo di diapositive durante l'esportazione in formato GIF animata
+- **Esportare immagini GIF animate in un intervallo:** selezionare un intervallo di diapositive durante l'esportazione in un formato GIF animato
 
 - **Creare GIF con sfondi trasparenti:** all'esportazione in una GIF animata, una nuova opzione consente di rendere trasparente lo sfondo.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
-
-### <a name="project"></a>Project
-
-- **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="publisher"></a>Publisher
-
-- **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="visio"></a>Visio
-
-- **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="word"></a>Word
-
-- **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -146,7 +118,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="visio"></a>Visio
 
-- È stato risolto un problema per cui gli utenti potevano creare linee rette usando i connettori in Visio per Office 365 sia per gli stencil di Visio personalizzati che per i modelli predefiniti.
+- È stato risolto un problema per cui gli utenti potevano creare linee rette usando i connettori in Visio per Office 365 sia per gli stencil di Visio personalizzati che per modelli predefiniti.
 
 
 ### <a name="word"></a>Word
@@ -853,7 +825,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema che può aver causato un arresto anomalo durante il trascinamento del contenuto dall'app.
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - Questa modifica risolve potenziali blocchi che si verificano durante il caricamento e la riproduzione di contenuti animati, ad esempio GIF o modelli 3D.
 
@@ -920,7 +892,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Nuove immagini per dare vita ai documenti:** migliaia di immagini, icone e adesivi gratuiti da usare nei documenti. Per iniziare, selezionare Inserisci > Immagini > Immagini di archivio. [Altre informazioni](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate.
 
