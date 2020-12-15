@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
-ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
+ms.openlocfilehash: 5c7201236c3974e0b0001d7a17d4d945d359947e
+ms.sourcegitcommit: 0de1e313cbab2fcb6c3216e71f90312249bb4396
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49575020"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49655306"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -31,6 +31,58 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2101-december-11"></a>Version 2101: 11 dicembre
+*Versione 2101 (Build 13604.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Impostazioni di Outlook nel cloud:** scegliere le impostazioni di Outlook per Windows, ad esempio Risposte automatiche, Posta in arrivo evidenziata e Privacy, per accedervi da qualsiasi PC.
+
+### <a name="word"></a>Word
+
+- **Collaborazione migliore con i commenti moderni:** ora è possibile aggiungere commenti agli oggetti, @menzionare colleghi e risolvere i thread dei commenti per una migliore esperienza di collaborazione. [Altre informazioni](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/modern-commenting-in-word)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui Excel visualizzava erroneamente una barra dei messaggi che indicava che era disponibile una nuova versione del file e forzava l'utente a salvare le modifiche apportate in una copia della cartella di lavoro o a ignorare le modifiche.
+
+
+- È stato risolto un problema con il cambio dei separatori dopo una chiamata Selection.Parent.Copy.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava il danneggiamento dei messaggi S/MIME di testo normale durante l'invio.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Questa modifica risolve un problema con la riproduzione ciclica di video di sfondo in una presentazione.
+
+
+- È stato risolto un problema per cui il comando dimensioni del carattere, quando veniva aggiunto alla barra, eseguiva il completamento automatico alle dimensioni del carattere definite più vicine durante l'aggiornamento.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema relativo all'eliminazione di commenti moderni nel controllo del contenuto contrassegnato come non modificabile.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2012-december-04"></a>Versione 2012: 04 Dicembre
 *Versione 2012 (Build 13530.20000)*
 
@@ -44,7 +96,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 ### <a name="visio"></a>Visio
 
-- **Nuovi modelli e figure di Azure:** Abbiamo aggiunto molti più modelli che consentono la creazione di diagrammi Azure aggiornati. [Altre informazioni](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **Nuovi stencil e forme di Azure:** sono stati aggiunti altri stencil che consentono di creare diagrammi di Azure aggiornati. [Altre informazioni](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -80,7 +132,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 ### <a name="word"></a>Word
 
-- L’opzione Incolla come testo non formattato è spesso preferita a Incolla come testo RTF. Con questa correzione del menu di scelta rapida si consente all'utente di incollare come testo non formattato. Altrimenti, l'utente avrebbe dovuto copiare in un editor di testo non formattato come Blocco note e da lì copiare nell'app di destinazione desiderata
+- L’opzione Incolla come testo normale è spesso preferito a Incolla come testo RTF. Con questa correzione del menu di scelta rapida si consente all'utente di incollare come testo normale. Altrimenti, l'utente avrebbe dovuto copiare in un editor di testo non formattato come Blocco note e da lì copiare nell'app di destinazione desiderata
 
 
 
@@ -138,7 +190,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Catalogo video:** migliorare i documenti con un catalogo di filmati video curati e con licenza a titolo gratuito disponibili in-app
+- **Catalogo video:** migliorare i documenti con una catalogo di filmati video curati e con licenza a titolo gratuito disponibili in-app
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -935,19 +987,19 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1857,7 +1909,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 - È stato risolto un problema estetico per cui il pulsante OK nella finestra di dialogo File\Opzioni veniva visualizzato come disattivato, anche se questo non influiva sulla funzionalità.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 [//]: # (NON RIMUOVERE L'INIZIO DEI CONTENUTI RELATIVI AI DETTAGLI DELLE FUNZIONALITÀ)
 
@@ -2049,6 +2101,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|versione-2101-dicembre-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|versione-2012-04-dicembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|versione-2012-27-novembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|versione-2012-20-novembre|)
@@ -2058,5 +2111,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|versione-2011-ottobre-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|versione-2011-ottobre-09|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|versione-2010-02-ottobre|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

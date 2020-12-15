@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 39d685dc793bf9afae8126923272c428470125bd
-ms.sourcegitcommit: 40dff4c716db4382af4841031ba0050869e78e42
+ms.openlocfilehash: 0be2192fb0bc08c399c4c7d698de759bfec3433e
+ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49613538"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49673974"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -28,6 +28,35 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle dell'ultima versione del Canale corrente (Anteprima), in quanto hanno una cadenza di rilascio più frequente.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2012-december-14"></a>Versione 2012: 14 dicembre
+*Versione 2012 (Build 13530.20144)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Impostazioni di Outlook nel cloud:** scegliere le impostazioni di Outlook per Windows, ad esempio Risposte automatiche, Posta in arrivo evidenziata e Privacy, per accedervi da qualsiasi PC.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Dimensioni binarie ottimizzate.
+
+
+- Anaheim WebView non supporta ancora Windows Information Protection (WIP). Con questa correzione la piattaforma dei componenti aggiuntivi di Office userà WebView di livello inferiore nell’ambiente abilitato di WIP. Questo può essere Edge WebView Spartan o WebView Trident, a seconda dell'ambiente del computer del cliente. Entrambi i WebView di livello inferiore supportano WIP.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2012-december-07"></a>Versione 2012:07 dicembre
 *Versione 2012 (Build 13530,20064)*
@@ -485,9 +514,9 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Supporto per Appunti SVG:** è ora possibile incollare il contenuto SVG di Office in un'app di terze parti. [Altre informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Supporto per Appunti SVG:** è ora possibile incollare il contenuto SVG di Office in un'app di terze parti. [Altre informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/svg-content-office-third-party-apps)
 
-- **Creare GIF con sfondi trasparenti:** all'esportazione in una GIF animata, una nuova opzione consente di rendere trasparente lo sfondo.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Creare GIF con sfondi trasparenti:** all'esportazione in una GIF animata, una nuova opzione consente di rendere trasparente lo sfondo.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Esportare immagini GIF animate in un intervallo:** selezionare un intervallo di diapositive durante l'esportazione in formato GIF animata
 
@@ -581,7 +610,7 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="outlook"></a>Outlook
 
-- **Risparmiare tempo durante la composizione dei messaggi:** Outlook mostra dei  suggerimenti che consentono di scrivere rapidamente i messaggi. Per accettare il suggerimento, basta usare l’opzione TAB.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)
+- **Risparmiare tempo durante la composizione dei messaggi:** Outlook mostra dei  suggerimenti che consentono di scrivere rapidamente i messaggi. Per accettare il suggerimento, basta usare l’opzione TAB.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/text-predictions-in-word-outlook)
 
 - **Supera le barriere linguistiche con un traduttore integrato:** i componenti aggiuntivi per la traduzione non servono più! In un messaggio, basta fare doppio clic per tradurre parole, frasi o interi messaggi. [Altre informazioni](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -787,7 +816,7 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 ### <a name="outlook"></a>Outlook
 
-- **Il controllo grammaticale è tornato:** Outlook contrassegna gli errori grammaticali mentre si scrive, e l'utente può applicare i suggerimenti con un solo clic. <br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Il controllo grammaticale è tornato:** Outlook contrassegna gli errori grammaticali mentre si scrive, e l'utente può applicare i suggerimenti con un solo clic. <br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/grammar-and-style-suggestions-available-in-outlook)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -851,7 +880,7 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 ### <a name="excel"></a>Excel
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 - **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Opzioni e selezionare "Usa impostazioni di sistema" accanto al tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -863,13 +892,13 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 - **Eliminare una conversazione con il proprietario del messaggio:** questa funzionalità consente di eliminare una conversazione dal proprietario del messaggio.
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 - **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Opzioni e selezionare "Usa impostazioni di sistema" accanto al tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 - **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Opzioni e selezionare "Usa impostazioni di sistema" accanto al tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -887,7 +916,7 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 ### <a name="word"></a>Word
 
-- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserire le foto dell'iPhone direttamente in Office:** le immagini HEIC ora si inseriscono facilmente dal proprio telefono in Office. Non è richiesta alcuna conversione.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/insert-apple-photos-into-office-easily)
 
 - **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Opzioni e selezionare "Usa impostazioni di sistema" accanto al tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2210,7 +2239,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - Questo aggiornamento risolve un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati al caricamento.
 
@@ -2732,7 +2761,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
 
