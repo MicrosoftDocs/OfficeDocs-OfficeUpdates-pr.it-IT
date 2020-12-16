@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Viene fornita ai professionisti IT una cronologia delle versioni per Microsoft AutoUpdate (MAU)
-ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
-ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
+ms.openlocfilehash: f6b5462189fa7cf9310c3d69b8ab34474ed96c07
+ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48994965"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684078"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Cronologia delle versioni per Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,25 @@ La tabella seguente fornisce informazioni sulla cronologia delle versioni per Mi
 > - Microsoft AutoUpdate fornisce aggiornamenti per diversi prodotti Mac da Microsoft. Di conseguenza, si potrebbe ricevere una notifica per l'aggiornamento di Microsoft AutoUpdate anche se non è in esecuzione Office per Mac.
 
 Per visualizzare le note sulla versione, vedere [Note sulla versione](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="december-2020-release"></a>Rilascio di dicembre 2020
+
+**Data di rilascio:** 15 dicembre 2020
+
+*Microsoft Auto Update 4.30*
+
+**Correzioni di bug e miglioramenti**
+- Adds Universal app support for Macs with M1.
+
+**Collegamento dell'aggiornamento di MAU:**
+
+[Scaricare il pacchetto di Microsoft AutoUpdate 4.30](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Hash SHA-256:**
+
+9F4C49BE4FCC82DED7BD394F4F2057912B40D0083F754D15495B7BDE9E58EAC4
+
+<br/><br/>
 
 
 ## <a name="november-2020-release"></a>Rilascio di novembre 2020
@@ -289,7 +308,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 - Canale tramite app: gli amministratori Mac possono ora sottoscrivere vari canali o anelli di convalida tramite le app. 
 
 
-**Collegamento dell'aggiornamento di MAU:**
+**Collegamento dell'aggiornamento MAU:**
 
 [Scaricare il pacchetto di Microsoft AutoUpdate 4.18](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
