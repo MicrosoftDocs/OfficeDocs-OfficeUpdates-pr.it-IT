@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 5c7201236c3974e0b0001d7a17d4d945d359947e
-ms.sourcegitcommit: 0de1e313cbab2fcb6c3216e71f90312249bb4396
+ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
+ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49655306"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49716946"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,66 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2101-december-18"></a>Version 2101: 18 dicembre
+*Versione 2101 (Build 13610.20002)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+### <a name="outlook"></a>Outlook
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+### <a name="word"></a>Word
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato apportato un miglioramento delle prestazioni durante l'applicazione degli stili di formattazione alle tabelle pivot.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che impediva agli utenti di selezionare più di una categoria da cercare.
+
+
+- È stato risolto un problema che causava la modifica inaspettata dell'ora di inizio di alcuni elementi del calendario quando l'evento veniva copiato da un altro appuntamento.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui gli utenti aprivano progetti che presumibilmente erano stati salvati con informazioni aggiornate, ma tali aggiornamenti non erano disponibili.
+
+
+### <a name="word"></a>Word
+
+- Correzione dell'effetto di animazione durante la digitazione nella parte inferiore di una scheda di commento.
+
+
+- È stato risolto un problema per cui Word si bloccava durante il salvataggio di un documento in formato PDF con testo nascosto.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2101-december-11"></a>Version 2101: 11 dicembre
 *Versione 2101 (Build 13604.20000)*
@@ -1453,6 +1513,8 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 - **Creare una connessione PDF:** connettersi a, importare, aggiornare i dati da un file PDF. [Altre informazioni](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
+- **Applicare automaticamente o consigliare etichette sulla riservatezza:** Office può consigliare o applicare automaticamente un'etichetta sulla riservatezza in base al contenuto sensibile rilevato.
+
 ### <a name="outlook"></a>Outlook
 
 - **Trovare solo quello che serve:** è possibile restringere la ricerca con opzioni come cartelle, mittente, data, info allegati e altro ancora.
@@ -1460,6 +1522,8 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Non c'è bisogno del clicker grazie agli auricolari:** i Surface Earbuds permettono di controllare le presentazioni di PowerPoint. Importante: per usare i gesti per controllare le presentazioni è necessario associare gli auricolari Surface Earbuds nell'app Surface Audio per Windows 10. Le istruzioni per iniziare a usare l'app Surface Audio in Windows 10 sono disponibili qui. [Altre informazioni](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **Applicare automaticamente o consigliare etichette sulla riservatezza:** Office può consigliare o applicare automaticamente un'etichetta sulla riservatezza in base al contenuto sensibile rilevato.
 
 ### <a name="word"></a>Word
 
@@ -2101,6 +2165,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|versione-2101-dicembre-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|versione-2012-04-dicembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|versione-2012-27-novembre|)
@@ -2110,5 +2175,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|versione-2011-ottobre-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|versione-2011-ottobre-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
