@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 0be2192fb0bc08c399c4c7d698de759bfec3433e
-ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
+ms.openlocfilehash: 33fad2b4d91d05abedee0de26c8a0bc101e9c4bd
+ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49673974"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725775"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -28,6 +28,46 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle dell'ultima versione del Canale corrente (Anteprima), in quanto hanno una cadenza di rilascio più frequente.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2012-december-21"></a>Versione 2012: 21 dicembre
+*Versione 2012 (Build 13530.20218)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+### <a name="outlook"></a>Outlook
+
+- **Preparare in tempo riunioni ravvicinate:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che inizino di default 5-10 minuti in ritardo. [Altre informazioni](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+### <a name="word"></a>Word
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui il comando dimensioni del carattere, quando veniva aggiunto alla barra, eseguiva il completamento automatico alle dimensioni del carattere definite più vicine durante l'aggiornamento.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2012-december-14"></a>Versione 2012: 14 dicembre
 *Versione 2012 (Build 13530.20144)*

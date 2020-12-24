@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: 125f37f1fb4b21d2d63784e51703c1297d928f49
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
+ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601411"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725071"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -28,6 +28,12 @@ Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È
  **Istruzioni di installazione**: scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="december-21-2020"></a>21 dicembre 2020
+Versione 16.0.13426.20370 (setup.exe versione 16.0.13426.20352)
+- È stato risolto un problema per cui le installazioni di origine locali di ProofingTools dal canale PerpetualVL2019 non riuscivano
+- È stato risolto un problema per garantire che il client a portata di clic tenti un aggiornamento automatico quando si aggiungono altri prodotti in lingue di Office non complete a un'installazione esistente
+
 
 ## <a name="december-8-2020"></a>8 dicembre 2020
 Versione 16.0.13426.20308 (setup.exe versione 16.0.13426.20308)

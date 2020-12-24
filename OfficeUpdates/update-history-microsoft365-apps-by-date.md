@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT un elenco completo di rilasci di App di Microsoft 365, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
-ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
+ms.openlocfilehash: 2f72d1f036be1874e5b911ec57ca18a07fc1c41c
+ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "49662701"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725755"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Cronologia degli aggiornamenti per App di Microsoft 365 (elencati in ordine cronologico)
 
@@ -36,7 +36,7 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canale corrente<br/>|2011<br/>|13426.20332<br/>|8 dicembre 2020<br/>|Rilasciata la versione 2012<br/>|
+|Canale corrente<br/>|2011<br/>|13426.20404<br/>|21 dicembre 2020<br/>|Rilasciata la versione 2012<br/>|
 |Canale Enterprise mensile<br/>|2010<br/>|13328.20478<br/>|8 dicembre 2020<br/>|9 febbraio 2021<br/>|
 |Canale Enterprise mensile<br/>|2009<br/>|13231.20620<br/>|8 dicembre 2020<br/>|12 gennaio 2021<br/>|
 |Canale Enterprise semestrale (Anteprima)<br/>|2008<br/>|13127.20910<br/>|8 dicembre 2020<br/>|9 marzo 2021<br/>|
@@ -55,6 +55,7 @@ La tabella seguente fornisce un elenco dei numeri di versione e di build per ogn
 
 |**Anno**|**Data di rilascio**|**Canale corrente**|**Canale Enterprise mensile**|**Canale Enterprise semestrale (Anteprima)**|**Canale Enterprise semestrale**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|21 dicembre|[Versione 2011 (Build 13426.20404)](current-channel.md#version-2011-december-21)| | | |
 |2020|8 dicembre|[Versione 2011 (Build 13426.20332)](current-channel.md#version-2011-december-08)|[Versione 2010 (Build 13328.20478)](monthly-enterprise-channel.md#version-2010-december-08)<br/>[Versione 2009 (Build 13231.20620)](monthly-enterprise-channel.md#version-2009-december-08)|[Versione 2008 (Build 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[Versione 2002 (Build 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[Versione 1908 (Build 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
 |2020|2 dicembre|[Versione 2011 (Build 13426.20308)](current-channel.md#version-2011-december-02)| | | |
 |2020|30 novembre|[Versione 2011 (Build 13426.20294)](current-channel.md#version-2011-november-30)| | | |
