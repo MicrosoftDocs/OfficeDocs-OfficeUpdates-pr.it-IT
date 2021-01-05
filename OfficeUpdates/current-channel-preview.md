@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: ba9448af2e899aa4bc60d9d825117be3d895dbcd
-ms.sourcegitcommit: 148e77b6199c7f6f584542a60e35b434fa830b80
+ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
+ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/28/2020
-ms.locfileid: "49735504"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49750627"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -28,6 +28,29 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle dell'ultima versione del Canale corrente (Anteprima), in quanto hanno una cadenza di rilascio più frequente.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2012-january-04"></a>Versione 2012: 4 gennaio
+*Versione 2012 (Build 13530.20316)*
+* Diverse correzioni di bug e miglioramenti delle prestazioni.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Etichettatura obbligatoria:** gli amministratori degli utenti con impostato il criterio di Etichettatura obbligatoria dovranno etichettare documenti ed e-mail.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Etichettatura obbligatoria:** gli amministratori degli utenti con impostato il criterio di Etichettatura obbligatoria dovranno etichettare documenti ed e-mail.
+
+### <a name="word"></a>Word
+
+- **Etichettatura obbligatoria:** gli amministratori degli utenti con impostato il criterio di Etichettatura obbligatoria dovranno etichettare documenti ed e-mail.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2012-december-28"></a>Versione 2012: 28 dicembre
 *Versione 2012 (Build 13530.20264)*
@@ -1416,7 +1439,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEL BUG)
 
 ## <a name="version-2007-august-05"></a>Versione 2007: 05 agosto
 *Versione 2007 (Build 13029.20344)*
@@ -2299,7 +2322,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
 
 ## <a name="version-2004-april-29"></a>Versione 2004: 29 aprile
 *Versione 2004 (Build 12730.20236)*
@@ -2824,7 +2847,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema per cui quando più documenti venivano aperti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint, solo il primo veniva analizzato per la conformità dei criteri.
 
 
-[//]: # (NON RIMUOVERE I DETTAGLI DI FINE CONTENUTO DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-march-05"></a>Versione 2002: 5 marzo
 *Versione 2002 (Build 12527.20278)*
