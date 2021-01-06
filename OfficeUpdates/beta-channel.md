@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
-ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
+ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716946"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748224"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,107 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2101-january-01"></a>Versione 2101: 1 gennaio
+*Versione 2101 (Build 13624.20002)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Etichettatura obbligatoria:** gli amministratori degli utenti con impostato il criterio di Etichettatura obbligatoria dovranno etichettare documenti ed e-mail.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Etichettatura obbligatoria:** gli amministratori degli utenti con impostato il criterio di Etichettatura obbligatoria dovranno etichettare documenti ed e-mail.
+
+### <a name="word"></a>Word
+
+- **Etichettatura obbligatoria:** gli amministratori degli utenti con impostato il criterio di Etichettatura obbligatoria dovranno etichettare documenti ed e-mail.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="onenote"></a>OneNote
+
+- Questa modifica risolve un problema di rendering che riguarda OneNote.
+
+
+### <a name="outlook"></a>Outlook
+
+- Questa modifica consente a Outlook di sfruttare un'impostazione di Exchange Server che disattiva la visualizzazione della cassetta postale di archiviazione di Exchange Online per gli utenti finali.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Questa modifica risolve un problema relativo a Unisci forme durante la modifica del testo.
+
+
+### <a name="word"></a>Word
+
+- Correzione per rendere più affidabili i commenti moderni.
+
+
+- È stato risolto un problema che si verificava durante la modifica del post di commento con @menzione.
+
+
+- La bozza del commento scompare quando si crea una nuova istanza di Word.
+
+
+- È stato risolto un problema relativo alle barre di scorrimento annidate nel riquadro Commenti.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2101-december-25"></a>Versione 2101: 25 dicembre
+*Versione 2101 (Build 13617.20002)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- Aggiornamento che consente di riportare le impostazioni dei separatori decimali e delle migliaia quando si copia un grafico da Excel e lo si incolla in Word
+
+
+- È stato risolto un problema che causava la chiusura imprevista di Excel quando si aprivano file UNC con attributi di file non validi (ora di creazione, ora di modifica e così via).
+
+
+- Questa modifica risolve un problema relativo alla modifica dei colori del contorno delle immagini SVG.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che impediva agli utenti di specificare il periodo di tempo per cui consentire l'accesso all'avvio di una stampa unione da Word, causando un numero eccessivo di richieste.
+
+
+- È stato risolto un problema che causava la chiusura imprevista di Outlook per gli utenti di componenti aggiuntivi basati su Riscatto.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Questa modifica risolve un problema relativo alla modifica dei colori del contorno delle immagini SVG.
+
+
+### <a name="word"></a>Word
+
+- Questa modifica risolve un problema relativo alla modifica dei colori del contorno delle immagini SVG.
+
+
+- È stato risolto un problema per il quale la casella della risposta in una scheda di commento non è visibile nella schermata.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2101-december-18"></a>Version 2101: 18 dicembre
 *Versione 2101 (Build 13610.20002)*
@@ -2165,6 +2266,8 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|versione-2101-dicembre-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|versione-2012-04-dicembre|)
@@ -2173,6 +2276,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|versione-2012-13-novembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|versione-2011-ottobre-16|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

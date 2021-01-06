@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 60e12b7b58c06415c80db20cd35f41c622c0bbd0
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: 893b5374a24fefdbe1fbdc7788370dd5a87e0251
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601471"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760700"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale Enterprise semestrale nel 2020
+# <a name="release-notes-for-semi-annual-enterprise-channel"></a>Note sulla versione del Canale Enterprise semestrale
 
-Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del Canale Enterprise semestrale nel 2020 per Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business e delle versioni in abbonamento delle app desktop per Project e Visio.
+Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del Canale Enterprise semestrale per Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business e delle versioni in abbonamento delle app desktop per Project e Visio.
 
 > [!IMPORTANT]
 > Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
@@ -967,7 +967,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema nella sincronizzazione delle cartelle del calendario condiviso con l'OST, che causava errori di autorizzazione quando gli utenti provavano a interagire con queste cartelle.
 
-- Risolve un problema che causa l'arresto anomalo quando si visualizzano più di 30 calendari in un ambiente Citrix. Qui è disponibile il singolo [articolo della Knowledge Base in cui è stato documentato per le versioni precedenti](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen).
+- Risolve un problema che causa l'arresto anomalo quando si visualizzano più di 30 calendari in un ambiente Citrix. Qui è disponibile il singolo [articolo della Knowledge Base in cui è stato documentato per le versioni precedenti](https://support.microsoft.com/it-IT/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen).
 
 - Risolve un problema relativo alla selezione dell'algoritmo SMIME.
 

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Viene fornito ai professionisti IT un elenco delle versioni più recenti per Microsoft 365 Apps per ciascun canale di aggiornamenti e collegamenti alle note sulle versioni e alla cronologia degli aggiornamenti
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748234"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760640"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informazioni sulle versioni degli aggiornamenti a Microsoft 365 Apps
 
@@ -45,10 +45,10 @@ Per un elenco completo delle dimensioni degli aggiornamenti delle versioni, vede
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Note sulla versione per le versioni di Microsoft 365 Apps
 
 Per un elenco completo delle note sulle versioni per canale di aggiornamento e anno, vedere gli articoli seguenti:
- - Canale corrente: [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
- - Canale Enterprise mensile:  [2021-2020](monthly-enterprise-channel.md)
- - Canale Enterprise semestrale (Anteprima): [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
- - Enterprise semestrale: [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
+ - Canale corrente: [Note sulla versione](current-channel.md), [Note archiviate sulla versione](monthly-channel-archived.md)
+ - Canale Enterprise mensile:  [Note sulla versione](monthly-enterprise-channel.md)
+ - Canale Enterprise semestrale (Anteprima): [Note sulla versione](semi-annual-enterprise-channel-preview.md), [Note archiviate sulla versione](semi-annual-enterprise-channel-preview-archived.md)
+ - Canale Enterprise semestrale: [Note sulla versione](semi-annual-enterprise-channel.md), [Note archiviate sulla versione](semi-annual-enterprise-channel-archived.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
  Per un elenco completo delle versioni dello Strumento di distribuzione di Office, vedere l'articolo seguente:

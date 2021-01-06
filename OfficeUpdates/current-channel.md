@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 05b0f1f990c33ae7e3e7f76971eac447c66382f2
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: 5f7a0c255d98678baf5b868b5fd41e213e2901bc
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725795"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760680"
 ---
-# <a name="release-notes-for-current-channel-releases-in-2020"></a>Note sulla versione per i rilasci del Canale corrente nel 2020
+# <a name="release-notes-for-current-channel"></a>Note sulla versione del Canale corrente
 
-Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del Canale corrente (mirato) nel 2020 per Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business e delle versioni in abbonamento delle app desktop per Project e Visio.
+Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del Canale corrente per Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business e le versioni in abbonamento delle app desktop per Project e Visio.
 
 > [!IMPORTANT]
 > Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
@@ -32,6 +32,69 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2012-january-05"></a>Versione 2012: 5 gennaio
+*Versione 2012 (Build 13530.20316)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Impostazioni di Outlook nel cloud:** scegliere le impostazioni di Outlook per Windows, ad esempio Risposte automatiche, Posta in arrivo evidenziata e Privacy, per accedervi da qualsiasi PC.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Provare la presentazione con Training per relatore:** per ricevere feedback sugli elementi che incidono sul coinvolgimento del pubblico, come ritmo, intonazione, intercalari, parole sensibili e così via. [Altre informazioni](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui Excel poteva chiudersi in modo imprevisto quando veniva usato il menu "Mostra valori come" per una tabella pivot.
+
+
+- È stato risolto un problema per cui Excel poteva lasciare le macro disabilitate senza chiedere conferma all'apertura di un componente aggiuntivo di Excel contenente macro di Excel 4.0.
+
+
+- È stato risolto un problema per cui alcuni utenti visualizzavano erroneamente una barra dei messaggi che li informava di una nuova versione di un file durante la creazione condivisa.
+
+
+- Questa modifica risolve un problema con la visualizzazione corretta dei tipi di caratteri all'interno delle equazioni.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava il blocco del caricamento del calendario da parte di alcuni utenti.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Questa modifica risolve un problema con il riempimento del percorso quando si applicava Unisci forme con determinate geometrie.
+
+
+- Questa modifica risolve un problema con la visualizzazione corretta dei tipi di caratteri all'interno delle equazioni.
+
+
+- È stato risolto un problema per cui il comando dimensioni del carattere, quando veniva aggiunto alla barra, eseguiva il completamento automatico alle dimensioni del carattere definite più vicine durante l'aggiornamento.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Dimensioni binarie ottimizzate.
+
+
+- Anaheim WebView non supporta ancora Windows Information Protection (WIP). Con questa correzione la piattaforma dei componenti aggiuntivi di Office userà WebView di livello inferiore nell’ambiente abilitato di WIP. Questo può essere Edge WebView Spartan o WebView Trident, a seconda dell'ambiente del computer del cliente. Entrambi i WebView di livello inferiore supportano WIP.
 
 
 
@@ -1134,7 +1197,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Uso automatico dei nuovi tipi di dati**: quando si digita un valore di dati che assomiglia a un'azione o a una posizione geografica, Excel offre la possibilità di convertirlo nel tipo di dati connesso: Azioni o Dati geografici. [Altre informazioni](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+- **Racconta le tue storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate per dare un tocco di eleganza ai documenti.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1753,6 +1816,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
@@ -1762,5 +1826,4 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale (mirato) per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: ea0bcf4a30146c52bb45fef6361d490580b64739
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601611"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760650"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Note sulla versione per i rilasci del Canale Enterprise semestrale (Anteprima) nel 2020
+# <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Note sulla versione del Canale Enterprise semestrale (Anteprima)
 
-Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del Canale Enterprise semestrale (Anteprima) nel 2020 per Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business e delle versioni in abbonamento delle app desktop per Project e Visio.
+Queste note sulla versione forniscono informazioni sulle nuove funzionalità e sugli aggiornamenti non relativi alla sicurezza inclusi negli aggiornamenti del Canale Enterprise semestrale (Anteprima) per Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business e delle versioni in abbonamento delle app desktop per Project e Visio.
 
 > [!IMPORTANT]
 > Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
@@ -176,7 +176,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema per cui le intestazioni dei messaggi in cinese erano incomprensibili in caso di risposta o inoltro.
 
-- È stato risolto un problema per cui le esperienze connesse facoltative bloccavano il caricamento dei componenti aggiuntivi Web.  <br />Vedere i dettagli nel [post di blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- È stato risolto un problema per cui le esperienze connesse facoltative bloccavano il caricamento dei componenti aggiuntivi Web.  <br />Vedere i dettagli nel [post di blog](https://developer.microsoft.com/it-IT/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -314,7 +314,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Partecipare alle riunioni senza uscire dalla Posta in arrivo:** non è necessario passare al Calendario per partecipare alle riunioni online. Con il Calendario aggiunto al riquadro Da fare, si può partecipare qualsiasi riunione con un semplice clic del mouse.
 
-- **Nuova esperienza per le reti Wi-Fi captive:** è mai capitato di connettersi a una rete Wi-Fi che richiede di accedere con una pagina Web? Outlook ora consente di rimanere connessi in scenari di questo tipo.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Nuova esperienza per le reti Wi-Fi captive:** è mai capitato di connettersi a una rete Wi-Fi che richiede di accedere con una pagina Web? Outlook ora consente di rimanere connessi in scenari di questo tipo.<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Suggerimenti di posta elettronica per cercare una persona:** quando si digita il nome di una persona nella casella di ricerca, i messaggi di posta elettronica più importanti saranno inclusi nei suggerimenti di ricerca. [Altre informazioni](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -882,7 +882,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Digitare una formula che restituisce più valori:** è possibile digitare rapidamente una formula che restituisce più valori, che si estenderanno automaticamente nelle celle adiacenti. [Altre informazioni](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **Sei potenti funzioni:** sono state aggiunte sei nuove funzioni per potenziare i fogli di calcolo, ovvero FILTRO, DATI.ORDINA, DATI.ORDINA.PER, UNICI, SEQUENZA e MATR.CASUALE.  [Altre informazioni](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **Cercare a sinistra, cercare a destra... ecco CERCA.X:** Riga per riga, per trovare tutto il necessario in una tabella o in un intervallo con CERCA.X.  [Altre informazioni](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **Cercare a sinistra, cercare a destra... ecco CERCA.X:** Riga per riga, per trovare tutto il necessario in una tabella o in un intervallo con CERCA.X.  
+  [Altre informazioni](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
