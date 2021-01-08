@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
-ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
+ms.openlocfilehash: 5c14b7c5e42d76034712a07789bce366b69d1543
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49750627"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780682"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -28,6 +28,151 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle dell'ultima versione del Canale corrente (Anteprima), in quanto hanno una cadenza di rilascio più frequente.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2101-january-07"></a>Versione 2101: 7 gennaio
+*Versione 2101 (Build 13628.20030)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Scoprire più fogli contemporaneamente:** ora non è più necessario scoprire i fogli nascosti uno alla volta. [Altre informazioni](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Miglioramenti delle finestre di dialogo per la formattazione condizionale:** le finestre di dialogo per la formattazione condizionale sono ora ridimensionabili ed è ora possibile duplicare la regola con un singolo clic del mouse. [Altre informazioni](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui Excel visualizzava erroneamente una barra dei messaggi che indicava che era disponibile una nuova versione del file e forzava l'utente a salvare le modifiche apportate in una copia della cartella di lavoro o a ignorare le modifiche.
+
+
+- È stato risolto un problema con il cambio dei separatori dopo una chiamata Selection.Parent.Copy.
+
+
+- È stato apportato un miglioramento delle prestazioni durante l'applicazione degli stili di formattazione alle tabelle pivot.
+
+
+- È stato risolto un problema per cui Excel poteva lasciare le macro disabilitate senza chiedere conferma all'apertura di un componente aggiuntivo di Excel contenente macro di Excel 4.0.
+
+
+- Aggiornamento che consente di riportare le impostazioni dei separatori decimali e delle migliaia quando si copia un grafico da Excel e lo si incolla in Word
+
+
+- È stato risolto un problema che causava la chiusura imprevista di Excel quando si aprivano file UNC con attributi di file non validi (ora di creazione, ora di modifica e così via).
+
+
+- È stato risolto un problema che poteva causare un avviso di "risorse esaurite" quando si utilizzava la funzione STOCKHISTORY.
+
+
+- Aggiunta una dll FuzzyClustering all'elenco delle dll PQ.
+
+
+- Questa modifica risolve un problema relativo alla modifica dei colori del contorno delle immagini SVG.
+
+
+- È stato risolto un problema per cui l'anteprima dell'intervallo di Excel incorporato in PowerPoint mostra dimensioni errate.
+
+
+### <a name="onenote"></a>OneNote
+
+- Questa modifica risolve un problema di rendering che riguarda OneNote.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che impediva agli utenti di specificare il periodo di tempo per cui consentire l'accesso all'avvio di una stampa unione da Word, causando un numero eccessivo di richieste.
+
+
+- Questa modifica consente a Outlook di sfruttare un'impostazione di Exchange Server che disattiva la visualizzazione della cassetta postale di archiviazione di Exchange Online per gli utenti finali.
+
+
+- È stato risolto un problema che causava la chiusura imprevista di Outlook per gli utenti di componenti aggiuntivi basati su Riscatto.
+
+
+- È stato risolto un problema che impediva agli utenti di selezionare più di una categoria da cercare.
+
+
+- È stato risolto un problema che causava la modifica inaspettata dell'ora di inizio di alcuni elementi del calendario quando l'evento veniva copiato da un altro appuntamento.
+
+
+- È stato risolto un problema che causava il danneggiamento dei messaggi S/MIME di testo normale durante l'invio.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Questa modifica risolve un problema relativo a Unisci forme durante la modifica del testo.
+
+
+- Questa modifica risolve un problema relativo alla modifica dei colori del contorno delle immagini SVG.
+
+
+- Questa modifica risolve un problema con la riproduzione ciclica di video di sfondo in una presentazione.
+
+
+- È stato risolto un problema per cui il comando dimensioni del carattere, quando veniva aggiunto alla barra, eseguiva il completamento automatico alle dimensioni del carattere definite più vicine durante l'aggiornamento.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui le unità massime di una risorsa non riflettevano sempre l'ultimo aggiornamento alle unità massime.
+
+
+### <a name="visio"></a>Visio
+
+- Il problema si è verificato a causa di una recente regressione. È stato risolto il problema. La finestra di dialogo "Salva come pagina Web" ora avrà i campi correttamente compilati secondo gli input dell'utente e gli utenti potranno salvare senza problemi i propri file come pagine web.
+
+
+- Questo problema è stato risolto. È ora possibile incorporare file di Visio come oggetti in altre applicazioni di Office come PowerPoint e Word e accedervi facilmente dall'interno di queste applicazioni.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui le macchine con impostazioni hash personalizzate riscontravano problemi quando entravano in una sessione di collaborazione con un'impostazione hash diversa da sha512.
+
+
+- Questa modifica risolve un problema relativo alla modifica dei colori del contorno delle immagini SVG.
+
+
+- È stato risolto un problema che si verificava durante la modifica del post di commento con @menzione.
+
+
+- È stato risolto un problema per rendere più affidabili i commenti moderni.
+
+
+- È stato risolto un problema relativo all'eliminazione di commenti moderni nel controllo del contenuto contrassegnato come non modificabile.
+
+
+- Correzione dell'effetto di animazione durante la digitazione nella parte inferiore di una scheda di commento.
+
+
+- È stato risolto un problema per il quale la casella della risposta in una scheda di commento non è visibile nella schermata.
+
+
+- È stato risolto un problema che mostrava una scheda commento a inizio pagina.
+
+
+- Risolve un bug nei commenti in cui il testo scorre fuori dallo schermo.
+
+
+- È stato risolto un problema relativo alle barre di scorrimento annidate nel riquadro Commenti.
+
+
+- La bozza del commento scompare quando si crea una nuova istanza di Word.
+
+
+- È stato risolto un problema per cui Word si bloccava durante il salvataggio di un documento in formato PDF con testo nascosto.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2012-january-04"></a>Versione 2012: 4 gennaio
 *Versione 2012 (Build 13530.20316)*
@@ -1439,7 +1584,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEL BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2007-august-05"></a>Versione 2007: 05 agosto
 *Versione 2007 (Build 13029.20344)*
@@ -2160,7 +2305,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Per le cartelle di lavoro salvate con una firma digitale in Excel 2016 la firma poteva essere invalidata con l’apertura nell’attuale versione di Excel.
 
-- Application.Evaluate (VBA) talvolta non funzionava per le funzioni definite dall'utente.
+- Application.Evaluate (VBA) in alcuni casi non funzionava per le funzioni definite dall'utente.
 
 - Per le cartelle di lavoro salvate con una firma digitale in Excel 2016 la firma poteva essere invalidata con l’apertura nell’attuale versione di Excel.
 
@@ -2316,13 +2461,13 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Questo aggiornamento risolve un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati al caricamento.
 
 
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-april-29"></a>Versione 2004: 29 aprile
 *Versione 2004 (Build 12730.20236)*
@@ -2838,7 +2983,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Se si usavano proprietà di scelta multipla, ricerca o metadati gestiti con documenti di Word, Excel o PowerPoint e si eseguiva il salvataggio in una raccolta documenti di SharePoint, queste proprietà erano limitate a 255 caratteri. Quando queste proprietà superavano i 255 caratteri, non era possibile salvare i documenti. Con questa modifica, il limite è stato aumentato a 2048 caratteri.
 

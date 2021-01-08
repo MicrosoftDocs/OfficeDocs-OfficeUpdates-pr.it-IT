@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 5f7a0c255d98678baf5b868b5fd41e213e2901bc
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 3b79261feff06820428a77b05fb778b577b0f046
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760680"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780754"
 ---
 # <a name="release-notes-for-current-channel"></a>Note sulla versione del Canale corrente
 
@@ -205,6 +205,10 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
+- **Assegna un nome al nuovo foglio dopo la query di origine:** quando i dati vengono caricati nel nuovo foglio, il foglio verrà denominato in base al nome della query di origine.
+
+- **Usare la finestra di dialogo avanzate per creare i tipi di dati:** la finestra di dialogo avanzata consente di selezionare manualmente le colonne che combinano il tipo di dati che si sta creando.
+
 ### <a name="onenote"></a>OneNote
 
 - **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
@@ -226,6 +230,8 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - **Cambiare automaticamente i temi di Office:** Office può cambiare automaticamente i temi in base alle impostazioni del tema di Windows 10. Passare a File > Account e scegliere "Usa impostazioni di sistema" nell'elenco a discesa Tema di Office. [Altre informazioni](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 - **Esportare immagini GIF animate in un intervallo:** selezionare un intervallo di diapositive durante l'esportazione in un formato GIF animato.
+
+- **Catalogo video:** migliorare i documenti con una catalogo di filmati video curati e con licenza a titolo gratuito disponibili in-app
 
 ### <a name="project"></a>Project
 
@@ -688,7 +694,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office. Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint. [Altre informazioni](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - **Riquadri a schede:** ora è possibile passare da un riquadro all'altro usando un'interfaccia a schede sul lato destro dell'app. L'interfaccia utente sarà visibile solo se sono presenti almeno due riquadri.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
 
@@ -1130,7 +1136,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema che può aver causato un arresto anomalo durante il trascinamento del contenuto dall'app.
 
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Questa modifica risolve potenziali blocchi che si verificano durante il caricamento e la riproduzione di contenuti animati, ad esempio GIF o modelli 3D.
 
@@ -1333,7 +1339,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - Questo aggiornamento risolve un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati al caricamento.
 
@@ -1806,7 +1812,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: "Sono stati modificati gli stili, i blocchi predefiniti".
 
-### <a name="office-suite"></a>Famiglia di prodotti Office
+### <a name="office-suite"></a>Applicazioni Office
 
 - È stato risolto un problema per cui gli aggiornamenti di Office potrebbero inaspettatamente scaricare file dalla rete CDN di Office anziché dall'origine prevista, ad esempio una condivisione locale o di rete o la posizione specificata da Configuration Manager.
 

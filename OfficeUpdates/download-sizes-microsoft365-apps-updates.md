@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: c2a5c2332ee83c83dc7e83728f4db2ded500a205
-ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
+ms.openlocfilehash: 8c3c42b5eb9ee1583736bc0e9df002b407ae71a5
+ms.sourcegitcommit: f42b5b75d8599f1876094ae2ceb5411519b69a31
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756715"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778877"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+
+## <a name="january-7-2021"></a>7 gennaio 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canale Enterprise mensile
+
+<i>La versione prevista è la numero 2011 (Build 13426.20504).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2010 (Build 13328.20478) <br/> |8 dicembre 2020 <br/> |146<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canale Enterprise semestrale (Anteprima)
+
+<i>La versione prevista è la numero 2008 (Build 13127.21032).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2008 (Build 13127.20910) <br/> |8 dicembre 2020 <br/> |56<br/> |
+|Versione 2008 (Build 13127.20760) <br/> |10 novembre 2020 <br/> |71<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canale Enterprise semestrale
+
+<i>La versione prevista è la numero 2102 (Build 13127.21032).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2002 (Build 12527.21416) <br/> |8 dicembre 2020 <br/> |363<br/> |
+|Versione 2002 (Build 12527.21330) <br/> |10 novembre 2020 <br/> |373<br/> |
+
+
+[//]: # (NON RIMUOVERE FINE CONTENUTO DELLA PREVISIONE)
 
 ## <a name="january-5-2021"></a>5 gennaio 2021
 
