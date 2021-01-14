@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
-ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
+ms.openlocfilehash: b9a5966e49653a4998a0cb3f3858decbe6f820c6
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725071"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837367"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -28,6 +28,10 @@ Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È
  **Istruzioni di installazione**: scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="january-12-2021"></a>12 gennaio 2021
+Versione 16.0.13530.20376 (setup.exe versione 16.0.13530.20334)
+- È stato risolto un problema che causava il mancato funzionamento di RemoveMSI durante la registrazione di prodotti corrotti o non ordinari
 
 ## <a name="december-21-2020"></a>21 dicembre 2020
 Versione 16.0.13426.20370 (setup.exe versione 16.0.13426.20352)

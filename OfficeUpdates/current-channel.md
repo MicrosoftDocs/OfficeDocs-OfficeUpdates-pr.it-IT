@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 3b79261feff06820428a77b05fb778b577b0f046
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: 90e66226abfe32aeb4097ccdfff3ec3665437c05
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780754"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837507"
 ---
 # <a name="release-notes-for-current-channel"></a>Note sulla versione del Canale corrente
 
@@ -32,6 +32,28 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2012-january-12"></a>Versione 2012: 12 gennaio
+*Versione 2012 (Build 13530.20376)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- Corregge un problema per cui Excel non si avvia o si chiude in modo imprevisto se sono in uso determinate impostazioni di protezione da exploit di Sicurezza di Windows (SimExec, CallerCheck)
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che impediva il salvataggio di una firma modificata dopo aver richiesto all'utente di eseguire questa operazione.
 
 
 
@@ -694,7 +716,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Salvare in cartelle aggiunte:** aggiungere le cartelle semplifica il salvataggio dei file di Office. Abbiamo ricevuto feedback per cui gli utenti desiderano un maggiore controllo sulle cartelle disponibili per il salvataggio di un nuovo file. Siamo entusiasti di offrirti una nuova funzionalità: l’aggiunta di cartelle nella finestra di dialogo Salva. Con questa nuova funzionalità sarà più facile salvare i file di Word, Excel e PowerPoint. [Altre informazioni](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - **Riquadri a schede:** ora è possibile passare da un riquadro all'altro usando un'interfaccia a schede sul lato destro dell'app. L'interfaccia utente sarà visibile solo se sono presenti almeno due riquadri.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
 
@@ -1136,7 +1158,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 - È stato risolto un problema che può aver causato un arresto anomalo durante il trascinamento del contenuto dall'app.
 
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - Questa modifica risolve potenziali blocchi che si verificano durante il caricamento e la riproduzione di contenuti animati, ad esempio GIF o modelli 3D.
 
@@ -1339,7 +1361,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - Questo aggiornamento risolve un problema di Visual Basic, Applications Edition in Microsoft Office per cui alcuni progetti VBA che contengono riferimenti a librerie di codice con caratteri DBCS nel nome o nel percorso vengono visualizzati dall'applicazione di Office come danneggiati al caricamento.
 
@@ -1812,7 +1834,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: "Sono stati modificati gli stili, i blocchi predefiniti".
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - È stato risolto un problema per cui gli aggiornamenti di Office potrebbero inaspettatamente scaricare file dalla rete CDN di Office anziché dall'origine prevista, ad esempio una condivisione locale o di rete o la posizione specificata da Configuration Manager.
 
@@ -1822,6 +1844,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
@@ -1831,5 +1854,4 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2013 che utilizzano A portata di clic.
-ms.openlocfilehash: 0d11acb0a63bf32c86bebcd3352c8be79017c7fb
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: d46d8e6ea453c64fed6458132ea439bd20caa92f
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601461"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837607"
 ---
 # <a name="update-history-for-office-2013"></a>Cronologia degli aggiornamenti per Office 2013
 
 Alcuni prodotti di Office 2013 vengono aggiornati automaticamente tramite una tecnologia denominata A portata di clic. Se si vuole verificare che la versione in uso sia aggiornata, controllare il numero di versione di Office e, se necessario, aggiornare manualmente.
   
 > [!NOTE]
-> La versione più recente di Office 2013 è la **15.0.5301.1000**, rilasciata il giorno 8 dicembre 2020.
+> La versione più recente di Office 2013 è la **15.0.5311.1000**, rilasciata il 12 gennaio 2021.
   
 Per verificare la versione di Office in uso, eseguire le operazioni seguenti:
   
@@ -45,6 +45,7 @@ Le nuove versioni contengono tutti gli aggiornamenti inclusi nelle versioni prec
   
 |**Anno di pubblicazione**|**Data di rilascio**|**Numero di versione**|**Altre informazioni**|
 |:-----|:-----|:-----|:-----|
+|2021|12 gennaio|15.0.5311.1000|[KB  4583559](https://support.microsoft.com/help/4583559)|
 |2020| 8 dicembre|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
 ||10 novembre|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
 ||13 ottobre| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
