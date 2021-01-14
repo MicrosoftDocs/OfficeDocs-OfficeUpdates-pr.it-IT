@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale (mirato) per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760650"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837627"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Note sulla versione del Canale Enterprise semestrale (Anteprima)
 
@@ -23,6 +23,78 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 > [!IMPORTANT]
 > Apporteremo alcune modifiche ai canali di aggiornamento per Microsoft 365 Apps, tra cui l'aggiunta di un nuovo canale di aggiornamento (Monthly Enterprise Channel) e la modifica dei nomi dei canali di aggiornamento già presenti. Leggere [questo articolo](https://go.microsoft.com/fwlink/p/?linkid=2127441) per altre informazioni.
 
+
+## <a name="version-2008-january-12"></a>Versione 2008: 12 gennaio
+*Versione 2008 (Build 13127.21064)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che consente di aggiornare i dati della tabella pivot quando si aprono i dati di sola lettura.
+
+
+- Questa modifica corregge il problema seguente: l'icona "Inserisci oggetto" di Excel non viene visualizzata quando si inserisce un file dalla cartella di sincronizzazione locale di OneDrive.
+
+
+- È stato risolto un problema per cui i clienti ricevevano una notifica errata su una nuova versione del file durante la creazione condivisa.
+
+
+- È stato risolto un problema che causava l'avanzamento di caratteri extra durante l'uso di IME nella modalità di sovrascrittura.
+
+
+- È stato risolto un problema quando si usano dati in tempo reale i combinazione con la funzionalità di ricalcolo multithread.
+
+
+- Corregge un problema per cui Excel non si avviava o si chiudeva in modo imprevisto se erano in uso determinate impostazioni di protezione da exploit di Sicurezza di Windows (SimExec, CallerCheck)
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la perdita del formato SmartLink durante il salvataggio nelle bozze.
+
+
+- È stato risolto un problema che consente agli utenti di personalizzare il testo di giustificazione quando si sovrascrive un criterio.
+
+
+- È stato risolto un problema per cui, salvando in formato OTF, i caratteri in cinese venivano trasformati in punti interrogativi.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema di VBA in cui Slide.Shapes.AddMediaObject2 si chiudeva in modo imprevisto con formati video legacy (MPG-1,Mpeg-2).
+
+
+- È stato risolto un problema per cui i file PowerPoint danneggiati non venivano aperti correttamente, anche dopo aver effettuato un'operazione di ripristino del documento.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui Project poteva chiudersi in modo imprevisto all'apertura di file in cui i profili delle risorse erano specificati in un certo modo.
+
+
+### <a name="skype"></a>Skype
+
+- Risolve un problema per cui il certificato TLS-DSK degli utenti non veniva rinnovato nel momento previsto, e veniva invece rinnovato solo quando restavano 12 ore di validità.
+
+
+- Risolve un problema per cui l'interfaccia utente di Skype for Business risulta vuota dopo l'accesso quando Office non è ancora concesso in licenza.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Questa modifica risolve un problema legato all'apertura di file contenenti diagrammi legacy.
+
+
+- Questa modifica corregge un problema con il proxy di fallback SVG che causa la violazione dell'accesso.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-december-08"></a>Versione 2008: 8 dicembre
 *Versione 2008 (Build 13127.20910)*
@@ -123,7 +195,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NON RIMUOVERE FINE DEL CONTENUTO BUG)
 
 ## <a name="version-2008-november-10"></a>Versione 2008: 10 novembre
 *La versione prevista è la numero 2008 (Build 13127.20760).*
@@ -349,7 +421,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Conferma dell'azione nelle utilità per la lettura dello schermo:** la conferma dell'azione rappresenta un requisito importante per l'accessibilità. Con l'introduzione di una nuova API di notifica di Windows, è ora possibile avvisare gli utenti delle utilità per la lettura dello schermo della riuscita delle azioni. I comandi taglia, copia, incolla, grassetto, corsivo, sottolineato, annulla, ripristina, correzione automatica e maiuscole automatiche ora sono tutti annunciati agli utenti dell'Assistente vocale in Win32 Word. Per abilitare questa funzionalità, attivare l'Assistente vocale premendo il tasto Windows + CTRL + INVIO.<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/05/confirmation-of-action-in-word-for-windows/)
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - **Etichette di riservatezza**: è ora possibile applicare un'etichetta di riservatezza configurata dall'organizzazione per richiedere autorizzazioni personalizzate.
 
@@ -1238,7 +1310,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - Gestione blocchi predefiniti potrebbe visualizzare un avviso non valido: "Sono stati modificati gli stili, i blocchi predefiniti".
 
-### <a name="office-suite"></a>Applicazioni Office
+### <a name="office-suite"></a>Famiglia di prodotti Office
 
 - Questa modifica risolve il rallentamento del rendering di alcuni grafici a dispersione con marcatori.
 
@@ -1250,7 +1322,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - È stato risolto un problema per cui l’apertura di più documenti in Word/Excel/PowerPoint dalla stessa raccolta di SharePoint comportava la conseguente analisi solo del primo documento per la conformità dei criteri.
 
-[//]: # (NON RIMUOVERE I DETTAGLI DEL BUG DI FINE CONTENUTO)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-february-11"></a>Versione 1908: 11 febbraio
 *Versione 1908 (Build 11929.20606)*
@@ -1364,6 +1436,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (| Win32 | FRDC | Partecipanti al programma Office Insider | | 16.0.13127.21064 | versione-2008-gennaio-12 |)
 [//]: # (|Win32|FRDC|Partecipanti al programma Office Insider| |16.0.13127.20910|versione-2008-dicembre-08|)
 [//]: # (|Win32|FRDC|Partecipanti al programma Office Insider| |16.0.13127.20760|versione-2008-novembre-10|)
 [//]: # (|Win32|FRDC|Partecipanti al programma Office Insider| |16.0.13127.20638|versione-2008-ottobre-13|)
