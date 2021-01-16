@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: f2eb63f0f9724ab4f5927df9696f7007917fe82e
-ms.sourcegitcommit: 75e30d61054abf480f9344b5a54370db93198d11
+ms.openlocfilehash: 6c96bdecd5cfc8fcfdebe4d851d29ac57e66ef72
+ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49785748"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878739"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,42 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2102-january-15"></a>Versione 2102: 15 gennaio
+*Versione 2102 (Build 13707.20008)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Condivisione con Teams:** condivi un messaggio di posta elettronica o una conversazione di Outlook con persone o canali di Teams.
+
+### <a name="visio"></a>Visio
+
+- **Elementi grafici già pronti per i tuoi diagrammi:** scegli da una grande libreria di icone, immagini di repertorio, ritagli di persone e adesivi che puoi aggiungere ai tuoi disegni di Visio. [Altre informazioni](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="project"></a>Project
+
+- È stato risolto un errore per cui, quando una risorsa costo veniva assegnata a una attività cardine, il valore del costo previsto non veniva aggiornato correttamente.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema che impediva l'esecuzione della macro VBA ExportAsFixedFormat2 con il messaggio di errore "Valore non valido presentazione (membro sconosciuto)".
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-january-08"></a>Versione 2102: 8 gennaio
 *Versione 2102 (Build 13704.20000)*
@@ -1230,7 +1266,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 - È stato risolto un problema per cui i collegamenti ai documenti non venivano inseriti nella casella commenti tramite il menu a discesa Inserisci -> Collegamento.
 - È stato risolto un problema per cui il conteggio dei collegamenti ipertestuali nella raccolta dei collegamenti ipertestuali VBA non eseguiva l’iterazione correttamente dopo l'aggiunta di un'immagine contenente un collegamento ipertestuale.
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEL BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-july-24"></a>Versione 2008: 24 luglio
 *Versione 2008 (Build 13117.20000)*
@@ -1779,7 +1815,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 - In visualizzazione Web/Strumento di lettura immersiva, la selezione di un suggerimento determinava lo scorrimento verso l'alto anche se era già visualizzato. Questo problema è stato risolto.
 - È stato risolto un problema per cui, quando si provava a salvare un file contenente una macro con un nuovo nome, il file veniva salvato con estensione docx e il nome file WRO0004.docx, indipendentemente dall'immissione dell'utente, rendendo il documento inutilizzabile.
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
 ## <a name="version-2005-april-24"></a>Versione 2005: 24 aprile
@@ -2077,7 +2113,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 - È stato risolto un problema che si verificava unendo due documenti in uno.
 - È stato risolto un problema per cui quando si contrassegnavano le revisioni contenenti delle equazioni si verificava un errore durante il salvataggio del file.
 
-[//]: # (NON RIMUOVERE FINE CONTENUTO DETTAGLI DEI BUG)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-march-06"></a>Versione 2003: 6 marzo
 *Versione 2003 (Build 12624.20086)*
@@ -2297,6 +2333,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
@@ -2306,5 +2343,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|versione-2012-27-novembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|versione-2012-20-novembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|versione-2012-13-novembre|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
