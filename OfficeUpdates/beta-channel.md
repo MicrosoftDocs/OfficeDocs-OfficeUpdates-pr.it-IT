@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 6c96bdecd5cfc8fcfdebe4d851d29ac57e66ef72
-ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
+ms.openlocfilehash: dfc33d79d7746d60b88b2c58fc7511e00cfe4fed
+ms.sourcegitcommit: d321589264b07388b317099e86baf327358c060e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878739"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937071"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,62 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2102-january-22"></a>Versione 2102: 22 gennaio
+*Versione 2102 (Build 13714.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- Risolve il problema per cui alcuni grafici che utilizzavano intervalli di celle discontinui non venivano caricati alla riapertura dei file.
+
+
+- Corregge un problema per cui Excel non si avvia o si arresta in modo imprevisto se sono in uso determinate impostazioni di protezione da exploit di Sicurezza di Windows (SimExec, CallerCheck).
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Risolto un problema relativo alla visualizzazione di emoji con colore.
+
+
+### <a name="word"></a>Word
+
+
+- Ciò risolve un problema che impediva il ripristino della digitazione e della presenza in tempo reale dopo aver perso la connettività Internet per un periodo di tempo.
+
+
+- È stato risolto un problema relativo al salvataggio automatico durante la creazione condivisa.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-january-15"></a>Versione 2102: 15 gennaio
 *Versione 2102 (Build 13707.20008)*
@@ -2333,6 +2389,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
@@ -2342,5 +2399,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|versione-2012-04-dicembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|versione-2012-27-novembre|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|versione-2012-20-novembre|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|versione-2012-13-novembre|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
