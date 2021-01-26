@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Trovare e gestire gli aggiornamenti per SharePoint Server 2016, SharePoint 2013 e SharePoint 2010 in un'unica posizione. Utilizzare i collegamenti riportati in questa pagina per visualizzare ulteriori informazioni sugli aggiornamenti e per scaricarli.
-ms.openlocfilehash: f94b64d28c61d5d98c64daebd4cc406439bafcf4
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b3d51cbd5990de8cf0c36f018881278b6f5989d4
+ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837577"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49980420"
 ---
 # <a name="sharepoint-updates"></a>Aggiornamenti per SharePoint
 
@@ -26,9 +26,13 @@ Trovare e gestire gli aggiornamenti per [SharePoint Server 2019](#sharepoint-201
 
 Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedere la [Roadmap di Office 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
 
+
+
 <a name="BKMK_2016"> </a>
   
 ## <a name="sharepoint-2019-update-history"></a>Cronologia degli aggiornamenti di SharePoint 2019
+> [!NOTE]
+>Il primo aggiornamento/KB elencato per ogni data di rilascio è la patch del servizio token di sicurezza indipendente dal linguaggio. Il secondo aggiornamento è la patch WSSLOC dipendente dal linguaggio e copre tutti i Language Pack, incluse le installazioni in inglese. Entrambi gli aggiornamenti sono necessari per aggiornare completamente la farm, sebbene la patch WSSLOC dipendente dal linguaggio possa non essere rilasciata ogni mese.
 
 |**Nome pacchetto**|**Numero KB**|**Versione**|**Data di rilascio**|
 |:-----|:-----|:-----|:-----|
@@ -60,6 +64,9 @@ Per gli aggiornamenti più recenti di SharePoint Online e Office 365, vedere la 
 |SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/help/4461548)  <br/> ||Dicembre 2018  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/help/4461513)  <br/> ||Novembre 2018  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>Cronologia degli aggiornamenti di SharePoint 2016
+
+> [!NOTE]
+>Il primo aggiornamento/KB elencato per ogni data di rilascio è la patch del servizio token di sicurezza indipendente dal linguaggio. Il secondo aggiornamento è la patch WSSLOC dipendente dal linguaggio e copre tutti i Language Pack, incluse le installazioni in inglese. Entrambi gli aggiornamenti sono necessari per aggiornare completamente la farm, sebbene la patch WSSLOC dipendente dal linguaggio possa non essere rilasciata ogni mese.
 
 |**Nome pacchetto**|**Numero KB**|**Versione**|**Data di rilascio**|
 |:-----|:-----|:-----|:-----|
