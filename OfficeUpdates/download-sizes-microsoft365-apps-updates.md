@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: 3749b725ef816a48552438c3e79ea78d026b26b4
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 7b4cda2310ee10bb297384b6d3f25e30a028ee7d
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934394"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013247"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
@@ -35,6 +35,22 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="january-26-2021"></a>26 gennaio 2021
+
+[//]: # (DO NOT REMOVE CONTENT STARTJanuary 26, 2021)
+
+### <a name="current-channel"></a>Canale corrente
+
+La versione più recente è la numero 2101 (Build 13628.20274).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2012 (Build 13530.20440) <br/> |21 gennaio 2021 <br/> |197<br/> |
+|Versione 2012 (Build 13530.20376) <br/> |12 gennaio 2021 <br/> |211<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJanuary 26, 2021)
 
 ## <a name="january-21-2021"></a>21 gennaio 2021
 

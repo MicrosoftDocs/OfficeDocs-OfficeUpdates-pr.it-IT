@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934414"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013287"
 ---
 # <a name="release-notes-for-current-channel"></a>Note sulla versione del Canale corrente
 
@@ -32,6 +32,86 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2101-january-26"></a>Versione 2101: 26 gennaio
+*Versione 2101 (Build 13628.20274)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+- 
+  **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H (ulteriori informazioni - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="outlook"></a>Outlook
+
+- **Eliminare una conversazione con il proprietario del messaggio:** questa funzionalità consente di eliminare una conversazione dal proprietario del messaggio.
+
+- **Preparare in tempo riunioni ravvicinate:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che inizino di default 5-10 minuti in ritardo. [Altre informazioni](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **Ogni riunione online:** aggiornare le impostazioni del calendario per rendere qualsiasi riunione creata una riunione di Teams per impostazione predefinita, così da non doversi ricordare di fare clic sull'opzione Riunione di Teams.
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+- 
+  **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H (ulteriori informazioni - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+- 
+  **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H (ulteriori informazioni - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="word"></a>Word
+
+- **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
+
+- 
+  **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H (ulteriori informazioni - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- Corregge un problema per cui Excel non si avviava o si chiudeva in modo imprevisto se erano in uso determinate impostazioni di protezione da exploit di Sicurezza di Windows (SimExec, CallerCheck)
+
+
+### <a name="excelexe"></a>excel.exe
+
+- È stato risolto un problema che interrompeva alcune macro legacy di Excel 4.0 ed Excel 5.0, come anche alcune chiamate VBA su dialogsheets.show.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la chiusura imprevista di Outlook in alcuni scenari di ricerca.
+
+
+- È stato risolto un problema che causava il blocco degli utenti con cassette postali condivise o delegate con gerarchie di grandi dimensioni nel loro profilo.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema a causa del quale i bordi per le attività non venivano visualizzati nella visualizzazione Pianificazione team.
+
+
+- È stato risolto un problema a causa del quale il trascinamento della selezione non funzionava per le attività nella visualizzazione Pianificazione team.
+
+
+- È stato risolto un errore per cui, quando una risorsa costo veniva assegnata a un'attività cardine, il valore del costo previsto non veniva aggiornato correttamente.
 
 
 
@@ -1247,7 +1327,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Uso automatico dei nuovi tipi di dati**: quando si digita un valore di dati che assomiglia a un'azione o a una posizione geografica, Excel offre la possibilità di convertirlo nel tipo di dati connesso: Azioni o Dati geografici. [Altre informazioni](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+- **Racconta le tue storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate per dare un tocco di eleganza ai documenti.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1866,6 +1946,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
@@ -1875,5 +1956,4 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

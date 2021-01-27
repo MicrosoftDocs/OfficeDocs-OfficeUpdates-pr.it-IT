@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: ddd84106439eace1f0566ed336a4ecc83d4d897f
-ms.sourcegitcommit: 7261f86f16c400b51d14f6fd03e81552c78a8326
+ms.openlocfilehash: e2b211ded8c30c0ad3be4731a310cdbccfd10a65
+ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "49903849"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49980410"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -28,6 +28,44 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle dell'ultima versione del Canale corrente (Anteprima), in quanto hanno una cadenza di rilascio più frequente.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2101-january-25"></a>Versione 2101: 25 gennaio
+*Versione 2101 (Build 13628.20274)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="word"></a>Word
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava il blocco degli utenti con cassette postali condivise o delegate con gerarchie di grandi dimensioni nel loro profilo.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2101-january-18"></a>Versione 2101: 18 gennaio
 *Versione 2101 (Build 13628.20158)*
