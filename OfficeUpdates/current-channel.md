@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 5fab650e5b8ebb66b1507e889a744a95c3322809
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013287"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032303"
 ---
 # <a name="release-notes-for-current-channel"></a>Note sulla versione del Canale corrente
 
@@ -47,8 +47,7 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 - **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
 
-- 
-  **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H (ulteriori informazioni - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -60,22 +59,19 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 - **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
 
-- 
-  **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H (ulteriori informazioni - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
 
-- 
-  **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H (ulteriori informazioni - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
 - **Inviare dati di controllo sull'applicazione delle etichette di riservatezza agli amministratori di M365:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza nei documenti e nei messaggi di posta elettronica, Office invierà i dati di controllo al backend di controllo di M365 per gli amministratori. Si tratta di una funzionalità invisibile all'utente (nessuna interfaccia utente) utile per gli amministratori.
 
-- 
-  **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H (ulteriori informazioni - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -89,8 +85,6 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 - Corregge un problema per cui Excel non si avviava o si chiudeva in modo imprevisto se erano in uso determinate impostazioni di protezione da exploit di Sicurezza di Windows (SimExec, CallerCheck)
 
-
-### <a name="excelexe"></a>excel.exe
 
 - È stato risolto un problema che interrompeva alcune macro legacy di Excel 4.0 ed Excel 5.0, come anche alcune chiamate VBA su dialogsheets.show.
 
@@ -1494,7 +1488,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- **Partecipare alle riunioni senza uscire dalla Posta in arrivo:** non è necessario passare al Calendario per partecipare alle riunioni online. Con il Calendario aggiunto al riquadro Da fare, si può partecipare qualsiasi riunione con un semplice clic del mouse.
+- **Partecipare alle riunioni senza uscire dalla Posta in arrivo:** non è necessario passare al Calendario per partecipare alle riunioni online. Con il Calendario aggiunto al riquadro Da fare, si può partecipare qualsiasi riunione con un semplice clic del mouse. [Altre informazioni](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **Nuove immagini per dare vita ai messaggi:** migliaia di immagini, icone e adesivi gratuiti da usare nei messaggi di posta elettronica. Per iniziare, selezionare Inserisci > Immagini > Immagini di archivio. [Altre informazioni](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
