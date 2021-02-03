@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Offre agli utenti di Insider la cronologia degli aggiornamenti relativi alle versioni pubblicate in Canale mensile (mirato) per desktop Windows
-ms.openlocfilehash: e1284150a8f25b47502db1c1da1e51da5fcaebf0
-ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
+ms.openlocfilehash: 46c22e254e940bf3408c39e148a04822e3336a55
+ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "49980430"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080987"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Cronologia degli aggiornamenti del Canale corrente di Office (Anteprima) per Windows
 
@@ -38,6 +38,9 @@ Per trovare le note sulla versione, vedere [qui](https://docs.microsoft.com/Offi
 
 
 [//]: # (NON RIMUOVERE)
+
+**2 febbraio 2021**<br/>
+Versione 2101 (Build 13628.20320)<br/>
 
 **25 gennaio 2021**<br/>
 Versione 2101 (Build 13628.20274)<br/>
