@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
-ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
+ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
+ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 02/04/2021
-ms.locfileid: "50101364"
+ms.locfileid: "50105218"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -78,16 +78,11 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 - **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
+
 ### <a name="word"></a>Word
 
 - **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>Problemi risolti
 ### <a name="outlook"></a>Outlook
@@ -97,6 +92,8 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
 
 ## <a name="version-2101-january-18"></a>Versione 2101: 18 gennaio
 *Versione 2101 (Build 13628.20158)*
@@ -122,6 +119,19 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2101-january-13"></a>Versione 2101: 13 gennaio
+*Versione 2101 (Build 13628.20118)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="teams"></a>Teams
+- **Altri temi:** sono ora disponibili nuovi temi per desktop e client Web.
+
+- **Condivisione PowerPoint:** visualizzazione Relatore in Teams. Dopo aver selezionato un file di PowerPoint dall'area di condivisione di Teams, viene aperta automaticamente la visualizzazione Relatore. Per un facile esplorazione delle diapositive è possibile visualizzare la diapositiva corrente, le note della diapositiva e un elenco di anteprime di tutte le diapositive nella presentazione. Tali opzioni non sono visualizzate dagli altri utenti, ma solo il relatore può controllarle. Il pubblico può vedere solo la diapositiva corrente (evidenziata nel grande riquadro rosso) o la diapositiva a cui si è scelto di passare (se lo spostamento tra i destinatari non è bloccato dall'utente). 
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+<br/>
 
 ## <a name="version-2101-january-09"></a>Versione 2101: 9 gennaio
 *Versione 2101 (Build 13628.20118)*
