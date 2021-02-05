@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: e2b211ded8c30c0ad3be4731a310cdbccfd10a65
-ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
+ms.openlocfilehash: 17896e4c80de0b30306ee69798d0631adfd18da5
+ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "49980410"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080977"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -28,6 +28,20 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle dell'ultima versione del Canale corrente (Anteprima), in quanto hanno una cadenza di rilascio più frequente.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2101-february-02"></a>Versione 2101: 2 febbraio
+*Versione 2101 (Build 13628.20320)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava un blocco agli utenti di Impostazioni cloud durante l'aggiornamento delle impostazioni.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2101-january-25"></a>Versione 2101: 25 gennaio
 *Versione 2101 (Build 13628.20274)*

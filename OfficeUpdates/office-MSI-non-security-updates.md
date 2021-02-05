@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Offre ai professionisti IT i collegamenti alle informazioni sugli aggiornamenti più recenti non relativi alla sicurezza delle versioni con licenza perpetua di Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: a27f237ebfa45bc00503ae56680c3082c6e05af0
-ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
+ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
+ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756755"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080947"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Ultimi aggiornamenti non relativi alla sicurezza per le versioni di Office che usano Windows Installer (MSI)
 
@@ -25,6 +25,19 @@ Questa pagina elenca gli aggiornamenti non relativi alla sicurezza per Office, c
 > - Le informazioni in questo articolo non sono valide per le app di Microsoft 365.
 > - Per ulteriori informazioni sull'installazione degli aggiornamenti di Office, vedere [Installare gli aggiornamenti di Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="february-2-2021"></a>2 febbraio 2021
+**Office 2016**<br/>
+Aggiornamento per Microsoft Office 2016 ([KB4493189](https://support.microsoft.com/help/4493189)) </br> Aggiornamento per Microsoft Outlook 2016 ([KB4493190](https://support.microsoft.com/help/4493190)) </br> Aggiornamento per Microsoft PowerPoint 2016 ([KB4493164](https://support.microsoft.com/help/4493164)) </br> 
+
+**Office 2013**<br/>
+Aggiornamento per Microsoft Office 2013 ([KB4486684](https://support.microsoft.com/help/4486684)) </br>
+Aggiornamento per Microsoft PowerPoint 2013 ([KB4493169](https://support.microsoft.com/help/4493169)) </br>
+
+**Office 2010**<br/>
+Aggiornamento per Microsoft Office 2010 ([KB4493180](https://support.microsoft.com/help/4493180)) </br>
+Aggiornamento per Microsoft PowerPoint 2010 ([KB4493179](https://support.microsoft.com/help/4493179))</br>
+
 
 ## <a name="january-5-2021"></a>5 gennaio 2021
 **Office 2016**</br>
