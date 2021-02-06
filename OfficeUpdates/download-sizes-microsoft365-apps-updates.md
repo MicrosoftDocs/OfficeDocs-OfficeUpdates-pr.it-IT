@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: 7b4cda2310ee10bb297384b6d3f25e30a028ee7d
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 85b022b5823661f2d2fed4a3cea2522e57e70075
+ms.sourcegitcommit: c3115d0acd9074ebe9be4b468f5e54361af6c582
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013247"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "50108018"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 > - Vengono elencate le versioni rilasciate negli ultimi quattro mesi.
 
 [//]: # (NON RIMUOVERE)
+
+[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+
+## <a name="february-4-2021"></a>4 febbraio 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canale Enterprise mensile
+
+<i>La versione prevista è la numero 2012 (Build 13530.20510).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2011 (Build 13426.20526) <br/> |12 gennaio 2021 <br/> |143<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canale Enterprise semestrale (Anteprima)
+
+<i>La versione prevista è la numero 2008 (Build 13127.21184).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2008 (Build 13127.21064) <br/> |12 gennaio 2021 <br/> |60<br/> |
+|Versione 2008 (Build 13127.20910) <br/> |8 dicembre 2020 <br/> |62<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canale Enterprise semestrale
+
+<i>La versione prevista è la numero 2008 (Build 13127.21184).</i>
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2008 (Build 13127.21064) <br/> |12 gennaio 2021 <br/> |60<br/> |
+|Versione 2002 (Build 12527.21416) <br/> |8 dicembre 2020 <br/> |363<br/> |
+
+
+[//]: # (DO NOT REMOVE FORECAST CONTENT END)
 
 ## <a name="january-26-2021"></a>26 gennaio 2021
 
