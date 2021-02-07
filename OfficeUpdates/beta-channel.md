@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
-ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
+ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50054508"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118386"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,65 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2102-february-05"></a>Versione 2102: 5 febbraio
+*Versione 2102 (Build 13801.20004)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- In Access, le schede selezionate saranno più chiare.
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui Excel smetteva di rispondere dopo aver selezionato una serie di dati in un grafico.
+
+
+- È stato risolto un problema per cui se si premeva INVIO in determinate tastiere in Android veniva aggiunta una nuova riga anziché passare alla cella successiva.
+
+
+- È stato risolto un problema relativo al mantenimento delle proporzioni delle immagini durante un'operazione di ritaglio.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava l'invio di messaggi di posta elettronica con firma digitale anche quando l'utente aveva deselezionato l’opzione.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema relativo al mantenimento delle proporzioni delle immagini durante un'operazione di ritaglio.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema relativo al mantenimento delle proporzioni delle immagini durante un'operazione di ritaglio.
+
+
+- È stato risolto un problema per cui i commenti con collegamenti venivano troncati.
+
+
+- È stato risolto un problema relativo alla modalità di conflitto durante la creazione condivisa.
+
+
+- È stato risolto un problema relativo al salvataggio in SharePoint Online
+
+
+- È stato risolto un problema relativo all'esportazione di documenti di Word in formato PDF.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui talvolta Office presentava etichette di riservatezza per un account connesso differente da quello previsto.
+
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-january-29"></a>Versione 2102: 29 gennaio
 *Versione 2102 (Build 13721.20008)*
@@ -2412,6 +2471,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-january-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
@@ -2421,5 +2481,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|versione-2101-dicembre-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|versione-2012-04-dicembre|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|versione-2012-27-novembre|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
