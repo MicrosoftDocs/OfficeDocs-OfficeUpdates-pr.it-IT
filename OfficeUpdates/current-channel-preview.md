@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
-ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
+ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50151964"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173635"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -117,6 +117,8 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 
 - È stato risolto un problema relativo al salvataggio automatico.
+
+- È stato risolto un problema che si verificava durante la creazione condivisa di file protetti da DRM
 
 
 ### <a name="office-suite"></a>Famiglia di prodotti Office
