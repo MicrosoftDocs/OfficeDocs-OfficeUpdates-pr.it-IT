@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: 85b022b5823661f2d2fed4a3cea2522e57e70075
-ms.sourcegitcommit: c3115d0acd9074ebe9be4b468f5e54361af6c582
+ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50108018"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173745"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
@@ -36,14 +36,13 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 [//]: # (NON RIMUOVERE)
 
-[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+## <a name="february-9-2021"></a>9 febbraio 2021
 
-## <a name="february-4-2021"></a>4 febbraio 2021
-
+[//]: # (DO NOT REMOVE CONTENT STARTFebruary 9, 2021)
 
 ### <a name="monthly-enterprise-channel"></a>Canale Enterprise mensile
 
-<i>La versione prevista è la numero 2012 (Build 13530.20510).</i>
+La versione più recente è la numero 2012 (Build 13530.20528).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +52,7 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canale Enterprise semestrale (Anteprima)
 
-<i>La versione prevista è la numero 2008 (Build 13127.21184).</i>
+La versione più recente è la numero 2008 (Build 13127.21216).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +62,7 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 ### <a name="semi-annual-enterprise-channel"></a>Canale Enterprise semestrale
 
-<i>La versione prevista è la numero 2008 (Build 13127.21184).</i>
+La versione più recente è la numero 2008 (Build 13127.21216).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +70,10 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 |Versione 2002 (Build 12527.21416) <br/> |8 dicembre 2020 <br/> |363<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDFebruary 9, 2021)
+
+
+
 
 ## <a name="january-26-2021"></a>26 gennaio 2021
 

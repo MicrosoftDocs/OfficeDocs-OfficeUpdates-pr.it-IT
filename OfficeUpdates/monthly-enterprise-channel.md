@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile Enterprise per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: e4c46d64476cab52b9f4d78480dc4d4b652aae6f
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 6a5127c9b361c394196674910eabdc26cff39572
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837544"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173674"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile Enterprise nel 2020
 
@@ -26,6 +26,125 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 [//]: # (NON RIMUOVERE)
 
 
+
+## <a name="version-2012-february-09"></a>Versione 2012: 9 febbraio
+*Versione 2012 (Build 13530.20528)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Supporto per Appunti SVG:** è ora possibile incollare il contenuto SVG di Office in un'app di terze parti. [Altre informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Registrazione di controllo delle etichette di riservatezza:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza sui propri documenti e messaggi di posta elettronica, tali informazioni vengono ora rese disponibili agli amministratori nei log di controllo di Microsoft 365.
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **Supporto per Appunti SVG:** è ora possibile incollare il contenuto SVG di Office in un'app di terze parti. [Altre informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Preparare in tempo riunioni ravvicinate:** dare ai partecipanti il tempo di riprendere fiato o di viaggiare da una località all'altra impostando le riunioni in modo che inizino di default 5-10 minuti in ritardo. [Altre informazioni](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
+
+- **Registrazione di controllo delle etichette di riservatezza:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza sui propri documenti e messaggi di posta elettronica, tali informazioni vengono ora rese disponibili agli amministratori nei log di controllo di Microsoft 365.
+
+- **Ogni riunione online:** aggiornare le impostazioni del calendario per rendere qualsiasi riunione creata una riunione di Teams per impostazione predefinita, così da non doversi ricordare di fare clic sull'opzione Riunione di Teams.
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+- **Ogni riunione online:** aggiornare le impostazioni del calendario per rendere qualsiasi riunione creata una riunione di Teams per impostazione predefinita, così da non doversi ricordare di fare clic sull'opzione Riunione di Teams.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Supporto per Appunti SVG:** è ora possibile incollare il contenuto SVG di Office in un'app di terze parti. [Altre informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/svg-content-office-third-party-apps)
+
+- **Registrazione di controllo delle etichette di riservatezza:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza sui propri documenti e messaggi di posta elettronica, tali informazioni vengono ora rese disponibili agli amministratori nei log di controllo di Microsoft 365.
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **Supporto per Appunti SVG:** è ora possibile incollare il contenuto SVG di Office in un'app di terze parti. [Altre informazioni](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Registrazione di controllo delle etichette di riservatezza:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza sui propri documenti e messaggi di posta elettronica, tali informazioni vengono ora rese disponibili agli amministratori nei log di controllo di Microsoft 365.
+
+- **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail: :** le funzioni di etichettatura di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- Questa modifica risolve un problema con la visualizzazione corretta dei tipi di caratteri all'interno delle equazioni.
+
+
+- È stato risolto un problema per cui alcuni utenti visualizzavano erroneamente una barra dei messaggi che li informava di una nuova versione di un file durante la creazione condivisa.
+
+
+- È stato risolto un problema per cui Excel poteva lasciare le macro disabilitate senza chiedere conferma all'apertura di un componente aggiuntivo di Excel contenente macro di Excel 4.0.
+
+
+- Corregge un problema per cui Excel non si avvia o si chiude in modo imprevisto se sono in uso determinate impostazioni di protezione da exploit di Sicurezza di Windows (SimExec, CallerCheck)
+
+
+- È stato risolto un problema per cui Excel poteva chiudersi in modo imprevisto quando veniva usato il menu "Mostra valori come" per una tabella pivot.
+
+
+- È stato risolto un problema che interrompeva alcune macro legacy di Excel 4.0 ed Excel 5.0, come anche alcune chiamate VBA su dialogsheets.show.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che impediva il salvataggio di una firma modificata dopo aver richiesto all'utente di eseguire questa operazione.
+
+
+- È stato risolto un problema che causava la chiusura imprevista di Outlook in alcuni scenari di ricerca.
+
+
+- È stato risolto un problema che causava il blocco del caricamento del calendario da parte di alcuni utenti.
+
+
+- È stato risolto un problema che causava il blocco degli utenti con cassette postali condivise o delegate con gerarchie di grandi dimensioni nel loro profilo.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui il comando dimensioni del carattere, quando veniva aggiunto alla barra, eseguiva il completamento automatico alle dimensioni del carattere definite più vicine durante l'aggiornamento.
+
+
+- Questa modifica risolve un problema con la visualizzazione corretta dei tipi di caratteri all'interno delle equazioni.
+
+
+- Questa modifica risolve un problema relativo al riempimento del percorso quando si applicava Unisci forme con determinate geometrie.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Anaheim WebView non supporta ancora Windows Information Protection (WIP). Con questa correzione la piattaforma dei componenti aggiuntivi di Office userà WebView di livello inferiore nell’ambiente abilitato di WIP. Questo può essere Edge WebView Spartan o WebView Trident, a seconda dell'ambiente del computer del cliente. Entrambi i WebView di livello inferiore supportano WIP.
+
+
+- Dimensioni binarie ottimizzate.
+
+
+- È stato risolto un problema con la sequenza di chiusura del file, in questo modo tutti i componenti interdipendenti saranno chiusi correttamente.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2011-february-09"></a>Versione 2011: 09 novembre
+*Versione 2011 (Build 13426.20658)*
+
+Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2011-january-12"></a>Versione 2011: 12 gennaio
 *Versione 2011 (Build 13426.20526)*
@@ -1268,6 +1387,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)

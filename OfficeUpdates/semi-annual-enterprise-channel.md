@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 260219b731e1edcb3b02ecc5a45e330b2ac4b0ca
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032317"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173655"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Note sulla versione del Canale Enterprise semestrale
 
@@ -29,6 +29,89 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-february-09"></a>Versione 2008: 9 febbraio
+*Versione 2008 (Build 13127.21216)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che causava la chiusura imprevista di Excel quando si aprivano file UNC con attributi di file non validi (ora di creazione, ora di modifica e così via).
+
+
+- È stato risolto un problema per cui le impostazioni dei separatori decimali e delle migliaia non venivano trasferite quando si copiava un grafico da Excel e lo si incollava in Word o PowerPoint.
+
+
+- È stato risolto un problema per cui le prestazioni di esecuzione di una macro relativa alla formattazione dell'intervallo di una Tabella pivot peggioravano ogni volta che la macro veniva eseguita.
+
+
+- È stato risolto un problema per cui le regole di formattazione condizionale venivano eliminate durante la copia o lo spostamento dei fogli in un'altra cartella di lavoro.
+
+
+- È stato risolto un problema per cui gli utenti non potevano applicare etichette di riservatezza ai file Excel quando la schermata Start all'avvio dell'app era disabilitata.
+
+
+- È stato risolto un problema durante l'apertura di un file cloud dalla cartella di sincronizzazione OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava talvolta l'arresto di Outlook quando si aggiungevano o si salvano allegati.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema per cui il comando dimensioni del carattere, quando veniva aggiunto alla barra, eseguiva il completamento automatico alle dimensioni del carattere definite più vicine durante l'aggiornamento.
+
+
+- È stato risolto un problema per cui copia e incolla di una diapositiva con l'opzione "Mantieni formattazione sorgente" a volte copiava in modo imprevisto su un nuovo schema diapositiva
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema relativo al rilevamento delle modifiche per cui talvolta, all'apertura di un documento di Word, veniva visualizzata una finestra di errore.
+
+
+- È stato risolto un problema durante l'apertura di un file cloud dalla cartella di sincronizzazione OneDrive.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema che impediva l'apertura corretta di un file in Office.
+
+
+- È stato risolto un problema per cui i documenti che contenevano contorni a Mano libera applicati ai connettori tramite Copia formato potevano essere danneggiati.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2002-february-09"></a>Versione 2002: 9 febbraio
+*Versione 2002 (build 12527.21594)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un problema per cui i documenti che contenevano contorni a Mano libera applicati ai connettori tramite Copia formato potevano essere danneggiati.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1908-february-09"></a>Versione 1908: 9 febbraio
+*Versione 1908 (Build 11929.21008)*
+
+Gli aggiornamenti della sicurezza sono elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2008-january-12"></a>Versione 2008: 12 gennaio
 *Versione 2008 (Build 13127.21064)*
@@ -2566,6 +2649,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)

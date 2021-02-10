@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: 51483c9e4f31e4ded3f277a8a5a7a16caebd0ce0
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 6c75ca375c3039bf5dbb11f6831cc5495fa198fc
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013227"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173825"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -47,12 +47,12 @@ Le informazioni seguenti si applicano alle versioni con contratto multilicenza d
 
 |**Data di rilascio**|**Numero di versione**|
 |:-----|:-----|
+|9 febbraio 2021|Versione 1808 (Build 10371.20060)|
 |12 gennaio 2021|Versione 1808 (Build 10370.20052)|
 |8 dicembre 2020|Versione 1808 (Build 10369.20032)|
 |10 novembre 2020|Versione 1808 (Build 10368.20035)|
 |13 ottobre 2020|Versione 1808 (Build 10367.20048)|
 |8 settembre 2020|Versione 1808 (Build 10366.20016)|
-|11 agosto 2020|Versione 1808 (Build 10364.20059)|
 
 
 [//]: # (NON RIMUOVERE LA FINE DELLA TABELLA VL)
@@ -66,6 +66,7 @@ Le informazioni seguenti si applicano alle versioni con contratto multilicenza d
 
 |**Data di rilascio**|**Numero di versione**|
 |:-----|:-----|
+|11 agosto 2020|Versione 1808 (Build 10364.20059)|
 |14 luglio 2020   |Versione 1808 (Build 10363.20015)  |
 |9 giugno 2020   |Versione 1808 (Build 10361.20002)  |
 |12 maggio 2020   |Versione 1808 (Build 10359.20023)  |
