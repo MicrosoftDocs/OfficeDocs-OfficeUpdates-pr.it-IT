@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
-ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
+ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
+ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50105218"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50151964"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -28,6 +28,106 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle dell'ultima versione del Canale corrente (Anteprima), in quanto hanno una cadenza di rilascio più frequente.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2102-february-08"></a>Versione 2102: 8 febbraio
+*Versione 2102 (Build 13801.20084)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Suggerimenti per la composizione con tecnologia Microsoft Search (A\CC\Ccn):** l'aggiunta di persone alla riga A\CC è ora basata su Microsoft Search.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- In Access, le schede selezionate saranno più chiare.
+
+
+### <a name="excel"></a>Excel
+
+- Risolve il problema per cui alcuni grafici che utilizzavano intervalli di celle discontinui non venivano caricati alla riapertura dei file.
+
+
+- Corregge un problema per cui Excel non si avvia o si chiude in modo imprevisto se sono in uso determinate impostazioni di protezione da exploit di Sicurezza di Windows (SimExec, CallerCheck)
+
+
+- È stato risolto un problema per cui Excel smetteva di rispondere dopo che era stata selezionata una serie di dati in un grafico.
+
+
+- È stato risolto un problema che causava la chiusura imprevista di Excel quando si aggiungeva un nome nella finestra di dialogo Definisci nome.
+
+
+- È stato risolto un problema relativo al mantenimento delle proporzioni delle immagini durante un'operazione di ritaglio.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava l'invio di messaggi di posta elettronica con firma digitale anche quando l'utente aveva deselezionato l’opzione.
+
+
+- È stato risolto un problema che causava la mancata visualizzazione dell'icona di crittografia per i messaggi inviati con l'opzione Solo crittografia.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Risolto un problema relativo alla visualizzazione di emoji con colore.
+
+
+- È stato risolto un problema correlato al mantenimento delle proporzioni delle immagini durante un'operazione di ritaglio.
+
+
+### <a name="visio"></a>Visio
+
+- Questo problema relativo al rendering delle forme da stencil CAD è stato risolto. Gli utenti vedranno il problema risolto nell'ultima build.
+
+
+### <a name="word"></a>Word
+
+- Consente di risolvere un problema che impediva il ripristino della presenza e della scrittura in tempo reale dopo la perdita della connettività Internet per un certo periodo di tempo.
+
+
+- Quando un utente seleziona il testo in un commento, Word ora deseleziona il testo selezionato negli altri commenti.
+
+
+- Word consente ora di copiare il testo dei commenti in Excel.
+
+
+- È stato risolto un problema che impediva l'esecuzione della macro VBA ExportAsFixedFormat2 con un messaggio di errore simile a "Valore non valido presentazione (membro sconosciuto)".
+
+
+- È stato risolto un problema relativo al mantenimento delle proporzioni delle immagini durante un'operazione di ritaglio.
+
+
+- È stato risolto un problema per cui i commenti con collegamenti venivano troncati.
+
+
+- È stato risolto un problema relativo al salvataggio in SharePoint Online
+
+
+- È stato risolto un problema relativo all'esportazione di documenti di Word in formato PDF.
+
+
+- È stato risolto un problema relativo al salvataggio automatico.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- È stato risolto un bug in PowerPoint per cui l'inserimento di punti elenco in formato immagine causava la scomparsa dei punti elenco. Questa correzione ne rende il rendering più affidabile.
+
+- È stato risolto un problema per cui talvolta Office presentava etichette di riservatezza per un account connesso differente da quello previsto.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2101-february-03"></a>Versione 2101: 3 febbraio
 *Versione 2101 (Build 13628.20330)*
