@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT un elenco completo di rilasci di App di Microsoft 365, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: ebf10c81f15dc5b072ef0f8efe8e03bc11644a36
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 49df49e29ea96bd0c73d8238bc9e8d909b666656
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173805"
+ms.locfileid: "50177968"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Cronologia degli aggiornamenti per App di Microsoft 365 (elencati in ordine cronologico)
 
@@ -36,7 +36,7 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canale corrente<br/>|2101<br/>|13628.20274<br/>|26 gennaio 2021<br/>|Rilasciata la versione 2102<br/>|
+|Canale corrente<br/>|2101<br/>|13628.20380<br/>|9 febbraio 2021<br/>|Rilasciata la versione 2102<br/>|
 |Canale Enterprise mensile<br/>|2012<br/>|13530.20528<br/>|9 febbraio 2021<br/>|13 aprile 2021<br/>|
 |Canale Enterprise mensile<br/>|2011<br/>|13426.20658<br/>|9 febbraio 2021<br/>|9 marzo 2021<br/>|
 |Canale Enterprise semestrale (Anteprima)<br/>|2008<br/>|13127.21216<br/>|9 febbraio 2021<br/>|9 marzo 2021<br/>|
@@ -56,7 +56,7 @@ La tabella seguente fornisce un elenco dei numeri di versione e di build per ogn
 
 |**Anno**|**Data di rilascio**|**Canale corrente**|**Canale Enterprise mensile**|**Canale Enterprise semestrale (Anteprima)**|**Canale Enterprise semestrale**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2021|9 febbraio| |[Versione 2012 (Build 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[Versione 2011 (Build 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[Versione 2008 (Build 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[Versione 2008 (Build 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[Versione 2002 (build 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[Versione 1908 (Build 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
+|2021|9 febbraio|[Versione 2101 (Build 13628.20380)](current-channel.md#version-2101-february-09)|[Versione 2012 (Build 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[Versione 2011 (Build 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[Versione 2008 (Build 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[Versione 2008 (Build 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[Versione 2002 (build 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[Versione 1908 (Build 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|26 gennaio|[Versione 2101 (Build 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021|21 gennaio|[Versione 2012 (Build 13530.20440)](current-channel.md#version-2012-january-21)| | | |
 |2021|12 gennaio|[Versione 2012 (Build 13530.20376)](current-channel.md#version-2012-january-12)|[Versione 2011 (Build 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[Versione 2010 (Build 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[Versione 2008 (Build 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[Versione 2008 (Build 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[Versione 2002 (Build 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[Versione 1908 (Build 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|

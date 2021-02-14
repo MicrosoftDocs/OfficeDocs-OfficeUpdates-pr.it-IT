@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
-ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
+ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
+ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50118386"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50242044"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,57 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2103-february-12"></a>Versione 2103: 12 febbraio
+*Versione 2103 (Build 13806.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Suggerimenti per la composizione con tecnologia Microsoft Search (A\CC\Ccn):** l'aggiunta di persone alla riga A\CC è ora basata su Microsoft Search.
+
+- **La dettatura è disponibile in più lingue:** ora la dettatura supporta 7 nuove lingue: hindi, russo, polacco, portoghese (Portogallo), coreano, thai e cinese (Taiwan)
+
+### <a name="word"></a>Word
+
+- **La dettatura è disponibile in più lingue:** ora la dettatura supporta 7 nuove lingue: hindi, russo, polacco, portoghese (Portogallo), coreano, thai e cinese (Taiwan)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che causava la chiusura imprevista di Excel provando a visualizzare la scheda Tipi di dati, a causa di un errore di recupero dell'immagine.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema un problema relativo alle animazioni a ciclo continuo e ai segnalibri audio.
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui un'attività completata al 100% poteva tornare al 99% di completamento.
+
+- È stato risolto un problema per cui Project poteva chiudersi in modo imprevisto passando alla finestra di dialogo delle informazioni sull'attività con JAWS in esecuzione.
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema relativo al salvataggio automatico.
+
+
+- È stato risolto un problema relativo alla risoluzione dei conflitti durante la creazione condivisa.
+
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-february-05"></a>Versione 2102: 5 febbraio
 *Versione 2102 (Build 13801.20004)*
@@ -2471,6 +2522,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-january-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-january-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
@@ -2480,5 +2532,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|versione-2101-dicembre-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|versione-2012-04-dicembre|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

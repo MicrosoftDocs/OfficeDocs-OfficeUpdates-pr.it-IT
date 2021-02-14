@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT una cronologia degli aggiornamenti per le versioni con licenza perpetua di Office 2016 e 2019 che usano la tecnologia A portata di clic (C2R)
-ms.openlocfilehash: 6c75ca375c3039bf5dbb11f6831cc5495fa198fc
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 9f04634bee9c5a0665470f3ed4c228a9cc65b3f6
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173825"
+ms.locfileid: "50177978"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Cronologia degli aggiornamenti per Office 2016 C2R e Office 2019
 
@@ -90,12 +90,12 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|
 |:-----|:-----|
+|9 febbraio 2021|Versione 2101 (Build 13628.20380)|
 |26 gennaio 2021|Versione 2101 (Build 13628.20274)|
 |21 gennaio 2021|Versione 2012 (Build 13530.20440)|
 |12 gennaio 2021|Versione 2012 (Build 13530.20376)|
 |5 gennaio 2021|Versione 2012 (Build 13530.20316)|
 |21 dicembre 2020|Versione 2011 (Build 13426.20404)|
-|8 dicembre 2020|Versione 2011 (Build 13426.20332)|
 
 
 [//]: # (NON RIMUOVERE LA FINE DELLA TABELLA RETAIL)
@@ -109,6 +109,7 @@ Le informazioni seguenti si applicano a versioni definitive di Office 2016 C2R e
 
 |**Data di rilascio**|**Numero di versione**|
 |:-----|:-----|
+|8 dicembre 2020|Versione 2011 (Build 13426.20332)|
 |2 dicembre 2020|Versione 2011 (Build 13426.20308)|
 |30 novembre 2020|Versione 2011 (Build 13426.20294)|
 |23 novembre 2020|Versione 2011 (Build 13426.20274)|

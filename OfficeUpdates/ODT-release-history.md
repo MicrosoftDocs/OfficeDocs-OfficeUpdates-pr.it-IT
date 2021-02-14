@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornisce ai professionisti IT una cronologia delle versioni per lo Strumento di distribuzione di Office (ODT)
-ms.openlocfilehash: b9a5966e49653a4998a0cb3f3858decbe6f820c6
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837367"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50177954"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Cronologia delle versioni per lo Strumento di distribuzione di Office
 
@@ -28,6 +28,12 @@ Lo strumento ODT consente un maggiore controllo sull'installazione di Office. È
  **Istruzioni di installazione**: scaricare ed eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml). 
 
 [Scaricare lo Strumento di distribuzione di Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="february-9-2021"></a>9 febbraio 2021
+Versione 16.0.13628.20274 (setup.exe versione 16.0.13628.20246)
+- Aggiunta della convalida per visualizzare un avviso e impedire installazioni non supportate in Windows 8.0
+- Correzioni relative all'affidabilità per dispositivi ARM64
+
 
 ## <a name="january-12-2021"></a>12 gennaio 2021
 Versione 16.0.13530.20376 (setup.exe versione 16.0.13530.20334)
