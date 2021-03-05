@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Informazioni per professionisti IT con le note sulle versioni di Office per Mac per gli iscritti a Microsoft 365 Apps
-ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
+ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263934"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50425744"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Note sulla versione per Office per Mac
 
@@ -74,17 +74,13 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 - **Esportare immagini GIF animate in un intervallo:** selezionare un intervallo di diapositive durante l'esportazione in un formato GIF animato
 
-- **Creare gif con sfondi trasparenti:** all'esportazione in una GIF animata, una nuova opzione consente di rendere trasparente lo sfondo.
-
-- **Applicare automaticamente o consigliare etichette sulla riservatezza:** Office può consigliare o applicare automaticamente un'etichetta sulla riservatezza in base al contenuto sensibile rilevato. [Altre informazioni](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Creare GIF con sfondi trasparenti:** all'esportazione in una GIF animata, una nuova opzione consente di rendere trasparente lo sfondo.
 
 - **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzionalità per l'applicazione di etichette di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/it-IT/microsoft-365/compliance/sensitivity-labels)
 
 - **Registrazione di controllo delle etichette di riservatezza:** quando gli utenti applicano, modificano o rimuovono le etichette di riservatezza sui propri documenti e messaggi di posta elettronica, tali informazioni vengono ora rese disponibili agli amministratori nei log di controllo di Microsoft 365.
 
 ### <a name="word"></a>Word
-
-- **Applicare automaticamente o consigliare etichette sulla riservatezza:** Office può consigliare o applicare automaticamente un'etichetta sulla riservatezza in base al contenuto sensibile rilevato.
 
 - **Clienti governativi: applica etichette di riservatezza a documenti ed e-mail:** le funzionalità per l'applicazione di etichette di riservatezza sono ora disponibili per i clienti negli ambienti GCC e GCC-H. [Altre informazioni](https://docs.microsoft.com/it-IT/microsoft-365/compliance/sensitivity-labels)
 
@@ -102,13 +98,9 @@ Gli aggiornamenti sono disponibili tramite Microsoft AutoUpdate (MAU). Per utili
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-1714](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-1714)
--   [CVE-2021-1713](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-1713)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-24067)
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-24069)
 
-### <a name="word"></a>Word
-
--   [CVE-2021-1716](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-1716)
--   [CVE-2021-1715](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-1715)
 
 [//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 

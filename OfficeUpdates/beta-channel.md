@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
-ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
+ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50242044"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418041"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,84 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2103-february-26"></a>Versione 2103: 26 febbraio
+*Versione 2103 (Build 13819.20006)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che impediva agli utenti di esportare una cartella di lavoro di Excel in formato PDF.
+
+
+- È stato risolto un problema che causava la perdita di parte della formattazione durante la copia di un foglio durante la creazione condivisa.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la presenza di allegati duplicati durante la rimozione della protezione DRM.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui la divisione delle attività potrebbe essere creata in modo errato quando si salva un progetto da Project Web App in un file locale. Questo problema si verifica se si usa un calendario delle attività con orari di lavoro non standard.
+
+
+- È stato risolto un problema per cui, se la colonna dell'indicatore non si trova nella prima colonna, quando si taglia un'attività di riepilogo non si viene avvisati che verranno rimosse anche le sottoattività.
+
+
+- È stato risolto un problema per cui, se un utente ha selezionato la funzione Aggiungi l'utente corrente a un'attività nella scheda attività, le unità di disponibilità delle risorse corrette potrebbero non essere usate nell'assegnazione creata.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema con l'allineamento di più commenti.
+
+
+- È stato risolto un problema nelle scelte rapide da tastiera del riquadro attività Leggi ad alta voce.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- I percorsi di OneDrive vengono ora filtrati in base all'impostazione dei criteri di gruppo.
+
+
+- Risolve un problema relativo alla mancata risposta che può verificarsi durante il caricamento delle immagini EMF.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2103-february-19"></a>Versione 2103: 19 febbraio
+*Versione 2103 (Build 13811.20002)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la presenza di allegati duplicati durante la rimozione della protezione DRM.
+
+
+### <a name="project"></a>Project
+
+- È stato risolto un problema per cui, se la colonna dell'indicatore non si trova nella prima colonna, quando si taglia un'attività di riepilogo non si viene avvisati che verranno rimosse anche le sottoattività.
+
+
+- È stato risolto un problema per cui, se un utente ha selezionato la funzione Aggiungi l'utente corrente a un'attività nella scheda attività, le unità di disponibilità delle risorse corrette potrebbero non essere usate nell'assegnazione creata.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema nelle scelte rapide da tastiera del riquadro attività Leggi ad alta voce.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2103-february-12"></a>Versione 2103: 12 febbraio
 *Versione 2103 (Build 13806.20000)*
@@ -2522,6 +2600,8 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-january-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-january-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
@@ -2530,6 +2610,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|versione-2101-dicembre-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
