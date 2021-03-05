@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT un elenco dei file msp più recenti per le versioni con licenza perpetua di Office 2016 che utilizzano Windows Installer (MSI)
-ms.openlocfilehash: 5f5b8641396990834f791b2e713e3659e619a407
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 58fb4c28c04f165f451a333c0f592923aa563c86
+ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173815"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468360"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Elenco dei file msp più correnti per i prodotti Office 2016
 
@@ -24,8 +24,14 @@ Queste informazioni si applicano solo ai prodotti Office 2016 che utilizzano la 
   
 ## <a name="most-recently-updated-msp-files"></a>File msp aggiornati più di recente
 
+[//]: # (DO NOT REMOVE CONTENT START)
+
 Nella tabella seguente sono elencati i file msp aggiornati a **febbraio 2021.**
-  
+
+[//]: # (DO NOT REMOVE CONTENT END)
+
+[//]: # (DO NOT REMOVE MSP CONTENT START)
+
 |Aggiornamenti non della sicurezza****|Aggiornamenti della sicurezza****|
 |:-----|:-----|
 |mso-x-none<br/>|excel-x-none<br/>|
@@ -35,9 +41,13 @@ Nella tabella seguente sono elencati i file msp aggiornati a **febbraio 2021.**
 
 <br/>
 
+[//]: # (DO NOT REMOVE MSP CONTENT END)
+
 ## <a name="list-of-all-msp-files"></a>Elenco di tutti i file msp
 
 Nella tabella seguente sono elencati tutti i file msp rilasciati dopo il rilascio di Office 2016 a settembre 2015. Se è presente una data di rilascio della sicurezza per un file msp maggiore della data di rilascio non di sicurezza, la versione non basata sulla sicurezza non è necessaria perché è stata sostituita dalla versione per la sicurezza.
+
+[//]: # (DO NOT REMOVE HISTORY CONTENT START)
   
 |.msp filename****|Prodotto****|Data di rilascio non della sicurezza****|Articolo della Knowledge Base non sulla sicurezza****|Data di rilascio della sicurezza****|Articolo della Knowledge Base sulla versione della sicurezza****|Security KB supereded****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -104,6 +114,8 @@ Nella tabella seguente sono elencati tutti i file msp rilasciati dopo il rilasci
 |wxpcore-x-none  <br/> |Office 2016  <br/> |4 ottobre 2016  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |wxpnse-x-none  <br/> |Office 2016  <br/> |4 ottobre 2016  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |xdext-x-none  <br/> |Office 2016  <br/> |1 agosto 2017  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
-   
+
+[//]: # (DO NOT REMOVE HISTORY CONTENT END)
+
 <sup>1</sup> *ll-cc rappresenta*  la lingua appropriata, ad esempio eu-es o gl-es. 
   

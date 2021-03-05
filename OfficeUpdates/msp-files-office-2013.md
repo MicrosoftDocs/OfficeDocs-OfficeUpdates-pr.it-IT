@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornisce ai professionisti IT un elenco dei file msp più recenti per le versioni con licenza perpetua di Office 2013 che utilizzano Windows Installer (MSI)
-ms.openlocfilehash: ec1808889c6cfb6ec4c8f2ba113170b9539a7826
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 25f3534f259614703476b64c8f183afe9991bece
+ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173665"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468370"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Elenco dei file msp più correnti per i prodotti Office 2013
 
@@ -24,8 +24,14 @@ Queste informazioni si applicano solo ai prodotti Office 2013 che utilizzano la 
   
 ## <a name="most-recently-updated-msp-files"></a>File msp aggiornati più di recente
 
+[//]: # (DO NOT REMOVE CONTENT START)
+
 Nella tabella seguente sono elencati i file msp aggiornati a **febbraio 2021.** 
-  
+
+ [//]: # (DO NOT REMOVE CONTENT END)
+
+[//]: # (DO NOT REMOVE MSP CONTENT START)
+
 |Aggiornamenti non della sicurezza****|Aggiornamenti della sicurezza****|
 |:-----|:-----|
 |mso-x-none<br/>|excel-x-none<br/>|
@@ -35,10 +41,13 @@ Nella tabella seguente sono elencati i file msp aggiornati a **febbraio 2021.**
 
 <br/>
 
- 
+[//]: # (DO NOT REMOVE MSP CONTENT END)
+
 ## <a name="list-of-all-msp-files"></a>Elenco di tutti i file msp
 
 Nella tabella seguente sono elencati tutti i file msp rilasciati dopo il rilascio di Office 2013 Service Pack 1 (SP1) a febbraio 2014. Se è presente una data di rilascio della sicurezza per un file msp maggiore della data di rilascio non di sicurezza, la versione non basata sulla sicurezza non è necessaria perché è stata sostituita dalla versione per la sicurezza.
+
+[//]: # (DO NOT REMOVE HISTORY CONTENT START)
   
 |.msp filename****|Prodotto****|Data di rilascio non della sicurezza****|Articolo della Knowledge Base non sulla sicurezza****|Data di rilascio della sicurezza****|Articolo della Knowledge Base sulla versione della sicurezza****|Security KB supereded****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -117,7 +126,9 @@ Nella tabella seguente sono elencati tutti i file msp rilasciati dopo il rilasci
 |wordpia-x-none  <br/> |Word 2013  <br/> |7 novembre 2017  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |wxpcore-x-none  <br/> |Office 2013  <br/> |8 marzo 2016  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
 |wxpnse-x-none  <br/> |Office 2013  <br/> |13 ottobre 2015  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |Non applicabile  <br/> |Non applicabile  <br/> |Non applicabile  <br/> |
-   
+
+[//]: # (DO NOT REMOVE HISTORY CONTENT END)
+
 <sup>1</sup> Questo file è valido solo per le installazioni a 64 bit di Office 2013.
   
 <sup>2</sup> Questo file è valido solo per le installazioni a 32 bit di Office 2013.
