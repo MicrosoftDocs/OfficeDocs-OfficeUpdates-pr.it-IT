@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile Enterprise per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 6a5127c9b361c394196674910eabdc26cff39572
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 98d9d851ca126b816185e4eb2f1b9d5237ac1ec9
+ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173674"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50455782"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Note sulle versioni per i rilasci del Canale mensile Enterprise nel 2020
 
@@ -296,7 +296,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
 ### <a name="excel"></a>Excel
 
-- **Accedere ai dati dell'organizzazione da Power BI usando i tipi di dati:** i tipi di dati di Excel di Power BI sono ora distribuiti ai partecipanti al programma Office Insider nelle organizzazioni con Office 365 E5/A5 o Microsoft 365 E5/A5. Ottenere le informazioni necessarie e aggiornarle con facilità è fondamentale per molti flussi di lavoro quotidiani. In Excel è possibile accedere alle informazioni della società o dell'organizzazione da Power BI come tipo di dati, in modo da espandere la tua capacità di inserire informazioni collegate nei fogli di calcolo.
+- **Accedere ai dati dell'organizzazione da Power BI usando i tipi di dati:** i tipi di dati di Excel di Power BI sono ora distribuiti ai partecipanti al programma Office Insider nelle organizzazioni con Office 365 o Microsoft 365 E5/A5 e il piano di servizio Power BI Pro. Ottenere le informazioni necessarie e aggiornarle con facilità è fondamentale per molti flussi di lavoro quotidiani. In Excel è possibile accedere alle informazioni della società o dell'organizzazione da Power BI come tipo di dati, in modo da espandere la tua capacità di inserire informazioni collegate nei fogli di calcolo. [Altre informazioni](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Vedere i dettagli nel [post di blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
