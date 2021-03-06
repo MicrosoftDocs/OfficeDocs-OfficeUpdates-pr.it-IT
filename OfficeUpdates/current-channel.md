@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulle versioni per i rilasci del Canale mensile per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
-ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
+ms.openlocfilehash: ea8524fb21d263985793d12806c8a2e1401edf10
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50271789"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418051"
 ---
 # <a name="release-notes-for-current-channel"></a>Note sulla versione del Canale corrente
 
@@ -32,6 +32,104 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-march-01"></a>Versione 2102: 1 marzo
+*Versione 2102 (Build 13801.20266)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Scoprire più fogli contemporaneamente:** ora non è più necessario scoprire i fogli nascosti uno alla volta. [Altre informazioni](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Miglioramenti delle finestre di dialogo per la formattazione condizionale:** le finestre di dialogo per la formattazione condizionale sono ora ridimensionabili ed è ora possibile duplicare la regola con un singolo clic del mouse. [Altre informazioni](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+- **Richiedere agli utenti di applicare le etichette di riservatezza:** se i criteri dell'organizzazione richiedono un'etichetta di riservatezza, agli utenti verrà chiesto di applicarla.
+
+### <a name="outlook"></a>Outlook
+
+- **Visualizzazione elenco Contatti aggiornato:** l’elenco Contatti ora mostra gli indirizzi di posta elettronica, le foto aggiornate e le dimensioni del testo.
+
+- **Supera le barriere linguistiche con un traduttore integrato:** i componenti aggiuntivi per la traduzione non servono più! In un messaggio, basta fare doppio clic per tradurre parole, frasi o interi messaggi. [Altre informazioni](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Richiedere agli utenti di applicare le etichette di riservatezza:** se i criteri dell'organizzazione richiedono un'etichetta di riservatezza, agli utenti verrà chiesto di applicarla.
+
+### <a name="teams"></a>Teams
+
+- **Visualizzazione Relatore quando si condivide un file di PowerPoint:** quando si condivide un file di PowerPoint durante una riunione, il relatore può ora visualizzare un elenco di anteprime di tutte le diapositive della raccolta per un facile spostamento tra le diapositive ad hoc.
+
+- **Aggiornamenti dei temi e delle icone:** sono stati apportati aggiornamenti ai colori predefiniti e del tema scuro e all'icona.
+
+- **Supporto del relatore di eventi live sull'iPad:** è possibile eseguire una presentazione in un evento live dal dispositivo iPad supportato.
+
+- **Esecuzione di un sondaggio tra i partecipanti a una riunione con Microsoft Forms:** i sondaggi per le riunioni di Teams sono un'esperienza facilmente individuabile e semplice che consente di condurre riunioni più coinvolgenti e produttive. Con i sondaggi, basati su Microsoft Forms, i relatori delle riunioni possono preparare, avviare e valutare rispettivamente i sondaggi prima, durante e dopo le riunioni, il tutto da un'unica posizione in una scheda della riunione di Teams. Un relatore della riunione può aggiungere l'app Forms come scheda nella riunione di Teams, quindi creare, avviare e valutare i sondaggi da un'unica posizione. Creare i sondaggi da avviare durante la riunione anche prima dell'inizio della riunione. Quindi, dopo la riunione, è possibile scegliere di valutare le risposte nella scheda, in una cartella di lavoro di Excel esportata o sul Web nell'app Forms. I relatori hanno una varietà di controlli, come l'abilitazione di risposte anonime, la chiusura dei sondaggi e l'esportazione dei risultati in Excel. I partecipanti da qualsiasi endpoint (dispositivo mobile, Web e desktop) possono visualizzare e rispondere ai sondaggi così come vengono visualizzati nella schermata della riunione o nella chat della riunione, oltre a visualizzare in tempo reale i risultati dei sondaggi non anonimi.
+
+- **Reazioni nelle riunioni:** le reazioni nelle riunioni rappresentano un nuovo modo di interagire nelle riunioni. I partecipanti possono inviare reazioni che vengono visualizzate come flusso sul contenuto che viene condiviso e sull'individuo che ha inviato la reazione se sono visualizzate in fase di riunione.
+
+- **Menu Cronologia per client desktop:** il menu Cronologia nel client desktop di Teams consente di tornare facilmente alle posizioni visitate di recente. Basta passare il puntatore del mouse sulle opzioni di spostamento avanti o indietro nel client desktop e selezionare la posizione. Per aprire il menu è anche disponibile una scelta rapida da tastiera.
+
+- **Cortana in Microsoft Teams Rooms per gli Stati Uniti:** l'assistenza vocale Cortana in Microsoft Teams Rooms consente di avere un'esperienza touchless per chiamare un numero dalla sala riunioni, partecipare o terminare una riunione oppure aggiungere un numero a una riunione.
+
+- **Mascheramento dei numeri di telefono:** è stata rilasciata una nuova impostazione di amministrazione per mascherare i numeri di telefono dei partecipanti esterni quando prendono parte a una riunione. Gli amministratori possono scegliere di mascherare i numeri di telefono di tutti i partecipanti alla riunione (tranne l'organizzatore), solo delle persone esterne o di disabilitare il mascheramento. Se gli amministratori scelgono di disabilitare questa impostazione, i numeri di telefono verranno visualizzati interamente nella riunione.  (rilascio privato fino alla fine di ottobre)
+
+- **Condivisione del calendario:** è stata aggiunta la possibilità di aggiungere un canale a una scheda del calendario.
+
+- **Aggiunta di più scene alla modalità Insieme:** Teams ha ora introdotto la possibilità per gli organizzatori o i relatori delle riunioni di cambiare la scena della modalità Insieme, consentendo ai partecipanti di apparire insieme in diverse esperienze.
+
+### <a name="word"></a>Word
+
+- **Suggerimenti per la scrittura con un clic:** applicare i suggerimenti per la scrittura con un singolo clic. Il riquadro Editor aggiornato facilita lo spostamento tra i suggerimenti. [Altre informazioni](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Vedere i dettagli nel [post di blog](https://insider.office.com/it-IT/blog/microsoft-editor-gets-an-upgrade)
+
+- **Richiedere agli utenti di applicare le etichette di riservatezza:** se i criteri dell'organizzazione richiedono un'etichetta di riservatezza, agli utenti verrà chiesto di applicarla.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="access"></a>Access
+
+- È stato risolto un problema per cui gli utenti ricevevano una finestra di dialogo di errore "Stato cursore non valido".
+
+
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che impediva agli utenti di esportare una cartella di lavoro di Excel in formato PDF.
+
+
+- È stato risolto un problema che causava la creazione di immagini più piccole del previsto quando si usa l'opzione Incolla immagine collegata.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che impediva agli utenti dei miglioramenti del calendario condiviso di impostare il colore di un calendario su giallo o marrone.
+
+
+- È stato risolto un problema che causava la visualizzazione di gruppi di calendari duplicati dopo la creazione di un nuovo gruppo.
+
+
+- È stato risolto un problema che per alcuni utenti causava l'arresto dell'app alla chiusura delle finestre dei messaggi.
+
+
+- È stato risolto un problema che causava il danneggiamento delle firme contenenti contenuto Unicode.
+
+
+- È stato risolto un problema che impediva agli utenti della traduzione inline di inviare un feedback.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema relativo alla risoluzione dei conflitti durante la creazione condivisa.
 
 
 
@@ -1369,7 +1467,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 - **Uso automatico dei nuovi tipi di dati**: quando si digita un valore di dati che assomiglia a un'azione o a una posizione geografica, Excel offre la possibilità di convertirlo nel tipo di dati connesso: Azioni o Dati geografici. [Altre informazioni](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **Raccontare le storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate, un tocco di eleganza ai documenti.
+- **Racconta le tue storie con GIF animate:** Nell’editor di Office sono ora supportate le GIF animate per dare un tocco di eleganza ai documenti.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1988,6 +2086,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 > Se si ha bisogno di assistenza per un problema relativo all'utilizzo di Office, è consigliabile pubblicare una domanda sul [forum della community Microsoft](https://answers.microsoft.com/) o nella [community IT](https://techcommunity.microsoft.com/) oppure è possibile contattare il [supporto tecnico](https://support.microsoft.com/contactus).
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
@@ -1997,5 +2096,4 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

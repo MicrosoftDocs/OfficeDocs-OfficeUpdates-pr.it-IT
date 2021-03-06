@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Slow un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263954"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421404"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Note sulla versione del Canale corrente di Office (Anteprima)
 
@@ -28,6 +28,88 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 > - Le funzionalità di Microsoft Teams potrebbero essere diverse da quelle dell'ultima versione del Canale corrente (Anteprima), in quanto hanno una cadenza di rilascio più frequente.
 
 [//]: # (NON RIMUOVERE)
+
+## <a name="version-2102-march-03"></a>Versione 2102: 3 marzo
+*Versione 2102 (Build 13801.20274)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="word"></a>Word
+
+- Risolve un problema con le informazioni sul tema applicate alle icone e agli elementi grafici SVG.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-march-01"></a>Versione 2102: 1 marzo
+*Versione 2102 (Build 13801.20266)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Condivisione in Teams:** condividi i messaggi di Outlook con una persona o un canale in Teams.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava la visualizzazione di gruppi di calendari duplicati dopo la creazione di un nuovo gruppo.
+
+
+- È stato risolto un problema che impediva agli utenti dei miglioramenti del calendario condiviso di impostare il colore di un calendario su giallo o marrone.
+
+
+- È stato risolto un problema che per alcuni utenti causava l'arresto dell'app alla chiusura delle finestre dei messaggi.
+
+
+- È stato risolto un problema che causava il danneggiamento delle firme contenenti contenuto Unicode.
+
+
+- È stato risolto un problema che impediva agli utenti della traduzione inline di inviare un feedback.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-february-21"></a>Versione 2102: 21 febbraio
+*Versione 2102 (Build 13801.20182)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="outlook"></a>Outlook
+
+- **Bozze dei messaggi con la tua voce:** usa la nuova barra degli strumenti di dettatura, i comandi vocali, la punteggiatura automatica e altro ancora per comporre i messaggi.
+
+### <a name="word"></a>Word
+
+- **Bozze di documenti con la tua voce:** usa la nuova barra degli strumenti di dettatura, i comandi vocali, la punteggiatura automatica per creare bozze di documenti.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema che causava la creazione di immagini più piccole del previsto quando si usa l'opzione Incolla immagine collegata.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-february-16"></a>Versione 2102: 16 febbraio
 *Versione 2102 (Build 13801.20160)*
@@ -67,6 +149,22 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+## <a name="version-2102-february-11"></a>Versione 2102: 11 febbraio
+*Versione 2102 (Build 13801.20158)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="teams"></a>Teams
+
+- **Video 2x2 nei browser Microsoft Edge e Chrome su Windows e Mac** Gli utenti possono vedere fino a 4 video dei partecipanti nelle riunioni di Teams nei browser Microsoft Edge e Chrome su Windows e Mac. [Altre informazioni](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
 
 ## <a name="version-2102-february-08"></a>Versione 2102: 8 febbraio
 *Versione 2102 (Build 13801.20084)*
@@ -270,6 +368,8 @@ Questo articolo contiene le note sulla versione per le build del Canale corrente
 - **Altri temi:** sono ora disponibili nuovi temi per desktop e client Web.
 
 - **Condivisione PowerPoint:** visualizzazione Relatore in Teams. Dopo aver selezionato un file di PowerPoint dall'area di condivisione di Teams, viene aperta automaticamente la visualizzazione Relatore. Per un facile esplorazione delle diapositive è possibile visualizzare la diapositiva corrente, le note della diapositiva e un elenco di anteprime di tutte le diapositive nella presentazione. Tali opzioni non sono visualizzate dagli altri utenti, ma solo il relatore può controllarle. Il pubblico può vedere solo la diapositiva corrente (evidenziata nel grande riquadro rosso) o la diapositiva a cui si è scelto di passare (se lo spostamento tra i destinatari non è bloccato dall'utente). 
+
+- **Includere l'audio del computer durante la condivisione di desktop o finestre su Mac** Quando si condivide un desktop o una finestra da Teams su Mac, ora è possibile includere l’audio del computer in modo che le persone che hanno partecipato alla riunione possano ascoltare la riproduzione audio dal computer.
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 <br/>
