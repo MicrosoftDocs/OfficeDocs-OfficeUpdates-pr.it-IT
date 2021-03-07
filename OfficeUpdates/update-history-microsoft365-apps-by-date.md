@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT un elenco completo di rilasci di App di Microsoft 365, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
+ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418071"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "50515327"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Cronologia degli aggiornamenti per App di Microsoft 365 (elencati in ordine cronologico)
 
@@ -28,7 +28,7 @@ Questi numeri di versione e di build sono validi per App di Microsoft 365 per gr
 > - La tabella è ordinata in base alla data di rilascio, con la data di rilascio più recente elencata per prima.
 > - Per ulteriori informazioni sui canali di aggiornamento, vedere [Panoramica dei canali di aggiornamento per App di Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-Nella tabella seguente viene elencata la versione supportata e il numero di build più recente per ogni canale di aggiornamento.
+Nella tabella seguente viene elencata la versione supportata e il numero di build più recente per ogni canale di aggiornamento. La data di rilascio indica la data di rilascio della build più recente.
 
 ### <a name="supported-versions"></a>**Versioni supportate**
 

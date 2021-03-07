@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Offre ai partecipanti al programma Insider Fast un elenco aggiornato delle nuove funzionalità, correzioni o problemi noti '
-ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
+ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418041"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50505668"
 ---
 # <a name="release-notes-for-beta-channel"></a>Note sulla versione del Canale beta
 
@@ -30,6 +30,80 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (NON RIMUOVERE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2103-march-05"></a>Versione 2103: 5 marzo
+*Versione 2103 (Build 13901.20036)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>Aggiornamenti delle funzionalità
+### <a name="excel"></a>Excel
+
+- **Salvataggio automatico e creazione condivisa per documenti crittografati con informazioni riservate:** per migliorare la produttività per la sicurezza. Con Microsoft Information Protection, i documenti crittografati con etichette di riservatezza possono ora essere salvati automaticamente e creati in modalità condivisa con altri utenti in tempo reale, proprio come si può fare con i documenti non crittografati. Richiede l’opt in del tenant (altre informazioni: https://aka.ms/mipcoauth).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvataggio automatico e creazione condivisa per documenti crittografati con informazioni riservate:** per migliorare la produttività per la sicurezza. Con Microsoft Information Protection, i documenti crittografati con etichette di riservatezza possono ora essere salvati automaticamente e creati in modalità condivisa con altri utenti in tempo reale, proprio come si può fare con i documenti non crittografati. Richiede l’opt in del tenant (altre informazioni: https://aka.ms/mipcoauth).
+
+### <a name="word"></a>Word
+
+- **Salvataggio automatico e creazione condivisa per documenti crittografati con informazioni riservate:** per migliorare la produttività per la sicurezza. Con Microsoft Information Protection, i documenti crittografati con etichette di riservatezza possono ora essere salvati automaticamente e creati in modalità condivisa con altri utenti in tempo reale, proprio come si può fare con i documenti non crittografati. Richiede l’opt in del tenant (altre informazioni: https://aka.ms/mipcoauth).
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato corretto un problema che causava la modifica imprevista del tipo di carattere quando si usava un segno di moltiplicazione o di divisione con un tipo di carattere giapponese. A questo punto, continueremo a usare lo stesso tipo di carattere se esso è supportato.
+
+
+- È stato risolto un problema che causava il danneggiamento di una cartella di lavoro con formattazione di tabella pivot durante il salvataggio nel formato xls o xlt.
+
+
+- È stato risolto un problema che causava la visualizzazione imprevista di alcune note all'apertura di una cartella di lavoro.
+
+
+### <a name="outlook"></a>Outlook
+
+- È stato risolto un problema che causava l'esportazione non corretta dei caratteri non ASCII durante l'esportazione in formato CSV.
+
+
+- È stato risolto un problema che causava l'impossibilità da parte degli utenti di cercare un gruppo di contatti con Controlla nomi  durante la composizione di messaggi di posta elettronica.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema che causava la visualizzazione delle frecce nei grafici a linee come previsto nella modalità di presentazione di PowerPoint.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema per cui l'apertura di un file protetto con un'etichetta MIP (Microsoft Information Protection) può bloccarsi a tempo indefinito se l'utente non ha eseguito l'accesso a un'identità che ha accesso all'etichetta protetta MIP. L'utente è obbligato ad annullare l'apertura per visualizzare la richiesta di accesso e l'apertura riesce solo dopo quel punto. Il problema è stato risolto consentendo la visualizzazione della richiesta di accesso durante l'apertura/il download.
+
+
+- È stato risolto un problema durante l'uso della dettatura nella nuova finestra Commenti di Word, il pulsante Dettatura nella scheda Commenti ora viene attivato e disattivato correttamente.
+
+
+- È stato risolto un problema che impediva l'inserimento di spazio tra le parole quando gli utenti dettavano nel documento.
+
+
+- È stato risolto un problema per cui i commenti su più righe digitati in RTL causavano l'allineamento della seconda riga e della riga verso l'alto a sinistra invece che a destra.
+
+
+- È stato risolto un problema che causava il passaggio tra due diversi menu di scelta rapida per il controllo ortografico.
+
+
+- È stato risolto un problema che causava la sovrapposizione del testo nelle colonne.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2103-february-26"></a>Versione 2103: 26 febbraio
 *Versione 2103 (Build 13819.20006)*
@@ -2600,6 +2674,7 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-january-12|)
@@ -2609,5 +2684,4 @@ Questo articolo contiene le note sulla versione delle build del Canale beta di W
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
