@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per professionisti IT con le note sulla versione per gli aggiornamenti di sicurezza di Microsoft Office
-ms.openlocfilehash: 51cdd72d39d45d67069dde69bf3a0d5cf4bd90e6
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: f260cdf331ad730f8fade30fc64e76fa79a5df58
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177938"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595560"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Note sulla versione per gli aggiornamenti di sicurezza di Microsoft Office
 
@@ -31,6 +31,44 @@ Queste informazioni sono valide per Microsoft 365 Apps for enterprise, Microsoft
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="march-09-2021"></a>9 marzo 2021
+Canale corrente: versione 2102 (Build 13801.20294)  
+Canale Enterprise mensile: versione 2101 (Build 13628.20528)  
+Canale Enterprise mensile: versione 2012 (Build 13530.20628)  
+Canale Enterprise semestrale (Anteprima): versione 2102 (Build 13801.20294)  
+Canale Enterprise semestrale (Anteprima): versione 2008 (Build 13127.21348)  
+Canale Enterprise semestrale: versione 2002 (Build 12527.21686)  
+Microsoft 365 Apps in Windows 7: versione 2002 (Build 12527.21686)  
+Office 2019 Retail: versione 2102 (Build 13801.20294)  
+Office 2016 Retail: versione 2102 (Build 13801.20294)  
+Office 2019 con contratto multilicenza: versione 1808 (Build 10372.20060)  
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-27057)
+-   [CVE-2021-27053](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-27053)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2021-27056](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-27056)
+
+### <a name="visio"></a>Visio
+
+-   [CVE-2021-27055](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-27055)
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+-   [CVE-2021-27058](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-27058)
+-   [CVE-2021-24108](https://portal.msrc.microsoft.com/it-IT/security-guidance/advisory/CVE-2021-24108)
+
+[//]: # (NON RIMUOVERE LA FINE DEL CONTENUTO CON I DETTAGLI SULLA SICUREZZA)
+
+
 
 ## <a name="february-09-2021"></a>9 febbraio 2021
 Canale corrente: versione 2101 (Build 13628.20380)  

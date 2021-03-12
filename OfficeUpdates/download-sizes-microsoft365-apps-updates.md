@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT informazioni riguardanti le dimensioni di download per gli aggiornamenti di Microsoft 365 Apps per ogni canale di aggiornamento.
-ms.openlocfilehash: 60461742e857889e5249688f53c385e649cd7ff0
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: 5ffdf62947e83412588e8b1ea8eb2c419672b59c
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455762"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595580"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Dimensioni di download per gli aggiornamenti di Microsoft 365 Apps
 
@@ -36,42 +36,53 @@ Se si passa a un canale differente, ad esempio, dal Canale semestrale (mirato) a
 
 [//]: # (NON RIMUOVERE)
 
-[//]: # (NON RIMUOVERE INIZIO CONTENUTO DELLA PREVISIONE)
+## <a name="march-9-2021"></a>9 marzo 2021
 
-## <a name="march-4-2021"></a>4 marzo 2021
+[//]: # (NON RIMUOVERE IL CONTENUTO INIZIO 9 febbraio 2021)
+
+### <a name="current-channel"></a>Canale corrente
+
+La versione più recente è la numero 2102 (Build 13801.20294).
+
+|**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
+|:-----|:-----|:-----|
+|Versione 2102 (Build 13801.20266) <br/> |1 marzo 2021 <br/> |56<br/> |
+|Versione 2101 (Build 13628.20448) <br/> |16 febbraio 2021 <br/> |193<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canale Enterprise mensile
 
-<i>La versione prevista è la numero 2101 (Build 13628.20526).</i>
+La versione più recente è la numero 2101 (Build 13628.20528).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
 |Versione 2012 (Build 13530.20528) <br/> |9 febbraio 2021 <br/> |203<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canale Enterprise semestrale (Anteprima)
 
-<i>La versione prevista è la numero 2102 (Build 13801.20274).</i>
+La versione più recente è la numero 2102 (Build 13801.20294).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
 |Versione 2008 (Build 13127.21216) <br/> |9 febbraio 2021 <br/> |280<br/> |
-|Versione 2008 (Build 13127.21064) <br/> |12 gennaio 2021 <br/> |533<br/> |
+|Versione 2008 (Build 13127.21064) <br/> |12 gennaio 2021 <br/> |534<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>Canale Enterprise semestrale
 
-<i>La versione prevista è la numero 2008 (Build 13127.21322).</i>
+La versione più recente è la numero 2008 (Build 13127.21348).
 
 |**Versione sottoposta ad aggiornamento**|**Data di rilascio**|**Dimensione di download approssimativa (in MB)**|
 |:-----|:-----|:-----|
-|Versione 2008 (Build 13127.21216) <br/> |9 febbraio 2021 <br/> |382<br/> |
+|Versione 2008 (Build 13127.21216) <br/> |9 febbraio 2021 <br/> |43<br/> |
 |Versione 2008 (Build 13127.21064) <br/> |12 gennaio 2021 <br/> |61<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (NON RIMUOVERE IL CONTENUTO FINE 9 marzo 2021)
+
+
+
 
 ## <a name="march-1-2021"></a>1 marzo 2021
 

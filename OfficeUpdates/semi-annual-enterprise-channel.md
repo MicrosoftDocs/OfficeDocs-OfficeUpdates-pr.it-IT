@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Informazioni per i professionisti IT con le note sulla versione per i rilasci del Canale semestrale per Microsoft 365 Apps nel 2020
-ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 9e642912dd77ac1e61683ce3021a2d5ee2c5ec56
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173655"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595690"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Note sulla versione del Canale Enterprise semestrale
 
@@ -29,6 +29,46 @@ Queste note sulla versione forniscono informazioni sulle nuove funzionalità e s
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-march-09"></a>Versione 2008: 09 marzo
+*Versione 2008 (Build 13127.21348)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>Problemi risolti
+### <a name="excel"></a>Excel
+
+- È stato risolto un problema per cui Excel smetteva di rispondere dopo aver selezionato una serie di dati in un grafico.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- È stato risolto un problema che poteva causare la chiusura imprevista dell'applicazione se il salvataggio di un file non riusciva.
+
+
+- Risolve un problema per cui la selezione di un'Idea per progetto in alcuni casi rimuoveva l'etichetta di classificazione dati della presentazione.
+
+
+### <a name="word"></a>Word
+
+- È stato risolto un problema che poteva causare la chiusura imprevista dell'applicazione se il salvataggio di un file non riusciva.
+
+
+### <a name="office-suite"></a>Famiglia di prodotti Office
+
+- Correzione di un bug per cui il comando Copia/Incolla nei messaggi di Skype for Business generava una finestra di dialogo che indicava “Si è verificato un problema incollando il contenuto”.
+
+
+
+[//]: # (NON RIMUOVERE FINE DEL CONTENUTO BUG)
+
+## <a name="version-2002-march-09"></a>Versione 2002: 9 marzo
+*Versione 2002 (Build 12527.21686)*
+
+Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2008-february-09"></a>Versione 2008: 9 febbraio
 *Versione 2008 (Build 13127.21216)*
@@ -2649,6 +2689,7 @@ Aggiornamenti della sicurezza elencati [qui](https://docs.microsoft.com/officeup
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)

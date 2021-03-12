@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornisce ai professionisti IT un elenco completo di rilasci di App di Microsoft 365, organizzati per data, con collegamenti alle note sulle versioni
-ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
-ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
+ms.openlocfilehash: 5da2b7c6add96801fb1548a68ae0ba0378cf6c21
+ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "50515327"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50603006"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Cronologia degli aggiornamenti per App di Microsoft 365 (elencati in ordine cronologico)
 
@@ -36,13 +36,12 @@ Nella tabella seguente viene elencata la versione supportata e il numero di buil
 
 |**Canale**|**Versione**|**Build**|**Data di rilascio**|**Versione supportata fino al**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canale corrente<br/>|2102<br/>|13801.20266<br/>|1 marzo 2021<br/>|Rilasciata la versione 2103<br/>|
-|Canale Enterprise mensile<br/>|2012<br/>|13530.20528<br/>|9 febbraio 2021<br/>|13 aprile 2021<br/>|
-|Canale Enterprise mensile<br/>|2011<br/>|13426.20658<br/>|9 febbraio 2021<br/>|9 marzo 2021<br/>|
-|Canale Enterprise semestrale (Anteprima)<br/>|2008<br/>|13127.21216<br/>|9 febbraio 2021<br/>|9 marzo 2021<br/>|
-|Canale Enterprise semestrale<br/>|2008<br/>|13127.21216<br/>|9 febbraio 2021<br/>|8 marzo 2022<br/>|
-|Canale Enterprise semestrale<br/>|2002<br/>|12527.21594<br/>|9 febbraio 2021<br/>|Settembre 14, 2021<br/>|
-|Canale Enterprise semestrale<br/>|1908<br/>|11929.21008<br/>|9 febbraio 2021<br/>|9 marzo 2021<br/>|
+|Canale corrente<br/>|2102<br/>|13801.20294<br/>|9 marzo 2021<br/>|Rilasciata la versione 2103<br/>|
+|Canale Enterprise mensile<br/>|2101<br/>|13628.20528<br/>|9 marzo 2021<br/>|11 maggio 2021<br/>|
+|Canale Enterprise mensile<br/>|2012<br/>|13530.20628<br/>|9 marzo 2021<br/>|13 aprile 2021<br/>|
+|Canale Enterprise semestrale (Anteprima)<br/>|2102<br/>|13801.20294<br/>|9 marzo 2021<br/>|Settembre 14, 2021<br/>|
+|Canale Enterprise semestrale<br/>|2008<br/>|13127.21348<br/>|9 marzo 2021<br/>|8 marzo 2022<br/>|
+|Canale Enterprise semestrale<br/>|2002<br/>|12527.21686<br/>|9 marzo 2021<br/>|14 Settembre 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -56,8 +55,9 @@ La tabella seguente fornisce un elenco dei numeri di versione e di build per ogn
 
 |**Anno**|**Data di rilascio**|**Canale corrente**|**Canale Enterprise mensile**|**Canale Enterprise semestrale (Anteprima)**|**Canale Enterprise semestrale**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|09 marzo|[Versione 2102 (Build 13801.20294)](current-channel.md#version-2102-march-09)|[Versione 2101 (Build 13628.20528)](monthly-enterprise-channel.md#version-2101-march-09)<br/>[Versione 2012 (Build 13530.20628)](monthly-enterprise-channel.md#version-2012-march-09)|[Versione 2102 (Build 13801.20294)](semi-annual-enterprise-channel-preview.md#version-2102-march-09)|[Versione 2008 (Build 13127.21348)](semi-annual-enterprise-channel.md#version-2008-march-09)<br/>[Versione 2002 (Build 12527.21686)](semi-annual-enterprise-channel.md#version-2002-march-09)|
 |2021|1 marzo|[Versione 2102 (Build 13801.20266)](current-channel.md#version-2102-march-01)| | | |
-|2021|16 febbraio|[Versione 2101 (Build 13628.20448)](current-channel.md#version-2101-february-17)| | | |
+|2021|16 febbraio|[Versione 2101 (Build 13628.20448)](current-channel.md#version-2101-february-16)| | | |
 |2021|9 febbraio|[Versione 2101 (Build 13628.20380)](current-channel.md#version-2101-february-09)|[Versione 2012 (Build 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[Versione 2011 (Build 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[Versione 2008 (Build 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[Versione 2008 (Build 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[Versione 2002 (build 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[Versione 1908 (Build 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|26 gennaio|[Versione 2101 (Build 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021|21 gennaio|[Versione 2012 (Build 13530.20440)](current-channel.md#version-2012-january-21)| | | |
